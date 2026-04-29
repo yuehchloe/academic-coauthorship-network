@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Data cache (pulled from Semantic Scholar — regenerate with scripts/pull_corpus.py)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PDFs
+*.pdf
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.claude/
+.idea/
+*.iml

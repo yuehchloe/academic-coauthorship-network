@@ -59,12 +59,21 @@ class DataLoader:
         "title,year,venue,publicationVenue,citationCount,abstract,"
         "authors.authorId,authors.name,fieldsOfStudy"
     )
+    # /paper/{id}/citations and /author/{id}/papers don't accept dotted
+    # author subfield syntax. They take 'authors' as a single field and
+    # return authorId+name automatically nested inside it.
+    PAPER_FIELDS_NO_DOTTED = (
+        "title,year,venue,publicationVenue,citationCount,abstract,authors,fieldsOfStudy"
+    )
     AUTHOR_FIELDS = "name,affiliations,citationCount,hIndex,paperCount"
 
     # Conservative defaults. Without an API key, we want to be a good citizen.
-    DEFAULT_REQUEST_DELAY = 1.0  # seconds between requests
+    # The shared anonymous rate limit on S2 is 5000 req/5min globally, so
+    # we want generous delays and long backoffs. With an API key, callers
+    # can override these.
+    DEFAULT_REQUEST_DELAY = 1.5  # seconds between requests
     MAX_RETRIES = 5
-    INITIAL_BACKOFF = 2.0  # seconds
+    INITIAL_BACKOFF = 30.0  # seconds — first retry waits this long
 
     def __init__(
         self,
@@ -283,6 +292,196 @@ class DataLoader:
         return graph
 
     # ---------------------------------------------------------------
+    # Citation-graph expansion methods
+    # ---------------------------------------------------------------
+
+    def resolve_author_by_name(
+        self,
+        name: str,
+        prefer_econ: bool = True,
+    ) -> Optional[str]:
+        """Resolve a display name to an S2 authorId via /author/search.
+
+        S2's author search returns multiple candidates for common names.
+        We pick the candidate with the highest paperCount (a crude proxy
+        for "most prolific Joe Schmoe"). When prefer_econ=True we further
+        filter to candidates whose papers contain at least one venue from
+        our econ allowlist — but that's expensive, so we skip it for now
+        and rely on paperCount.
+
+        Returns the S2 authorId or None if resolution fails. Cached by name.
+        """
+        cache_key = self._cache_key("author_resolve", name=name)
+        cached = self._load_cache(cache_key)
+        if cached is not None:
+            log.info("Cache hit: resolve %r -> %r", name, cached)
+            return cached if cached else None
+
+        log.info("Cache miss: resolving author %r", name)
+        params = {
+            "query": name,
+            "fields": "name,paperCount,citationCount,hIndex",
+            "limit": 10,
+        }
+        url = f"{self.BASE_URL}/author/search?{urllib.parse.urlencode(params)}"
+        try:
+            raw = self._get_json(url)
+        except SemanticScholarError as e:
+            log.warning("Author resolution failed for %r: %s", name, e)
+            self._save_cache(cache_key, "")
+            return None
+
+        candidates = raw.get("data", []) or []
+        if not candidates:
+            log.warning("No S2 candidates found for %r", name)
+            self._save_cache(cache_key, "")
+            return None
+
+        # Pick most-cited candidate. citationCount is a better signal than
+        # paperCount for established researchers (Stiglitz has ~200k cites).
+        candidates.sort(
+            key=lambda c: -(c.get("citationCount") or 0),
+        )
+        best = candidates[0]
+        author_id = best.get("authorId")
+
+        log.info(
+            "Resolved %r -> %s (%s, %d citations, %d papers)",
+            name,
+            author_id,
+            best.get("name"),
+            best.get("citationCount") or 0,
+            best.get("paperCount") or 0,
+        )
+        self._save_cache(cache_key, author_id or "")
+        return author_id
+
+    def fetch_author_papers(
+        self,
+        author_id: str,
+        year_start: Optional[int] = None,
+        year_end: Optional[int] = None,
+        limit: int = 1000,
+    ) -> list[Publication]:
+        """Fetch all papers by a given author.
+
+        Uses /author/{id}/papers. Returns up to `limit` papers, optionally
+        filtered to a year range client-side (the endpoint doesn't support
+        server-side year filtering as of this writing).
+        """
+        cache_key = self._cache_key(
+            "author_papers",
+            author_id=author_id,
+            year_start=year_start,
+            year_end=year_end,
+            limit=limit,
+        )
+        cached = self._load_cache(cache_key)
+        if cached is not None:
+            log.info(
+                "Cache hit: %d papers for author %s",
+                len(cached),
+                author_id,
+            )
+            return [Publication.from_dict(p) for p in cached]
+
+        log.info("Cache miss: fetching papers for author %s", author_id)
+        params = {
+            "fields": self.PAPER_FIELDS_NO_DOTTED,
+            "limit": min(limit, 1000),
+        }
+        url = (
+            f"{self.BASE_URL}/author/{author_id}/papers"
+            f"?{urllib.parse.urlencode(params)}"
+        )
+        raw = self._get_json(url)
+
+        publications: list[Publication] = []
+        for item in raw.get("data", []):
+            pub = self._paper_dict_to_publication(item)
+            if pub is None:
+                continue
+            if year_start is not None and (pub.year is None or pub.year < year_start):
+                continue
+            if year_end is not None and (pub.year is None or pub.year > year_end):
+                continue
+            publications.append(pub)
+
+        self._save_cache(cache_key, [p.to_dict() for p in publications])
+        log.info(
+            "Fetched %d papers for author %s (after year filter)",
+            len(publications),
+            author_id,
+        )
+        return publications
+
+    def fetch_paper_citations(
+        self,
+        paper_id: str,
+        year_start: Optional[int] = None,
+        year_end: Optional[int] = None,
+        limit: int = 1000,
+    ) -> list[Publication]:
+        """Fetch papers that cite the given paper.
+
+        Uses /paper/{id}/citations. The response wraps each citing paper
+        in {"citingPaper": {...}}, so we unwrap before parsing.
+        """
+        cache_key = self._cache_key(
+            "paper_citations",
+            paper_id=paper_id,
+            year_start=year_start,
+            year_end=year_end,
+            limit=limit,
+        )
+        cached = self._load_cache(cache_key)
+        if cached is not None:
+            log.info(
+                "Cache hit: %d citations for paper %s",
+                len(cached),
+                paper_id,
+            )
+            return [Publication.from_dict(p) for p in cached]
+
+        log.info("Cache miss: fetching citations for paper %s", paper_id)
+        params = {
+            "fields": self.PAPER_FIELDS_NO_DOTTED,
+            "limit": min(limit, 1000),
+        }
+        url = (
+            f"{self.BASE_URL}/paper/{paper_id}/citations"
+            f"?{urllib.parse.urlencode(params)}"
+        )
+        try:
+            raw = self._get_json(url)
+        except SemanticScholarError as e:
+            log.warning("Citations fetch failed for %s: %s", paper_id, e)
+            self._save_cache(cache_key, [])
+            return []
+
+        publications: list[Publication] = []
+        for wrapper in raw.get("data", []):
+            citing = wrapper.get("citingPaper")
+            if not citing:
+                continue
+            pub = self._paper_dict_to_publication(citing)
+            if pub is None:
+                continue
+            if year_start is not None and (pub.year is None or pub.year < year_start):
+                continue
+            if year_end is not None and (pub.year is None or pub.year > year_end):
+                continue
+            publications.append(pub)
+
+        self._save_cache(cache_key, [p.to_dict() for p in publications])
+        log.info(
+            "Fetched %d citations for paper %s (after year filter)",
+            len(publications),
+            paper_id,
+        )
+        return publications
+
+    # ---------------------------------------------------------------
     # Parsing helpers
     # ---------------------------------------------------------------
 
@@ -379,19 +578,32 @@ class DataLoader:
                 except Exception:
                     body = "<unable to read response body>"
 
-                if e.code == 429 or 500 <= e.code < 600:
+                # CloudFront sometimes returns 403 instead of 429 when
+                # protecting the origin from heavy traffic. Detectable by
+                # the HTML "ERROR: The request could not be satisfied"
+                # pattern. Treat as retryable.
+                cloudfront_throttled = (
+                    e.code == 403 and "request could not be satisfied" in body.lower()
+                )
+
+                if e.code == 429 or 500 <= e.code < 600 or cloudfront_throttled:
+                    reason = (
+                        "CloudFront throttling"
+                        if cloudfront_throttled
+                        else f"HTTP {e.code}"
+                    )
                     log.warning(
-                        "S2 returned %d (attempt %d/%d), backing off %.1fs. Body: %s",
-                        e.code,
+                        "S2 returned %s (attempt %d/%d), backing off %.1fs. Body: %s",
+                        reason,
                         attempt + 1,
                         self.MAX_RETRIES,
                         backoff,
-                        body,
+                        body[:200],
                     )
                     time.sleep(backoff)
                     backoff *= 2
                     continue
-                # 4xx other than 429 = bad request, won't fix itself
+                # 4xx other than 429/CloudFront-403 = bad request, won't fix itself
                 raise SemanticScholarError(
                     f"S2 {method} {url} returned {e.code}: {e.reason}. "
                     f"Response body: {body}"

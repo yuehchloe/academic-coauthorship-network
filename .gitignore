@@ -35,3 +35,7 @@ data/
 .claude/
 .idea/
 *.iml
+
+data/cache/
+data/corpus.json
+.env

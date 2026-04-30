@@ -1,86 +1,99 @@
-"""Validate the strict-filtered Semantic Scholar pull.
+"""Validate the citation-expansion path against ONE seed author.
 
 Run from project root:
     python validate.py
 
-This pulls one query with the strict filters (Economics field-of-study +
-top-econ venue allowlist) and reports field coverage plus the venue
-distribution. Useful to sanity-check the filters before running the full
-six-query pull.
+This resolves one seed author, fetches their papers, expands a few
+citations, and reports the numbers. Useful to confirm the new endpoints
+work before committing to the ~30-minute full pull.
+
+If this validates cleanly, run:
+    python scripts/pull_corpus.py
 """
 
 import logging
-from collections import Counter
 
 from src.data_loader import DataLoader
-from src.venues import TOP_ECON_VENUE_PATTERNS
+from src.venues import venue_matches
 
 
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 
     loader = DataLoader(cache_dir="data/cache")
-    papers = loader.search_papers(
-        "moral hazard",
+
+    # Use Bergemann as the test seed — he's prolific in info-econ and
+    # publishes in venues squarely on our allowlist (Econometrica, AER,
+    # JET). Good signal-to-noise for validation.
+    test_author = "Dirk Bergemann"
+    print(f"\n[1/3] Resolving author: {test_author}")
+    author_id = loader.resolve_author_by_name(test_author)
+    if author_id is None:
+        print("  FAIL: could not resolve author")
+        return
+    print(f"  Resolved to authorId: {author_id}")
+
+    print(f"\n[2/3] Fetching papers (2015-2025)")
+    papers = loader.fetch_author_papers(
+        author_id,
         year_start=2015,
         year_end=2025,
-        limit=500,
-        fields_of_study=["Economics"],
-        venue_allowlist=TOP_ECON_VENUE_PATTERNS,
+        limit=200,
     )
+    print(f"  Got {len(papers)} papers in window")
 
-    print()
-    print("=" * 60)
-    print("VALIDATION RESULTS — STRICT FILTERS")
-    print("=" * 60)
-    print(f"Total papers returned: {len(papers)}")
+    in_venue = [p for p in papers if venue_matches(p.venue)]
+    print(f"  Of which in econ venue allowlist: {len(in_venue)}")
 
-    if not papers:
-        print()
-        print("WARNING: zero papers returned. Possible causes:")
-        print("  1. fields_of_study=Economics filter too aggressive")
-        print("  2. Venue allowlist doesn't match S2's venue strings")
-        print("  3. Query genuinely has no top-tier econ-journal results")
-        print()
-        print("Try removing the venue_allowlist to debug.")
+    if not in_venue:
+        print("  FAIL: no papers in allowlisted venues — check venue matching")
         return
 
-    p = papers[0]
-    print()
-    print("Sample paper (first result):")
-    print(f"  ID:        {p.paper_id}")
-    print(f"  Title:     {p.title}")
-    print(f"  Year:      {p.year}")
-    print(f"  Venue:     {p.venue}")
-    print(f"  Citations: {p.citation_count}")
-    print(f"  N authors: {len(p.author_ids)}")
-    print(f"  Has abstract: {p.abstract is not None}")
+    print(f"\n  Sample seed papers:")
+    for p in in_venue[:5]:
+        print(f"    {p.year}  {p.venue:35s}  {p.title[:60]}")
 
-    print()
-    print("Field coverage across all papers:")
-    print(f"  with year:         {sum(1 for x in papers if x.year)}/{len(papers)}")
-    print(f"  with venue:        {sum(1 for x in papers if x.venue)}/{len(papers)}")
-    print(f"  with abstract:     {sum(1 for x in papers if x.abstract)}/{len(papers)}")
+    # Expand citations from the most-cited seed paper.
+    in_venue.sort(key=lambda p: -p.citation_count)
+    most_cited = in_venue[0]
+    print(f"\n[3/3] Fetching citations for most-cited seed paper:")
     print(
-        f"  with >=2 authors:  {sum(1 for x in papers if x.is_collaborative)}/{len(papers)}"
+        f"  {most_cited.title!r} ({most_cited.year}, {most_cited.citation_count} citations)"
     )
-    print(
-        f"  with 0 author IDs: {sum(1 for x in papers if not x.author_ids)}/{len(papers)}"
+    citations = loader.fetch_paper_citations(
+        most_cited.paper_id,
+        year_start=2015,
+        year_end=2025,
+        limit=200,
     )
-    n_unique_authors = len({a for x in papers for a in x.author_ids})
-    print(f"  unique authors:    {n_unique_authors}")
+    print(f"  Got {len(citations)} citing papers in window")
 
-    print()
-    print("Venue distribution (top 15):")
-    venue_counts = Counter(p.venue or "<missing>" for p in papers)
-    for venue, n in venue_counts.most_common(15):
-        print(f"  {n:>4d}  {venue}")
+    citing_in_venue = [p for p in citations if venue_matches(p.venue)]
+    print(f"  Of which in econ venue allowlist: {len(citing_in_venue)}")
 
+    print(f"\n  Sample citing papers (top 5 by citation count):")
+    citing_in_venue.sort(key=lambda p: -p.citation_count)
+    for p in citing_in_venue[:5]:
+        print(f"    {p.year}  {p.venue:35s}  {p.title[:60]}")
+
+    # Diagnostic
     print()
-    print("First 10 paper titles (eyeball check — should all be econ):")
-    for x in papers[:10]:
-        venue_short = (x.venue or "—")[:30]
-        print(f"  {x.year}  {venue_short:30s}  {x.title[:75]}")
+    print("=" * 60)
+    print("VALIDATION SUMMARY")
+    print("=" * 60)
+    print(f"  Seed papers (post-filter):  {len(in_venue)}")
+    print(f"  Citations from one paper:    {len(citing_in_venue)}")
+    print()
+
+    if len(citing_in_venue) >= 5:
+        print("  HEALTHY: citation expansion is producing meaningful results.")
+        print("  Next step: python scripts/pull_corpus.py")
+    elif len(citing_in_venue) > 0:
+        print("  MARGINAL: citation expansion works but yield is low.")
+        print("  Full pull will likely produce a smaller corpus than hoped.")
+    else:
+        print("  PROBLEM: citation expansion produced zero filtered results.")
+        print("  Investigate before running the full pull.")
 
 
 if __name__ == "__main__":

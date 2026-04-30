@@ -36,6 +36,7 @@ those who collaborate most prolifically.
 https://academic-collaboration-network.streamlit.app/
 
 If the link doesn't work, please follow the instructions below to run a local version of the app.
+
 ---
 
 ## Installation

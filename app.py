@@ -96,6 +96,12 @@ h1, h2, h3 {
     color: #0e0f11;
 }
 
+/* Sidebar nav radio labels */
+[data-testid="stRadio"] label p {
+    color: #d4cfc7;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
 /* Selectbox, text input */
 .stSelectbox > div > div,
 .stTextInput > div > div > input {
@@ -104,6 +110,10 @@ h1, h2, h3 {
     color: #d4cfc7;
     font-family: 'IBM Plex Sans', sans-serif;
     border-radius: 2px;
+}
+.stTextInput > div > div > input::placeholder {
+    color: #9a948e;
+    opacity: 1;
 }
 
 /* Dataframe / table */
@@ -212,21 +222,22 @@ hr {
 .rank-row {
     display: flex;
     align-items: center;
-    padding: 10px 0;
-    border-bottom: 1px solid #1e1f25;
+    padding: 10px 12px;
+    border-bottom: 1px solid #2a2b32;
     gap: 16px;
+    background: #16171d;
 }
 .rank-num {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.75rem;
-    color: #3d3d45;
+    color: #7a7672;
     width: 24px;
     flex-shrink: 0;
 }
 .rank-name {
     font-family: 'IBM Plex Sans', sans-serif;
     font-size: 0.9rem;
-    color: #d4cfc7;
+    color: #ffffff;
     flex: 1;
 }
 .rank-score {
@@ -321,7 +332,7 @@ with st.sidebar:
     st.markdown(
         """
     <div style="font-family: 'IBM Plex Mono', monospace; font-size: 0.65rem;
-                color: #3d3d45; line-height: 1.8;">
+                color: #7a7672; line-height: 1.8;">
         MODE 1 · Search & Query<br>
         MODE 2 · Pathfinding<br>
         MODE 3 · Year Filter<br>
@@ -425,13 +436,17 @@ Pathfinding operates within the core network.
     max_score = top5[0].centrality["betweenness"] if top5 else 1.0
     for i, r in enumerate(top5, 1):
         score = r.centrality["betweenness"]
-        affil = r.affiliation or "—"
+        affil_html = (
+            f"<span style=\"font-family:'IBM Plex Mono',monospace;font-size:0.72rem;"
+            f'color:#7a7672;flex:1">{r.affiliation}</span>'
+            if r.affiliation
+            else '<span style="flex:1"></span>'
+        )
         st.markdown(
             f'<div class="rank-row">'
             f'<span class="rank-num">{i:02d}</span>'
             f'<span class="rank-name">{r.name}</span>'
-            f"<span style=\"font-family:'IBM Plex Mono',monospace;font-size:0.72rem;"
-            f'color:#7a7672;flex:1">{affil}</span>'
+            f"{affil_html}"
             f"{bar_html(score, max_score)}"
             f'<span class="rank-score">{fmt_score(score)}</span>'
             f"</div>",
@@ -446,7 +461,7 @@ Pathfinding operates within the core network.
 elif page == "Search & Query":
     st.markdown("## Search & Query")
     st.markdown(
-        "<div class='section-label'>Mode 1 — Look up a researcher</div>",
+        "<div class='section-label'>Mode 1 · Look up a researcher</div>",
         unsafe_allow_html=True,
     )
     st.caption(
@@ -582,7 +597,7 @@ elif page == "Pathfinding":
     st.markdown("## Pathfinding")
     st.markdown(
         "<div class='section-label'>"
-        "Mode 2 — Find the shortest collaboration path between two researchers"
+        "Mode 2 · Find the shortest collaboration path between two researchers"
         "</div>",
         unsafe_allow_html=True,
     )
@@ -597,7 +612,7 @@ elif page == "Pathfinding":
     col_filter, _ = st.columns([2, 3])
     with col_filter:
         st.markdown(
-            "<div class='section-label'>Mode 3 — Filter by year</div>",
+            "<div class='section-label'>Mode 3 · Filter by year</div>",
             unsafe_allow_html=True,
         )
         year_range = st.slider(
@@ -747,15 +762,13 @@ elif page == "Pathfinding":
 elif page == "Rankings":
     st.markdown("## Rankings")
     st.markdown(
-        "<div class='section-label'>"
-        "Mode 4 — Top researchers by centrality measure"
-        "</div>",
+        "<div class='section-label'>Mode 4 · Top researchers by centrality measure</div>",
         unsafe_allow_html=True,
     )
     st.markdown("""
 Centrality measures capture different kinds of structural importance.
 **Degree** counts direct collaborators.
-**Betweenness** identifies researchers who bridge otherwise-disconnected clusters — the gatekeepers.
+**Betweenness** identifies researchers who bridge otherwise-disconnected clusters.
 **Eigenvector** weights connections by the importance of collaborators.
 **Closeness** measures how quickly a researcher can reach the rest of the network.
     """)
@@ -781,20 +794,24 @@ Centrality measures capture different kinds of structural importance.
             )
             for i, r in enumerate(researchers, 1):
                 score = r.centrality.get(measure, 0.0)
-                affil = r.affiliation or "—"
                 in_main = engine.in_main_component(r.author_id)
                 badge = (
                     '<span class="badge badge-gold">core</span>'
                     if in_main
                     else '<span class="badge badge-gray">peripheral</span>'
                 )
+                affil_html = (
+                    f"<div style=\"font-family:'IBM Plex Mono',monospace;"
+                    f'font-size:0.68rem;color:#7a7672">{r.affiliation}</div>'
+                    if r.affiliation
+                    else ""
+                )
                 st.markdown(
                     f'<div class="rank-row">'
                     f'<span class="rank-num">{i:02d}</span>'
                     f'<div style="flex:1">'
                     f'<div class="rank-name">{r.name} {badge}</div>'
-                    f"<div style=\"font-family:'IBM Plex Mono',monospace;"
-                    f'font-size:0.68rem;color:#7a7672">{affil}</div>'
+                    f"{affil_html}"
                     f"</div>"
                     f"{bar_html(score, max_score)}"
                     f'<span class="rank-score">{fmt_score(score)}</span>'

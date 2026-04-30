@@ -1,12 +1,19 @@
 # Corpus Construction Methodology
 
-This document describes the data pipeline used to build the co-authorship network for this project, including the strategies that failed, why they failed, and the rationale for the final approach. Written as part of the project submission to document methodological decisions and their tradeoffs.
+This document describes the data pipeline used to build the co-authorship
+network for this project, including the strategies that failed, why they
+failed, and the rationale for the final approach. It is written as part of
+the project submission to document methodological decisions and their
+tradeoffs.
 
 ---
 
 ## What the corpus is trying to represent
 
-The project studies the co-authorship network of **information economics**: the subfield of microeconomic theory that studies how the distribution of information across agents affects behavior, contracts, market outcomes, and welfare. The five canonical problem types are:
+The project studies the co-authorship network of **information economics**:
+the subfield of microeconomic theory that studies how the distribution of
+information across agents affects behavior, contracts, market outcomes, and
+welfare. The five canonical problem types are:
 
 1. **Hidden information** — adverse selection, screening, market unraveling
    (Akerlof, Rothschild-Stiglitz)
@@ -19,15 +26,20 @@ The project studies the co-authorship network of **information economics**: the 
 5. **Information design** — Bayesian persuasion, rational inattention
    (Kamenica-Gentzkow, Bergemann-Morris, Sims, Matějka)
 
-The corpus should contain papers that belong to this subfield, published in legitimate economics venues, within a 2015–2025 window that captures the active research frontier.
+The corpus should contain papers that belong to this subfield, published in
+legitimate economics venues, within a 2015–2025 window that captures the
+active research frontier.
 
 ---
 
 ## Strategy 1 — Keyword search, no filter
 
-**What we tried:** Semantic Scholar's `/paper/search/bulk` endpoint with queries like `"asymmetric information"`, `"adverse selection"`, `"mechanism design"`. Limit of 1,000 papers per query.
+**What we tried:** Semantic Scholar's `/paper/search/bulk` endpoint with
+queries like `"asymmetric information"`, `"adverse selection"`,
+`"mechanism design"`. Limit of 1,000 papers per query.
 
-**What happened:** The top result for `"asymmetric information"` was *"When Are Two Lists Better than One?: Benefits and Harms in Joint
+**What happened:** The top result for `"asymmetric information"` was
+*"When Are Two Lists Better than One?: Benefits and Harms in Joint
 Decision-making"* from the **AAAI Conference on Artificial Intelligence**.
 Inspection of the first 20 results showed papers from machine learning,
 signal processing, communications engineering, and operations research —
@@ -177,7 +189,34 @@ The following were considered and excluded:
 - **Christopher Sims** — most output is macroeconometrics; rational
   inattention covered by Matějka
 
-**Pipeline (four stages):**
+**Alternative seed-selection strategy considered.** A mechanical
+alternative was considered: pulling the top-N most-cited researchers
+tagged `economics_of_information` on Google Scholar. This was rejected
+after inspection. The actual top-10 under this tag contains researchers
+in urban economics (Richard Arnott), labor and macroeconomics (Giuseppe
+Moscarini), food systems economics (Jane Kolodinsky, Tanya Roberts),
+agricultural economics (Steve Martinez, Paulo Sousa), and IO/privacy
+(Liad Wagman) — fields tangentially related to information economics
+but not what the project aims to characterize. Only ~3 of 10 were
+practicing information economists in the project's working sense.
+
+The label suffers from two structural problems. First, **self-labeling
+sparsity**: foundational figures including Akerlof, Spence, Stiglitz,
+Holmström, Hart, Tirole, and Myerson do not maintain Google Scholar
+labels, so the most prominent information economists are absent from
+the ranking. Second, **over-coverage**: any researcher whose work
+touches information costs or asymmetries can attach the tag, regardless
+of whether information economics is their primary research area. The
+tag therefore filters by self-identification willingness rather than by
+disciplinary affiliation.
+
+The curated seed list above is constructed from the established
+disciplinary boundaries of information economics (the five canonical
+problem types described earlier) and explicitly justified per-author.
+This is more transparent than the Google Scholar ranking, which is
+opaque, sparse, and topically off-target.
+
+**Pipeline (five stages):**
 
 1. **Resolve** each seed author name to a Semantic Scholar `authorId` via
    `/author/search`. Disambiguation uses citation count as a proxy for
@@ -186,12 +225,32 @@ The following were considered and excluded:
 2. **Fetch seed papers** via `/author/{id}/papers` for each resolved
    author, filtered to 2015–2025 and to the economics venue allowlist.
 
-3. **Expand via citations** via `/paper/{id}/citations` for each seed
-   paper, filtered to 2015–2025 and the venue allowlist. This is the
-   step that creates graph density: a seed paper with 100 citations in
-   econ venues adds up to 100 new papers and their author sets.
+3. **Second-hop via co-authors.** For each non-seed author who appears
+   on a seed paper, fetch their other papers under the same strict-venue
+   filter. This stage was added after observing that several seed authors
+   (notably Joseph Stiglitz) appeared in the corpus but ended up in
+   small disconnected components, isolated from the main collaboration
+   cluster. Without second-hop expansion, a seed author's neighborhood
+   only connects to the broader field if their direct collaborators
+   themselves directly cited or were directly cited by other seed
+   papers — a thin condition. Pulling the co-authors' other papers
+   provides the bridge papers needed to merge subnetworks.
 
-4. **Build and analyze** the graph: construct `CollaborationGraph` from
+4. **Expand via citations** via `/paper/{id}/citations` for each seed
+   paper, filtered to 2015–2025 **but not to the venue allowlist**. This
+   is a deliberate two-tier design: seed papers must appear in top-tier
+   econ journals to be included, but citing papers only need to be within
+   the year window. The reason is empirical — applying the strict venue
+   filter to citing papers culled ~85% of valid citations and produced a
+   graph with 228 connected components (largest: 49 authors, 6.7% of
+   nodes), which is too fragmented for meaningful network analysis.
+   Relaxing the venue filter on citing papers increases density while
+   keeping the seed corpus clean. The tradeoff: some citing papers may
+   come from lower-tier or adjacent venues, but they are connected to
+   the corpus only through strict-venue seed papers, so the anchor
+   remains defensible.
+
+5. **Build and analyze** the graph: construct `CollaborationGraph` from
    all deduplicated papers, batch-fetch author metadata, compute
    centrality.
 

@@ -31,7 +31,6 @@ import sys
 import json
 import logging
 from pathlib import Path
-import os
 
 # Allow running from project root.
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -53,7 +52,7 @@ CITATION_LIMIT = 200  # max citing papers per seed paper
 MIN_CITATIONS_TO_EXPAND = 1  # only expand from papers with >= N citations
 CACHE_DIR = "data/cache"
 OUTPUT_PATH = "data/corpus.json"
-API_KEY = os.environ.get("S2_API_KEY")  # set via env var if you have one
+API_KEY = None  # set via env var if you have one
 
 
 # ---------------------------------------------------------------------
@@ -133,9 +132,63 @@ def main() -> None:
 
     log.info("Total unique seed papers: %d", len(seed_papers))
 
-    # Stage 3: expand each seed paper via citations, venue+year filter
+    # Stage 2.5: second-hop expansion via seed-paper co-authors.
+    # For each non-seed author who appears on a seed paper, fetch their
+    # papers under the same strict-venue filter. This connects each seed
+    # author's neighborhood to the broader field. Without this stage,
+    # seed authors whose collaborators don't directly cite each other's
+    # papers stay in disconnected islands (the Stiglitz problem).
     log.info("=" * 60)
-    log.info("STAGE 3: Expanding via citations")
+    log.info("STAGE 2.5: Second-hop via seed-paper co-authors")
+    log.info("=" * 60)
+    seed_author_ids = {aid for _, aid in resolved}
+    coauthor_ids: set[str] = set()
+    for paper in seed_papers.values():
+        for aid in paper.author_ids:
+            if aid not in seed_author_ids:
+                coauthor_ids.add(aid)
+    log.info("Found %d unique non-seed co-authors on seed papers", len(coauthor_ids))
+
+    second_hop_added = 0
+    for i, aid in enumerate(sorted(coauthor_ids), 1):
+        if i % 25 == 0:
+            log.info(
+                "  Progress: processed %d/%d co-authors, added %d new papers",
+                i,
+                len(coauthor_ids),
+                second_hop_added,
+            )
+        try:
+            raw = loader.fetch_author_papers(
+                aid,
+                year_start=YEAR_START,
+                year_end=YEAR_END,
+                limit=SEED_PAPER_LIMIT,
+            )
+        except Exception as e:
+            log.warning("Failed to fetch papers for %s: %s", aid, e)
+            continue
+        filtered = venue_filter(raw)
+        for p in filtered:
+            if p.paper_id not in seed_papers:
+                seed_papers[p.paper_id] = p
+                second_hop_added += 1
+
+    log.info(
+        "Second-hop added %d papers; seed papers now: %d",
+        second_hop_added,
+        len(seed_papers),
+    )
+
+    # Stage 3: expand each seed paper via citations.
+    # Venue filter is intentionally relaxed here — citing papers only need
+    # to pass the year filter and fields_of_study tag (applied at fetch
+    # time). Keeping strict venue filtering on citing papers was the root
+    # cause of graph fragmentation: it culled ~85% of valid citing papers
+    # before they could create edges. Seed papers remain strict-venue so
+    # the corpus anchor stays clean.
+    log.info("=" * 60)
+    log.info("STAGE 3: Expanding via citations (year filter only)")
     log.info("=" * 60)
     all_papers: dict[str, Publication] = dict(seed_papers)
     citations_added = 0
@@ -155,8 +208,9 @@ def main() -> None:
             year_end=YEAR_END,
             limit=CITATION_LIMIT,
         )
-        filtered = venue_filter(citing)
-        for p in filtered:
+        # Year filter only — no venue filter on citing papers.
+        in_window = year_filter(citing)
+        for p in in_window:
             if p.paper_id not in all_papers:
                 all_papers[p.paper_id] = p
                 citations_added += 1
@@ -182,11 +236,13 @@ def main() -> None:
     Path(OUTPUT_PATH).parent.mkdir(parents=True, exist_ok=True)
     payload = {
         "metadata": {
-            "strategy": "author-anchored citation expansion",
+            "strategy": "author-anchored, two-hop citation expansion",
             "seed_authors": [n for n, _, _ in SEED_AUTHORS],
             "year_range": [YEAR_START, YEAR_END],
             "seed_paper_counts": seed_paper_counts,
-            "total_seed_papers": len(seed_papers),
+            "total_seed_papers_after_second_hop": len(seed_papers),
+            "second_hop_papers_added": second_hop_added,
+            "citation_papers_added": citations_added,
             "total_papers": len(all_papers),
         },
         "researchers": [r.to_dict() for r in graph.researchers.values()],
@@ -201,10 +257,12 @@ def main() -> None:
     print("=" * 60)
     print("CORPUS SUMMARY")
     print("=" * 60)
-    print(f"  Seed authors resolved:    {len(resolved)}/{len(SEED_AUTHORS)}")
-    print(f"  Seed papers (post-filter): {len(seed_papers)}")
-    print(f"  Citation expansion added:  {citations_added} papers")
-    print(f"  TOTAL unique papers:       {len(all_papers)}")
+    print(f"  Seed authors resolved:       {len(resolved)}/{len(SEED_AUTHORS)}")
+    print(f"  Co-authors (second hop):     {len(coauthor_ids)}")
+    print(f"  Second-hop papers added:     {second_hop_added}")
+    print(f"  Seed papers (post-2.5):      {len(seed_papers)}")
+    print(f"  Citation expansion added:    {citations_added}")
+    print(f"  TOTAL unique papers:         {len(all_papers)}")
     print()
     print(f"  Researchers:           {graph.num_researchers}")
     print(f"  Co-author edges:       {graph.num_collaborations}")

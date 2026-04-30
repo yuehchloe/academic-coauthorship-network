@@ -16,17 +16,24 @@ from src.query_engine import QueryEngine, ResearcherProfile, PathResult
 # Helpers & fixtures
 # -------------------------------------------------------------------
 
+
 def make_researcher(rid, name, affil=None, citations=0, h_index=0):
     return Researcher(
-        author_id=rid, name=name, affiliation=affil,
-        citation_count=citations, h_index=h_index,
+        author_id=rid,
+        name=name,
+        affiliation=affil,
+        citation_count=citations,
+        h_index=h_index,
     )
 
 
 def make_pub(pid, title, year, author_ids, citations=5):
     return Publication(
-        paper_id=pid, title=title, year=year,
-        author_ids=author_ids, citation_count=citations,
+        paper_id=pid,
+        title=title,
+        year=year,
+        author_ids=author_ids,
+        citation_count=citations,
     )
 
 
@@ -41,18 +48,18 @@ def engine():
     g = CollaborationGraph()
     researchers = [
         make_researcher("s001", "Joseph Stiglitz", "Columbia", 120000, 80),
-        make_researcher("a001", "George Akerlof",  "Georgetown", 50000, 60),
-        make_researcher("sp01", "Michael Spence",  "Stanford",   40000, 55),
-        make_researcher("m001", "Roger Myerson",   "Chicago",    25000, 50),
+        make_researcher("a001", "George Akerlof", "Georgetown", 50000, 60),
+        make_researcher("sp01", "Michael Spence", "Stanford", 40000, 55),
+        make_researcher("m001", "Roger Myerson", "Chicago", 25000, 50),
     ]
     for r in researchers:
         g.add_researcher(r)
 
     pubs = [
-        make_pub("p001", "Info Asymmetry",     2016, ["s001", "a001"], 100),
-        make_pub("p002", "Signaling Model",    2018, ["a001", "sp01"],  80),
-        make_pub("p003", "Adverse Selection",  2020, ["s001", "a001"],  60),
-        make_pub("p004", "Solo Mechanism",     2021, ["m001"],          30),
+        make_pub("p001", "Info Asymmetry", 2016, ["s001", "a001"], 100),
+        make_pub("p002", "Signaling Model", 2018, ["a001", "sp01"], 80),
+        make_pub("p003", "Adverse Selection", 2020, ["s001", "a001"], 60),
+        make_pub("p004", "Solo Mechanism", 2021, ["m001"], 30),
         make_pub("p005", "Three-author Paper", 2017, ["s001", "a001", "sp01"], 50),
     ]
     for p in pubs:
@@ -64,6 +71,7 @@ def engine():
 # -------------------------------------------------------------------
 # Mode 1: Search & Query
 # -------------------------------------------------------------------
+
 
 class TestSearchAndQuery:
     def test_search_returns_matching_researchers(self, engine):
@@ -120,6 +128,7 @@ class TestSearchAndQuery:
 # Mode 2: Pathfinding
 # -------------------------------------------------------------------
 
+
 class TestPathfinding:
     def test_direct_path(self, engine):
         result = engine.find_path("s001", "a001")
@@ -147,6 +156,11 @@ class TestPathfinding:
         result = engine.find_path("s001", "m001")
         assert not result.found
         assert result.distance == -1
+
+    def test_isolated_node_returns_out_of_scope(self, engine):
+        # Myerson is isolated — should get not_in_component, not just not_found
+        result = engine.find_path("s001", "m001")
+        assert result.out_of_scope is True
         assert result.researchers == []
 
     def test_path_to_self(self, engine):
@@ -164,6 +178,7 @@ class TestPathfinding:
 # Mode 3: Year filtering
 # -------------------------------------------------------------------
 
+
 class TestYearFiltering:
     def test_filter_returns_new_query_engine(self, engine):
         filtered = engine.filter_by_year(2016, 2018)
@@ -171,7 +186,10 @@ class TestYearFiltering:
 
     def test_filtered_corpus_is_smaller(self, engine):
         filtered = engine.filter_by_year(2016, 2016)
-        assert filtered.corpus_summary()["publications"] < engine.corpus_summary()["publications"]
+        assert (
+            filtered.corpus_summary()["publications"]
+            < engine.corpus_summary()["publications"]
+        )
 
     def test_filtered_graph_only_has_in_range_papers(self, engine):
         filtered = engine.filter_by_year(2016, 2016)
@@ -191,6 +209,7 @@ class TestYearFiltering:
 # -------------------------------------------------------------------
 # Mode 4: Rankings
 # -------------------------------------------------------------------
+
 
 class TestRankings:
     def test_top_central_returns_k_results(self, engine):
@@ -224,13 +243,49 @@ class TestRankings:
 # Corpus summary
 # -------------------------------------------------------------------
 
+
 class TestCorpusSummary:
     def test_summary_contains_expected_keys(self, engine):
         s = engine.corpus_summary()
-        for key in ("researchers", "edges", "publications"):
+        for key in (
+            "researchers",
+            "edges",
+            "publications",
+            "main_component_size",
+            "main_component_pct",
+        ):
             assert key in s
 
     def test_summary_values_are_positive(self, engine):
         s = engine.corpus_summary()
         assert s["researchers"] > 0
         assert s["publications"] > 0
+
+    def test_main_component_pct_is_between_0_and_100(self, engine):
+        s = engine.corpus_summary()
+        assert 0 <= s["main_component_pct"] <= 100
+
+
+class TestMainComponent:
+    def test_stiglitz_in_main_component(self, engine):
+        # Stiglitz is connected; should be in the largest component
+        assert engine.in_main_component("s001")
+
+    def test_myerson_not_in_main_component(self, engine):
+        # Myerson is isolated
+        assert not engine.in_main_component("m001")
+
+    def test_profile_flags_main_component_membership(self, engine):
+        profile = engine.profile("s001")
+        assert profile.in_main_component is True
+        profile_isolated = engine.profile("m001")
+        assert profile_isolated.in_main_component is False
+
+    def test_main_component_researchers_sorted_by_betweenness(self, engine):
+        researchers = engine.main_component_researchers()
+        scores = [r.centrality.get("betweenness", 0.0) for r in researchers]
+        assert scores == sorted(scores, reverse=True)
+
+    def test_main_component_researchers_excludes_isolated(self, engine):
+        ids = {r.author_id for r in engine.main_component_researchers()}
+        assert "m001" not in ids

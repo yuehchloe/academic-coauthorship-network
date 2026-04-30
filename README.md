@@ -18,7 +18,7 @@ citation count, h-index, centrality ranks across four measures (degree,
 betweenness, eigenvector, closeness), top collaborators, and papers.
 
 **Pathfinding**: find the shortest collaboration chain between two
-researchers (Erdős-number style). Renders the path as a visual chain
+researchers (using Erdős-number). Renders the path as a visual chain
 with the bridging papers on each hop. Restricted to the core network
 (largest connected component) where paths exist. Includes a year filter
 to see how the network changes across time periods.
@@ -119,9 +119,6 @@ streamlit run app.py
 
 Opens at http://localhost:8501.
 
-On first load the corpus is read and the graph is built in memory.
-This takes a few seconds. Subsequent navigation is instant.
-
 ---
 
 ## Running the tests
@@ -130,8 +127,8 @@ This takes a few seconds. Subsequent navigation is instant.
 python -m pytest tests/ -v
 ```
 
-244 tests across 6 files. No network calls — all API interactions are
-mocked. Tests cover class behavior, graph construction, pathfinding edge
+244 tests across 6 files. All API interactions are mocked.
+Tests cover class behavior, graph construction, pathfinding edge
 cases, venue matching, and the full query engine. Reading the test suite
 is a good way to understand what the system does.
 
@@ -183,8 +180,7 @@ academic-coauthorship-network/
   prolific collaborators.
 - **Betweenness** measures how often an author sits on the shortest
   path between two other authors. High-betweenness authors bridge
-  otherwise-disconnected subfields — these are the structural
-  gatekeepers.
+  otherwise-disconnected subfields.
 - **Eigenvector** weights connections by the importance of collaborators.
   High-eigenvector authors collaborate with the most-connected people.
 - **Closeness** measures how quickly an author can reach anyone else
@@ -196,8 +192,8 @@ are largely different people. Researchers who bridge subfields are not
 the same as researchers who collaborate most. This argues against a
 simple "monopoly" model of the field: there is no single elite whose
 members dominate on every dimension. Instead, information economics has
-structurally distinct roles — prolific collaborators, subfield bridges,
-and status hubs — occupied by different researchers.
+structurally distinct roles occupied by different researchers: prolific
+collaborators, subfield bridges, and subfield hubs.
 
 **The fragmented graph** (784 researchers, or 11.7% of the corpus, in
 the main connected component) is itself a finding. Information economics
@@ -207,8 +203,8 @@ clusters, each anchored by different methodological traditions
 inattention).
 
 **The core network** (largest connected component) represents the
-contemporary active frontier of the field. Researchers outside it —
-including some Nobel laureates — publish in the field but are not
+contemporary active frontier of the field. Researchers outside it,
+including some Nobel laureates, publish in the field but are not
 connected to the main collaborative cluster via papers in this
 corpus's time window. The founding generation and the active frontier
 have diverged.

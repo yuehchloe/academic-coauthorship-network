@@ -421,7 +421,7 @@ co-authored at least one paper in the corpus, weighted by the number of
 shared papers.
 
 The graph has **{summary["connected_components"]:,} connected components**.
-The largest — referred to as the **core network** — contains
+The largest component, the **core network**, contains
 **{summary["main_component_size"]:,} researchers**
 ({summary["main_component_pct"]:.1f}% of the total).
 Pathfinding operates within the core network.

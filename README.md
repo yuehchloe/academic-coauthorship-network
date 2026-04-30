@@ -62,7 +62,7 @@ pip install -r requirements.txt
 streamlit run app.py
 \```
 
-The corpus contains roughly N papers and N researchers spanning 2015 to
+The corpus contains 3,264 papers and 6,686 researchers spanning 2015 to
 2025, built via the pipeline described in METHODOLOGY.md. The cache is
 included so that anyone who wants to verify the pipeline can re-run
 `scripts/pull_corpus.py` without needing an API key. All cache hits are
@@ -169,8 +169,8 @@ academic-coauthorship-network/
 │   └── test_venues.py
 │
 └── data/
-    ├── corpus.json         Built by pull_corpus.py — gitignored
-    └── cache/              API response cache — gitignored
+    ├── corpus.json         Built by pull_corpus.py
+    └── cache/              API response cache
 ```
 
 ---
@@ -199,11 +199,12 @@ members dominate on every dimension. Instead, information economics has
 structurally distinct roles — prolific collaborators, subfield bridges,
 and status hubs — occupied by different researchers.
 
-**The fragmented graph** (roughly 11–15% of researchers in the main
-connected component) is itself a finding. Information economics is not
-one tightly-knit community but a collection of overlapping clusters,
-each anchored by different methodological traditions (mechanism design,
-information design, contract theory, rational inattention).
+**The fragmented graph** (784 researchers, or 11.7% of the corpus, in
+the main connected component) is itself a finding. Information economics
+is not one tightly-knit community but a collection of overlapping
+clusters, each anchored by different methodological traditions
+(mechanism design, information design, contract theory, rational
+inattention).
 
 **The core network** (largest connected component) represents the
 contemporary active frontier of the field. Researchers outside it —
@@ -211,6 +212,9 @@ including some Nobel laureates — publish in the field but are not
 connected to the main collaborative cluster via papers in this
 corpus's time window. The founding generation and the active frontier
 have diverged.
+
+See `METHODOLOGY.md` for the full results section and corpus-construction
+caveats.
 
 ---
 

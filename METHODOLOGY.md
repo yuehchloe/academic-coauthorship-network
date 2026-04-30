@@ -257,6 +257,9 @@ sparse, and topically off-target.
 
 ## Corpus definition
 
+The current pre-built corpus in `data/corpus.json` contains **3,264 papers**
+and **6,686 researchers**.
+
 A paper is included if and only if all of the following hold:
 - It is authored by a seed author, OR by a co-author of a seed author
   (and passes the venue allowlist), OR it cites a paper that satisfies
@@ -288,6 +291,46 @@ Explicitly excluded by design:
 The top finance journals (*Journal of Finance*, *Journal of Financial
 Economics*, *Review of Financial Studies*) are included because
 information-asymmetry work appears there with regularity.
+
+---
+
+## Results
+
+The current corpus contains **3,264 publications**, **6,686 researchers**,
+and **12,863 co-author edges**. The graph is highly fragmented: it has
+**1,868 connected components**, and the largest connected component, which
+the application labels the **core network**, contains **784 researchers**
+(**11.7%** of all researchers). This fragmentation is not just a technical
+artifact. It reflects the structure of the field: many papers are written
+by small teams, many authors appear only once in the 2015 to 2025 window,
+and the information-economics frontier is distributed across several
+partially overlapping research clusters.
+
+The centrality rankings show that different definitions of "central" point
+to different researchers. The top researchers by direct collaboration
+degree are S. Kominers, Eric Budish, S. Athey, Shengwu Li, and Piotr
+Dworczak. The top researchers by betweenness centrality are Vasilis
+Syrgkanis, Xiaosheng Mu, P. Strack, O. Tamuz, and Annie Liang. Only one
+researcher, Piotr Dworczak, appears in both the top 10 by degree and the
+top 10 by betweenness.
+
+This divergence is the main substantive finding. The most prolific
+collaborators are not generally the same people who bridge otherwise
+separate parts of the network. Degree centrality highlights authors with
+many direct co-authorship ties; betweenness highlights authors who connect
+clusters; eigenvector centrality highlights authors embedded in influential
+collaboration neighborhoods; closeness highlights authors who can reach the
+rest of the core network through relatively short paths. Information
+economics therefore does not look like a single hierarchy dominated by one
+elite group. It looks more like a collection of connected but distinct
+roles: prolific collaborators, cluster bridges, and status hubs.
+
+The core network should be interpreted as the contemporary collaborative
+frontier captured by this corpus, not as the entire field. Researchers
+outside the core network may still be important, including some seed
+authors and foundational figures, but their 2015 to 2025 papers do not
+connect them to the largest collaboration component under this corpus
+definition.
 
 ---
 

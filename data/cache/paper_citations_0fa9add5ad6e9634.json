@@ -1,0 +1,910 @@
+[
+  {
+    "paper_id": "68fb6d535f89232dbb95a3e26632c5c47bd8606d",
+    "title": "Measuring the impact of human\u2014AI collaboration on knowledge diffusion in new product development projects",
+    "year": 2025,
+    "author_ids": [
+      "2308568901",
+      "2337986683",
+      "2067662591",
+      "2152643175",
+      "2266709412",
+      "2068296279"
+    ],
+    "venue": "Frontiers of Engineering Management",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0a92fdcaa2a3e8ef45ab89cc9a0a74d76c2852d8",
+    "title": "Convex Cost of Information via Statistical Divergence",
+    "year": 2025,
+    "author_ids": [
+      "2378705644",
+      "2306692502"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper characterizes convex information costs using an axiomatic approach. We employ mixture convexity and sub-additivity, which capture the idea that producing\"balanced\"outputs is less costly than producing ``extreme''ones. Our analysis leads to a novel class of cost functions that can be expressed in terms of R\\'enyi divergences between signal distributions across states. This representation allows for deviations from the standard posterior-separable cost, thereby accommodating recent experimental evidence. We also characterize two simpler special cases, which can be written as either the maximum or a convex transformation of posterior-separable costs."
+  },
+  {
+    "paper_id": "222a38c21e3bb151c87244f5f2cc99e968a34622",
+    "title": "Value of History in Social Learning: Applications to Markets for History",
+    "year": 2025,
+    "author_ids": [
+      "2349425869",
+      "2349234715"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "In social learning environments, agents acquire information from both private signals and the observed actions of predecessors, referred to as history. We define the value of history as the gain in expected payoff from accessing both the private signal and history, compared to relying on the signal alone. We first characterize the information structures that maximize this value, showing that it is highest under a mixture of full information and no information. We then apply these insights to a model of markets for history, where a monopolistic data seller collects and sells access to history. In equilibrium, the seller's dynamic pricing becomes the value of history for each agent. This gives the seller incentives to increase the value of history by designing the information structure. The seller optimal information discloses less information than the socially optimal level."
+  },
+  {
+    "paper_id": "78173b19bd4da883d1864f84b9dd5c85e61a1f5a",
+    "title": "When and what to learn in a changing world",
+    "year": 2025,
+    "author_ids": [
+      "2119530939"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "The world is constantly changing, yet decision makers do not continuously update their worldview. When should one acquire new information and what should they learn? This paper develops a tractable framework to study the tradeoff between the timing and content of information acquisition. A decision maker sequentially choose times at which to acquire information (entailing a fixed cost) and what to learn (entailing a variable cost) about a changing state. I characterize optimal policies, using an appropriate Bellman equation that decomposes the problem into a static optimal information acquisition problem and an optimal stopping problem. Optimal information acquisition must eventually either stop or settle into a simple cycle in which information is acquired at regular intervals (when uncertainty reaches specific thresholds) and updates lead to two possible outcomes, captured by two target posterior beliefs. The convergence result enables the study of properties of long run optimal information acquisition. Optimal policies may exhibit path dependency in the form of \"learning traps\". The world becoming more volatile has generically ambiguous effects on the frequency of information acquisition. In the limit as fixed costs vanish, the agent optimally either waits or acquires infinitesimal amounts of information so as to confirm the current belief until rare news prompts a jump to an alternative belief; in the long run, the agent's belief jumps between two possible beliefs (and actions). In an application to a portfolio problem, optimal behavior exhibits continuous rebalancing towards diversification, punctuated by periodic shifts to more extreme allocations. With asymmetry between a safe and a risky action, optimal information acquisition can generate distortions between good and bad news, typically leading to better quality but more frequent updating for information which suggests undertaking risky actions. Link to full paper: https://cesarbarilla.com/files/Barilla_When-And-What.pdf"
+  },
+  {
+    "paper_id": "6f0b7c181a09ff3153b73a29690de073491cb558",
+    "title": "What is the Value of Data? A Theory and Systematization",
+    "year": 2025,
+    "author_ids": [
+      "2134891993"
+    ],
+    "venue": "ACM / IMS Journal of Data Science",
+    "citation_count": 8,
+    "abstract": "Data powers economies, shapes societies, and fuels decision-making, yet its value remains poorly understood. Despite its centrality, we lack a unified framework for defining, measuring, and reasoning about data\u2019s worth. This article develops a theory and systematization of the value of data\u2014explaining why, how, and when data generates value. We distinguish data from documents, separate objective value from subjective judgments, and identify key dimensions of data\u2019s worth. Our framework reconciles disparate notions of information, knowledge, and utility, offering insights that validate known principles while uncovering new opportunities to extract value from data. More than a taxonomy, this work provides a conceptual foundation for integrating perspectives from computer science, economics, and beyond. The conceptual foundation clarifies data\u2019s role in technology, markets, and governance, advancing our ability to systematically understand and harness its value. Highlights Problem statement Data is central to modern life\u2013it shapes our cultural, economic, political, and social environments. It influences what we see online, how businesses operate, and how governments make policy. Yet despite its importance, the value of data\u2013how it is created, measured, and realized\u2013remains unclear. This paper introduces a theory and systematization that explain why, how, and when data generates value. By providing precise definitions and a structured framework, we aim to clarify foundational concepts that are often taken for granted yet critical to understanding data's role in society. Methods To achieve this, we distinguish between data\u2013representations of states of nature with objective value\u2013 not-data, representations of things not considered states of nature, and documents, which represent data (and not-data) but whose value depends on factors beyond the data they represent. We also introduce three key dimensions that characterize the value of data, instrumental and intrinsic, absolute and relative, and prior and post. We reconcile commonly used but imprecise terms, such as information and knowledge, within a unified framework. These conceptual tools help explain how different fields\u2013from computer science to psychology to economics\u2013approach data and how their insights can be integrated into a more cohesive understanding. Results By applying this framework, we identify important implications for how data is used, shared, and leveraged across disciplines. Some of these implications validate existing practices, while others reveal opportunities to extract additional value from data in ways that are often overlooked. A key insight is the distinction between Data and Not-Data, emphasizing the role of provenance in ensuring responsible and effective data use. The framework also illuminates \u201clevers of value\u201d\u2019\u2013interventions that enhance the utility of documents\u2013by formalizing how agents select, evaluate, and optimize data for specific tasks. Additionally, it highlights the complex interplay between data valuation and document valuation, distinguishing the properties that drive utility. Finally, the theory underscores the ethical dimensions of data use, showing how biases shape data-driven decisions and how agents must carefully balance the benefits and risks associated with different data tasks. Rather than presenting a falsifiable theory, this work offers a structured way of thinking about data that enhances our ability to navigate its growing influence on technology, science, and policy. Significance As data continues to shape the world, understanding its value is more urgent than ever. This paper aims to elevate and position data within the broader discipline of data science. By providing a structured approach to understanding the value of data across contexts, we hope this work offers a foundation for aligning different fields around a common framework and advancing a more rigorous treatment of data in science and society."
+  },
+  {
+    "paper_id": "ba24bf574b29eab2222d7e135518e3e581e4d414",
+    "title": "How Can Local Governments Cope with Economic Policy Uncertainty from the Central Government: A Network Perspective",
+    "year": 2025,
+    "author_ids": [
+      "2311634886"
+    ],
+    "venue": "China Journal of Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "4d9c84c986394a6b728082e056ef5941cc2ba56b",
+    "title": "Parity symmetry breaking of spin-j coherent state superpositions in Gaussian noise channel",
+    "year": 2024,
+    "author_ids": [
+      "2335024906",
+      "152618272",
+      "2092306955",
+      "2256886491"
+    ],
+    "venue": "Physica Scripta",
+    "citation_count": 6,
+    "abstract": "The Wigner function and Wigner-Yanase skew information are connected through quantum coherence. States with high skew information often exhibit more pronounced negative regions in their Wigner functions, indicative of quantum interference and non-classical behavior. Thus, the relationship between these two concepts is that states with high quantum coherence tend to display more non-classical features in their Wigner functions. By exploiting this relationship, which manifests as parity symmetry and asymmetry, we analyze parity symmetry and asymmetry in the superposition of two spin coherent states for a spin-1/2, as well as for a general spin-j. This analysis shows that the preservation of the parity asymmetry, or the violation of the parity symmetry, correlates with an increase in the value of spin j. Additionally, we investigate the behavior of parity symmetry and asymmetry of these states subjected to a Gaussian noise channel. Specifically, we examine how this parity symmetry and asymmetry change and identify the points at which parity symmetry is violated in the spin-1/2 cat state. Notably, the violation of parity symmetry becomes more pronounced at higher values of the decoherence parameter s. Our study shows how the spin value j affects the breaking of parity symmetry in general spin-j cat states that are hit by Gaussian noise."
+  },
+  {
+    "paper_id": "56b1cc266ca61e38fbc22261e48111adbeb255cc",
+    "title": "Representing type spaces as signal allocations",
+    "year": 2024,
+    "author_ids": [
+      "2330319682",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8f8bf00f109e17a855c4c2f03d80284bfcda9f84",
+    "title": "Strategic Expert Committees and the Markets That Assess Them: A Laboratory Experiment",
+    "year": 2024,
+    "author_ids": [
+      "80225622",
+      "2328179222"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 1,
+    "abstract": "Committees of experts are widely used to make decisions. We experimentally investigate the relationship between decision making in committees and the assessment of the ability of committee members by evaluators, comparing observed behavior with theoretical predictions. Treatments vary in whether members care only about a state-dependent project payoff or also about assessments and whether evaluators can base their assessments only on the decision the committee makes or also on cheap-talk statements made by committee members on their confidence in the committee decision. Evidence for the equilibrium predictions is mixed; for example, contrary to theory, committees with a concern for their assessment do not distort their decisions more than committees without, whereas in line with theory, evaluators give higher assessments to committees that take the risky decision rather than the riskless. We analyze whether evaluators rationally base their assessments on observed behavior of committees using an orthogonality test. In treatments with cheap-talk statements, assessments are quite rational; in treatments without, they are too low on average. We investigate whether committees best reply to expected project payoffs and, in treatments in which members\u2019 payoffs also depend on assessments, to predicted assessments conditional on observed committee behavior. In all treatments, committees respond to the possibilities to raise expected payoffs but do not use them as much as predicted by theory. We conclude by showing that the amount of information about committee members\u2019 abilities that ends up in assessments is considerably larger when evaluators observe committees\u2019 decisions and statements rather than only decisions. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: We gratefully acknowledge financial support from the Dutch Research Council (NWO) under the grant 400-09-338; and Erasmus University Rotterdam [Grant CSTO 2014\u201354]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2021.03007 ."
+  },
+  {
+    "paper_id": "e7f73f417c85ac54264ba487204471bcb4950b24",
+    "title": "Bayesian Persuasion",
+    "year": 2024,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": "World Scientific Series in Economic Theory",
+    "citation_count": 1400,
+    "abstract": "2590 Suppose one person, call him Sender, wishes to persuade another, call her Receiver, to change her action. If Receiver is a rational Bayesian, can Sender persuade her to take an action he would prefer over the action she was originally going to take? If Receiver understands that Sender chose what information to convey with the intent of manipulating her action for his own benefit, can Sender still gain from persuasion? If so, what is the optimal way to persuade? These questions are of substantial economic importance. As Donald McCloskey and Arjo Klamer (1995) emphasize, attempts at persuasion command a sizable share of our resources. Persuasion, as we will define it below, plays an important role in advertising, courts, lobbying, financial disclosure, and political campaigns, among many other economic activities. Consider the example of a prosecutor trying to convince a judge that a defendant is guilty. When the defendant is indeed guilty, revealing the facts of the case will tend to help the prosecutor\u2019s case. When the defendant is innocent, revealing facts will tend to hurt the prosecutor\u2019s case. Can the prosecutor structure his arguments, selection of evidence, etc. so as to increase the probability of conviction by a rational judge on average? Perhaps surprisingly, the answer to this question is yes. Bayes\u2019s Law restricts the expectation of posterior beliefs but puts no other constraints on Bayesian Persuasion"
+  },
+  {
+    "paper_id": "1238720064c8b4c9ef7e0584a05265c5c3f1bbc5",
+    "title": "Comparisons of Signals",
+    "year": 2024,
+    "author_ids": [
+      "2281765125",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 8,
+    "abstract": "A signal is a description of an information source that specifies both its correlation with the state and its correlation with other signals. Extending Blackwell (1953), we characterize when one signal is more valuable than another regardless of preferences and regardless of access to other signals. This comparison is equivalent to reveal-or-refine: every realization of the more valuable signal reveals the state or refines the realization of the less valuable signal. We also study other comparisons of signals, including sufficiency, martingale dominance, and Lehmann. Reveal-or-refine is also equivalent to making any of these comparisons robust to access to other signals. (JEL C90, D82, D83)"
+  },
+  {
+    "paper_id": "ce1f70e3ec805b4547825f39ca2ef7182cbe7395",
+    "title": "Dynamic Signals",
+    "year": 2024,
+    "author_ids": [
+      "19246218",
+      "2302930309"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "In this paper, we reveal that the signal representation of information introduced by Gentzkow and Kamenica (2017) can be applied profitably to dynamic decision problems. We use this to characterize when one dynamic information structure is more valuable to an agent than another, irrespective of what other dynamic sources of information the agent may possess. Notably, this robust dominance is equivalent to an intuitive dynamic version of Brooks, Frankel, and Kamenica (2022)'s reveal-or-refine condition."
+  },
+  {
+    "paper_id": "bbb7056cfe0ae22885f3ef9320603f9db67dfdfb",
+    "title": "What is Newsworthy? Theory and Evidence",
+    "year": 2024,
+    "author_ids": [
+      "2304658851",
+      "8731644",
+      "2968902",
+      "122795272"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study newsworthiness in theory and practice. We focus on situations in which a news outlet observes the realization of a state of the world and must decide whether to report the realization to a consumer who pays an opportunity cost to consume the report. The consumer-optimal reporting probability is monotone in a proper scoring rule, a statistical measure of the amount of \u201cnews\u201d in the realization relative to the consumer\u2019s prior. We show that a particular scoring rule drawn from the statistics literature parsimoniously captures key patterns in reporting probabilities across several domains of US television news. We argue that the scoring rule can serve as a useful control variable in settings where a researcher wishes to test for bias in news reporting. Controlling for the score greatly lessens the appearance of bias in our applications"
+  },
+  {
+    "paper_id": "dd6633bfcb97bb7ac942a14a768c851de16afcfb",
+    "title": "Why Does Cross-Sectional Analyst Coverage Incorporate Market-Wide Information?",
+    "year": 2024,
+    "author_ids": [
+      "2277193108",
+      "2237733611"
+    ],
+    "venue": "Entropy",
+    "citation_count": 0,
+    "abstract": "This paper shows that the empirical distribution of cross-sectional analyst coverage in China\u2019s stock markets follows an exponential law in a given month from 2011 to 2020. The findings hold in both the emerging (Shanghai) and the developed market (Hong Kong). Moreover, the unique distribution parameter (i.e., mean) is directly related to the amount of market-wide information. Average analyst coverage exhibits a significant negative predictive power for stock-market uncertainty, highlighting the role of security analysts in diminishing the total uncertainty. The exponential law can be derived from the maximum entropy principle (MEP). When analysts, who are constrained by average ability in generating information (i.e., the first-order moment), strive to maximize the amount of market-wide information, this objective yields the exponential distribution. Contrary to the conventional wisdom that security analysts specialize in the generation of firm-specific information, empirical findings suggest that analysts primarily produce market-wide information for 25 countries. Nevertheless, it remains unclear why cross-sectional analyst coverage reflects market-wide information, this paper provides an entropy-based explanation."
+  },
+  {
+    "paper_id": "25a969b795633d4abdf9cb50ed8c512fb29249bd",
+    "title": "Learning about a changing state",
+    "year": 2024,
+    "author_ids": [
+      "2052439504"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "A long-lived Bayesian agent observes costly signals of a time-varying state. He chooses the signals'precisions sequentially, balancing their costs and marginal informativeness. I compare the optimal myopic and forward-looking precisions when the state follows a Brownian motion. I also compare the myopic precisions induced by other Gaussian processes."
+  },
+  {
+    "paper_id": "ac3ab024da52a81aff7f7c0cd22ed05a881f7e62",
+    "title": "On Concave Functions Over Lotteries",
+    "year": 2023,
+    "author_ids": [
+      "2783939",
+      "2247914284",
+      "3116213"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "aa2a0c20dbfa1242acfa18a1948f69651739a4cd",
+    "title": "Understanding the role of aggregate analyst attention in resolving stock market uncertainty",
+    "year": 2023,
+    "author_ids": [
+      "143886735",
+      "3517267"
+    ],
+    "venue": "Finance Research Letters",
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "e5896de2f6db9ea6f1b6548d04a18dfba22a4405",
+    "title": "The Value of Data Records",
+    "year": 2023,
+    "author_ids": [
+      "2249416689",
+      "2113465553",
+      "12204338"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 27,
+    "abstract": "\n Many e-commerce platforms use buyers\u2019 personal data to intermediate their transactions with sellers. How much value do such intermediaries derive from the data record of each single individual? We characterize this value and find that one of its key components is a novel externality between records, which arises when the intermediary pools some records to withhold the information they contain. Our analysis has several implications about compensating individuals for the use of their data, guiding companies\u2019 investments in data acquisition, and more broadly studying the demand side of data markets. Our methods combine modern information design with classic duality theory and apply to a large class of principal-agent problems."
+  },
+  {
+    "paper_id": "1b8bc95b939d3bc24caf9553c7a6a3ef5decd1d3",
+    "title": "Human and Machine: The Impact of Machine Input on Decision Making Under Cognitive Limitations",
+    "year": 2023,
+    "author_ids": [
+      "3200158",
+      "123746998",
+      "3200502"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 76,
+    "abstract": "The rapid adoption of artificial intelligence (AI) technologies by many organizations has recently raised concerns that AI may eventually replace humans in certain tasks. In fact, when used in collaboration, machines can significantly enhance the complementary strengths of humans. Indeed, because of their immense computing power, machines can perform specific tasks with incredible accuracy. In contrast, human decision makers (DMs) are flexible and adaptive but constrained by their limited cognitive capacity. This paper investigates how machine-based predictions may affect the decision process and outcomes of a human DM. We study the impact of these predictions on decision accuracy, the propensity and nature of decision errors, and the DM\u2019s cognitive efforts. To account for both flexibility and limited cognitive capacity, we model the human decision-making process in a rational inattention framework. In this setup, the machine provides the DM with accurate but sometimes incomplete information at no cognitive cost. We fully characterize the impact of machine input on the human decision process in this framework. We show that machine input always improves the overall accuracy of human decisions but may nonetheless increase the propensity of certain types of errors (such as false positives). The machine can also induce the human to exert more cognitive efforts, although its input is highly accurate. Interestingly, this happens when the DM is most cognitively constrained, for instance, because of time pressure or multitasking. Synthesizing these results, we pinpoint the decision environments in which human-machine collaboration is likely to be most beneficial. This paper was accepted by Jeannette Song, operations management. Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4744 ."
+  },
+  {
+    "paper_id": "4ce05d54aa814ae85ca04c0ab8d1095397f670f1",
+    "title": "The Value of Information and Circular Settings",
+    "year": 2023,
+    "author_ids": [
+      "32278747",
+      "2212893726",
+      "102322159",
+      "47350917",
+      "2261363853",
+      "2259932213",
+      "2212413465"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We present a universal concept for the Value of Information (VoI), based on the works of Claude Shannon's and Ruslan Stratonovich that can take into account very general preferences of the agents and results in a single number. As such it is convenient for applications and also has desirable properties for decision theory and demand analysis. The Shannon/Stratonovich VoI concept is compared to alternatives and applied in examples. In particular we apply the concept to a circular spatial structure well known from many economic models and allow for various economic transport costs."
+  },
+  {
+    "paper_id": "c2bbd98e23708246be486bec2ff28db044cb8140",
+    "title": "Uncertainty and information causality in opportunity-as-artefact driving entrepreneurial actions",
+    "year": 2023,
+    "author_ids": [
+      "48550734"
+    ],
+    "venue": "Revista de Gest\u00e3o",
+    "citation_count": 2,
+    "abstract": "PurposeEntrepreneurs prioritise and act on purposeful endeavours instigated to actions by the visions of profits and benefits in the perceived opportunities. In the state of maximum entropy, with disorderliness and disequilibrium, entrepreneurs select the preferred pathway, through the profit-sensing mechanism, with the best probability of success to bet on. Therefore, this paper unpacks the forces at work in the mechanism to explain how entrepreneurs respond to opportunity and interpret the signals to coalesce into organised actions.Design/methodology/approachThis research is primarily a conceptual paper on entrepreneurial action and the mechanism leading to that action. It refers to thermodynamic principles and biological cases to explain the forces at work using mostly analogical comparisons and similarities.FindingsThis paper aims to present an alternative theoretical scaffolding for entrepreneurship researchers to explore non-rational entrepreneurial behaviours and actions in uncertain, unstable and non-equilibrium environments, thereby creating new and competing hypotheses under the backdrop of adaptive evolution and thermodynamics phenomena.Research limitations/implicationsThe discussion featuring instinctively and naturally forming responses cannot fully explain the real entrepreneurial action as there is an element of free will and choices that are not discussed. While strategic choice and free-will shape decisions, they are preceded first by the attraction of the gradients and the biased motion in the direction of profit-attractant.Practical implicationsThere remain essential links and issues not addressed in this \u201cnatural science\u201d, constituting life science and physical science, oriented entrepreneurship research and exploration. Conceptualising opportunity-as-artefact and entrepreneurship as design, significant incidences of entrepreneurial actions can be explained by the presence of gradients stimulating entrepreneurial actions.Social implicationsThis viewpoint of information causality in opportunity-as-artefact casts a new look at the venerable question of what causes entrepreneurial actions. Shane and Venkataraman brought into focus this conversation, initiating the conceptual definition of opportunity. To have entrepreneurship, entrepreneurial opportunities must come first. Figuring the signals arising from these opportunities and cueing entrepreneurs to action is the main focus of this study.Originality/valueConsidering the \u201cmechanism\u201d at work and the thermodynamical forces at play, the\u00a0entrepreneurial design process appears to hold considerable promise for future research development."
+  },
+  {
+    "paper_id": "f4e3faa9fdde8ca2fee25fb9153ba57ecac11905",
+    "title": "Data and Markets",
+    "year": 2023,
+    "author_ids": [
+      "104566753",
+      "2827764"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 29,
+    "abstract": "Big data is changing every corner of economics and finance. The largest firms in the US economy are valued chiefly for their data. Yet, these data are largely excluded from macroeconomic and finance research. We review work and relevant tools for measuring economic activity, market power, data markets, and the role of data in financial markets. We also highlight areas where future work is needed. Expected final online publication date for the Annual Review of Economics, Volume 15 is August 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates."
+  },
+  {
+    "paper_id": "81ef6e877ea2cda42cad72d88bb816fc9a5cd501",
+    "title": "Mental Modeling of Entrepreneurial Opportunity Based on the Principle of Information Visualization",
+    "year": 2023,
+    "author_ids": [
+      "48550734"
+    ],
+    "venue": "Business Perspectives and Research",
+    "citation_count": 1,
+    "abstract": "What arouses entrepreneurial action? The role of entrepreneurial opportunities in stimulating entrepreneurial action under uncertainty is a subject of intense scholarly debate. This article engages in a crucial theoretical exploration to extend the boundaries of opportunity by reframing it as an artifact. Reframing the opportunity as an artifact (crystallized information) shifts the dialogue and perspectives. Through information visualization and mental modeling approaches, information is aggregated, integrated, and configured to generate an experience that triggers actions. The interaction, transformation, and representation of information are intended to reduce uncertainty and guide entrepreneurial enactment. This article presents an integrated information processing model showing how information excites, instigates, and motivates enactment. This contextualization aims to develop a descriptively accurate and prescriptively useful concept of opportunity as an artifact. Theoretically, analytically, and conceptually, the focus on information as the fundamental unit of analysis shifts the discussion by featuring inward to move the scholarly debate on opportunity forward. This re-pivoting can avoid the calls for abandonment and debunking of the opportunity construct."
+  },
+  {
+    "paper_id": "cff9146836958785b860cf7e4caf206fb393c0fb",
+    "title": "Cognitive limits and preferences for information",
+    "year": 2022,
+    "author_ids": [
+      "66070703"
+    ],
+    "venue": "Decisions in Economics and Finance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "428937e6ff5468a7bffd0d2ca63b55bfc83a3387",
+    "title": "Surrogate Scoring Rules",
+    "year": 2022,
+    "author_ids": [
+      "2152798184",
+      "1825681345",
+      "117745152"
+    ],
+    "venue": "ACM Trans. Economics and Comput.",
+    "citation_count": 6,
+    "abstract": "Strictly proper scoring rules (SPSR) are incentive compatible for eliciting information about random variables from strategic agents when the principal can reward agents after the realization of the random variables. They also quantify the quality of elicited information, with more accurate predictions receiving higher scores in expectation. In this article, we extend such scoring rules to settings in which a principal elicits private probabilistic beliefs but only has access to agents\u2019 reports. We name our solution Surrogate Scoring Rules (SSR). SSR is built on a bias correction step and an error rate estimation procedure for a reference answer defined using agents\u2019 reports. We show that, with a little information about the prior distribution of the random variables, SSR in a multi-task setting recover SPSR in expectation, as if having access to the ground truth. Therefore, a salient feature of SSR is that they quantify the quality of information despite the lack of ground truth, just as SPSR do for the setting with ground truth. As a by-product, SSR induce dominant uniform strategy truthfulness in reporting. Our method is verified both theoretically and empirically using data collected from real human forecasters."
+  },
+  {
+    "paper_id": "cbda7b6a1419ec12bbcdc6c56891f1233b6c4422",
+    "title": "Posterior Separable Cost of Information",
+    "year": 2022,
+    "author_ids": [
+      "104372400"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 52,
+    "abstract": "We provide testable conditions under which the cost of acquiring information is given by the expected reduction of a measure of uncertainty (e.g., entropy). The assumption, under the name of posterior separability, is nearly universal in the literature of rational inattention; yet, a testable characterization has been lacking. In applications to experimental data, we indicate situations in which posterior separability is\u2014and is not\u2014a compelling assumption for the cost of information; we propose a generalization to address some of its shortcomings. We also show how to identify and estimate nonparametrically the cost of information from observable choice behavior. (JEL C91, D11, D12, D81, D91)"
+  },
+  {
+    "paper_id": "92cd3ccffe5fd29316ab3378236b5f432c2980d7",
+    "title": "Generalized Principal-Agency: Contracts, Information, Games and Beyond",
+    "year": 2022,
+    "author_ids": [
+      "2678371",
+      "1397843087",
+      "1491324165",
+      "2140349456"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "In the principal-agent problem formulated by Myerson'82, agents have private information (type) and make private decisions (action), both of which are unobservable to the principal. Myerson pointed out an elegant linear programming solution that relies on the revelation principle. This paper extends Myerson's results to a more general setting where the principal's action space can be infinite and subject to additional design constraints. Our generalized principal-agent model unifies several important design problems including contract design, information design, and Bayesian Stackelberg games, and encompasses them as special cases. We first extend the revelation principle to this general model, based on which a polynomial-time algorithm is then derived for computing the optimal mechanism for the principal. This algorithm not only implies new efficient solutions simultaneously for all the aforementioned special cases but also significantly simplifies previously known algorithms designed for special cases. Inspired by the recent interest in the algorithmic design of a single contract and menu of contracts, we study such constrained design problems to our general principal-agent model. In contrast to the above unification, our results here illustrate the other facet of diversity among different principal-agent design problems and demonstrate how their different structures can lead to different complexities: some are tractable whereas others are APX-hard. Finally, we reveal an interesting connection of our model to the problem of information acquisition for decision making and study its algorithmic properties in general."
+  },
+  {
+    "paper_id": "5382641a4930872a7419b98898a4bd87145553fe",
+    "title": "Engagement Maximization",
+    "year": 2022,
+    "author_ids": [
+      "2174737000",
+      "8384764"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": "We investigate the management of information provision to maximize user engagement. A principal sequentially reveals signals to an agent who has a limited amount of information processing capacity and can choose to exit at any time. We identify a ``dilution''strategy -- sending rare but highly informative signals -- that maximizes user engagement. The platform's engagement metric shapes the direction and magnitude of biases in provided information relative to a user-optimal benchmark. Even without intertemporal commitment, the platform replicates full-commitment revenue by inducing the user's belief to remain ``as uncertain as''the prior until the rare, decisive signal arrives and induces stopping. We apply our results to two contexts: an ad-supported internet media platform and a teacher attempting to engage test-motivated students."
+  },
+  {
+    "paper_id": "8a37f4cb36c31f75346b5a346aab4b7878b415ef",
+    "title": "Predicting Choice from Information Costs",
+    "year": 2022,
+    "author_ids": [
+      "116981247",
+      "114355951"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "We study a canonical flexible-learning model in which an agent chooses from a finite set of alternatives, the benefits from which depend on a stochastic state. Before making her decision, the agent chooses what signal to acquire about this state. Learning comes at a cost, which the agent subtracts from the expected benefit she derives from her final decision. After choosing her information, the agent observes a signal realization and takes an action."
+  },
+  {
+    "paper_id": "581fc65c8f18d907be314bf8530a01eb70a3b67f",
+    "title": "The value of information in stopping problems",
+    "year": 2022,
+    "author_ids": [
+      "1708757",
+      "2156633920"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 1,
+    "abstract": "We consider stopping problems in which a decision maker (DM) faces an unknown state of nature and decides sequentially whether to stop and take an irreversible action, or pay a fee and obtain additional information. We discuss the value and quality of information. The former is the maximal discounted expected total payment the DM can generate under a history-dependent fee scheme. We show that among all history-dependent fee schemes, the upfront fee scheme (as opposed, for instance, to pay-for-use) is optimal: it achieves the value of information. The effects on the optimal strategy of obtaining information from a more accurate source and of having a higher discount factor are distinct, as far as expected stopping time and its distribution are concerned. However, these factors have a similar effect in that they both enlarge the set of cases in which the optimal strategy prescribes waiting."
+  },
+  {
+    "paper_id": "c1d8d310e3771bcf09d689182ec10146044e3082",
+    "title": "A Robust Test of Prejudice for Discrimination Experiments",
+    "year": 2022,
+    "author_ids": [
+      "2116603171",
+      "40309588"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 6,
+    "abstract": "A large experimental literature is devoted to studying discrimination. An important question for policymakers and firms is what drives the discrimination uncovered by those experiments. However, motivations are hard to determine when decision makers pay selective attention to information because their learning is private. We overcome this challenge by deriving conditions on average outcomes that reveal decision makers are prejudiced no matter what they learn about individuals in each demographic group before making their decisions. This provides a test of prejudice that is general, simple, and robust and that can potentially be used to identify prejudice in a wide range of important settings, such as hiring, consumer lending, and housing access. We demonstrate our test of prejudice using two influential labor market experiments. This paper was accepted by Yan Chen, decision science."
+  },
+  {
+    "paper_id": "7e324478ada666f8cd78fbb542d80b8ca207f413",
+    "title": "Sensitivity measures based on scoring functions",
+    "year": 2022,
+    "author_ids": [
+      "88740832",
+      "67005755"
+    ],
+    "venue": "European Journal of Operational Research",
+    "citation_count": 22,
+    "abstract": "We propose a holistic framework for constructing sensitivity measures for any elicitable functional $T$ of a response variable. The sensitivity measures, termed score-based sensitivities, are constructed via scoring functions that are (strictly) consistent for $T$. These score-based sensitivities quantify the relative improvement in predictive accuracy when available information, e.g., from explanatory variables, is used ideally. We establish intuitive and desirable properties of these sensitivities and discuss advantageous choices of scoring functions leading to scale-invariant sensitivities. Since elicitable functionals typically possess rich classes of (strictly) consistent scoring functions, we demonstrate how Murphy diagrams can provide a picture of all score-based sensitivity measures. We discuss the family of score-based sensitivities for the mean functional (of which the Sobol indices are a special case) and risk functionals such as Value-at-Risk, and the pair Value-at-Risk and Expected Shortfall. The sensitivity measures are illustrated using numerous examples, including the Ishigami--Homma test function. In a simulation study, estimation of score-based sensitivities for a non-linear insurance portfolio is performed using neural nets."
+  },
+  {
+    "paper_id": "bd6feaee6f69d6ab8e40e841f13951086ac732a4",
+    "title": "Algebraic Properties of Blackwell's Order and a Cardinal Measure of Informativeness",
+    "year": 2021,
+    "author_ids": [
+      "36168991"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "I establish a translation invariance property of the Blackwell order over experiments for dichotomies, show that garbling experiments bring them closer together, and use these facts to define a cardinal measure of informativeness. Experiment A is inf-norm more informative (INMI) than experiment B if the infinity norm of the difference between a perfectly informative experiment and A is less than the corresponding difference for B . The better experiment is closer to the fully revealing experiment; the norm of the distance from the identity matrix is interpreted as a measure of informativeness. This measure coincides with Blackwell\u2019s order whenever possible, is complete, order invariant, prior-independent, and computationally simple."
+  },
+  {
+    "paper_id": "656d3b436cae8e2dfb5523a70da3472e290355e7",
+    "title": "Comparison of Decisions under Unknown Experiments",
+    "year": 2021,
+    "author_ids": [
+      "1846683",
+      "37307166"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 10,
+    "abstract": "We take the perspective of an econometrician who wants to determine which of two experiments provides higher expected utility but only knows the decisions under each experiment. To compare these decisions, the econometrician must make inferences about what the experiment might have been for each set of decisions. We provide a necessary and sufficient condition that identifies when every experiment consistent with one set of decisions has a higher value of information than every experiment consistent with the other set of decisions."
+  },
+  {
+    "paper_id": "e6aad9cb33301381af2c6ef4bd3a74a5f1716642",
+    "title": "Why ex post peer review encourages high-risk research while ex ante review discourages it",
+    "year": 2021,
+    "author_ids": [
+      "144123958",
+      "2604570"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 18,
+    "abstract": "Significance Science operates within social structures that govern and shape scientific activity. One such institution is peer review, which focuses attention on promising and interesting science while encouraging scientists to pursue some questions instead of others. Here, we show that ex ante review of proposals for future work and ex post review of completed science create different incentives for researchers. This tension creates a dilemma, because most researchers need to find projects that will survive both ex ante and ex post peer review. By unpacking this dynamic, we can understand how peer review shapes scientific activity and how changes to peer review might take science in unforeseen directions. Peer review is an integral component of contemporary science. While peer review focuses attention on promising and interesting science, it also encourages scientists to pursue some questions at the expense of others. Here, we use ideas from forecasting assessment to examine how two modes of peer review\u2014ex ante review of proposals for future work and ex post review of completed science\u2014motivate scientists to favor some questions instead of others. Our main result is that ex ante and ex post peer review push investigators toward distinct sets of scientific questions. This tension arises because ex post review allows investigators to leverage their own scientific beliefs to generate results that others will find surprising, whereas ex ante review does not. Moreover, ex ante review will favor different research questions depending on whether reviewers rank proposals in anticipation of changes to their own personal beliefs or to the beliefs of their peers. The tension between ex ante and ex post review puts investigators in a bind because most researchers need to find projects that will survive both. By unpacking the tension between these two modes of review, we can understand how they shape the landscape of science and how changes to peer review might shift scientific activity in unforeseen directions."
+  },
+  {
+    "paper_id": "96789387c91de3ae31a23b28b242482e3697c850",
+    "title": "Belief Movement, Uncertainty Reduction, and Rational Updating*",
+    "year": 2021,
+    "author_ids": [
+      "51005698",
+      "145884439"
+    ],
+    "venue": null,
+    "citation_count": 43,
+    "abstract": "\n When a Bayesian learns new information and changes her beliefs, she must on average become concomitantly more certain about the state of the world. Consequently, it is rare for a Bayesian to frequently shift beliefs substantially while remaining relatively uncertain, or, conversely, become very confident with relatively little belief movement. We formalize this intuition by developing specific measures of movement and uncertainty reduction given a Bayesian\u2019s changing beliefs over time, showing that these measures are equal in expectation and creating consequent statistical tests for Bayesianess. We then show connections between these two core concepts and four common psychological biases, suggesting that the test might be particularly good at detecting these biases. We provide support for this conclusion by simulating the performance of our test and other martingale tests. Finally, we apply our test to data sets of individual, algorithmic, and market beliefs."
+  },
+  {
+    "paper_id": "da45e961f285fdba9aefb3f4d4270620044eccb3",
+    "title": "Reinforcement Learning, Bit by Bit",
+    "year": 2021,
+    "author_ids": [
+      "2110036504",
+      "1731282",
+      "3427981",
+      "145424823",
+      "2561924",
+      "39761651"
+    ],
+    "venue": "Found. Trends Mach. Learn.",
+    "citation_count": 79,
+    "abstract": "Reinforcement learning agents have demonstrated remarkable achievements in simulated environments. Data efficiency poses an impediment to carrying this success over to real environments. The design of data-efficient agents calls for a deeper understanding of information acquisition and representation. We discuss concepts and regret analysis that together offer principled guidance. This line of thinking sheds light on questions of what information to seek, how to seek that information, and what information to retain. To illustrate concepts, we design simple agents that build on them and present computational results that highlight data efficiency."
+  },
+  {
+    "paper_id": "0441c64f21b585ba0a0cb4d7f8e2af796caeb4dc",
+    "title": "Persuading a Wishful Thinker",
+    "year": 2020,
+    "author_ids": [
+      "2029253202",
+      "2029148803"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study a persuasion problem in which a sender designs an information structure to induce a non-Bayesian receiver to take a particular action. The receiver, who is privately informed about his preferences, is a wishful thinker: he is systematically overoptimistic about the most favorable outcomes. We show that wishful thinking can lead to a qualitative shift in the structure of optimal persuasion compared to the Bayesian case, whenever the sender is uncertain about what the receiver perceives as the best-case outcome in his decision problem."
+  },
+  {
+    "paper_id": "4cf33dde61b8ad274bce987a2497ee677294d8ea",
+    "title": "Designing Incentives for Heterogeneous Researchers",
+    "year": 2020,
+    "author_ids": [
+      "51097048"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 24,
+    "abstract": "A principal (e.g., the US government) contracts with a researcher with unknown costs (e.g., a vaccine developer) to conduct a costly experiment. This contracting problem has a novel feature that captures the difference between the form of an experiment and the strength of its results: researchers face a problem of information design rather than optimal effort. Using a novel comparative static for Bayesian persuasion settings, I characterize the optimal contract and show how experimentation is distorted by the need to screen researchers. Moreover, I show that there is no loss from contracting on the experiment\u2019s result rather than the experiment itself."
+  },
+  {
+    "paper_id": "f9814501cfd4298e20b87efb8f450cad68ee7787",
+    "title": "How Flexible is that Functional Form? Quantifying the Restrictiveness of Theories",
+    "year": 2020,
+    "author_ids": [
+      "2783939",
+      "1739114116",
+      "39914586"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 21,
+    "abstract": "\n We propose a restrictiveness measure for economic models based on how well they fit pre-defined synthetic data. This measure, together with a measure for how well the model fits real data, outlines a Pareto frontier, where models that rule out more regularities, yet capture the regularities that are present in real data, are preferred. To illustrate our approach, we evaluate the restrictiveness of models in two laboratory settings\u2014certainty equivalents and initial play\u2014and one field setting\u2014takeup of microfinance in Indian villages. The restrictiveness measure reveals insights about each, including that some economic models with only a few parameters are very flexible."
+  },
+  {
+    "paper_id": "1e8414aa098e1209f2e3edd89496879858537567",
+    "title": "Hospital performance standards and medical pricing: The impact of information disclosure in cardiac care",
+    "year": 2020,
+    "author_ids": [
+      "144224299",
+      "3459755",
+      "4752659"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "ba14068d5f1a6f14d79498a95b977e2385f1f8ef",
+    "title": "Keeping the Listener Engaged: A Dynamic Model of Bayesian Persuasion",
+    "year": 2020,
+    "author_ids": [
+      "143947522",
+      "2110017838",
+      "1936394"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 27,
+    "abstract": "We consider a dynamic model of Bayesian persuasion in which information takes time and is costly for the sender to generate and for the receiver to process, and neither player can commit to their future actions. Persuasion may totally collapse in a Markov perfect equilibrium of this game. However, for persuasion costs sufficiently small, a version of a folk theorem holds: outcomes that approximate Kamenica and Gentzkow\u2019s sender-optimal persuasion as well as full revelation and everything in between are obtained in Markov perfect equilibrium as the cost vanishes."
+  },
+  {
+    "paper_id": "dfc1130ebb06350130940101f5dda0c93f25b4ef",
+    "title": "Working too much for too little: stochastic rewards cause work addiction",
+    "year": 2020,
+    "author_ids": [
+      "49140265",
+      "46379496",
+      "26656820"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "People are generally assumed to shy away from activities generating stochastic rewards, thus requiring extra compensation for handling any additional risk. In contrast with this view, neuroscience research with animals has shown that stochastic rewards may act as a powerful motivator. Applying these ideas to the study of work addiction in humans, and using a new experimental paradigm, we demonstrate how stochastic rewards may lead people to continue working on a repetitive and effortful task even after monetary compensation becomes saliently negligible. In line with our hypotheses, we show that persistence on the work task is especially pronounced when the entropy of stochastic rewards is high, which is also when the work task generates more stress to participants. We discuss the economic and managerial implications of our findings."
+  },
+  {
+    "paper_id": "d43d560f3a875b03334975a321cfc45e8ba3893d",
+    "title": "Optimal Advertising for Information Products",
+    "year": 2020,
+    "author_ids": [
+      "3402758",
+      "117745152"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 11,
+    "abstract": "When selling information products, sometimes the seller can provide some free partial information to change people's valuations so that the overall revenue can possibly be increased. In this work, we study the general problem of advertising information products by revealing partial information. We consider buyers who are decision-makers. The outcomes of the decision problems depend on the state of the world that is unknown to the buyers. The buyers can make their own observations and thus can hold different personal beliefs about the state of the world. There is an information seller who has access to the state of the world. The seller can promote the information by revealing some partial information. We assume that the seller chooses a long-term advertising strategy and then commits to it. The buyers decide whether to purchase the full information product after seeing the partial information. The seller's goal is to maximize the expected revenue. We study the problem in two settings. (1) The seller targets buyers of a certain type. In this case, we prove that finding the optimal advertising strategy is equivalent to finding the concave closure of a simple function. The function is a product of two quantities. The first one is what we call the likelihood ratio, which depends on the buyer's personal belief about the state of the world. The second one is the cost of uncertainty, which represents the value of the information to the buyer. Based on this observation, we prove some properties of the optimal mechanism, which allow us to solve for the optimal mechanism by a finite-size convex program. The convex program will have a polynomial size if the state of the world has a constant number of possible realizations or the buyers face a decision problem with a constant number of options. For the general problem, we prove that it is NP-hard to find the optimal mechanism. (2) For the general problem when the seller faces buyers of different types and only knows the distribution of their types, we provide an approximation algorithm when it is not too hard to predict the possible type of buyers who will make the purchase. For the general problem, we prove that it is NP-hard to find a constant-factor approximation."
+  },
+  {
+    "paper_id": "4d56bcfe81369a8e29a8fa0bdb6778be0645a0ee",
+    "title": "Rational Inattention via Ignorance Equivalence",
+    "year": 2020,
+    "author_ids": [
+      "103042863",
+      "2412374867",
+      "122257073"
+    ],
+    "venue": "Working paper (Federal Reserve Bank of Philadelphia)",
+    "citation_count": 3,
+    "abstract": "We present a novel approach to finite Rational Inattention (RI) models based on the ignorance equivalent, a fictitious action with state-dependent payoffs that effectively summarizes the optimal learning and conditional choices. The ignorance equivalent allows us to recast the RI problem as a standard expected utility maximization over an augmented choice set called the learning-proof menu, yielding new insights regarding the behavioral implications of RI, in particular as new actions are added to the menu. Our geometric approach is also well suited to numerical methods, outperforming existing techniques both in terms of speed and accuracy, and offering robust predictions on the most frequently implemented actions."
+  },
+  {
+    "paper_id": "e73968d01035cd478099aa956b6d02198dc73988",
+    "title": "Assessing the Returns on Investment in Data Openness and Transparency",
+    "year": 2020,
+    "author_ids": [
+      "2188105",
+      "152501657"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": "This paper investigates the potential benefits for a country from investing in data transparency. The paper shows that increased data transparency can bring substantive returns in lower costs of external borrowing. This result is obtained by estimating the impact of public data transparency on sovereign spreads conditional on the country's level of institutional quality and public and external debt. While improving data transparency alone reduces the external borrowing costs for a country, the return is much higher when combined with stronger institutional quality and lower public and external debt. Similarly, the returns on investing in data transparency are higher when a country's integration to the global economy deepens, as captured by trade and financial openness. Estimation of an instrumental variable regression shows that Sub-Saharan African countries could have saved up to 14.5 basis points in sovereign bond spreads and decreased their external debt burden by US$405.4 million (0.02 percent of gross domestic product) in 2018, if their average level of data transparency was that of a country in the top quartile of the upper-middle-income country category. At the country level, Angola could have reduced its external debt burden by around US$73.6 million."
+  },
+  {
+    "paper_id": "c43921bdeee0e1d225fe8fd51ee1a310a728b227",
+    "title": "Rational inattention when decisions take time",
+    "year": 2019,
+    "author_ids": [
+      "37564782",
+      "4887754"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 47,
+    "abstract": "Decisions take time, and the time taken to reach a decision is likely to be informative about the cost of more precise judgments. We formalize this insight in the context of a dynamic rational inattention (RI) model. Under standard conditions on the flow cost of information in our discrete-time model, we obtain a tractable model in the continuous-time limit. We next provide conditions under which the resulting belief dynamics resemble either diffusion processes or processes with large jumps. We then demonstrate that the state-contingent choice probabilities predicted by our model are identical to those predicted by a static RI model, providing a micro-foundation for such models. In the diffusion case, our model provides a normative foundation for a variant of the DDM models studied in mathematical psychology."
+  },
+  {
+    "paper_id": "1d01de30744da465986295b6051b3fcbf8410b36",
+    "title": "The cost of information",
+    "year": 2019,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 55,
+    "abstract": null
+  },
+  {
+    "paper_id": "8809dd69c0a0ae4ab91ded0502a0a5af278c365b",
+    "title": "The Cost of Information: The Case of Constant Marginal Costs",
+    "year": 2018,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 51,
+    "abstract": "We develop an axiomatic theory of information acquisition that captures the idea of constant marginal costs in information production: the cost of generating two independent signals is the sum of their costs, and generating a signal with probability half costs half its original cost. Together with Blackwell monotonicity and a continuity condition, these axioms determine the cost of a signal up to a vector of parameters. These parameters have a clear economic interpretation and determine the difficulty of distinguishing states. (JEL D82, D83)"
+  },
+  {
+    "paper_id": "093ebbd4ff08ff542902e70942b7dd75faf1aafb",
+    "title": "Which findings should be published?",
+    "year": 2018,
+    "author_ids": [
+      "66099712",
+      "144047191"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 29,
+    "abstract": "Given a scarcity of journal space, what is the socially optimal rule for whether an empirical finding should be published? Suppose that the goal of publication is to inform the public about a policy-relevant state. Then journals should publish extreme results, meaning ones that move beliefs sufficiently. For specific objectives, the optimal rule can take the form of a one- or a two-sided test comparing a point estimate to the prior mean, with critical values deter- mined by a cost-benefit analysis. An explicit consideration of future studies may additionally justify the publication of precise null results. If one insists that standard inference remain valid, however, publication must not select on the study\u2019s findings (but may select on the study\u2019s design)."
+  },
+  {
+    "paper_id": "e9556e4249bf0f4420102fb41f7398b076bf86b2",
+    "title": "Information Acquisition and Time-Risk Preference",
+    "year": 2018,
+    "author_ids": [
+      "2113598359",
+      "8384764"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 1,
+    "abstract": "An agent acquires information dynamically until her belief about a binary state reaches an upper or lower threshold. She can choose any signal process subject to a constraint on the rate of entropy reduction. Strategies are ordered by \u201ctime risk\u201d\u2014the dispersion of the distribution of threshold-hitting times. We construct a strategy maximizing time risk (Greedy Exploitation) and one minimizing it (Pure Accumulation). Under either, beliefs follow a compensated Poisson process. In the former, beliefs jump to the threshold closer in Bregman divergence. In the latter, beliefs jump to the unique point with the same entropy as the current belief. (JEL D81, D82, D83)"
+  },
+  {
+    "paper_id": "4d782c4be14e04c9646e3ecff2eb946cc1219aca",
+    "title": "The Indirect Cost of Information",
+    "year": 2018,
+    "author_ids": [
+      "8384764"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study the indirect cost of information from sequential information cost minimization. A key sub-additivity condition, together with monotonicity equivalently characterizes the class of indirect cost functions generated from any direct information cost. Adding an extra (uniform) posterior separability condition equivalently characterizes the indirect cost generated from any direct cost favoring incremental evidences. We also provide the necessary and sufficient condition when prior independent direct cost generates posterior separable indirect cost."
+  },
+  {
+    "paper_id": "f6a57fcc89457c0037f0121b408aa848acbd3e14",
+    "title": "Markets for Information: An Introduction",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 204,
+    "abstract": "We survey a recent and growing literature on markets for information. We offer a comprehensive view of information markets through an integrated model of consumers, information intermediaries, and firms. The model embeds a large set of applications ranging from sponsored-search advertising to credit scores to information sharing among competitors. We then zoom in to one of the critical elements in the markets for information: the design of the information. We distinguish between ex ante sales of information (the buyer acquires an information structure) and ex post sales (the buyer pays for specific realizations). We relate this distinction to the different products that brokers, advertisers, and publishers use to trade consumer information online. We discuss the endogenous limits to the trade of information that derive from the potential adverse use of information to the consumers. Finally, we discuss recommender systems and other information filtering systems that use artificial intelligence to predict ratings or preferences in markets for indirect information."
+  },
+  {
+    "paper_id": "4feb1050a15b0c4305f2c55e81ddffb0685ee36d",
+    "title": "On a loss-based prior for the number of components in mixture models",
+    "year": 2018,
+    "author_ids": [
+      "35432008",
+      "37700358",
+      "3160324"
+    ],
+    "venue": "Statistics and Probability Letters",
+    "citation_count": 16,
+    "abstract": "We propose a prior distribution for the number of components of a finite mixture model. The novelty is that the prior distribution is obtained by considering the loss one would incur if the true value representing the number of components were not considered. The prior has an elegant and easy to implement structure, which allows to naturally include any prior information one may have as well as to opt for a default solution in cases where this information is not available. The performance of the prior, and comparison with existing alternatives, is studied through the analysis of both real and simulated data."
+  },
+  {
+    "paper_id": "19a17422986eb44ff4ab885b5cc4981df9be9ee0",
+    "title": "Surrogate Scoring Rules",
+    "year": 2018,
+    "author_ids": [
+      "40457423",
+      "1825681345",
+      "117745152"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 37,
+    "abstract": "Strictly proper scoring rules (SPSR) are incentive compatible for eliciting information about random variables from strategic agents when the principal can reward agents after the realization of the random variables. They also quantify the quality of elicited information, with more accurate predictions receiving higher scores in expectation. In this paper, we extend such scoring rules to settings where a principal elicits private probabilistic beliefs but only has access to agents' reports. We name our solution Surrogate Scoring Rules (SSR). SSR build on a bias correction step and an error rate estimation procedure for a reference answer defined using agents' reports. We show that, with a single bit of information about the prior distribution of the random variables, SSR in a multi-task setting recover SPSR in expectation, as if having access to the ground truth. Therefore, a salient feature of SSR is that they quantify the quality of information despite the lack of ground truth, just as SPSR do for the setting with ground truth. As a by-product, SSR induce dominant truthfulness in reporting. Our method is verified both theoretically and empirically using data collected from real human forecasters."
+  },
+  {
+    "paper_id": "65134a4514ae80850097895418162da5c63fec75",
+    "title": "Surrogate Scoring Rules and a Uniform Dominant Truth Serum",
+    "year": 2018,
+    "author_ids": [
+      "2152798184",
+      "117745152"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "fa2ffde9a783d6843ea20a46ab4a06e0e72ab88e",
+    "title": "DISCRETE CHOICE AND RATIONAL INATTENTION: A GENERAL EQUIVALENCE RESULT",
+    "year": 2017,
+    "author_ids": [
+      "3284916",
+      "144780298",
+      "144394300",
+      "46179057"
+    ],
+    "venue": "International Economic Review",
+    "citation_count": 93,
+    "abstract": "Abstract This article establishes a general equivalence between discrete choice and rational inattention models. Mat\u011bjka and McKay (2015) showed that when information costs are modeled using the Shannon entropy, the choice probabilities in the rational inattention (RI) model take the multinomial logit form. We show that, for one given prior over states, RI choice probabilities may take the form of any additive random utility discrete choice model (ARUM) when the information cost is a Bregman information, a class defined in this article. The prior information of the rationally inattentive agent is summarized in a constant vector of utilities in the corresponding ARUM."
+  },
+  {
+    "paper_id": "d968a7ad68a408e6b79b903388c7fb4b25628e2d",
+    "title": "RDDA: Rectified Discriminatory Delta-Adjust",
+    "year": 2025,
+    "author_ids": [
+      "9438226",
+      "2309256021"
+    ],
+    "venue": "IEEE Access",
+    "citation_count": 0,
+    "abstract": "This paper introduces Rectified Discriminatory Delta-Adjust (RDDA), a novel methodology that enhances interpolation-based predictive modeling through adaptive sensitivity parameters. Building upon the foundational Delta-Adjust algorithm, RDDA addresses the limitations of fixed sensitivity parameters by incorporating three dynamic sensitivity estimation methodologies: Sensitivity Analysis (SA), Vector Calculus (VC), and Higher-Order Derivative Methods. The research establishes theoretical foundations for local-to-global emergence in inductive AI systems, proving that local inference mechanisms can reconstruct global information structures through the equivalence of local propagation and global entanglement views of shared information. We demonstrate that temporal ordering in datasets affects information flow profiles, with discriminatory coding revealing that data correlations are non-uniformly distributed across datasets. RDDA\u2019s modular architecture allows plug-in sensitivity estimators to replace fixed parameters with query-adaptive, data-driven sensitivity metrics. Experimental validation across classification, regression, and interpolation tasks demonstrates the competitiveness of the RDDA framework. Its variants sometimes outperform the vanilla Delta-Adjust method. On interpolation benchmarks, RDDA matches the accuracy of dedicated methods like IDW and RBF, while on classification and regression tasks, it delivers performance comparable to established models including SVMs, KNNs, and Random Forests. The methodology preserves Delta-Adjust\u2019s linear time core complexity while adding modular sensitivity estimation overhead, enabling practical deployment in data-driven modeling applications where local-to-global emergence is essential."
+  },
+  {
+    "paper_id": "fa6769bb96847c4ac6efef23319325f04e61e1ff",
+    "title": "On the Appeal of Complexity",
+    "year": 2023,
+    "author_ids": [
+      "49140265",
+      "1403715598"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1c6b29e43eb5db3a7c8cdb14acc18dd8c63f8971",
+    "title": "Information Spillover Across Credit Products",
+    "year": 2023,
+    "author_ids": [
+      "2269596860"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3d6abeb0c4d7d0dbaa0b9b765b3a7db94020a824",
+    "title": "Optimal Dynamic Information Acquisition",
+    "year": 2022,
+    "author_ids": [
+      "8384764"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 47,
+    "abstract": "I study a dynamic model in which a decision\u2010maker (DM) acquires information about the payoffs of different alternatives prior to making a decision. The model's key feature is the flexibility of information: the DM can choose any dynamic signal process as an information source, subject to a flow cost that depends on the informativeness of the signal. Under the optimal policy, the DM acquires a signal that arrives according to a \n Poisson process. The optimal Poisson signal confirms the DM's prior belief and is sufficiently precise to warrant immediate action. Over time, given the absence of the arrival of a Poisson signal, the DM continues seeking an increasingly precise but less frequent Poisson signal.\n"
+  },
+  {
+    "paper_id": "d506db8a16174516f772dd1e92e8e0b0c9dcd07e",
+    "title": "A LGEBRAIC P ROPERTIES OF B LACKWELL \u2019 S O RDER AND A C ARDINAL M EASURE OF I NFORMATIVENESS",
+    "year": 2022,
+    "author_ids": [
+      "36168991"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "565d39e191fbd92068aa2451a3fe9fa8da3e6497",
+    "title": "The Eureka Moment in Entrepreneurial Opportunity as an Imaginative Construct",
+    "year": 2022,
+    "author_ids": [
+      "48550734"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": ","
+  },
+  {
+    "paper_id": "2d4c26990d808849e22ab3046e7bc3cd481d6894",
+    "title": "Dynamic Multivariate Learning with Generalized Information",
+    "year": 2021,
+    "author_ids": [
+      "35612697",
+      "114679155"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Agents are generally uncertain about multiple, and possibly time-varying, structural parameters that drive consumption and financial payoffs but learn through noisy correlated signals, such as aggregate or macroeconomic news. We find that dynamic learning of multivariate time-varying parameters with correlated signals generates endogenous long-run risks resulting in large and never-decaying equity risk premium. In general, the risk premium is driven by intertemporal co-uncertainty, that is, the dynamic covariance of posterior means, rather than uncertainty (i.e., variance of beliefs) that is highlighted in the literature. Signal correlation structure plays a crucial role in the dynamics of beliefs and asset prices and hence the determination of the equity premium. Apart from its quantitative implications, signal correlation generates non-monotone effects of information quality on the equity premium. We also present empirical evidence of the prevalence of highly correlated signals. Our general learning framework highlights the economic effects of correlated signals on Bayesian learning."
+  },
+  {
+    "paper_id": "944b1b6447ba3e50d5544692d7ea6341a19fc338",
+    "title": "The Value of Data",
+    "year": 2021,
+    "author_ids": [
+      "12204338",
+      "2773368",
+      "2113465553"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "aac67319c0ac099243bcd49c0dda05f7295d06d5",
+    "title": "Identity and the cost of information",
+    "year": 2020,
+    "author_ids": [
+      "115197955"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "68977f937aa879901425beac1ab62e909f30b30a",
+    "title": "Who Accepts Information Measures?",
+    "year": 2020,
+    "author_ids": [
+      "1405375074",
+      "1399064776",
+      "2064260510"
+    ],
+    "venue": "International Conference on Machine Learning, Optimization, and Data Science",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "71f26a99df0057c16f06659ccd37892824b6813e",
+    "title": "DISCRETE CHOICE AND RATIONAL INATTENTION: A GENERAL EQUIVALENCE RESULT",
+    "year": 2020,
+    "author_ids": [
+      "3284916",
+      "2280020558"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d595f5981a3090502cdfbc97d35eb8fdc24c44c1",
+    "title": "DISCRETE CHOICE AND RATIONAL INATTENTION: A GENERAL EQUIVALENCE RESULT",
+    "year": 2020,
+    "author_ids": [
+      "3284916",
+      "2280020558"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d4c3af117afed6b066b0199a93187ce72374ff9e",
+    "title": "DISCRETE CHOICE AND RATIONAL INATTENTION: A GENERAL EQUIVALENCE RESULT",
+    "year": 2020,
+    "author_ids": [
+      "3284916",
+      "2280020558"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "903cb91ed9f56bc5f03d652d5d93533625b93973",
+    "title": "DISCRETE CHOICE AND RATIONAL INATTENTION: A GENERAL EQUIVALENCE RESULT",
+    "year": 2020,
+    "author_ids": [
+      "3284916",
+      "2280020558"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0455b99d0d2a14ae12204875176a10d5efa60783",
+    "title": "EUCLIDEAN PROPERTIES OF BAYESIAN UPDATING",
+    "year": 2019,
+    "author_ids": [
+      "11578728"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "8c7348549509bebe384a4191684c0dbc9c94d1f1",
+    "title": "Screening Inattentive Agents",
+    "year": 2019,
+    "author_ids": [
+      "72044649"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "Information plays a crucial role in mechanism design problems. A potential complication is that agents may be inattentive, and so information may endogenously and flexibly depend on what options are offered. I show that it is without loss to look at contour mechanisms, which comprise triplets of allocation probabilities, prices, and beliefs, and are uniquely determined by a single such point. The mechanism design problem then reduces to Bayesian persuasion along the optimal contour. The reduction to contour mechanisms has significant implications for both implementation of the optimal mechanism, and the revenues that can be achieved. I would like to thank Alex Gershkov, Konrad Mierendorff, Doron Ravid, Jakub Steiner, and Balazs Szentes, as well as various seminar participants at Tel Aviv University and the Technion for helpful conversations and comments. This project was generously supported by the Israel Science Foundation, Grant #798/18. Tal Shewlker provided excellent research assistance. Hebrew University; jeffrey.mensch@mail.huji.ac.il"
+  },
+  {
+    "paper_id": "dde739900bef200a0c08f6dff9a539e14a3ac4b5",
+    "title": "Belief Movement , Uncertainty Reduction , & Rational Updating \u2217",
+    "year": 2017,
+    "author_ids": [
+      "51005698",
+      "145884439"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  }
+]

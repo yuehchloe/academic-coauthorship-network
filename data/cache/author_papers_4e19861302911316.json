@@ -1,0 +1,803 @@
+[
+  {
+    "paper_id": "28b0620cd0a8d314b285e2b700a32312b8792715",
+    "title": "A Strategic Topology on Information Structures",
+    "year": 2024,
+    "author_ids": [
+      "2616138",
+      "2238495821",
+      "134685132"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Two information structures are said to be close if, with high probability, there is approximate common knowledge that interim beliefs are close under the two information structures. We define an\"almost common knowledge topology\"reflecting this notion of closeness. We show that it is the coarsest topology generating continuity of equilibrium outcomes. An information structure is said to be simple if each player has a finite set of types and each type has a distinct first-order belief about payoff states. We show that simple information structures are dense in the almost common knowledge topology and thus it is without loss to restrict attention to simple information structures in information design problems."
+  },
+  {
+    "paper_id": "3f95905dbba0e38f360f1d5eacabc8ddc6888853",
+    "title": "Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information",
+    "year": 2024,
+    "author_ids": [
+      "2616138",
+      "2336736653",
+      "2248106200",
+      "118283161",
+      "2258963976",
+      "2294875548"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 7,
+    "abstract": "We study mechanism design when agents have private preferences and private information about a common payoff-relevant state. We show that standard message-driven mechanisms cannot implement socially efficient allocations when agents have multidimensional types, even under favorable conditions. To overcome this limitation, we propose data-driven mechanisms that leverage additional post-allocation information, modeled as an estimator of the payoff-relevant state. Our data-driven mechanisms extend the classic Vickrey-Clarke-Groves class. We show that they achieve exact implementation in posterior equilibrium when the state is either fully revealed or the utility is affine in an unbiased estimator. We also show that they achieve approximate implementation with a consistent estimator, converging to exact implementation as the estimator converges, and present bounds on the convergence rate. We demonstrate applications to digital advertising auctions and large language model (LLM)-based mechanisms, where user engagement naturally reveals relevant information. A full version of this paper can be found at https://arxiv.org/abs/2412.16132."
+  },
+  {
+    "paper_id": "81927eb31b22debed4d5a8790f80436340bbd2dd",
+    "title": "Screening and Segmenting: A Consumer Surplus Perspective",
+    "year": 2024,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "2280370065"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study how market segmentation affects consumers when a monopolist can adjust both prices and product qualities across segments, engaging in second- and third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is more elastic than a cost-determined threshold. Hence, potential benefits for consumers depend critically on cost and demand elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation."
+  },
+  {
+    "paper_id": "03a269e76b2b38cf472d78fec47aeec3f7ac4a9f",
+    "title": "How do Digital Advertising Auctions Impact Product Prices?",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 7,
+    "abstract": "\n We present a model of digital advertising with three key features: (i) advertisers can reach consumers on and off a platform, (ii) additional data enhances the value of advertiser-consumer matches, and (iii) the allocation of advertisements follows an auction-like mechanism. We contrast data-augmented auctions, which leverage the platform\u2019s data advantage to improve match quality, with managed-campaign mechanisms that automate match formation and price-setting.\n The platform-optimal mechanism is a managed campaign that conditions the onplatform prices for sponsored products on the off-platform prices set by all advertisers. This mechanism yields the efficient on-platform allocation but inefficiently high off-platform product prices. It attains the vertical integration profit for the platform and the advertisers, and it increases off-platform product prices while decreasing consumer surplus, relative to data-augmented auctions."
+  },
+  {
+    "paper_id": "41470d18345a7a4664e7d4de687964e6c4f13b7d",
+    "title": "Managed Campaigns and Data-Augmented Auctions for Digital Advertising",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 5,
+    "abstract": "Digital advertising facilitates the matching of consumers and advertisers online. Large platforms leverage their extensive consumer data to offer access to qualified online shoppers, helping them find their preferred brands. In turn, advertisers join these platforms to target a wider range of potential consumers beyond their existing customer base."
+  },
+  {
+    "paper_id": "776e328a1e1a74bcbee254e9b3f39cad92142c8b",
+    "title": "The Optimality of Constant Mark-Up Pricing",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We consider a nonlinear pricing environment with private information. We provide profit guarantees (and associated mechanisms) that the seller can achieve across all possible distributions of willingness to pay of the buyers. With a constant elasticity cost function, constant markup pricing provides the optimal revenue guarantee across all possible distributions of willingness to pay and the lower bound is attained under a Pareto distribution. We characterize how profits and consumer surplus vary with the distribution of values and show that Pareto distributions are extremal. We also provide a revenue guarantee for general cost functions. We establish equivalent results for optimal procurement policies that support maximal surplus guarantees for the buyer given all possible cost distributions of the sellers."
+  },
+  {
+    "paper_id": "9a279c3c29aa72ee5bc47711091d209db01ea09c",
+    "title": "Data, Competition, and Digital Platforms",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 62,
+    "abstract": "A monopolist platform uses data to match heterogeneous consumers with multiproduct sellers. The consumers can purchase the products on the platform or search off the platform. The platform sells targeted ads to sellers that recommend their products to consumers and reveals information to consumers about their match values. The revenue-optimal mechanism is a managed advertising campaign that matches products and preferences efficiently. In equilibrium, sellers offer higher qualities at lower unit prices on than off platform. The platform exploits its information advantage to increase its bargaining power vis-\u00e0-vis the sellers. Finally, privacy-respecting data-governance rules can lead to welfare gains for consumers. (JEL D11, D42, D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "b556d43ff785c20eb596fac57ae7a72f644b588c",
+    "title": "Cost Based Nonlinear Pricing",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "The arrival of digital commerce has lead to an increasing use of personalization and differentiation strategies. With differentiated products along the quality dimension and/or the quantity dimension comes the need for nonlinear pricing policies or second degree price discrimination. The optimal pricing strategies for quality and quantity differentiated products were first investigated by Mussa and Rosen (1978) and Maskin and Riley (1984), respectively. The optimal pricing strategies were shown to depend heavily on the prior distribution of the private information regarding the types, and ultimately the willingness-to-pay of the buyers. Yet, frequently the sellers possess only weak and incomplete information about the distribution of demand. This paper aims to develop robust pricing policies that are independent of specific demand distributions and provide revenue guarantees across all possible distributions."
+  },
+  {
+    "paper_id": "2582b5abed3e569bf805ce55974777d2164874c9",
+    "title": "Renewable energy communities, digitalization and information",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "72751321",
+      "2097212939",
+      "2352623",
+      "69931547"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "5b3f5baa93e162876c9044a7fee8beaff6623428",
+    "title": "Screening with Persuasion",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 16,
+    "abstract": "We analyze a nonlinear pricing model where the seller controls both product pricing (screening) and buyer information about their own values (persuasion). We prove that the optimal mechanism always consists of finitely many signals and items, even with a continuum of buyer values. The seller optimally pools buyer values and reduces product variety to minimize informational rents. We show that value pooling is optimal even for finite value distributions if their entropy exceeds a critical threshold. We also provide sufficient conditions under which the optimal menu restricts offering to a single item."
+  },
+  {
+    "paper_id": "88860393d76f80eab8a6d76bbdf488a165394c35",
+    "title": "Optimal Information Disclosure in Classic Auctions",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 26,
+    "abstract": "We characterize the revenue-maximizing information structure in the second-price auction. The seller faces a trade-off: more information improves the efficiency of the allocation but creates higher information rents for bidders. The information disclosure policy that maximizes the revenue of the seller is to fully reveal low values (where competition is high) but to pool high values (where competition is low). The size of the pool is determined by a critical quantile that is independent of the distribution of values and only dependent on the number of bidders. We discuss how this policy provides a rationale for conflation in digital advertising. (JEL D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "c9cfc55872cf3d7c9cac4c69d6063e46474bf6d5",
+    "title": "Microeconomic Theory",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2295944",
+      "84655874"
+    ],
+    "venue": null,
+    "citation_count": 424,
+    "abstract": null
+  },
+  {
+    "paper_id": "dd38fff6b4034ea5f6a685176eae571a660223e4",
+    "title": "Is Selling Complete Information (Approximately) Optimal?",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "144220862",
+      "1429262275",
+      "48886446"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 10,
+    "abstract": "We study the problem of selling information to a data-buyer who faces a decision problem under uncertainty. We consider the classic Bayesian decision-theoretic model pioneered by Blackwell. Initially, the data buyer has only partial information about the payoff-relevant state of the world. A data seller offers additional information about the state of the world. The information is revealed through signaling schemes, also referred to as experiments. In the single-agent setting, any mechanism can be represented as a menu of experiments. A recent paper by Bergemann et al.[8] present a complete characterization of the revenue-optimal mechanism in a binary state and binary action environment. By contrast, no characterization is known for the case with more actions. In this paper, we consider more general environments and study arguably the simplest mechanism, which only sells the fully informative experiment. In the environment with binary state and m\u22653 actions, we provide an $O(m)$-approximation to the optimal revenue by selling only the fully informative experiment and show that the approximation ratio is tight up to an absolute constant factor. An important corollary of our lower bound is that the size of the optimal menu must grow at least linearly in the number of available actions, so no universal upper bound exists for the size of the optimal menu in the general single-dimensional setting. We also provide a sufficient condition under which selling only the fully informative experiment achieves the optimal revenue. For multi-dimensional environments, we prove that even in arguably the simplest matching utility environment with 3 states and 3 actions, the ratio between the optimal revenue and the revenue by selling only the fully informative experiment can grow immediately to a polynomial of the number of agent types. Nonetheless, if the distribution is uniform, we show that selling only the fully informative experiment is indeed the optimal mechanism."
+  },
+  {
+    "paper_id": "4896de2cd83ac39a5205f0bdafb6d24b445536f8",
+    "title": "Selling Impressions: Efficiency vs. Competition",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "8b83864773c5c25a6fa5a2a397e535821b290f1b",
+    "title": "The Optimality of Upgrade Pricing",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "2059769656",
+      "144622420"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 6,
+    "abstract": "We consider a multiproduct monopoly pricing model. We provide sufficient conditions under which the optimal mechanism can be implemented via upgrade pricing -- a menu of product bundles that are nested in the strong set order. Our approach exploits duality methods to identify conditions on the distribution of consumer types under which (a) each product is purchased by the same set of buyers as under separate monopoly pricing (though the transfers can be different), and (b) these sets are nested. We exhibit two distinct sets of sufficient conditions. The first set of conditions is given by a weak version of monotonicity of types and virtual values, while maintaining a regularity assumption, i.e., that the product-by-product revenue curves are single-peaked. The second set of conditions establishes the optimality of upgrade pricing for type spaces with monotone marginal rates of substitution (MRS) -- the relative preference ratios for any two products are monotone across types. The monotone MRS condition allows us to relax the earlier regularity assumption. Under both sets of conditions, we fully characterize the product bundles and prices that form the optimal upgrade pricing menu. Finally, we show that, if the consumer's types are monotone, the seller can equivalently post a vector of single-item prices: upgrade pricing and separate pricing are equivalent."
+  },
+  {
+    "paper_id": "9fcc1f788adbc3a2d6fe51f199fed9ef390b86b9",
+    "title": "The Econometric Society Annual Reports Report of the Secretary",
+    "year": 2021,
+    "author_ids": [
+      "4772105",
+      "2616138",
+      "2411528541"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 0,
+    "abstract": "THE WORLD CONGRESS OF THE ECONOMETRIC SOCIETY, which takes place once every five years, is arguably the most far-reaching global conference for economics and related fields. Due to the COVID-19 pandemic, the Executive Committee of the Society together with Bocconi University decided to lead the way into then-unchartered territory and organize a ground-breaking international virtual economics conference in record time during a very difficult period. Past President Orazio Attanasio, as Chair of the World Congress Organization and Main Lectures Committees, deserves credit for convincing many of the parties involved that this was the correct decision for the Society to take. The resulting event, though not without its challenges and flaws, posted record-breaking attendance, reaching more than 4200 people across 85 countries and 24 time zones, and presenting 73 live-streamed plenary, semi-plenary, and policy sessions and 1288 contributed presenters in 334 2-hour sessions with 14 hours of daily of continuous live content during five full days. Unfortunately, COVID-19 continued to ravage the world for the rest of 2020 until the present, upending most of the Society\u2019s plans. For that reason, incoming President Penny Goldberg assembled an ad-hoc Virtual and Hybrid Conferences Committee chaired by At-large Executive Committee member Dirk Bergemann and made up of other Executive Committee members and representatives from the six regional standing committees. The menu of virtual tools and practical solutions for the organization of such meetings that this committee provided, together with a tremendous amount of work by committed program chairs, local organizers, and many volunteers, allowed the Society to hold all of its six scheduled regional meetings and two of its schools to date. In addition, it is anticipated that the final three 2021 regional meetings and its international school will also be completed by the end of the year. Most meetings were conducted entirely virtually, except in the case of Africa, whose regional meeting and companion school took place using a hybrid format, with some participants physically present in Abidjan (Ivory Coast) but many others attending online, a model that was also used by the Asian Summer School in Econometrics and Statistics that recently took place in Beijing. The Society owes special debts of gratitude to the officers and members of its regional standing committees, program chairs, local organizers, virtual vendors, and all those who helped it continue to meet its mission during such trying times. In addition to its meetings, the Society continued its other core activities, most notably ensuring publication of the Society\u2019s flagship journal, Econometrica, and its two highly-rated open access journals, Quantitative Economics and Theoretical Economics. The editors of these journals, Chris Taber and Ran Spiegler, respectively, completed their terms at the end of June, 2021 and two new editors stepped in to take their places \u2013 St\u00e9phane Bonhomme, who moved from editor of the Monograph Series to Quantitative Economics editor, and Simon Board, who took the helm at Theoretical Economics. The"
+  },
+  {
+    "paper_id": "e4c54ecf68dbba2e8f36f8ede6c7b3b49159f49f",
+    "title": "Recruiting Talent \u2217",
+    "year": 2021,
+    "author_ids": [
+      "2238494921",
+      "2238493348",
+      "2261421351",
+      "2238673432",
+      "2322024931",
+      "2211307539",
+      "2381516",
+      "2238494052",
+      "2290647061",
+      "2616138",
+      "2238494395",
+      "2238493394",
+      "10668957",
+      "2261644378",
+      "12689481",
+      "2046436",
+      "2192057",
+      "2488559",
+      "2238495821",
+      "2238494617",
+      "2238481706",
+      "2238493057"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3dd88e69200f2a6bf6d0fa2864a48abee078796a",
+    "title": "Learning and Intertemporal Incentives",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "2295944"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "88143a32618e630bf845c0a8830c92cbd8146f20",
+    "title": "Countering the winner's curse: Optimal auction design in a common value model",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 18,
+    "abstract": "We characterize revenue maximizing mechanisms in a common value environment where the value of the object is equal to the highest of the bidders' independent signals. If the revenue maximizing solution is to sell the object with probability 1, then an optimal mechanism is simply a posted price, namely, the highest price such that every type of every bidder is willing to buy the object. If the object is optimally sold with probability less than 1, then optimal mechanisms skew the allocation toward bidders with lower signals. The resulting allocation induces a \u201cwinner's blessing,\u201d whereby the expected value conditional on winning is higher than the unconditional expectation. By contrast, standard auctions that allocate to the bidder with the highest signal (e.g., the first\u2010price, second\u2010price, or English auctions) deliver lower revenue because of the winner's curse generated by the allocation. Our qualitative results extend to more general common value environments with a strong winner's curse."
+  },
+  {
+    "paper_id": "908af254440b6d7b8afdf76e0f669212e2e209ce",
+    "title": "Search, Information, and Prices",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 26,
+    "abstract": "Consider a market with identical firms offering a homogeneous good. For any given ex ante distribution of the price count (the number of firms from which a consumer obtains a quote), we derive a tight upper bound on the equilibrium distribution of sales prices. The bound holds across all models of firms\u2019 common-prior higher-order beliefs about the price count, including the extreme cases of full information and no information. One implication of our results is that a small ex ante probability that the price count is equal to one can lead to a large increase in the expected price. The bound also applies in a large class of models where the price count distribution is endogenously determined."
+  },
+  {
+    "paper_id": "a4a26744923092aa605ec7f231725c1bcfbe15ea",
+    "title": "UvA-DARE (Digital Academic Repository) A Single-Judge Solution to Beauty Contests",
+    "year": 2020,
+    "author_ids": [
+      "3084446",
+      "89990659",
+      "2177391",
+      "2616138",
+      "122308296",
+      "2243341130",
+      "2587366",
+      "2243345391",
+      "11590391",
+      "2259835261",
+      "2308998",
+      "2054089066",
+      "70106137",
+      "2329092241",
+      "2241144585",
+      "2111866449",
+      "144663627",
+      "3294084"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c5f5ca1a0c65eae7d8fce4ce19f3f0df7d4efb46",
+    "title": "A Public Option for the Core",
+    "year": 2020,
+    "author_ids": [
+      "2379722",
+      "2616138",
+      "1800154",
+      "2000587",
+      "144695691",
+      "3169583",
+      "1699297",
+      "1718880",
+      "143838343"
+    ],
+    "venue": "Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+    "citation_count": 11,
+    "abstract": "This paper is focused not on the Internet architecture - as defined by layering, the narrow waist of IP, and other core design principles - but on the Internet infrastructure, as embodied in the technologies and organizations that provide Internet service. In this paper we discuss both the challenges and the opportunities that make this an auspicious time to revisit how we might best structure the Internet's infrastructure. Currently, the tasks of transit-between-domains and last-mile-delivery are jointly handled by a set of ISPs who interconnect through BGP. In this paper we propose cleanly separating these two tasks. For transit, we propose the creation of a \"public option\" for the Internet's core backbone. This public option core, which complements rather than replaces the backbones used by large-scale ISPs, would (i) run an open market for backbone bandwidth so it could leverage links offered by third-parties, and (ii) structure its terms-of-service to enforce network neutrality so as to encourage competition and reduce the advantage of large incumbents."
+  },
+  {
+    "paper_id": "e7bcea8f8358539877cee04fd8083b26ee0ad5bc",
+    "title": "Competition and Public Information: A Note",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study price discrimination in a market in which two firms engage in Bertrand competition. Some consumers are contested by both firms, and other consumers are \"captive\" to one of the firms. The market can be divided into segments, which have different relative shares of captive and contested consumers. It is shown that the revenue-maximizing segmentation involves dividing the market into \"nested\" markets, where exactly one firm may have captive consumers."
+  },
+  {
+    "paper_id": "099c3d3048ae0c26a6f28350b60a99f9e6eb8fb4",
+    "title": "Progressive Participation",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "A single seller faces a sequence of buyers with unit demand. The buyers are forward\u2010looking and long\u2010lived. Each buyer has private information about his arrival time \n and valuation where the latter evolves according to a geometric Brownian motion. Any incentive\u2010compatible mechanism has to induce truth\u2010telling about the arrival time and the evolution of the valuation.\n \n We establish that the optimal stationary allocation policy can be implemented by a simple posted price. The truth\u2010telling constraint regarding the arrival time can be represented as an optimal stopping problem that determines the first time at which the buyer participates in the mechanism. The optimal mechanism thus induces progressive participation by each buyer: he either participates immediately or at a future random time."
+  },
+  {
+    "paper_id": "69df5727a4218c4bc78669202b671a3bece64375",
+    "title": "Counterfactuals with Latent Information",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2411743467",
+      "48218339"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 13,
+    "abstract": "We describe a methodology for making counterfactual predictions in settings where the information held by strategic agents and the distribution of payoff-relevant states of the world are unknown. The analyst observes behavior assumed to be rationalized by a Bayesian model, in which agents maximize expected utility, given partial and differential information about the state. A counterfactual prediction is desired about behavior in another strategic setting, under the hypothesis that the distribution of the state and agents\u2019 information about the state are held fixed. When the data and the desired counterfactual prediction pertain to environments with finitely many states, players, and actions, the counterfactual prediction is described by finitely many linear inequalities, even though the latent parameter, the information structure, is infinite dimensional. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "76c97a003afac2f12d8ad2d0147032c05a707f57",
+    "title": "Dynamic Mechanism Design: An Introduction",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2295944"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 123,
+    "abstract": "We provide an introduction to the recent developments of dynamic mechanism design, with a primary focus on the quasilinear case. First, we describe socially optimal (or efficient) dynamic mechanisms. These mechanisms extend the well-known Vickrey\u2013 Clark\u2013Groves and D\u2019Aspremont\u2013G\u00e9rard\u2013Varet mechanisms to a dynamic environment. Second, we discuss revenue optimal mechanisms. We cover models of sequential screening and revenue-maximizing auctions with dynamically changing bidder types. We also discuss models of information management where the mechanism designer can control (at least partially) the stochastic process governing the agents\u2019 types. Third, we consider models with changing populations of agents over time. After discussing related models with risk-averse agents and limited liability, we conclude with a number of open questions and challenges that remain for the theory of dynamic mechanism design. ( JEL D44, D81, D82)"
+  },
+  {
+    "paper_id": "7dbc9ae5b20d5c9ddcd55d4f128bbdff752cdbfc",
+    "title": "Countering the Winner \u2019 s Curse : Optimal Auction Design in a Common Value Model \u2217 Dirk Bergemann",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "84296f2fc9fc053b672b648f459eb22474a98e51",
+    "title": "Introduction to the Special Issue on EC\u201916",
+    "year": 2019,
+    "author_ids": [
+      "117745152",
+      "2616138"
+    ],
+    "venue": "ACM Trans. Economics and Comput.",
+    "citation_count": 0,
+    "abstract": "This special issue of the ACM Transactions on Economics and Computation (TEAC) features selected articles from the 17th ACM Conference on Economics and Computation (EC\u201916), which was held July 24\u201328, 2016, in Maastricht, The Netherlands. We served as program chairs for the conference and as guest editors for the special issue. Based on the conference reviews, we invited a selection of the articles accepted at the conference for this special issue. The articles submitted to this special issue then went through TEAC\u2019s own review process. We are delighted to introduce the following six outstanding articles in this issue:"
+  },
+  {
+    "paper_id": "9a3fbf63640e05c10e7f52e1eae18ad7d9a95636",
+    "title": "Annual Review of Economics Markets for Information : An Introduction",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a574785b270814b90bba40da220f5784f30207f2",
+    "title": "Information Design: A Unified Perspective",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 546,
+    "abstract": "Given a game with uncertain payoffs, information design analyzes the extent to which the provision of information alone can influence the behavior of the players. Information design has a literal interpretation, under which there is a real information designer who can commit to the choice of the best information structure (from her perspective) for a set of participants in a game. We emphasize a metaphorical interpretation, under which the information design problem is used by the analyst to characterize play in the game under many different information structures. We provide an introduction to the basic issues and insights of a rapidly growing literature in information design. We show how the literal and metaphorical interpretations of information design unify a large body of existing work, including that on communication in games (Myerson 1991), Bayesian persuasion (Kamenica and Gentzkow 2011), and some of our own recent work on robust predictions in games of incomplete information. ( JEL C70, D82, D83)"
+  },
+  {
+    "paper_id": "a8b07c73520a8483c0e4c1b55b8ef90ebe300a7c",
+    "title": "First-price auctions with general information structures: a short introduction",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "SeCO Workshops",
+    "citation_count": 3,
+    "abstract": "We explore the impact of private information in sealed-bid first-price auctions. For a given symmetric and arbitrarily correlated prior distribution over values, we characterize the impact that the structure of private information has on bidding behavior, and the sharing of surplus between the seller and the bidder. Our results provide lower bounds and upper bounds for bids and revenues across all information structures. Our work has implications for the identification of value distributions from data on winning bids and for the informationally robust comparison of alternative bidding mechanisms."
+  },
+  {
+    "paper_id": "be2f22989da3bfbee58b73e52106da517a776ea5",
+    "title": "Third-degree Price Discrimination Versus Uniform Pricing",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "73313282",
+      "2888943"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 24,
+    "abstract": "We compare the revenue of the optimal third-degree price discrimination policy against a uniform pricing policy. A uniform pricing policy oi\u00ac\u20acers the same price to all segments of the market. Our main result establishes that for a broad class of third-degree price discrimination problems with concave revenue functions and common support, a uniform price is guaranteed to achieve one-half of the optimal monopoly proi\u00ac ts. This revenue bound holds for any arbitrary number of segments and prices that the seller would use in case he would engage in third-degree price discrimination. We further establish that these conditions are tight and that a weakening of common support or concavity leads to arbitrarily poor revenue comparisons."
+  },
+  {
+    "paper_id": "d9bb3456a4d84048e26946df573cc43ee27ca75c",
+    "title": "Revenue Guarantee Equivalence",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 31,
+    "abstract": "We revisit the revenue comparison of standard auction formats, including first-price, second-price, and English auctions. We rank auctions according to their revenue guarantees, i.e., the greatest lower bound of revenue across all informational environments, where we hold fixed the distribution of bidders\u2019 values. We conclude that if we restrict attention to the symmetric affiliated models of Milgrom and Weber (1982) and monotonic pure-strategy equilibria, first-price, second-price, and English auctions are revenue guarantee equivalent: they have the same revenue guarantee, which is equal to that of the first-price auction as characterized by Bergemann, Brooks, and Morris (2017). If we consider all equilibria or if we allow more general models of information, then first-price auctions have a greater revenue guarantee than all other auctions considered. (JEL D44, D83)"
+  },
+  {
+    "paper_id": "f36d8f32f3a047e8ac52f96aed4e05ac7dbbf7a0",
+    "title": "The Economics of Social Data",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "83604817"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 164,
+    "abstract": "A data intermediary pays consumers for information about their preferences and sells the information so acquired to firms that use it to tailor their products and prices. The social dimension of the individual data---whereby an individual's data are predictive of the behavior of others---generates a data externality that reduces the intermediary's cost of acquiring information. We derive the intermediary's optimal data policy and show that it preserves the privacy of the consumers' identities while providing precise information about market demand to the firms. This enables the intermediary to capture the entire value of information as the number of consumers grows large."
+  },
+  {
+    "paper_id": "fbe662d749aea58bef372a7883233872ef7fd668",
+    "title": "Information, market power, and price volatility",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 17,
+    "abstract": "We consider demand function competition with a finite number of agents and private information. We show that any degree of market power can arise in the unique equilibrium under an information structure that is arbitrarily close to complete information. Regardless of the number of agents and the correlation of payo\u00c2\u00a4 shocks, market power may be arbitrarily close to zero (the competitive outcome) or arbitrarily large (so there is no trade). By contrast, price volatility is always lower than the variance of the aggregate shock across all information structures. Alternative trading mechanisms lead to very distinct bounds as a comparison with Cournot competition establishes."
+  },
+  {
+    "paper_id": "1f1e16241fb8275f3f85ec74aa8f1503520c3352",
+    "title": "ROBUST VOTER PERSUASION",
+    "year": 2018,
+    "author_ids": [
+      "118415553",
+      "2079493",
+      "114844417",
+      "2616138",
+      "2801899",
+      "2035227",
+      "2891630"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "7e3d12fdfb721c8b5b9ed52bf04876eec77e2f82",
+    "title": "Should First-Price Auctions Be Transparent?",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "145949712"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 24,
+    "abstract": "We investigate the role of market transparency in repeated first-price auctions. We consider a setting with independent private and persistent values. We analyze three distinct disclosure regimes regarding the bid and award history. In the minimal disclosure regime, each bidder only learns privately whether he won or lost the auction. In equilibrium, the allocation is efficient, and the minimal disclosure regime does not give rise to pooling equilibria. In contrast, in disclosure settings where either all or only the winner\u2019s bids are public, an inefficient pooling equilibrium with low revenues exists. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "89b50688d513c79c2b06027b33124681c321511c",
+    "title": "OPTIMAL INFORMATION DISCLOSURE IN AUCTIONS",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358"
+    ],
+    "venue": null,
+    "citation_count": 19,
+    "abstract": null
+  },
+  {
+    "paper_id": "de9ade443554636e4c28bc640959d0b1f867c1c1",
+    "title": "Selling Impressions : Effi ciency vs . Competition \u2217",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "49729493"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "f6a57fcc89457c0037f0121b408aa848acbd3e14",
+    "title": "Markets for Information: An Introduction",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 204,
+    "abstract": "We survey a recent and growing literature on markets for information. We offer a comprehensive view of information markets through an integrated model of consumers, information intermediaries, and firms. The model embeds a large set of applications ranging from sponsored-search advertising to credit scores to information sharing among competitors. We then zoom in to one of the critical elements in the markets for information: the design of the information. We distinguish between ex ante sales of information (the buyer acquires an information structure) and ex post sales (the buyer pays for specific realizations). We relate this distinction to the different products that brokers, advertisers, and publishers use to trade consumer information online. We discuss the endogenous limits to the trade of information that derive from the potential adverse use of information to the consumers. Finally, we discuss recommender systems and other information filtering systems that use artificial intelligence to predict ratings or preferences in markets for indirect information."
+  },
+  {
+    "paper_id": "2d2adcd1fdd27662d1bf94c6446eda3073ff76ea",
+    "title": "How to design and price information for sale to others",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6ebab5d61e3fa0402e0528b68d109f684df20f06",
+    "title": "Information Design: A Unied Perspective",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "48218339",
+      "116888859",
+      "112994149",
+      "2926072",
+      "2587366",
+      "1973527",
+      "2115553437"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "a46ef934bbf0711cb3c732d6a62f1dd2f30d3e59",
+    "title": "The Scope of Sequential Screening with Ex Post Participation Constraints",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "73313282",
+      "2888943"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 42,
+    "abstract": "We study the classic sequential screening problem under ex-post participation constraints. Thus the seller is required to satisfy buyers' ex-post participation constraints. A leading example is the online display advertising market, in which publishers frequently cannot use up-front fees and instead use transaction-contingent fees. We establish when the optimal selling mechanism is static (buyers are not screened) or dynamic (buyers are screened), and obtain a full characterization of such contracts. We begin by analyzing our model within the leading case of exponential distributions with two types. We provide a necessary and sufficient condition for the optimality of the static contract. If the means of the two types are sufficiently close, then no screening is optimal. If they are sufficiently apart, then a dynamic contract becomes optimal. Importantly, the latter contract randomizes the low type buyer while giving a deterministic allocation to the high type. It also makes the low type worse-off and the high type better-off compared to the contract the seller would offer if he knew the buyer's type. Our main result establishes a necessary and sufficient condition under which the static contract is optimal for general distributions. We show that when this condition fails, a dynamic contract that randomizes the low type buyer is optimal."
+  },
+  {
+    "paper_id": "a707f8fb3f10b693005b085a2d4556396ba2538c",
+    "title": "Belief-free rationalizability and informational robustness",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 22,
+    "abstract": null
+  },
+  {
+    "paper_id": "0d17f6c43c3056c7f5be81225b2bf53a24f76a1f",
+    "title": "Interdependent Preferences and Strategic Distinguishability First Version : October 2010 This Version : August 2016",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "2257203878"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4cf018d32dee109c454724febe6a4d116cf4ceee",
+    "title": "E cient Multi-unit Auctions for Normal Goods",
+    "year": 2016,
+    "author_ids": [
+      "3480241",
+      "2616138",
+      "1724595",
+      "3192952",
+      "145949712",
+      "108714804"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "7028cc096584945d7fcaa481244a5c3c410fda32",
+    "title": "Proceedings of the 2016 ACM Conference on Economics and Computation",
+    "year": 2016,
+    "author_ids": [
+      "1749906",
+      "2616138",
+      "2239157904"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c06e6b0608a66b8a3782d93bca7fd59738be0c4e",
+    "title": "InformatIon DesIgn anD BayesIan PersuasIon",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "d9e81b416c8c1a496834f48bb5fa9737b02551a8",
+    "title": "Information Design , Bayesian Persuasion , and Bayes Correlated Equilibrium Information Design , Bayesian Persuasion , and Bayes Correlated Equilibrium",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 159,
+    "abstract": null
+  },
+  {
+    "paper_id": "eeee30cd713496ab262f73058be74e40671d8acd",
+    "title": "Selling to Intermediaries: Optimal Auction Design in a Common Value Model",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "fcb61de04d0278070fb74ab6dea0bb0e8d19718d",
+    "title": "Informationally Robust Optimal Auction Design",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "2411743467",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 56,
+    "abstract": null
+  },
+  {
+    "paper_id": "01da43b37e459fd418c724f0aa172d2acd1860dc",
+    "title": "Nonlinear pricing with finite information",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "1687842",
+      "2107974654"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "0351b71808731dabf7c7625ceea380a3ad5e38b0",
+    "title": "Informational Robustness and Solution Concepts",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "04592e4d29f77f6636ced8934c60b6f50b6cc91b",
+    "title": "Information in the first price auction \u2217",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "17e99e0e49f6e04c82d9f8f25e120670ed6b647e",
+    "title": "First Price Auctions with General Information Structures: Implications for Bidding and Revenue",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 133,
+    "abstract": null
+  },
+  {
+    "paper_id": "517bb776d8499a11cac07d9586d3639738a07986",
+    "title": "Introduction to Symposium on Dynamic Contracts and Mechanism Design",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "39835022"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 32,
+    "abstract": null
+  },
+  {
+    "paper_id": "99bf74ef49769822f6d45d3a5aa6d681c01d6b48",
+    "title": "Designing and Pricing Information",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "e10e2e55ca206d5604b7fa2d1a89752fb0ac89c2",
+    "title": "Dynamic revenue maximization: A continuous time approach",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "2450616"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 47,
+    "abstract": null
+  }
+]

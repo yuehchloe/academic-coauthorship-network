@@ -1,0 +1,61 @@
+[
+  {
+    "paper_id": "927b5df26d081757d4302af5cfe19459f50ddbbd",
+    "title": "Selling supplemental information",
+    "year": 2025,
+    "author_ids": [
+      "120333865"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I consider an environment in which a decision maker faces uncertainty and privately holds information in the form of a signal about the true state of the world. The decision maker purchases additional information from a data broker before receiving the signal realization. I characterize the data broker's optimal selling mechanism, which involves screening over all possible signals. I allow the space of all signals the data broker can sell to be arbitrarily correlated with the signal the decision maker owns. This plays a key role in designing the optimal menu. In the binary action setting, the data broker extracts the efficient surplus by offering a distinct binary signal for each type. Moreover, this result holds even when the broker does not know the prior distribution over states. In more general environments, I provide conditions on the payoff structure and the decision maker's type space under which the data broker extracts the efficient surplus. I discuss scenarios in which efficient surplus extraction is not possible."
+  },
+  {
+    "paper_id": "4fd08b5e7ec7f3fc4ff012b5cac63018764c03a3",
+    "title": "Improving Human Deception Detection Using Algorithmic Feedback",
+    "year": 2025,
+    "author_ids": [
+      "1398007271",
+      "2852955"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 10,
+    "abstract": "Can algorithms help people detect deception in high-stakes strategic interactions? Participants watching the preplay communication of contestants in the TV show Golden Balls display a limited ability to predict contestants\u2019 behavior, whereas algorithms do significantly better. To increase participants\u2019 accuracy, we provide them with algorithmic advice by flagging videos for which an algorithm predicts a high likelihood of cooperation or defection. We test how the effectiveness of flags depends on their timing. We show that participants rely significantly more on flags shown before they watch the videos than flags shown after they watch them. These findings show that the timing of algorithmic feedback is key for its adoption. This paper was accepted by Marie-Claire Villeval, behavioral economics and decision analysis. Funding: Funding provided by an Innovation Grant for Inclusive Research Excellence at UC San Diego. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.02792 ."
+  },
+  {
+    "paper_id": "3d8ba41ad81ac31b48021698dd6d90bcb03c2ecc",
+    "title": "Ranking Statistical Experiments via the Linear Convex Order and the Lorenz Zonoid: Economic Applications",
+    "year": 2025,
+    "author_ids": [
+      "2344829589"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "This paper introduces a novel ranking of statistical experiments, the linear-Blackwell (LB) order, which can equivalently be characterized by (i) the dispersion of the induced posterior and likelihood ratios in the sense of the linear convex order, (ii) the size of the Lorenz zonoid (the set of statewise expectation profiles), or (iii) the variability of the posterior mean. We apply the LB order to compare experiments in binary-action decision problems and in decision problems with quasi-concave payoffs, as analyzed by Kolotilin, Corrao, and Wolitzky (2025). We also use it to compare experiments in moral hazard problems, building on Holmstr\\\"om (1979) and Kim (1995), and in screening problems with ex post signals."
+  },
+  {
+    "paper_id": "56b1cc266ca61e38fbc22261e48111adbeb255cc",
+    "title": "Representing type spaces as signal allocations",
+    "year": 2024,
+    "author_ids": [
+      "2330319682",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ce1f70e3ec805b4547825f39ca2ef7182cbe7395",
+    "title": "Dynamic Signals",
+    "year": 2024,
+    "author_ids": [
+      "19246218",
+      "2302930309"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "In this paper, we reveal that the signal representation of information introduced by Gentzkow and Kamenica (2017) can be applied profitably to dynamic decision problems. We use this to characterize when one dynamic information structure is more valuable to an agent than another, irrespective of what other dynamic sources of information the agent may possess. Notably, this robust dominance is equivalent to an intuitive dynamic version of Brooks, Frankel, and Kamenica (2022)'s reveal-or-refine condition."
+  }
+]

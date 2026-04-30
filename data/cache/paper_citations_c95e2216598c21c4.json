@@ -1,0 +1,97 @@
+[
+  {
+    "paper_id": "66a09dcf895aa62f54b7d9cfe9ced09c618fa250",
+    "title": "Privacy and Personalization in a Dynamic Model",
+    "year": 2025,
+    "author_ids": [
+      "2165297985"
+    ],
+    "venue": "The B.E. Journal of Theoretical Economics",
+    "citation_count": 0,
+    "abstract": "Abstract This paper studies a two-period model with a monopolist and a consumer. The firm makes two offers (product-price pairs) in the first period and makes one offer in the second period. The single consumer\u2019s type is unknown to the firm, and she chooses at most one offer each period. Products are horizontally differentiated and the consumer prefers products closer to her type. Two privacy settings are considered. In one setting, the consumer cannot hide her purchase history (i.e., cannot opt out) whereas she can in the other setting. We characterize the firm-optimal equilibria in both settings and show that when the opt-out choice is added, the ex-ante producer surplus and social surplus increase while the ex-ante consumer surplus decreases. How the interim consumer surplus changes depends on her type. Our results suggest that, in some cases, privacy protection tools may inadvertently harm consumers while benefiting firms. Therefore, regulators should account for the dynamic and strategic interactions between these two sides when evaluating the implications of such tools."
+  },
+  {
+    "paper_id": "ef056171f9de3b8cf73d2e90cda0ce6b8c496187",
+    "title": "A General Solution to the Quasi Linear Screening Problem",
+    "year": 2024,
+    "author_ids": [
+      "2295665888",
+      "2239329418",
+      "2095325",
+      "2132978"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "We provide an algorithm for solving multidimensional screening problems which are intractable analytically. The algorithm is a primal-dual algorithm which alternates between optimising the primal problem of the surplus extracted by the principal and the dual problem of the optimal assignment to deliver to the agents for a given surplus. We illustrate the algorithm by solving (i) the generic monopolist price discrimination problem and (ii) an optimal tax problem covering income and savings taxes when citizens differ in multiple dimensions."
+  },
+  {
+    "paper_id": "f246e7283fef1e6a15b8515581933448cf8d99f2",
+    "title": "Multidimensional screening after 37 years",
+    "year": 2024,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": "Journal of Mathematical Economics",
+    "citation_count": 2,
+    "abstract": "This expository article surveys the literature that has followed my paper \u201dA Necessary and Sufficient Condition for Rationalizability in a Quasi-linear Context\u201d that was published in the Journal of Mathematical Economics in 1987."
+  },
+  {
+    "paper_id": "55dec5425638fe5daa2cf36019f97a047188c4ca",
+    "title": "Cross-Selling in Bank-Household Relationships: Mechanisms and Implications for Pricing",
+    "year": 2023,
+    "author_ids": [
+      "49051163",
+      "118907668"
+    ],
+    "venue": "The Review of financial studies",
+    "citation_count": 14,
+    "abstract": "\n We show that banks cross-sell future deposits and loans to existing household depositors. A bank is 20-percentage-points more likely to sell a loan to an existing depositor than to an otherwise comparable household. Existing depositors pay a premium when borrowing, and we find no indication that banks obtain an informational advantage on such borrowers, suggesting that the cross-selling is driven more by demand than by supply complementarities. These demand complementarities are in turn driven more by stickiness rather than by unobserved persistent preferences. Finally, banks internalize future cross-selling potential when setting deposit rates."
+  },
+  {
+    "paper_id": "e5db5ae9a338ccfcf6fa28ac0c988595b23c8b44",
+    "title": "Optimal random taxation and redistribution",
+    "year": 2022,
+    "author_ids": [
+      "31706718",
+      "2419828"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We assess the usefulness of stochastic redistribution among a continuum of risk-averse agents with quasilinear utilities in labor. Agents differ according to their consumption tastes, which remain private information. We identify circumstances where stochastic redistribution is socially dominated by the deterministic policy where after-tax income lotteries are replaced with their certainty equivalent. We also provide a parametric example where feasible and incentive compatible lotteries locally dominate the optimal deterministic menu. In this example the downward pattern of incentives prevailing in the deterministic case is reversed to an upward pattern in the stochastic case."
+  },
+  {
+    "paper_id": "44ff93eef2fab5250422ee5570f6bff88f64d05d",
+    "title": "Dynamic Monopoly Pricing With Multiple Varieties: Trading Up",
+    "year": 2021,
+    "author_ids": [
+      "2028731894",
+      "123724995",
+      "1572271013"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper studies dynamic monopoly pricing for a broad class of settings that allow for multiple durable, multiple rental, or a mix of varieties. We show that the driving force behind pricing dynamics is the existence of trading-up opportunities. If there are no trading-up opportunities in the static monopoly outcome, then pricing dynamics do not emerge in equilibrium. With trading-up opportunities, pricing dynamics arise until these opportunities are exhausted or the game ends. We characterize the lower bound for the emerging prices and profit and study the conditions under which pricing dynamics end in finite time."
+  },
+  {
+    "paper_id": "97b92ee03a7e1572e0680a91dcac3a3314bbcae0",
+    "title": "Optimal sales mechanism with outside options",
+    "year": 2021,
+    "author_ids": [
+      "21850526"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "901a4d72d0ed09e8e5e825e7cc4dd9f375973151",
+    "title": "Uncertain Commitment Power in a Durable Good Monopoly",
+    "year": 2019,
+    "author_ids": [
+      "7302854"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Abstract This paper considers dynamic pricing strategies in a durable good monopoly model with uncertain commitment power to set price paths. The type of monopolist is private information of the firm and not observable to consumers. If commitment to future prices is not possible, the initial price is high in equilibrium, but the firm falls prey to the Coase conjecture later to capture the residual demand. The relative price cut is increasing in the probability of commitment as buyers anticipate that a steady price is likely and purchase early. Pooling in prices may occur for perpetuity if commitment is sufficiently weak."
+  }
+]

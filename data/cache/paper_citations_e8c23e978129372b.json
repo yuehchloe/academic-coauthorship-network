@@ -1,0 +1,692 @@
+[
+  {
+    "paper_id": "4b1253f1867b7f64b5bdef757b32413f4d5e80ba",
+    "title": "Multivariate Incomplete Information in the Mixture Model of Contests",
+    "year": 2025,
+    "author_ids": [
+      "144472433"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 0,
+    "abstract": "\n A general mixture model of contests is introduced, combining stochastic performance and multivariate incomplete information. Performance is determined by a mixture distribution with endogenous weights on a good and bad distribution, respectively. Incomplete information does not increase the complexity of the problem, and actions are unambiguously strategic substitutes when technologies are homogeneous. These properties enable comparative statics with respect to changes in the type distribution. Applications include examining the role of the dependence structure between private valuations on the one hand and private budget constraints, starting advantages, and productivity parameters on the other. Extensions to asymmetric contests are\u00a0considered."
+  },
+  {
+    "paper_id": "f42c3c63d9d069152fcb13fb49e83afd79ea8c23",
+    "title": "Feedback in Dynamic Contests: Theory and Experiment",
+    "year": 2025,
+    "author_ids": [
+      "5666351",
+      "2401483077",
+      "2141405305"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We study the effect of interim feedback policies in a dynamic all-pay auction where two players bid over two stages to win a common-value prize. We show that sequential equilibrium outcomes are characterized by Cheapest Signal Equilibria, wherein stage 1 bids are such that one player bids zero while the other chooses a cheapest bid consistent with some signal. Equilibrium payoffs for both players are always zero, and the sum of expected total bids equals the value of the prize. We conduct an experiment with four natural feedback policy treatments -- full, rank, and two cutoff policies -- and while the bidding behavior deviates from equilibrium, we fail to reject the hypothesis of no treatment effect on total bids. Further, stage 1 bids induce sunk costs and head starts, and we test for the resulting sunk cost and discouragement effects in stage 2 bidding."
+  },
+  {
+    "paper_id": "681d4b6805dcf6a2dc0416429c9a5cf578c4e00c",
+    "title": "When Rivalry Backfires: How Individual Skill and Risk of Status Loss Moderate the Effects of Rivalry on Performance",
+    "year": 2025,
+    "author_ids": [
+      "2261433775",
+      "2299075994",
+      "2260623807"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 2,
+    "abstract": "Existing rivalry research finds that people try harder and perform better when competing against their rivals. However, are there conditions under which rivalry can harm performance? We integrate rivalry theory with regulatory fit theory to propose two moderators of rivalry: individual skill and situational risk for status change. We test our predictions using data from software programming contests involving more than 4.6 million competitive encounters across 16,846 software developers (\u201ccoders\u201d) to examine the causal effects of rivalry and the conditions under which it may backfire. We find that, on average, coders who are randomly assigned to compete against a field of competitors with whom they share a rivalrous history exhibit higher performance, above and beyond other established drivers of performance in competition. Importantly, however, this positive effect of rivalry is moderated by (1) coders\u2019 skill level, such that rivalry is more beneficial for more skilled coders and is harmful for less skilled coders, and (2) coders\u2019 risk of experiencing a status change, such that coders who face a possible status loss exhibit decreased performance when competing against rivals. Thus, we extend research on rivalry by revealing the conditions under which it can harm performance, which is vital to understanding its role in organizations. This paper was accepted by Sameer Srivastava, organizations. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.00344 ."
+  },
+  {
+    "paper_id": "242683a74d922eda19e6c0fb96f5a1ac34c9de96",
+    "title": "Robust Tournaments",
+    "year": 2025,
+    "author_ids": [
+      "145032781",
+      "2264247440"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We characterize robust tournament design -- the prize scheme that maximizes the lowest effort in a rank-order tournament where the distribution of noise is unknown, except for an upper bound, $\\bar{H}$, on its Shannon entropy. The robust tournament scheme awards positive prizes to all ranks except the last, with a distinct top prize. Asymptotically, the prizes follow the harmonic number sequence and induce an exponential distribution of noise with rate parameter $e^{-\\bar{H}}$. The robust prize scheme is highly unequal, especially in small tournaments, but becomes more equitable as the number of participants grows, with the Gini coefficient approaching $1/2$."
+  },
+  {
+    "paper_id": "fc18511cb30e7346d9da8c8795abd9fa7108194c",
+    "title": "Resilience of science after austerity",
+    "year": 2025,
+    "author_ids": [
+      "2248195708",
+      "2248320205",
+      "2359686939",
+      "1795135"
+    ],
+    "venue": "PNAS Nexus",
+    "citation_count": 0,
+    "abstract": "Abstract In 2009, many governments implemented austerity measures. This often resulted in restrictions on science funding, increasing competition for funds. Here, we study the allocation of funding across universities by using a competitiveness measure from complexity science based on the bipartite network of universities and scientific subjects. Drawing on a comprehensive data set of 43,430 UK-funded grants between 2006 and 2020, a period covering the onset and relaxation of austerity, we provide two main results. First, we find that the effect of austerity on university grant income depended on research competitiveness: highly competitive universities increased grant income under austerity, while low-ranked universities lost income. Then, we study the resilience of science to austerity exploiting the natural experiment arising from the 2015 UK general election, when austerity was relaxed unexpectedly. We discover that the resilience of researchers at less competitive universities was surprisingly high. The number and size of grant applications grew more after 2015 at less competitive universities, increasing their grant income. Overall, results show that our network-based measure is a better proxy for research competitiveness than aggregate grant income across scientific subjects."
+  },
+  {
+    "paper_id": "8bfb6a9f73d6d4af198450fca344f38a79ebae96",
+    "title": "Optimal grading contests",
+    "year": 2025,
+    "author_ids": [
+      "5666351"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8d0d686945635dbc6e77dbcc9db1a05f528f6fed",
+    "title": "Optimal tree contest design and winner-take-all",
+    "year": 2025,
+    "author_ids": [
+      "144169919",
+      "11903009",
+      "2144403167",
+      "2319867951"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "b46af6d50dfc6febb7c324662d1920f26a277634",
+    "title": "A sharp characterization of equilibria in a tournament with performance and distinction standards",
+    "year": 2025,
+    "author_ids": [
+      "2253940445",
+      "144076150",
+      "145595684"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5733175339721d0d909a49c5a88879f786d1862b",
+    "title": "Tournaments with a Standard",
+    "year": 2024,
+    "author_ids": [
+      "145032781",
+      "2264247440",
+      "2274433136"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study tournaments where winning a rank-dependent prize requires passing a minimum performance standard. We show that, for any prize allocation, the optimal standard is always at a mode of performance that is weakly higher than the global mode and identify a necessary and sufficient condition for it to be at the global mode. When the prize scheme can be designed as well, the winner-take-all prize scheme is optimal for noise distributions with an increasing failure rate; and awarding equal prizes to all qualifying agents is optimal for noise distributions with a decreasing failure rate. For distributions with monotone likelihood ratios -- log-concave and log-convex, respectively -- these pay schemes are also optimal in a larger class of anonymous, monotone contracts that may depend on cardinal performance."
+  },
+  {
+    "paper_id": "586147653f2e998769dcd8e72f71b47448508200",
+    "title": "Driving the Innovation Race: Effect of Competitiveness in Crowdsourcing Contest",
+    "year": 2024,
+    "author_ids": [
+      "40615779",
+      "2299893365",
+      "40188499",
+      "2290083"
+    ],
+    "venue": "Journal of Management Information Systems",
+    "citation_count": 6,
+    "abstract": "ABSTRACT Given the imperative to innovate and stay ahead of their competition, organizations\u2014called \u201cseekers\u201d\u2014increasingly rely on the \u201cwisdom of the crowds\u201d to gain business insight. Motivated by monetary incentives, the desire to learn and the opportunity to enhance their reputation, \u201csolvers\u201d from the crowd participate in contests hosted by such seekers on crowdsourcing platforms. While the collective intelligence of the crowd is widely acknowledged to yield a diverse range of innovative solutions, the impact of the factors evoking contest competitiveness on the quality of these solutions remains unclear. Specifically, how competitiveness engendered by the interplay among the contest situational factors such as the nature of the contest\u2019s economic incentives, the number of solving teams involved, their proximities to the winning position (relative position), and the contest\u2019s complexity affects the solutions\u2019 quality is not well understood. To bridge this knowledge gap, our research examines the direct effects of the number of solving teams and prize inequality on performance and clarifies the moderating effect of task complexity. We also investigate how the direct effects change across the relative positions of the solving teams (e.g. high-performing versus low-performing teams). The study extends the boundaries of tournament literature by demonstrating how crowdsourcing contests evoke distinct behavioral responses compared to traditional tournaments. Practically, it provides novel insights for contest designers on crafting effective prize structures to optimize participant performance."
+  },
+  {
+    "paper_id": "d0eb743a7b75127e943a2dec52bc05bfe7c06c58",
+    "title": "Designing Scientific Grants",
+    "year": 2024,
+    "author_ids": [
+      "2107063591",
+      "2306949585",
+      "2166055037"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "This paper overviews the economics of scientific grants, focusing on the interplay between the inherent uncertainty in research, researchers' incentives, and grant design. Grants differ from traditional market systems and other science and innovation policy tools, such as prizes and patents. We outline the main economic forces specific to science, noting the limited attention given to grant funding in the economics literature. Using tools from information economics, we identify key incentive problems at various stages of the grant funding process and offer guidance for effective grant design. In the allocation stage, funders aim to select the highest-merit applications while minimizing evaluation costs. The selection rule, in turn, impacts researchers' incentives to apply and invest in their proposals. In the grant management stage, funders monitor researchers to ensure efficient use of funds. We discuss the advantages and potential pitfalls of (partial) lotteries and emphasize the effectiveness of staged grant design in promoting a productive use of grants. Beyond these broadly applicable insights, our overview highlights the need for further research on grantmaking. Understudied areas include, at the micro level, the interplay of different grant funding stages, and at the macro level, the interaction of grants with other instruments in the market for science."
+  },
+  {
+    "paper_id": "958d023840e68dec25722180dbc2b7e11e8e9b7c",
+    "title": "How Competition Shapes Peer Effects: Evidence from a University in China",
+    "year": 2024,
+    "author_ids": [
+      "2144340164",
+      "2111189459"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 9,
+    "abstract": "\n Competition is widely used to enhance effort and performance. However, in many domains, like education, competition could backfire, as performance is not solely reliant on individual efforts but also on collaboration endeavors among peers. Utilizing university administrative data, we examine how competition changes peer effects and peer interactions. Exploiting randomly assigned roommates, we first demonstrate that high-ability roommates have detrimental effects on the academic performance of high-ability students. More importantly, such negative peer effects significantly increase along various dimensions of competition intensity within dorm rooms. Follow-up survey findings reveal that competition hinders mutual assistance and fosters unfriendly behaviors among roommates."
+  },
+  {
+    "paper_id": "61c76c1b2b5e9617c5807944760b2df982b9bb0a",
+    "title": "How strength asymmetries shape multi-sided conflicts",
+    "year": 2024,
+    "author_ids": [
+      "1404166019",
+      "122378087"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 6,
+    "abstract": "Governments and multilateral organisations often attempt to influence multi-sided violent conflicts by supporting or undermining one of the conflicting parties. We investigate the (intended and unintended) consequences of strengthening or weakening an agent in a multi-sided conflict. Using a conflict network based on Franke and \u00d6zt\u00fcrk (J Public Econ 126:104\u2013113, 2015), we study how changing the strength of otherwise symmetric agents creates knock-on effects throughout the network. Increasing or decreasing an agent\u2019s strength has the same unintended consequences. Changes in the strength of an agent induce a relocation of conflict investments: Distant conflicts are carried out more fiercely. In line with previous results, asymmetry reduces aggregate conflict investments. In the case of bipartite networks, with two conflicting tacit groups with aligned interests, agents in the group of the (now) strong or weak agent face more intense conflicts. Furthermore, in conflicts where the (now strong or weak) agent is not involved, the probabilities of winning remain unchanged compared to the symmetric case."
+  },
+  {
+    "paper_id": "e8da94a72115b691535f6b08f119efff2309258e",
+    "title": "Success functions in large contests",
+    "year": 2024,
+    "author_ids": [
+      "2545357",
+      "2290910089"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 1,
+    "abstract": "We consider contests with a large set (continuum) of participants and axiomatize contest success functions that arise when performance is composed of both effort and a random element, and when winners are those whose performance exceeds a cutoff determined by a market clearing condition. A co-monotonicity property is essentially all that is needed for a representation in the general case, but significantly stronger conditions must hold to obtain an additive structure. We illustrate the usefulness of this framework by revisiting some of the classic questions in the contests literature."
+  },
+  {
+    "paper_id": "e5c9421e029bef5facb53b933336acc098ff1a5e",
+    "title": "Coupling Information Disclosure with a Quality Standard in R&D Contests",
+    "year": 2024,
+    "author_ids": [
+      "2055942735",
+      "144169919",
+      "34979384",
+      "50021363"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "We study two\u2010player R&D contest design using both an information disclosure policy and a quality standard as instruments. The ability of an innovator is known only to himself. The organizer commits ex\u2010ante to a minimum quality standard and whether to have innovators' abilities publicly revealed before they conduct R&D activities. We find that without quality standards, fully concealing innovators' abilities elicits both higher expected aggregate quality and expected highest quality. With optimally set quality standards, although fully concealing ability information still elicits higher expected aggregate quality, fully disclosing this information leads to a higher level of expected highest quality. Moreover, the optimal quality standards are compared across different objectives and disclosure policies."
+  },
+  {
+    "paper_id": "7f17346cec37fecb5cedaa8fa0fd50261bc40a4b",
+    "title": "Multi-agent contract design with a budget",
+    "year": 2024,
+    "author_ids": [
+      "5666351",
+      "1412529107"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We study a multi-agent contract design problem with moral hazard. In our model, each agent exerts costly effort towards an individual task at which it may either succeed or fail, and the principal, who wishes to encourage effort, has an exclusive-use budget that it can use to reward the agents. A motivating application is crowdsourcing for innovation, where a fixed budget is provided to a crowdsourcing platform to use for rewarding participants based on their submissions. Our main contribution is to introduce a novel class of contracts, which we call Luce contracts, and show that there is always a Luce contract that is optimal. A (generic) Luce contract assigns weights to the agents and distributes the entire budget among the successful agents in proportion to their weights. Furthermore, we characterize effort profiles that can be implemented by Luce contracts and show that Luce contracts offer a way to mitigate the uncertainty in total payments compared to alternative contracts-such as piece-rate or bonus-pool contracts-suggesting their desirability even in environments without budget constraints."
+  },
+  {
+    "paper_id": "7edfd34195998899f648bab83886c03eea1bfa1f",
+    "title": "Tournaments, Contestant Heterogeneity and Performance",
+    "year": 2024,
+    "author_ids": [
+      "1379769736",
+      "2278831154"
+    ],
+    "venue": "Journal of Political Economy Microeconomics",
+    "citation_count": 1,
+    "abstract": "Tournaments are frequently used incentive mechanisms to enhance performance. In this paper, we use field data and show that skill disparities among contestants asymmetrically affect the performance of contestants. Skill disparities have detrimental effects on the performance of the lower-ability contestant but positive effects on the performance of the higher-ability contestant. We discuss the potential of different behavioral approaches to explain our findings and discuss the implications of our results for the optimal design of contests. Beyond that, our study reveals two important empirical results: (a) affirmative action-type policies may help to mitigate the adverse effects on lower-ability contestants, and (b) the skill level of potential future contestants in subsequent tournament stages can detrimentally influence the performance of higher-ability contestants but does not affect the lower-ability contestant."
+  },
+  {
+    "paper_id": "8d5f18ab1da5031e255c587dffc9cf87776fd1be",
+    "title": "Multiple prizes in tournaments with career concerns",
+    "year": 2023,
+    "author_ids": [
+      "1403118107",
+      "2242621858"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d82f7cfdc016893b4a4b9e0d96f334a026fad250",
+    "title": "Asymmetric shocks in contests: Theory and experiment",
+    "year": 2023,
+    "author_ids": [
+      "2141256483",
+      "2261445548"
+    ],
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "740665660a35b705d86bda484096dbd72931979d",
+    "title": "The importance of quality in austere times: University competitiveness and grant income",
+    "year": 2023,
+    "author_ids": [
+      "2248195708",
+      "2248320205",
+      "3380280",
+      "1795135"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "After 2009 many governments implemented austerity measures, often restricting science funding. Did such restrictions further skew grant income towards elite scientists and universities? And did increased competition for funding undermine participation? UK science funding agencies significantly reduced numbers of grants and total grant funding in response to austerity, but surprisingly restrictions of science funding were relaxed after the 2015 general election. Exploiting this natural experiment, we show that conventional measures of university competitiveness are poor proxies for competitiveness. An alternative measure of university competitiveness, drawn from complexity science, captures the highly dynamical way in which universities engage in scientific subjects. Building on a data set of 43,430 UK funded grants between 2006 and 2020, we analyse rankings of UK universities and investigate the effect of research competitiveness on grant income. When austerity was relaxed in 2015 the elasticity of grant income w.r.t. research competitiveness fell, reflecting increased effort by researchers at less competitive universities. These scientists increased number and size of grant applications, increasing grant income. The study reveals how funding agencies, facing heterogeneous competitiveness in the population of scientists, affect research effort across the distribution of competitiveness."
+  },
+  {
+    "paper_id": "78aca1bcfee4a55432b96d1e97bf3f43d34f9724",
+    "title": "The dark side of transparency: When hiding in plain sight works",
+    "year": 2023,
+    "author_ids": [
+      "72584559",
+      "2320634637"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "93cd4afc908a3b529ab5e1fc38b2c85b57267a68",
+    "title": "On equilibrium uniqueness in generalized multi-prize nested lottery contests",
+    "year": 2023,
+    "author_ids": [
+      "48889258",
+      "40984557",
+      "2109451212"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "a82652290be18f7a9ab9cb7e98f0700edbb95124",
+    "title": "Mechanism Design under Costly Signaling: the Value of Non-Coordination",
+    "year": 2023,
+    "author_ids": [
+      "2716214",
+      "2099990230"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We study allocation mechanisms that utilize costly signaling as a screening tool. A social planner aims to maximize social welfare, defined as the weighted sum of agents'utilities, while implementing a specific allocation rule. Within a broad class of agent preferences, we show that coordination mechanisms (where recommended signals depend on joint reports) can be outperformed by non-coordination mechanisms (where signals depend solely on individual reports). We formalize the conditions under which the optimal mechanism features no coordination and demonstrate that such mechanisms are implementable through coarse-ranking contests."
+  },
+  {
+    "paper_id": "1987b0e212cd444d62934c459ee6b1fe35bfa581",
+    "title": "Optimal contest design: Tuning the heat",
+    "year": 2023,
+    "author_ids": [
+      "116908873",
+      "2135624158",
+      "6504025"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 18,
+    "abstract": "We consider the design of contests when the principal can choose both the prize pro\ufb01le and how the prizes are allocated as a function of a possibly noisy signal about the agents\u2019 e\ufb00orts. We provide su\ufb03cient conditions that guarantee optimality of a contest. Optimal contests have a minimally competitive prize pro\ufb01le and an intermediate degree of competitiveness in the contest success function. Whenever observation is not too noisy, the optimum can be achieved by an all-pay auction with a cap. When observation is perfect, the optimum can also be achieved by a nested Tullock contest. We relate our results to a recent literature which has asked similar questions but has typically focused on the design of either the prize pro\ufb01le or the contest success function."
+  },
+  {
+    "paper_id": "ebe1cb912ead2712f89b6b920c0bc57df5f259df",
+    "title": "Contest Design with Stochastic Performance",
+    "year": 2023,
+    "author_ids": [
+      "144472433"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 8,
+    "abstract": "This paper studies optimal contest design in contests with noisy performance. Here, contest design is a team moral hazard problem that endogenizes the assignment rule that maps performance profiles into winning probabilities. The optimal design features endogenous standards for eligibility, and the number of prizes that are awarded may be stochastic. Generally, one group of agents is identified as \u201cfirst claimants\u201d of prizes, contingent on performance exceeding a threshold of excellence. However, which group wins prizes more often depends on the designer\u2019s objective function and the performance technologies. Finally, the approach derives endogenous, microfounded, and fully optimal contest success functions. (JEL D44, D82)"
+  },
+  {
+    "paper_id": "6a17ea11fcd114b2fcf36fb792369055545cd9a8",
+    "title": "Optimal orchestration of rewards and punishments in rank-order contests",
+    "year": 2022,
+    "author_ids": [
+      "48265485",
+      "34979384"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 10,
+    "abstract": "We allow negative prizes and investigate e\u2044ort-maximizing prize design in rank-order contests with incomplete information. Endogenous participation arises due to less-e\u00a2 cient types(cid:146)incentive to avoid punishments. The optimum features winner-take-all for the best performer and at most one punishment for the worst performer among all potential contestants, whenever they enter the competition. Based on this, we then (1) provide a necessary and su\u00a2 cient condition for the optimality of pure winner-take-all without punishment; (2) show that the optimal entry threshold increases with the total number of contestants and converges to the Myerson cuto\u2044 in the limit."
+  },
+  {
+    "paper_id": "d30a3ab20cc228735e855b3271989098f7147602",
+    "title": "Social undermining as a dark side of symbolic awards: Evidence from a regression discontinuity design",
+    "year": 2022,
+    "author_ids": [
+      "2108970435",
+      "1739841613"
+    ],
+    "venue": "Organizational Behavior and Human Decision Processes",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "5c974490bd12c3d358ea3a90a2c929fd1574e98f",
+    "title": "Introduction to the Special Issue on Contests",
+    "year": 2022,
+    "author_ids": [
+      "2588024",
+      "2205251"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "71b09ef7fb85c13e61fcf9ed8deec504a73ec2f8",
+    "title": "Contest divisioning",
+    "year": 2022,
+    "author_ids": [
+      "27047600",
+      "3307359"
+    ],
+    "venue": "Review of Economic Design",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "d0dbc3cb543797a66196be0ee0df49ff73bbdcad",
+    "title": "Prizes and effort in contests with private information",
+    "year": 2022,
+    "author_ids": [
+      "5666351"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "Contests are situations in which agents compete with one another by exerting costly effort to win valuable prizes. In this paper, we consider contest environments where participants have private information about their ability and the contest designer can manipulate the values of different prizes to influence the effort exerted by them. In such environments, with the goal of understanding how different contests compare in terms of the effort they induce, we study the effect of two different interventions on effort: (1) increase in value of prizes (2) increase in competition (transfer of value from worse to better prizes) The effect of increasing the value of a prize on effort depends upon the rank of the prize. While increasing the value of the first prize encourages effort for all agent types and increasing the value of the last prize discourages effort for all agent types, the effect of increasing the value of any intermediate prize depends qualitatively on the distribution of abilities in the population. More precisely, we find that if the density of agents is increasing in ability so that productive agents are more likely than unproductive agents, increasing any intermediate prize discourages effort. And if the density of agents is decreasing in ability so that unproductive agents are more likely than productive agents, increasing any intermediate prize encourages effort. Intuitively, this is because increasing any intermediate prize reduces effort of the most productive agents while increasing the effort of the less productive agents. The overall expected effect then depends on the relative likelihood of the more productive and less productive agents."
+  },
+  {
+    "paper_id": "4a6f4b63d038d03ad71ee190ef4515d842a42ae3",
+    "title": "Team Diversity and Incentives",
+    "year": 2022,
+    "author_ids": [
+      "37487046",
+      "2087348"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 4,
+    "abstract": "This paper analyzes how the degree of task-related team diversity influences the team outcome. The focus is on a novel benefit of team diversity that does not depend on complementary skills or mutual learning. We consider a multiagent setting where the employer makes use of career competition to motivate the team. Our analysis reveals incentive effects that do not exist in the well-studied case of teams of size 2. In teams with more than two members, diversity may have a positive effect on the efforts of some members although diversity leads to unbalanced career competition. As a consequence, expected profits are higher under a moderate degree of diversity compared with a situation with completely homogeneous agents. This result shows that the employer prefers a positive degree of diversity for pure incentive reasons. This paper was accepted by Suraj Srinivasan, accounting."
+  },
+  {
+    "paper_id": "f4ecdac7a50cac5e526a0dd4cc8aee493ffdda01",
+    "title": "On equilibrium existence in generalized multi-prize nested lottery contests",
+    "year": 2021,
+    "author_ids": [
+      "48889258",
+      "40984557",
+      "2109451212"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "0a05d08d0ae997bce8db9610df7ebe3d08419ea7",
+    "title": "Strategic Ranking",
+    "year": 2021,
+    "author_ids": [
+      "1748108610",
+      "2779427",
+      "1721812"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citation_count": 22,
+    "abstract": "Strategic classification studies the design of a classifier robust to the manipulation of input by strategic individuals. However, the existing literature does not consider the effect of competition among individuals as induced by the algorithm design. Motivated by constrained allocation settings such as college admissions, we introduce strategic ranking, in which the (designed) individual reward depends on an applicant's post-effort rank in a measurement of interest. Our results illustrate how competition among applicants affects the resulting equilibria and model insights. We analyze how various ranking reward designs, belonging to a family of step functions, trade off applicant, school, and societal utility, as well as how ranking design counters inequities arising from disparate access to resources. In particular, we find that randomization in the reward design can mitigate two measures of disparate impact, welfare gap and access."
+  },
+  {
+    "paper_id": "7d8f79b5fd69988a9e588415b73db46486fa2977",
+    "title": "Optimality of winner-take-all contests: the role of attitudes toward risk",
+    "year": 2021,
+    "author_ids": [
+      "40241820",
+      "3434975"
+    ],
+    "venue": "Journal of Risk and Uncertainty",
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "950be427d3edfbbef0aabacfae506078eb36e02c",
+    "title": "Optimal Feedback in Contests",
+    "year": 2021,
+    "author_ids": [
+      "2281491",
+      "143702503",
+      "2119496925",
+      "48520541"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 23,
+    "abstract": "We derive an optimal dynamic contest for environments where effort can be monitored only through a coarse, binary performance measure and the principal chooses prize-allocation and termination rules together with a real-time feedback policy for the contestants. The optimal contest takes a stark cyclical form: contestants are kept fully apprised of their own successes, and at the end of each fixed-length cycle, if at least one agent has succeeded, the contest ends and the prize is shared equally among all successful agents irrespective of when they succeeded; otherwise, the designer informs all contestants that nobody has yet succeeded and the contest resets. Applications include promotions, innovation contests, and proof-of-work protocols."
+  },
+  {
+    "paper_id": "2b546580a4fa7e1de8bb4ff0b48da15485833719",
+    "title": "Mean Field Contest with Singularity",
+    "year": 2021,
+    "author_ids": [
+      "2929976",
+      "2108472097"
+    ],
+    "venue": "Mathematics of Operations Research",
+    "citation_count": 5,
+    "abstract": "We formulate a mean field game where each player stops a privately observed Brownian motion with absorption. Players are ranked according to their level of stopping and rewarded as a function of their relative rank. There is a unique mean field equilibrium, and it is shown to be the limit of associated n-player games. Conversely, the mean field strategy induces n-player \u03b5-Nash equilibria for any continuous reward function\u2014but not for discontinuous ones. In a second part, we study the problem of a principal who can choose how to distribute a reward budget over the ranks and aims to maximize the performance of the median player. The optimal reward design (contract) is found in closed form, complementing the merely partial results available in the n-player case. We then analyze the quality of the mean field design when used as a proxy for the optimizer in the n-player game. Surprisingly, the quality deteriorates dramatically as n grows. We explain this with an asymptotic singularity in the induced n-player equilibrium distributions."
+  },
+  {
+    "paper_id": "f836fff7b79cbdb45f3ab684b79d396671d6a41a",
+    "title": "Reward Design in Risk-Taking Contests",
+    "year": 2021,
+    "author_ids": [
+      "2929976",
+      "2108472097"
+    ],
+    "venue": "SIAM Journal on Financial Mathematics",
+    "citation_count": 8,
+    "abstract": "Following the risk-taking model of Seel and Strack, $n$ players decide when to stop privately observed Brownian motions with drift and absorption at zero. They are then ranked according to their level of stopping and paid a rank-dependent reward. We study the problem of a principal who aims to induce a desirable equilibrium performance of the players by choosing how much reward is attributed to each rank. Specifically, we determine optimal reward schemes for principals interested in the average performance and the performance at a given rank. While the former can be related to reward inequality in the Lorenz sense, the latter can have a surprising shape."
+  },
+  {
+    "paper_id": "8bf8bd12597e9c9805598ce487d1e71776816994",
+    "title": "Money as a weapon: Financing a winner-take-all competition",
+    "year": 2021,
+    "author_ids": [
+      "143700382",
+      "1739135910"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "Abstract We investigate the capital structure of pioneering startup firms, which are frequently credited with opening new markets and niches in the digital era and often face the threat of the potential entry of successful, cash-rich firms from adjacent markets. Our analysis is made in the context of a winner-take-all competition in the form of an all-pay auction for the monopolistic position in a new market. We show that a pioneer's optimal capital structure exhibits widespread diversity and is determined by a tradeoff between entry deterrence and post-entry competition intensification. A pure-equity (a mixture of equity and risky debt) structure is optimal when (1) barriers to entry are small (large), (2) the future prospect of the new market is fairly certain and/or, (3) the new market is likely (unlikely) to create large externalities on the potential entrant's existing business. The post-entry competition is likely to engender large losses to both the winner and the loser."
+  },
+  {
+    "paper_id": "940f8f86e6fe050a010d963cbd1cec3884528db9",
+    "title": "On optimal favoritism in all-pay contests",
+    "year": 2021,
+    "author_ids": [
+      "2075371392"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": "Abstract I analyze the optimal favoritism in a complete-information all-pay contest with two players, whose costs of effort are weakly convex. The contest designer could favor or harm some contestants using one of two instruments: head starts and handicaps. I find that any given player\u2019s effort distribution is ranked in the sense of first-order stochastic dominance according to how (ex post) symmetric the players are in terms of competitiveness. Consequently, as long as the designer values effort from both contestants, \u201cleveling the playing field\u201d is optimal regardless of which instrument is used."
+  },
+  {
+    "paper_id": "b2c4bbf11db0d87147cf4eeaa387dee6515f2933",
+    "title": "Creativity and Corporate Culture",
+    "year": 2020,
+    "author_ids": [
+      "1739997",
+      "47110213"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 16,
+    "abstract": "\n We investigate which form of corporate culture is most effective in enhancing individual performance in creative tasks conducted in group settings. We combine a series of experiments with a questionnaire on corporate values to test whether performance ranking and incentives succeed in instantiating a creative corporate culture. Being ranked against competitors and setting incentives at the group level serves as a social cue that appears to induce in members a significantly stronger pro-social attitude. When this attitude is shared by group members, a social norm of high effort emerges, and creative performance is significantly higher."
+  },
+  {
+    "paper_id": "5b4dbecf6c37c3c945cba4c2658fc73239de6e3e",
+    "title": "Tournament rewards and heavy tails",
+    "year": 2020,
+    "author_ids": [
+      "145032781",
+      "145167921"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 36,
+    "abstract": "Heavy-tailed fluctuations are common in many environments, such as sales of creative and innovative products or the financial sector. We study how the presence of heavy tails in the distribution of shocks affects the optimal allocation of prizes in rank-order tournaments. While a winner-take-all prize schedule maximizes aggregate effort for light-tailed shocks, prize sharing becomes optimal when shocks acquire heavy tails, increasingly so following a skewness order. Extreme prize sharing { rewarding all ranks but the very last { is optimal when shocks have a decreasing failure rate, such as power laws. Hence, under heavy-tailed uncertainty, typically associated with strong inequality in the distribution of gains, providing incentives and reducing inequality go hand in hand."
+  },
+  {
+    "paper_id": "2023660e8a7cfc51891786c4df5135836d680af0",
+    "title": "Grantmaking",
+    "year": 2020,
+    "author_ids": [
+      "2071735995",
+      "2057075382"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "d82e4e778a183bbc56de90070944a7aabca1b677",
+    "title": "Gambling in Risk-Taking Contests: Experimental Evidence",
+    "year": 2020,
+    "author_ids": [
+      "2418923711",
+      "2411700570",
+      "2418923284"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "This paper experimentally investigates excessive risk taking in contest schemes by implementing a novel stopping task based on Seel and Strack (2013). In this stylized setting, managers with contest payoffs have an incentive to delay halting projects with a negative expectation, with the induced inefficiency being highest for a moderately negative drift. The experiment systematically varies the negative drift (between-subjects) and the payoff incentives (within-subject). We find evidence for excessive risk taking in all our treatment conditions, with the non-monotonicity at least as problematic as predicted. Contrary to the theoretical predictions, this aggregate pattern of behaviour is seen even without contest incentives. Further analysis suggests that many subjects display behaviour consistent with some intrinsic motivation for taking risk. This intrinsic motive and the strategic motive for excessive risk taking reinforce the non-monotonicity. The experiment uncovers a behavioural nuance where contest incentives crowd out an intrinsic inclination to gamble."
+  },
+  {
+    "paper_id": "ac6db842beade6e1bf332fae78a664cd1664867b",
+    "title": "Delegating performance evaluation",
+    "year": 2020,
+    "author_ids": [
+      "116908873",
+      "48641961",
+      "6504025"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 20,
+    "abstract": "We study optimal incentive contracts with multiple agents when performance is evaluated by a reviewer. The reviewer may be biased in favor of the agents, but the degree of bias is unknown to the principal. We show that a contest, which is a contract in which the principal fixes a set of prizes to be allocated to the agents, is optimal. By using a contest, the principal can commit to sustaining incentives despite the reviewer's potential leniency bias. The optimal effort profile can be uniquely implemented by an all\u2010pay auction with a cap. Our analysis has implications for various applications, such as the design of worker compensation or the allocation of research grants."
+  },
+  {
+    "paper_id": "0c7ffe5c2847a82ce033d453c747b4d76b28a4bc",
+    "title": "Large contests without single crossing",
+    "year": 2020,
+    "author_ids": [
+      "2023086",
+      "48077125"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "135b798a306442a5c04c966e85a02e971d207d8f",
+    "title": "A General Framework for Studying Contests",
+    "year": 2019,
+    "author_ids": [
+      "70621620",
+      "1751677",
+      "2541409"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 11,
+    "abstract": "We develop a general framework for studying contests, including the well-known models of Tullock(1980) and Lazear & Rosen (1981) as special cases. The contest outcome depends on players\u00e2\u20ac\u2122 efforts and skills, the latter being subject to symmetric uncertainty. The model is tractable, because asymmetric equilibrium exists under general assumptions regarding production technologies and skill distributions. Using a link between our contest model and expected utility theory, we are able to derive new comparative statics results regarding how the size and composition of contests affect equilibrium effort, showing how standard results can be overturned. We also discuss the robustness ofour results to changes in the information structure and the implications of our findings for the optimal design of teams."
+  },
+  {
+    "paper_id": "109089b8636fc8171d91b2762e357bd183030e9e",
+    "title": "Terminal Ranking Games",
+    "year": 2019,
+    "author_ids": [
+      "144781380",
+      "2108472097"
+    ],
+    "venue": "Mathematics of Operations Research",
+    "citation_count": 13,
+    "abstract": "We analyze a mean field tournament: a mean field game in which the agents receive rewards according to the ranking of the terminal value of their projects and are subject to cost of effort. Using Schr\u00f6dinger bridges we are able to explicitly calculate the equilibrium. This allows us to identify the reward functions which would yield a desired equilibrium and solve several related mechanism design problems. We are also able to identify the effect of reward inequality on the players\u2019 welfare as well as calculate the price of anarchy."
+  },
+  {
+    "paper_id": "7a080a909a5c8c62208d427c9a4cd858d99864f0",
+    "title": "Symbolic Awards at Work: A Regression Discontinuity Design",
+    "year": 2018,
+    "author_ids": [
+      "2108970435",
+      "1739841613"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "6ece57e9f66a8124f34ff8968a7a6f5ff9411cef",
+    "title": "Optimal contests with incomplete information and convex effort costs",
+    "year": 2024,
+    "author_ids": [
+      "50495997"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 10,
+    "abstract": "I investigate the design of effort\u2010maximizing mechanisms when agents have both private information and convex effort costs, and the designer has a fixed prize budget. I first demonstrate that it is always optimal for the designer to utilize a contest with as many participants as possible. Further, I identify a necessary and sufficient condition for the winner\u2010takes\u2010all prize structure to be optimal. When this condition fails, the designer may prefer to award multiple prizes of descending sizes. I also provide a characterization of the optimal prize allocation rule for this case. Finally, I illustrate how the optimal prize distribution evolves as the contest size grows."
+  },
+  {
+    "paper_id": "987c3955510d21b5e91c987134c9e26306065d60",
+    "title": "Misaligning Incentives in Teams: Unique Implementation with Optimal Monitoring",
+    "year": 2023,
+    "author_ids": [
+      "2088451090",
+      "83604817",
+      "122906039"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "1868cf58177082f0889306d6129d8f5c2af73658",
+    "title": "Costly participation and default allocations in all-pay contests",
+    "year": 2022,
+    "author_ids": [
+      "98538088",
+      "32083166"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "752bf197c3ded755454b49110fec22fb0c6e1560",
+    "title": "Optimal screening contests",
+    "year": 2022,
+    "author_ids": [],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b424136098c3f4370d677a913a570cad1c577669",
+    "title": "Heterogeneous Learning in Product Markets",
+    "year": 2021,
+    "author_ids": [
+      "2187597",
+      "104124540",
+      "152558690"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We study how market structures and asymmetries in learning technologies a \ufb00 ect trade in a product market. In this market, a new product of unknown quality is introduced to challenge an existing product of known quality. We show that market e \ufb03 ciency is achieved both under monopoly and competition if buyers are symmetric in the amount of information they generate when they consume the new product. If buyers are instead asymmetric, only the monopolistic market is e \ufb03 cient. We identify the ine \ufb03 ciencies and analyze their properties. Finally, we explore our results\u2019 robustness under di \ufb00 erent assumptions about the ability to price discriminate."
+  },
+  {
+    "paper_id": "8324a27973069064e67022514a07f2bb055458f4",
+    "title": "Optimal Contest Design: A General Approach",
+    "year": 2020,
+    "author_ids": [
+      "116908873",
+      "48641961",
+      "6504025"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "a2b8767f89c568c6700de9d00a7398e53dec1d38",
+    "title": "Lowering the bar and limiting the field : The effect of strategic risk-taking on selection contests \u2217",
+    "year": 2018,
+    "author_ids": [
+      "1739135910",
+      "2752253"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "d28b2dac86e80469faeff191bb03607efc62508f",
+    "title": "Less competition, more meritocracy?\u2217",
+    "year": 2018,
+    "author_ids": [
+      "1739135910",
+      "2752253"
+    ],
+    "venue": null,
+    "citation_count": 18,
+    "abstract": null
+  }
+]

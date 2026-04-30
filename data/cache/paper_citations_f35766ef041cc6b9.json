@@ -1,0 +1,393 @@
+[
+  {
+    "paper_id": "b5ff00e346e938cd6ebfe4557dbfb492a674cbcc",
+    "title": "Sequential Sampling by Individuals and Groups: An Experimental Study",
+    "year": 2025,
+    "author_ids": [
+      "123224156",
+      "2046436",
+      "2846044",
+      "2260293670",
+      "2259295881"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 0,
+    "abstract": "Many committees\u2014juries, political task forces, etc.\u2014spend time gathering costly information before reaching a decision. We report results from lab experiments focused on such dynamic information-collection processes, as in sequential hypothesis testing. We consider decisions governed by individuals and groups and compare how voting rules affect outcomes. Several insights emerge. First, average decision accuracies approximate those predicted theoretically, but these accuracies decline over time: Participants display nonstationary behavior. Second, groups generate markedly different outcomes than individuals, with majority rule yielding faster and less accurate decisions. In particular, welfare is higher when sequential information is collected in groups using unanimity. (JEL C83, D71, D72, D83)"
+  },
+  {
+    "paper_id": "11f4e6f8566460bdb58ab728a0d20dc96fb156bb",
+    "title": "Uncovering Correlation Sensitivity in Decision Making Under Risk",
+    "year": 2025,
+    "author_ids": [
+      "2135991473",
+      "2292968993"
+    ],
+    "venue": "International Economic Review",
+    "citation_count": 1,
+    "abstract": "\n Allowing risk preferences to depend on the correlation between lottery outcomes can explain behavioral anomalies, while empirical evidence is limited and mixed. Using the framework of correlation sensitivity, we classify preferences into three types and adapt a choice task to categorize subjects. Experiments show that aggregate choices exhibit correlation sensitivity opposite to regret and salience theory predictions. Clustering analysis reveals that a correlation\u2010sensitive minority drives these patterns, while most subjects display no sensitivity. We further disentangle deliberate within\u2010state comparisons from incidental payoff comparisons, finding that both contribute to correlation sensitivity, with deliberate comparisons exerting slightly stronger\u00a0effects."
+  },
+  {
+    "paper_id": "971345b6c799538e5aab3a7205b43e929b54a375",
+    "title": "At the Top of the Mind: Peak Prices and the Disposition Effect",
+    "year": 2025,
+    "author_ids": [
+      "1411677589",
+      "2304061857",
+      "8076642",
+      "2242936470",
+      "2366591951"
+    ],
+    "venue": "Journal of Political Economy Microeconomics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "dfefcb3860991682a3c0aa607a36351a7e5aff0e",
+    "title": "Limits on Regret as a Tool for Incentive Design",
+    "year": 2024,
+    "author_ids": [
+      "2313776254",
+      "1859401",
+      "2325366311"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We demonstrate the pitfalls when extrapolating behavioral findings across different contexts and decision environments. We focus on regret theory and the use of \u201cregret lotteries\u201d for motivating behavior change. Here, findings from one-shot settings have been used to promote regret as a tool to boost incentives in recurrent decisions across many settings. Using theory and experiments, we replicate regret lotteries as the superior one-shot incentive; however, for repeated decisions the comparative static is entirely reversed. Moreover, the effects are extremely sensitive to details of regret implementation. Our results suggest caution should be used when designing incentive schemes that exploit regret."
+  },
+  {
+    "paper_id": "65b471fa4b9deaaa37cbf990799b8d6b5d4d3786",
+    "title": "Make Hay While the Sun Shines: An Empirical Study of Maximum Price, Regret and Trading Decisions",
+    "year": 2024,
+    "author_ids": [
+      "13970131",
+      "73769006",
+      "1832209"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "\n Time-constant trading thresholds are optimal for a large class of preferences and asset price dynamics, including Expected Utility and the S-shaped reference-dependent utility of Prospect Theory. Such thresholds imply selling stocks at the maximum price since purchase. We use a large discount brokerage dataset containing US households\u2019 trading records between 1991 and 1996 to document that in 31.6% of cases the stocks sold for a gain are sold on the day when the maximum since purchase occurs. However, not all stocks are sold at a maximum since purchase and the propensity to sell changes depending on how far in time and price the stock is with respect to this past maximum. We find that the propensity to sell initially increases as the price is closer to the past maximum but it then decreases when the price gets in the closest region to the past maximum, leading to an inverse U-shape; and that investors are less likely to sell a gain, the further away in time the maximum price occurred. Studying the joint effect of price and time distance, we find that the propensity to sell is highest at low time distance and high price distance from the maximum since purchase. We relate these findings to regret, belief updating, and attention."
+  },
+  {
+    "paper_id": "392acd0c421d82736b8a986c4144b300886bfe36",
+    "title": "Gender Differences in Job Search and the Earnings Gap: Evidence from the Field and Lab",
+    "year": 2023,
+    "author_ids": [
+      "119763981",
+      "84353204",
+      "119398937",
+      "2863373",
+      "51295836"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 53,
+    "abstract": "\n This article investigates gender differences in the job search process in the field and lab. Our analysis is based on rich information on initial job offers and acceptances from undergraduates of Boston University\u2019s Questrom School of Business. We find (i) a clear gender difference in the timing of job offer acceptance, with women accepting jobs substantially earlier than men, and (ii) a sizable gender earnings gap in accepted offers, which narrows in favor of women over the course of the job search period. To understand these patterns, we develop a job search model that incorporates gender differences in risk aversion and overoptimism about prospective offers. We validate the model\u2019s assumptions and predictions using the survey data and present empirical evidence that the job search patterns in the field can be partly explained by the greater risk aversion displayed by women and the higher levels of overoptimism displayed by men. We replicate these findings in a laboratory experiment that features sequential job search and provide direct evidence on the purported mechanisms. Our findings highlight the importance of risk preferences and beliefs for gender differences in job-finding behavior and, consequently, early-career wage gaps among the highly educated."
+  },
+  {
+    "paper_id": "a620949ddf79eadfe29003bce122e4cb3b887e62",
+    "title": "Trusting promises under pressure",
+    "year": 2023,
+    "author_ids": [
+      "2209573785",
+      "9051955",
+      "2064794927",
+      "2144507025"
+    ],
+    "venue": "Economics Letters",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b5066a1feec4f5f8f65971a570ec6a4fbe11a36c",
+    "title": "Time pressure and regret in sequential search",
+    "year": 2023,
+    "author_ids": [
+      "118232778",
+      "2242096190",
+      "2051953087",
+      "1945740"
+    ],
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "56fc86f269e457ebca3d0cf4215d08318ceb40b4",
+    "title": "Technical Note - Risk-Averse Regret Minimization in Multistage Stochastic Programs",
+    "year": 2023,
+    "author_ids": [
+      "1394753327",
+      "3203751",
+      "3269854"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 8,
+    "abstract": "Regret minimization has gained popularity in a wide range of decision-making problems under uncertainty because of its capacity to identify more opportunistic solutions than worst-case value optimization. Unfortunately, the rigidity of current worst-case regret models and scarcity of tractable solution methods have been serious obstacles in multistage applications. In \u201cRisk-Averse Regret Minimization in Multistage Stochastic Programs,\u201d M. Poursoltani, E. Delage, and A. Georghiou consider a multistage stochastic programming setting with a discrete scenario tree. They introduce the notion of the \u0394-regret model, which bridges between the ex ante and ex post regret minimization paradigms that are currently used in the regret minimization literature for single-stage problems. The notion of \u0394-regret minimization is investigated for the first time both theoretically and numerically in order to better understand its behavior under a set of popular risk measures."
+  },
+  {
+    "paper_id": "5be9718e988091bae117f7e2c7f1c59ffd239699",
+    "title": "Dynamic Regret Avoidance",
+    "year": 2022,
+    "author_ids": [
+      "29804300",
+      "116011475",
+      "3320803"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 18,
+    "abstract": "In a stock market experiment, we examine how regret avoidance influences the decision to sell an asset while its price changes over time. Participants know beforehand whether they will observe the future prices after they sell the asset or not. Without future prices, participants are affected only by regret about previously observed high prices (past regret), but when future prices are available, they also avoid regret about expected after-sale high prices (future regret). Moreover, as the relative sizes of past and future regret change, participants dynamically switch between them. This demonstrates how multiple reference points dynamically influence sales. (JEL C91, G12, G41)"
+  },
+  {
+    "paper_id": "11a90613a81770e66d2b4836ef2c264fdcbdbf0d",
+    "title": "Influence of endogenous reference points on the selling decisions of retail investors",
+    "year": 2021,
+    "author_ids": [
+      "65818576",
+      "37032402",
+      "46310270"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "We examine the influence of the endogenous reference points on the selling decisions of investors in financial markets. The realized outcome and the counterfactual maximum are known to shape the reference formation of the decision-makers. Therefore, we investigate whether endogenous stock-specific reference points, \u2018realized-return\u2019, and \u2018peak-return\u2019 of the previous round of investment in a stock significantly influence the selling propensity when they repurchase the same stock, using trader-level data of stock investments. We find that the selling propensity rises significantly when the return in the repurchase round is close to the \u2018realized-return\u2019 and the \u2018peak-return\u2019 of the previous round. The results imply that the past stock-specific experience significantly influences reference formation. Furthermore, the influence of the reference points is greater for traders with a relatively short holding period. The influence of endogenous reference points also declines with the time between the consecutive rounds of investment in the same stock. Since traders are known to exhibit the recency effect, the findings suggest that traders attach lower decision weights to the stockspecific endogenous reference points with time. The stock-specific reference points have a greater impact on the decisions of traders holding concentrated portfolios than diversified portfolios, likely due to the lower division of attention when traders hold fewer stocks. The findings suggest that endogenous reference points shaped by context-specific memory have a significant influence on the trading decisions of market participants."
+  },
+  {
+    "paper_id": "e03b60b97ad890836d5da28a2b5552364f1e43b9",
+    "title": "Individual and Collective Information Acquisition: An Experimental Study",
+    "year": 2021,
+    "author_ids": [
+      "123224156",
+      "2046436",
+      "2846044",
+      "145554924",
+      "37452006"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": ","
+  },
+  {
+    "paper_id": "e1efdee95b91c192977b9ac85ac19865edb24be0",
+    "title": "Learning to hesitate",
+    "year": 2021,
+    "author_ids": [
+      "144389973",
+      "2032924",
+      "33281683"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "195dcf7d7975f2fdd3458b503183b25b2661fab6",
+    "title": "Optimal Stopping with Behaviorally Biased Agents: The Role of Loss Aversion and Changing Reference Points",
+    "year": 2021,
+    "author_ids": [
+      "3371403",
+      "2633757",
+      "145918049"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "One of the central human biases studied in behavioral economics is reference dependence - people's tendency to evaluate an outcome not in absolute terms but instead relative to a reference point that reflects some notion of the status quo [4]. Reference dependence interacts closely with a related behavioral bias, loss aversion, in which people weigh losses more strongly than gains of comparable absolute values. Taken together, these two effects produce a fundamental behavioral regularity in human choices: once a reference point has been established, people tend to avoid outcomes in which they experience a loss relative to the reference point. A well-known instance of the effect is the empirical evidence that individual investors will tend to avoid selling a stock unless it has exceeded the price at which they purchased it. In more complex examples, the reference may shift while an agent is making a decision. Consider for example an agent who is trying to make a large purchase or hire a job candidate, and does this by evaluating candidate options in one pass in a take-it-or-leave-it fashion - with each candidate they must either accept it and end the search, or give up on it as an option forever. Experimental studies by Schunk and Winter [7] show that people in this type of task behave consistently with the notion that they are maintaining a time-varying reference point equal to the best option they have seen so far. This means that if they settle for a candidate A that is worse than a candidate B that they have seen in the past, their utility from selecting A will be reduced by some notion of loss relative to the high reference point set by B. In these studies people operate so as to reduce the chance that they will choose a future option that is dominated by one that they have passed up."
+  },
+  {
+    "paper_id": "d82e4e778a183bbc56de90070944a7aabca1b677",
+    "title": "Gambling in Risk-Taking Contests: Experimental Evidence",
+    "year": 2020,
+    "author_ids": [
+      "2418923711",
+      "2411700570",
+      "2418923284"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "This paper experimentally investigates excessive risk taking in contest schemes by implementing a novel stopping task based on Seel and Strack (2013). In this stylized setting, managers with contest payoffs have an incentive to delay halting projects with a negative expectation, with the induced inefficiency being highest for a moderately negative drift. The experiment systematically varies the negative drift (between-subjects) and the payoff incentives (within-subject). We find evidence for excessive risk taking in all our treatment conditions, with the non-monotonicity at least as problematic as predicted. Contrary to the theoretical predictions, this aggregate pattern of behaviour is seen even without contest incentives. Further analysis suggests that many subjects display behaviour consistent with some intrinsic motivation for taking risk. This intrinsic motive and the strategic motive for excessive risk taking reinforce the non-monotonicity. The experiment uncovers a behavioural nuance where contest incentives crowd out an intrinsic inclination to gamble."
+  },
+  {
+    "paper_id": "e15c510e101df005d45693d01cffaadcd13202a2",
+    "title": "Randomised rules for stopping problems",
+    "year": 2020,
+    "author_ids": [
+      "145205253",
+      "102591987"
+    ],
+    "venue": "Journal of Applied Probability",
+    "citation_count": 5,
+    "abstract": "In a classical, continuous-time, optimal stopping problem the agent chooses the best time to stop a stochastic process in order the maximise the expected discounted return. The agent can choose when to stop and if at any moment they decide to stop, stopping occurs immediately with probability one. However, in many settings this is an idealistic oversimplification. Following Strack and Viefers we consider a modification of the problem in which stopping occurs at a rate which depends on the relative values of stopping and continuing: there are several different solutions depending on how the value of continuing is calculated. Initially we consider the case where stopping opportunities are constrained to be event times of an independent Poisson process. Motivated by the limiting case as the rate of the Poisson process increases to infinity, we also propose a continuous time formulation of the problem where stopping can occur at any instant."
+  },
+  {
+    "paper_id": "7f3f7eae10e76fab5ba0670a98eac8f6376775de",
+    "title": "Salience and Skewness Preferences",
+    "year": 2019,
+    "author_ids": [
+      "1399235113",
+      "104376329"
+    ],
+    "venue": "Journal of the European Economic Association",
+    "citation_count": 64,
+    "abstract": "\n Whether people seek or avoid risks on gambling, insurance, asset, or labor markets crucially depends on the skewness of the underlying probability distribution. In fact, people typically seek positively skewed risks and avoid negatively skewed risks. We show that salience theory of choice under risk can explain this preference for positive skewness, because unlikely, but outstanding payoffs attract attention. In contrast to alternative models, however, salience theory predicts that choices under risk not only depend on the absolute skewness of the available options, but also on how skewed these options appear to be relative to each other. We exploit this fact to derive novel, experimentally testable predictions that are unique to the salience model and that we find support for in two laboratory experiments. We thereby argue that skewness preferences\u2014typically attributed to cumulative prospect theory\u2014are more naturally accommodated by salience theory."
+  },
+  {
+    "paper_id": "478a0c22f5486387ec87daabe41d5ed39f3b6e53",
+    "title": "Make-or-break: chasing risky goals or settling for safe rewards?",
+    "year": 2019,
+    "author_ids": [
+      "2137006",
+      "22180363",
+      "2621084"
+    ],
+    "venue": "Annual Meeting of the Cognitive Science Society",
+    "citation_count": 5,
+    "abstract": "Humans regularly pursue activities characterized by dramatic success or failure outcomes where, critically, the chances of success depend on the time invested working toward it. How should people allocate time between such make-or-break challenges and safe alternatives, where rewards are more predictable (e.g., linear) functions of performance? We present a formal framework for studying time allocation between these two types of activities, and we\u00a0explore optimal behavior in both one-shot and dynamic versions of the problem. In the one-shot version, we illustrate striking discontinuities in the optimal time allocation policy as we gradually change the parameters of the decision-making problem. In the dynamic version, we formulate the optimal strategy-defined by a giving-up threshold-which adaptively dictates when people should stop pursuing the make-or-break goal. We then show that this strategy is computationally inaccessible for humans, and we\u00a0explore boundedly rational alternatives. We compare the performance of the optimal model against (a) a myopic giving-up threshold that is easier to compute, and even simpler heuristic strategies that either (b) only decide whether or not to start pursuing the goal and never give up or (c) consider giving up at a fixed number of control points. Comparing strategies across environments, we investigate the cost and behavioral implications of sidestepping the computational burden of full rationality."
+  },
+  {
+    "paper_id": "0cfe6d4fdaa16b9eb11b369ff5883fd88fd568cd",
+    "title": "Learning to hesitate",
+    "year": 2019,
+    "author_ids": [
+      "144389973",
+      "2032924",
+      "33281683"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 3,
+    "abstract": "We investigate how people make choices when they are unsure about the value of the options they face and have to decide whether to choose now or wait and acquire more information first. In an experiment, we find that participants deviate from optimal information acquisition in a systematic manner. They acquire too much information (when they should only collect little) or not enough (when they should collect a lot). We show that this pattern can be explained as naturally emerging from Fechner cognitive errors. Over time participants tend to learn to approximate the optimal strategy when information is relatively costly."
+  },
+  {
+    "paper_id": "dfa14ede129e1849139bb533dd3218736829db7b",
+    "title": "Probability weighting, stop-loss and the disposition effect",
+    "year": 2018,
+    "author_ids": [
+      "1832209",
+      "145205253",
+      "39610608"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 21,
+    "abstract": "In this paper we study a continuous-time, optimal stopping model of an asset sale with prospect theory preferences under pre-commitment. We show for a wide range of value and probability weighting functions, including those of Tversky and Kahneman (1992), that the optimal prospect takes the form of a stop-loss threshold and a distribution over gains. It is skewed with a long right tail. This is consistent with both the widespread use of stop-loss strategies in financial markets, and recent experimental evidence. Moreover, our model with probability weighting in tandem with the S-shaped value function makes predictions for the disposition effect which match in magnitude that calculated by Odean (1998)."
+  },
+  {
+    "paper_id": "c0f09b695309ee8512db490d2dd45cc9087963f6",
+    "title": "Cautious stochastic choice, optimal stopping and deliberate randomization",
+    "year": 2018,
+    "author_ids": [
+      "1832209",
+      "145205253",
+      "102591987"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 4,
+    "abstract": "We study cautious stochastic choice (CSC) agents facing optimal timing decisions in a dynamic setting. In an expected utility setting, the optimal strategy is always a threshold strategy\u2014to stop/sell the first time the price process exits an interval. In contrast, we show that in the CSC setting, where the agent has a family of utility functions and is concerned with the worst case certainty equivalent, the optimal strategy may be of non-threshold form and may involve randomization. We provide some carefully constructed examples, including one where we can solve explicitly for the optimal stopping rule and show it is a non-trivial mixture of threshold strategies. Our model is consistent with recent experimental evidence in dynamic setups whereby individuals do not play cut-off or threshold strategies."
+  },
+  {
+    "paper_id": "50531d2d6b2791bebab3fab3b5b6e625c460688b",
+    "title": "Regret theory and risk attitudes",
+    "year": 2017,
+    "author_ids": [
+      "29779702",
+      "1736084"
+    ],
+    "venue": "Journal of Risk and Uncertainty",
+    "citation_count": 45,
+    "abstract": null
+  },
+  {
+    "paper_id": "ecf2cbec8eb7255e8bbe0e52e861a70c9ede49c8",
+    "title": "Optimal Stopping and the Sufficiency of Randomized Threshold Strategies",
+    "year": 2017,
+    "author_ids": [
+      "1832209",
+      "145205253",
+      "102591987"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "In a classical optimal stopping problem the aim is to maximize the expected value of a functional of a diffusion evaluated at a stopping time. This note considers optimal stopping problems beyond this paradigm. We study problems in which the value associated to a stopping rule depends on the law of the stopped process. If this value is quasi-convex on the space of attainable laws then it is a well known result that it is sufficient to restrict attention to the class of threshold strategies. However, if the objective function is not quasi-convex, this may not be the case. We show that, nonetheless, it is sufficient to restrict attention to mixtures of threshold strategies."
+  },
+  {
+    "paper_id": "5e852b5257ced7d6af1e09d1793957f23e830762",
+    "title": "Eliciting Stopping Times",
+    "year": 2023,
+    "author_ids": [
+      "39266156",
+      "32694414"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e9f8d1a68ce979bd24635e265e9a9b58f0eecbf4",
+    "title": "Modeling hurricane evacuation behavior using a dynamic discrete choice framework",
+    "year": 2021,
+    "author_ids": [
+      "3429520",
+      "2437866",
+      "28354950"
+    ],
+    "venue": null,
+    "citation_count": 30,
+    "abstract": "Predicting evacuation related choices of households during a hurricane is of paramount importance to any emergency management system. Central to this problem is the identification of socio-demographic factors and hurricane characteristics that influence an individual\u2019s decision to stay or evacuate. However, decision makers in such conditions do not make a single choice but constantly evaluate current and anticipated conditions before opting to stay or evacuate. We model this behavior using a finite-horizon dynamic discrete choice framework in which households may choose to evacuate or wait in time periods prior to a hurricane\u2019s landfall. In each period, an individual\u2019s utility depends not only on his/her current choices and the present values of the influential variables, but also involves discounted expected utilities from future choices should one decide to postpone their decision to evacuate. Assuming generalized extreme value (GEV) errors, a nested algorithm involving a dynamic program and a maximum likelihood method is used to estimate model parameters. Panel data on households affected by Hurricane Gustav was fused with the National Hurricane Center\u2019s forecasts on the trajectory and intensity for the case study in the paper."
+  },
+  {
+    "paper_id": "587781864bd0047c890f6f34c5e3571ea2b7e8f7",
+    "title": "REVERSALS BETWEEN ONE-SHOT AND REPEATED DECISIONS IN INCENTIVE DESIGN: THE CASE OF REGRET",
+    "year": 2020,
+    "author_ids": [
+      "1859401",
+      "98100810",
+      "30316689"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "9cac66fdede06cec3ce2c36db3c7f2445d0cc15d",
+    "title": "Essays in Information Frictions and Financial Markets",
+    "year": 2019,
+    "author_ids": [
+      "9488274"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0e55596fe8ce04e67d094fcca671aea5a860829f",
+    "title": "When Choosing is Painful: A Psychological Opportunity Cost Model",
+    "year": 2018,
+    "author_ids": [
+      "102411647"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "552f255f257c4e955e7e9fc4c64749a1bd7f89f0",
+    "title": "Optimal hesitation, an experiment",
+    "year": 2017,
+    "author_ids": [
+      "144389973",
+      "2032924",
+      "33281683"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "da7a3f68e5e136673e4bf3b018a52306977e6a8c",
+    "title": "PREFERENCE REVERSALS BETWEEN ONE-SHOT AND REPEATED DECISIONS: THE CASE OF REGRET",
+    "year": 2017,
+    "author_ids": [
+      "98100810",
+      "30316689",
+      "52301474"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  }
+]

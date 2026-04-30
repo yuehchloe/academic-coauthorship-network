@@ -1,0 +1,156 @@
+[
+  {
+    "paper_id": "61541b4666fb86a6dc5f7a07b512db4a8402b4d4",
+    "title": "Machine Learning Workflow for Single-Cell Antimicrobial Susceptibility Testing of Klebsiella pneumoniae to Meropenem in Sub-Doubling Time",
+    "year": 2023,
+    "author_ids": [
+      "81533711",
+      "144249412",
+      "2162487066",
+      "15412218",
+      "115579762",
+      "5457802",
+      "1882587",
+      "2090131929",
+      "153909380",
+      "2469211"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "19713d6b9fe5e002abdb9e245eba8786d3cf0d61",
+    "title": "Optimal Diagonal Preconditioning: Theory and Practice",
+    "year": 2022,
+    "author_ids": [
+      "115579762",
+      "2257122740",
+      "7780249",
+      "145185457",
+      "47230320"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 10,
+    "abstract": "Preconditioning has long been a staple technique in optimization, often applied to reduce the condition number of a matrix and speed up the convergence of algorithms. Although there are many popular preconditioning techniques in practice, most lack guarantees on reductions in condition number. Moreover, the degree to which we can improve over existing heuristic preconditioners remains an important practical question. In this paper, we study the problem of optimal diagonal preconditioning that achieves maximal reduction in the condition number of any full-rank matrix by scaling its rows and/or columns. We first reformulate the problem as a quasi-convex problem and provide a simple algorithm based on bisection. Then we develop an interior point algorithm with $O(\\log(1/\\epsilon))$ iteration complexity, where each iteration consists of a Newton update based on the Nesterov-Todd direction. Next, we specialize to one-sided optimal diagonal preconditioning problems, and demonstrate that they can be formulated as standard dual SDP problems. We then develop efficient customized solvers and study the empirical performance of our optimal diagonal preconditioning procedures through extensive experiments on large matrices. Our findings suggest that optimal diagonal preconditioners can significantly improve upon existing heuristics-based diagonal preconditioners at reducing condition numbers and speeding up iterative methods. Moreover, our implementation of customized solvers, combined with a random row/column sampling step, can find near-optimal diagonal preconditioners for matrices up to size 200,000 in reasonable time, demonstrating their practical appeal."
+  },
+  {
+    "paper_id": "b5546e7edf3b6e655852e0cdfa08b11f86211ffd",
+    "title": "MorphoAST \u2013 A Machine Learning Workflow for Sub-Doubling Time 1 Single Cell Antimicrobial Susceptibility Testing",
+    "year": 2022,
+    "author_ids": [
+      "81533711",
+      "144249412",
+      "2162487066",
+      "115579762",
+      "15412218",
+      "5457802",
+      "1882587",
+      "4265282",
+      "153909380",
+      "2140456957"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "85a0053d60b351d7a7c2e853d8f21aca4c4cd848",
+    "title": "Semiparametric Estimation of Treatment Effects in Observational Studies with Heterogeneous Partial Interference",
+    "year": 2021,
+    "author_ids": [
+      "115579762",
+      "50824401",
+      "2121187577",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": "In many observational studies in social science and medicine, subjects or units are connected, and one unit's treatment and attributes may affect another's treatment and outcome, violating the stable unit treatment value assumption (SUTVA) and resulting in interference. To enable feasible estimation and inference, many previous works assume exchangeability of interfering units (neighbors). However, in many applications with distinctive units, interference is heterogeneous and needs to be modeled explicitly. In this paper, we focus on the partial interference setting, and only restrict units to be exchangeable conditional on observable characteristics. Under this framework, we propose generalized augmented inverse propensity weighted (AIPW) estimators for general causal estimands that include heterogeneous direct and spillover effects. We show that they are semiparametric efficient and robust to heterogeneous interference as well as model misspecifications. We apply our methods to the Add Health dataset to study the direct effects of alcohol consumption on academic performance and the spillover effects of parental incarceration on adolescent well-being."
+  },
+  {
+    "paper_id": "1e85377b4c62ee9eaadfdaff772dd85f331d7a9f",
+    "title": "Multi-action Offline Policy Learning with Bayesian Optimization",
+    "year": 2020,
+    "author_ids": [
+      "2064272741",
+      "115579762",
+      "79395527",
+      "47230320"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "85122898d48d5af0520ef92f0d379c3695137233",
+    "title": "Interpretable Personalization via Policy Learning with Linear Decision Boundaries",
+    "year": 2020,
+    "author_ids": [
+      "115579762",
+      "2165968215",
+      "47230320"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Problem de\ufb01nition: With the rise of the digital economy and an explosion of available information about consumers, e\ufb00ective personalization of goods and services has become a core business focus for companies to improve revenues and maintain a competitive edge. This paper studies the personalization problem through the lens of policy learning, where the goal is to learn a decision-making rule (a policy) that maps from consumer and product characteristics (features) to recommendations/treatments (actions) in order to optimize outcomes (rewards). We focus on using available historical data for o\ufb04ine learning with unknown data collection procedures, where a key challenge is the non-random assignment of recommendations. Moreover, in many business and medical applications, interpretability of a policy is essential. Methodology/results: We study the class of policies with linear decision boundaries to ensure interpretability, and propose learning algorithms using tools from causal inference to address unbalanced treatments. We propose several optimization schemes to solve the associated non-convex, non-smooth optimization problem, and \ufb01nd that a Bayesian optimization algorithm is fast and e\ufb00ective. We test our algorithm with extensive simulation studies and apply it to an anonymized online marketplace customer purchase dataset, where the learned policy outputs a personalized discount recommendation based on customer and product features in order to maximize gross merchandise value (GMV) for sellers. Our learned policy improves upon the platform\u2019s baseline by 88.2% in net sales revenue, while also providing informative insights on which features are important for the decision-making process, e.g., when \u201cAttribute 2\u201d is large, marginal increase in GMV is low for discounts higher than 10%. Managerial implications: Our \ufb01ndings suggest that our proposed policy learning framework using tools from causal inference and Bayesian optimization provides a promising practical approach to interpretable personalization across a wide range of applications."
+  },
+  {
+    "paper_id": "e1f2588ee4a7503aa2cf37f338ed50a92b0d0e65",
+    "title": "Federated Learning's Blessing: FedAvg has Linear Speedup",
+    "year": 2020,
+    "author_ids": [
+      "115579762",
+      "92077076",
+      "1682581",
+      "7719355",
+      "2310573731",
+      "47230320"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 62,
+    "abstract": null
+  },
+  {
+    "paper_id": "e93c9236323c360b697be57f6ac03a8bbec8ea76",
+    "title": "Diagonal Preconditioning: Theory and Algorithms",
+    "year": 2020,
+    "author_ids": [
+      "115579762",
+      "145185457",
+      "47230320"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "f9ef4194799f22859bbf153f2bcd41ab37532b8b",
+    "title": "A Unified Linear Speedup Analysis of Federated Averaging and Nesterov FedAvg",
+    "year": 2020,
+    "author_ids": [
+      "115579762",
+      "3002019",
+      "7719355",
+      "2310573731",
+      "47230320"
+    ],
+    "venue": "Journal of Artificial Intelligence Research",
+    "citation_count": 7,
+    "abstract": "Federated learning (FL) learns a model jointly from a set of participating devices without sharing each other\u2019s privately held data. The characteristics of non-i.i.d. data across the network, low device participation, high communication costs, and the mandate that data remain private bring challenges in understanding the convergence of FL algorithms, particularly regarding how convergence scales with the number of participating devices. In this paper, we focus on Federated Averaging (FedAvg), one of the most popular and effective FL algorithms in use today, as well as its Nesterov accelerated variant, and conduct a systematic study of how their convergence scale with the number of participating devices under non-i.i.d. data and partial participation in convex settings. We provide a unified analysis that establishes convergence guarantees for FedAvg under strongly convex, convex, and overparameterized strongly convex problems. We show that FedAvg enjoys linear speedup in each case, although with different convergence rates and communication efficiencies. For strongly convex and convex problems, we also characterize the corresponding convergence rates for the Nesterov accelerated FedAvg algorithm, which are the first linear speedup guarantees for momentum variants of FedAvg in convex settings. Empirical studies of the algorithms in various settings have supported our theoretical results."
+  },
+  {
+    "paper_id": "e9ab6f110a8fa973ff476b2128d61d55239166ac",
+    "title": "Ensemble Methods for Causal Effects in Panel Data Settings",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "46491690",
+      "47166531",
+      "115579762"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 47,
+    "abstract": "In many prediction problems researchers have found that combinations of prediction methods (\u201censembles\u201d) perform better than individual methods. In this paper we apply these ideas to synthetic control type problems in panel data. Here a number of conceptually quite different methods have been developed. We compare the predictive accuracy of three methods with an ensemble method and find that the latter dominates. These results show that ensemble methods are a practical and effective method for the type of data configurations typically encountered in empirical work in economics, and that these methods deserve more attention."
+  }
+]

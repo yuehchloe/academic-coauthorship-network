@@ -1,0 +1,765 @@
+[
+  {
+    "paper_id": "3621b9d8f2a9c4deaadf37f2bb894d368194df4d",
+    "title": "Incomplete Information Robustness",
+    "year": 2025,
+    "author_ids": [
+      "48218339",
+      "2871176"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "Consider an analyst who models a strategic situation in terms of an incomplete information game and makes a prediction about players\u2019 behavior. The analyst\u2019s model approximately describes each player\u2019s hierarchies of beliefs over payoff-relevant states, but the true incomplete information game may have correlated duplicated belief hierarchies, and the analyst has no information about the correlation. Under these circumstances, a natural candidate for the analyst\u2019s prediction is the set of belief-invariant Bayes correlated equilibria (BIBCE) of the analyst\u2019s incomplete information game. We introduce the concept of robustness for BIBCE: a subset of BIBCE is robust if every nearby incomplete information game has a BIBCE that is close to some BIBCE in this set. Our main result provides a sufficient condition for robustness by introducing a generalized potential function of an incomplete information game. A generalized potential function is a function on the Cartesian product of the set of states and a covering of the action space which incorporates some information about players\u2019 preferences. It is associated with a belief-invariant correlating device such that a signal sent to a player is a subset of the player\u2019s actions, which can be interpreted as a vague prescription to choose some action from this subset. We show that, for every belief-invariant correlating device that maximizes the expected value of a generalized potential function, there exists a BIBCE in which every player chooses an action from a subset of actions prescribed by the device, and that the set of such BIBCE is robust, which can differ from the set of potential maximizing BNE."
+  },
+  {
+    "paper_id": "37b29531256d45472c7ef06d2591d1cf00289f81",
+    "title": "CAMBRIDGE WORKING PAPERS IN ECONOMICS JANEWAY INSTITUTE WORKING PAPERS Market segmentation through information",
+    "year": 2023,
+    "author_ids": [
+      "7937649",
+      "2535141",
+      "119416624",
+      "122009213",
+      "13270881",
+      "144791375",
+      "2186202991",
+      "144237049",
+      "3024016",
+      "48218339",
+      "1738634",
+      "2220020489",
+      "2305255082"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4b18fffaac6a9e75b9950b6eb3ed4505cf8b5e2d",
+    "title": "Global Game Selections in Binary-Action Supermodular Games",
+    "year": 2023,
+    "author_ids": [
+      "48218339",
+      "2592793",
+      "2110673529"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": ". We characterize global game selections in binary-action supermodular games in terms of sequential obedience ."
+  },
+  {
+    "paper_id": "776e328a1e1a74bcbee254e9b3f39cad92142c8b",
+    "title": "The Optimality of Constant Mark-Up Pricing",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We consider a nonlinear pricing environment with private information. We provide profit guarantees (and associated mechanisms) that the seller can achieve across all possible distributions of willingness to pay of the buyers. With a constant elasticity cost function, constant markup pricing provides the optimal revenue guarantee across all possible distributions of willingness to pay and the lower bound is attained under a Pareto distribution. We characterize how profits and consumer surplus vary with the distribution of values and show that Pareto distributions are extremal. We also provide a revenue guarantee for general cost functions. We establish equivalent results for optimal procurement policies that support maximal surplus guarantees for the buyer given all possible cost distributions of the sellers."
+  },
+  {
+    "paper_id": "b556d43ff785c20eb596fac57ae7a72f644b588c",
+    "title": "Cost Based Nonlinear Pricing",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "The arrival of digital commerce has lead to an increasing use of personalization and differentiation strategies. With differentiated products along the quality dimension and/or the quantity dimension comes the need for nonlinear pricing policies or second degree price discrimination. The optimal pricing strategies for quality and quantity differentiated products were first investigated by Mussa and Rosen (1978) and Maskin and Riley (1984), respectively. The optimal pricing strategies were shown to depend heavily on the prior distribution of the private information regarding the types, and ultimately the willingness-to-pay of the buyers. Yet, frequently the sellers possess only weak and incomplete information about the distribution of demand. This paper aims to develop robust pricing policies that are independent of specific demand distributions and provide revenue guarantees across all possible distributions."
+  },
+  {
+    "paper_id": "5b3f5baa93e162876c9044a7fee8beaff6623428",
+    "title": "Screening with Persuasion",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 16,
+    "abstract": "We analyze a nonlinear pricing model where the seller controls both product pricing (screening) and buyer information about their own values (persuasion). We prove that the optimal mechanism always consists of finitely many signals and items, even with a continuum of buyer values. The seller optimally pools buyer values and reduces product variety to minimize informational rents. We show that value pooling is optimal even for finite value distributions if their entropy exceeds a critical threshold. We also provide sufficient conditions under which the optimal menu restricts offering to a single item."
+  },
+  {
+    "paper_id": "88860393d76f80eab8a6d76bbdf488a165394c35",
+    "title": "Optimal Information Disclosure in Classic Auctions",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 26,
+    "abstract": "We characterize the revenue-maximizing information structure in the second-price auction. The seller faces a trade-off: more information improves the efficiency of the allocation but creates higher information rents for bidders. The information disclosure policy that maximizes the revenue of the seller is to fully reveal low values (where competition is high) but to pool high values (where competition is low). The size of the pool is determined by a critical quantile that is independent of the distribution of values and only dependent on the number of bidders. We discuss how this policy provides a rationale for conflation in digital advertising. (JEL D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "a6daae90a12cc763ac4613d5c09139ae91bc75e8",
+    "title": "On the Joint Design of Information and Transfers",
+    "year": 2022,
+    "author_ids": [
+      "48218339",
+      "2592793",
+      "2110673529"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "This note demonstrates how the insights from Morris et al. (2020) can be applied to the problem of optimal joint design of information and transfers in team production."
+  },
+  {
+    "paper_id": "a8061eac61675943125b8e83c340dec3b6be51af",
+    "title": "Speed vs Resilience in Contagion",
+    "year": 2022,
+    "author_ids": [
+      "145720997",
+      "48218339"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": ","
+  },
+  {
+    "paper_id": "4625545dc41cda3b5f362fe8574e3b1d1955b47b",
+    "title": "Random ambiguity",
+    "year": 2021,
+    "author_ids": [
+      "27639688",
+      "121744504",
+      "1842749",
+      "48658367",
+      "72487641",
+      "49415985",
+      "48218339",
+      "2092010514"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4896de2cd83ac39a5205f0bdafb6d24b445536f8",
+    "title": "Selling Impressions: Efficiency vs. Competition",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "198c71dd02e763efe4178212f78898effe5af7b8",
+    "title": "Inspiring Regime Change",
+    "year": 2020,
+    "author_ids": [
+      "48218339",
+      "2255644"
+    ],
+    "venue": "Journal of the European Economic Association",
+    "citation_count": 23,
+    "abstract": "\n We consider the problem of a leader who can assign rewards for citizens for different anti-regime actions. Citizens face a coordination problem in which each citizen has a private, endogenous degree of optimism about the likelihood of regime change. Because more optimistic citizens are easier to motivate, the choice of optimal rewards entails optimal screening. This leads to a distribution of anti-regime actions. A key result is the emergence of a vanguard, consisting of citizens who engage in the endogenous, maximum level of action. Other citizens participate at varying degrees, with less optimistic citizens contributing less. We explore how the regime\u2019s strength or the maximum reward available to the leader influence the distribution of actions. Moreover, we show that more heterogeneity (e.g., higher inequality) among potential revolutionaries reduces the likelihood of regime change. Our methodological contribution is that we deliver a sharp and novel marriage of screening and global games."
+  },
+  {
+    "paper_id": "1f2e8abfa26808dd40b6f7071a1d3a075fc752a4",
+    "title": "Implementation Via Information Design in Binary-Action Supermodular Games",
+    "year": 2020,
+    "author_ids": [
+      "48218339",
+      "2592793",
+      "2110673529"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 33,
+    "abstract": "What outcomes can be implemented by the choice of an information structure in binary\u2010action supermodular games? An outcome is partially implementable if it satisfies obedience (Bergemann and Morris (2016)). We characterize when an outcome is \n smallest equilibrium implementable (induced by the smallest equilibrium). Smallest equilibrium implementation requires a stronger \n sequential obedience condition: there is a stochastic ordering of players under which players are prepared to switch to the high action even if they think only those before them will switch. We then characterize the optimal outcome induced by an information designer who prefers the high action to be played, but anticipates that the worst (hence smallest) equilibrium will be played. In a potential game, under convexity assumptions on the potential and the designer's objective, it is optimal to choose an outcome where actions are perfectly coordinated (all players choose the same action), with the high action profile played on the largest event where that action profile maximizes the average potential.\n"
+  },
+  {
+    "paper_id": "61549ac3e4ffff0c55848fb962c3bf203d4c743e",
+    "title": "Correction to: Notes on \u201crefinements and higher order beliefs\u201d",
+    "year": 2020,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "The article, Notes on \u201crefinements and higher order beliefs\u201d, written by Atsushi Kajii and Stephen Morris, was originally published Online First without Open Access. After publication in volume 71, issue 1, page 35\u201341 the Japanese Economic Association decided to opt for Open Choice and to make the article an Open Access publication. Therefore, the copyright of the article has been changed to \u00a9The Author(s) 2020 and the article is forthwith distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits use, duplication, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made."
+  },
+  {
+    "paper_id": "693ccf6b43d919108d61b03854449511d8e7a8ec",
+    "title": "No Trade and Feasible Joint Posterior Beliefs\u2217",
+    "year": 2020,
+    "author_ids": [
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "750b27bbca55fe397b82cbe7f3e9b5bf406870de",
+    "title": "Firm Certification\u2217",
+    "year": 2020,
+    "author_ids": [
+      "10391242",
+      "2153054650",
+      "2923803",
+      "33412912",
+      "2117409286",
+      "1574864038",
+      "50383813",
+      "2499951",
+      "2228713285",
+      "2115986523",
+      "48218339",
+      "7837349",
+      "2117411178",
+      "2117410652",
+      "2509439",
+      "13376135",
+      "1698729",
+      "2295944",
+      "40960999",
+      "40190320"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "88143a32618e630bf845c0a8830c92cbd8146f20",
+    "title": "Countering the winner's curse: Optimal auction design in a common value model",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 18,
+    "abstract": "We characterize revenue maximizing mechanisms in a common value environment where the value of the object is equal to the highest of the bidders' independent signals. If the revenue maximizing solution is to sell the object with probability 1, then an optimal mechanism is simply a posted price, namely, the highest price such that every type of every bidder is willing to buy the object. If the object is optimally sold with probability less than 1, then optimal mechanisms skew the allocation toward bidders with lower signals. The resulting allocation induces a \u201cwinner's blessing,\u201d whereby the expected value conditional on winning is higher than the unconditional expectation. By contrast, standard auctions that allocate to the bidder with the highest signal (e.g., the first\u2010price, second\u2010price, or English auctions) deliver lower revenue because of the winner's curse generated by the allocation. Our qualitative results extend to more general common value environments with a strong winner's curse."
+  },
+  {
+    "paper_id": "908af254440b6d7b8afdf76e0f669212e2e209ce",
+    "title": "Search, Information, and Prices",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 26,
+    "abstract": "Consider a market with identical firms offering a homogeneous good. For any given ex ante distribution of the price count (the number of firms from which a consumer obtains a quote), we derive a tight upper bound on the equilibrium distribution of sales prices. The bound holds across all models of firms\u2019 common-prior higher-order beliefs about the price count, including the extreme cases of full information and no information. One implication of our results is that a small ex ante probability that the price count is equal to one can lead to a large increase in the expected price. The bound also applies in a large class of models where the price count distribution is endogenously determined."
+  },
+  {
+    "paper_id": "d315751dc4260e9f11f79be4e99a1100c9e19356",
+    "title": "Correction to: Refinements and higher-order beliefs: a unified survey",
+    "year": 2020,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": "Japanese Economic Review",
+    "citation_count": 0,
+    "abstract": "The article \"Refinements and higher-order beliefs: a unified survey\", written by Atsushi Kajii and Stephen Morris."
+  },
+  {
+    "paper_id": "e7bcea8f8358539877cee04fd8083b26ee0ad5bc",
+    "title": "Competition and Public Information: A Note",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study price discrimination in a market in which two firms engage in Bertrand competition. Some consumers are contested by both firms, and other consumers are \"captive\" to one of the firms. The market can be divided into segments, which have different relative shares of captive and contested consumers. It is shown that the revenue-maximizing segmentation involves dividing the market into \"nested\" markets, where exactly one firm may have captive consumers."
+  },
+  {
+    "paper_id": "25a787d002ca4bc68d4c7c38e820a1a58b3a317e",
+    "title": "Coordination and Continuous Stochastic Choice\u2217",
+    "year": 2019,
+    "author_ids": [
+      "48218339",
+      "2150425522"
+    ],
+    "venue": null,
+    "citation_count": 26,
+    "abstract": null
+  },
+  {
+    "paper_id": "69df5727a4218c4bc78669202b671a3bece64375",
+    "title": "Counterfactuals with Latent Information",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2411743467",
+      "48218339"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 13,
+    "abstract": "We describe a methodology for making counterfactual predictions in settings where the information held by strategic agents and the distribution of payoff-relevant states of the world are unknown. The analyst observes behavior assumed to be rationalized by a Bayesian model, in which agents maximize expected utility, given partial and differential information about the state. A counterfactual prediction is desired about behavior in another strategic setting, under the hypothesis that the distribution of the state and agents\u2019 information about the state are held fixed. When the data and the desired counterfactual prediction pertain to environments with finitely many states, players, and actions, the counterfactual prediction is described by finitely many linear inequalities, even though the latent parameter, the information structure, is infinite dimensional. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "78387d9714a1bbb181c45352b9ad468265544a8b",
+    "title": "on \u201c Refinements and Higher Order Beliefs \u201d Atsushi Kajii",
+    "year": 2019,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "954e322ca3ec98086fd83d554a5f87a6f06cde5b",
+    "title": "Refinements and higher-order beliefs: a unified survey",
+    "year": 2019,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": "Japanese Economic Review",
+    "citation_count": 19,
+    "abstract": "This paper presents a simple framework that allows us to survey and relate some different strands of the game theory literature. We describe a \u201ccanonical\u201d way of adding incomplete information to a complete information game. This framework allows us to give a simple \u201ccomplete theory\u201d interpretation (Kreps in Game theory and economic modelling. Clarendon Press, Oxford, 1990) of standard normal form refinements such as perfection, and to relate refinements both to the \u201chigher-order beliefs literature\u201d (Rubinstein in Am Econ Rev 79:385\u2013391, 1989; Monderer and Samet in Games Econ Behav 1:170\u2013190, 1989; Morris et al. in Econ J Econ Soc 63:145\u2013157, 1995; Kajii and Morris in Econ J Econ Soc 65:1283\u20131309, 1997a) and the \u201cpayoff uncertainty approach\u201d (Fudenberg et al. in J Econ Theory 44:354\u2013380, 1988; Dekel and Fudenberg in J Econ Theory 52:243\u2013267, 1990)."
+  },
+  {
+    "paper_id": "9556cbeab04170c4e17dce06482366ccde3bf4dd",
+    "title": "Chapter 2 Game Theory Models in Finance",
+    "year": 2019,
+    "author_ids": [
+      "1747992",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a574785b270814b90bba40da220f5784f30207f2",
+    "title": "Information Design: A Unified Perspective",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 546,
+    "abstract": "Given a game with uncertain payoffs, information design analyzes the extent to which the provision of information alone can influence the behavior of the players. Information design has a literal interpretation, under which there is a real information designer who can commit to the choice of the best information structure (from her perspective) for a set of participants in a game. We emphasize a metaphorical interpretation, under which the information design problem is used by the analyst to characterize play in the game under many different information structures. We provide an introduction to the basic issues and insights of a rapidly growing literature in information design. We show how the literal and metaphorical interpretations of information design unify a large body of existing work, including that on communication in games (Myerson 1991), Bayesian persuasion (Kamenica and Gentzkow 2011), and some of our own recent work on robust predictions in games of incomplete information. ( JEL C70, D82, D83)"
+  },
+  {
+    "paper_id": "a8b07c73520a8483c0e4c1b55b8ef90ebe300a7c",
+    "title": "First-price auctions with general information structures: a short introduction",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "SeCO Workshops",
+    "citation_count": 3,
+    "abstract": "We explore the impact of private information in sealed-bid first-price auctions. For a given symmetric and arbitrarily correlated prior distribution over values, we characterize the impact that the structure of private information has on bidding behavior, and the sharing of surplus between the seller and the bidder. Our results provide lower bounds and upper bounds for bids and revenues across all information structures. Our work has implications for the identification of value distributions from data on winning bids and for the informationally robust comparison of alternative bidding mechanisms."
+  },
+  {
+    "paper_id": "afe9e66b15a3c51ab24ad20e51bb34f56e1407c2",
+    "title": "No . 1007 \u201c Notes on \u201c Refinements and Higher Order Beliefs \u201d \u201d",
+    "year": 2019,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c105375d5c0db5dce5ba801a2108f4f283cf3e82",
+    "title": "Crises: Equilibrium Shifts and Large Shocks",
+    "year": 2019,
+    "author_ids": [
+      "48218339",
+      "37989728"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 30,
+    "abstract": "We study the informational events that trigger equilibrium shifts in coordination games with incomplete information. Assuming that the distribution of the changes in fundamentals has fat tails, we show that majority play shifts either if fundamentals reach a critical threshold or if there are large common shocks, even before the threshold is reached. The fat-tail assumption matters because it implies that large shocks make players more unsure about whether their payoffs are higher than others. This feature is crucial for large shocks to matter. (JEL C72, C73, D83)"
+  },
+  {
+    "paper_id": "d9bb3456a4d84048e26946df573cc43ee27ca75c",
+    "title": "Revenue Guarantee Equivalence",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 31,
+    "abstract": "We revisit the revenue comparison of standard auction formats, including first-price, second-price, and English auctions. We rank auctions according to their revenue guarantees, i.e., the greatest lower bound of revenue across all informational environments, where we hold fixed the distribution of bidders\u2019 values. We conclude that if we restrict attention to the symmetric affiliated models of Milgrom and Weber (1982) and monotonic pure-strategy equilibria, first-price, second-price, and English auctions are revenue guarantee equivalent: they have the same revenue guarantee, which is equal to that of the first-price auction as characterized by Bergemann, Brooks, and Morris (2017). If we consider all equilibria or if we allow more general models of information, then first-price auctions have a greater revenue guarantee than all other auctions considered. (JEL D44, D83)"
+  },
+  {
+    "paper_id": "dc86e86d36ceae3cff7c74b830d540f143f4cd06",
+    "title": "Notes on \u201crefinements and higher order beliefs\u201d",
+    "year": 2019,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": "Japanese Economic Review",
+    "citation_count": 4,
+    "abstract": "The abstract of our 1997 survey paper on \u201cRefinements and Higher Order Beliefs\u201d reads: This paper presents a simple framework that allows us to survey and relate some different strands of the game theory literature. We describe a \u201ccanonical\u201d way of adding incomplete information to a complete information game. This framework allows us to give a simple \u201ccomplete theory\u201d interpretation (Kreps 1990) of standard normal form refinements such as perfection, and to relate refinements both to the \u201chigher order beliefs literature\u201d (Rubinstein 1989; Monderer and Samet"
+  },
+  {
+    "paper_id": "f420722a3900b3468d13dba7c306edac9311267f",
+    "title": "The Wald Problem and the Relation of Sequential Sampling and Ex-Ante Information Costs",
+    "year": 2019,
+    "author_ids": [
+      "48218339",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 45,
+    "abstract": null
+  },
+  {
+    "paper_id": "fbe662d749aea58bef372a7883233872ef7fd668",
+    "title": "Information, market power, and price volatility",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 17,
+    "abstract": "We consider demand function competition with a finite number of agents and private information. We show that any degree of market power can arise in the unique equilibrium under an information structure that is arbitrarily close to complete information. Regardless of the number of agents and the correlation of payo\u00c2\u00a4 shocks, market power may be arbitrarily close to zero (the competitive outcome) or arbitrarily large (so there is no trade). By contrast, price volatility is always lower than the variance of the aggregate shock across all information structures. Alternative trading mechanisms lead to very distinct bounds as a comparison with Cournot competition establishes."
+  },
+  {
+    "paper_id": "7c139ac504a9d190f326efde280820e3eb3efff8",
+    "title": "Re nements and Higher Order Beliefs: A Uni ed Survey",
+    "year": 2018,
+    "author_ids": [
+      "1973527",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "89b50688d513c79c2b06027b33124681c321511c",
+    "title": "OPTIMAL INFORMATION DISCLOSURE IN AUCTIONS",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358"
+    ],
+    "venue": null,
+    "citation_count": 19,
+    "abstract": null
+  },
+  {
+    "paper_id": "f0f9cefaf9bbef64eb7ad64746d79b0a8a715fe3",
+    "title": "Central Bank Forward Guidance and the Signal Value of Market Prices",
+    "year": 2018,
+    "author_ids": [
+      "48218339",
+      "2269885014"
+    ],
+    "venue": null,
+    "citation_count": 34,
+    "abstract": null
+  },
+  {
+    "paper_id": "4b38e952b2df1df7b2f394c7584531d393bfad3d",
+    "title": "Redemption risk and cash hoarding by asset managers",
+    "year": 2017,
+    "author_ids": [
+      "48218339",
+      "3020771",
+      "2269885014"
+    ],
+    "venue": null,
+    "citation_count": 128,
+    "abstract": null
+  },
+  {
+    "paper_id": "6ebab5d61e3fa0402e0528b68d109f684df20f06",
+    "title": "Information Design: A Unied Perspective",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "48218339",
+      "116888859",
+      "112994149",
+      "2926072",
+      "2587366",
+      "1973527",
+      "2115553437"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "7cdebe0ef594875bca7a9942b6c59b6cee0485a0",
+    "title": "Coordination and Continuous Choice December 2016",
+    "year": 2017,
+    "author_ids": [
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "95d314dc3791e82cfd1f892a56e1e36257122443",
+    "title": "Efficient Location Choice and the Returns to Agglomeration\u2217",
+    "year": 2017,
+    "author_ids": [
+      "67144023",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a707f8fb3f10b693005b085a2d4556396ba2538c",
+    "title": "Belief-free rationalizability and informational robustness",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 22,
+    "abstract": null
+  },
+  {
+    "paper_id": "c0987776688f55a5773b87643eb315eedb776a68",
+    "title": "Expectations, Networks, and Conventions",
+    "year": 2017,
+    "author_ids": [
+      "144791375",
+      "48218339"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 26,
+    "abstract": "In coordination games and speculative over-the-counter financial markets, solutions depend on higher-order average expectations: agents' expectations about what counterparties, on average, expect their counterparties to think, etc. We offer a unified analysis of these objects and their limits, for general information structures, priors, and networks of counterparty relationships. Our key device is an interaction structure combining the network and agents' beliefs, which we analyze using Markov methods. This device allows us to nest classical beauty contests and network games within one model and unify their results. Two applications illustrate the techniques: The first characterizes when slight optimism about counterparties' average expectations leads to contagion of optimism and extreme asset prices. The second describes the tyranny of the least-informed: agents coordinating on the prior expectations of the one with the worst private information, despite all having nearly common certainty, based on precise private signals, of the ex post optimal action."
+  },
+  {
+    "paper_id": "e23c16cefa78a36849e76b16ad460fa6debbc779",
+    "title": "Reward and Punishment in a Regime Change Game",
+    "year": 2017,
+    "author_ids": [
+      "48218339",
+      "2255644"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "28cd81e8937e056b2c6bd9a2ddc5d91631e11f8f",
+    "title": "Coordination and Continuous Choice",
+    "year": 2016,
+    "author_ids": [
+      "48218339",
+      "2150425522"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "563d417950cabaf709f33804a327ab46ea141ae2",
+    "title": "Coordination and the Relative Cost of Distinguishing Nearby States",
+    "year": 2016,
+    "author_ids": [
+      "48218339",
+      "2150425522"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "7c9a300854a8b6cee2204c20c3b202ca0b15a758",
+    "title": "Illiquidity Component of Credit Risk",
+    "year": 2016,
+    "author_ids": [
+      "48218339",
+      "2269885014"
+    ],
+    "venue": null,
+    "citation_count": 135,
+    "abstract": null
+  },
+  {
+    "paper_id": "8a4780547c6caf7216807ffd4c6763522b3dd40d",
+    "title": "Common belief foundations of global games",
+    "year": 2016,
+    "author_ids": [
+      "48218339",
+      "2337313",
+      "37989728"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 59,
+    "abstract": null
+  },
+  {
+    "paper_id": "b8e085eb1c2131c34f84f1874b82613e1b9ddfc6",
+    "title": "InformatIon DesIgn anD BayesIan PersuasIon \u2021 Information Design , Bayesian Persuasion , and Bayes Correlated Equilibrium \u2020 By Dirk Bergemann",
+    "year": 2016,
+    "author_ids": [
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "c06e6b0608a66b8a3782d93bca7fd59738be0c4e",
+    "title": "InformatIon DesIgn anD BayesIan PersuasIon",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "d9e81b416c8c1a496834f48bb5fa9737b02551a8",
+    "title": "Information Design , Bayesian Persuasion , and Bayes Correlated Equilibrium Information Design , Bayesian Persuasion , and Bayes Correlated Equilibrium",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 159,
+    "abstract": null
+  },
+  {
+    "paper_id": "eeee30cd713496ab262f73058be74e40671d8acd",
+    "title": "Selling to Intermediaries: Optimal Auction Design in a Common Value Model",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "fcb61de04d0278070fb74ab6dea0bb0e8d19718d",
+    "title": "Informationally Robust Optimal Auction Design",
+    "year": 2016,
+    "author_ids": [
+      "2616138",
+      "2411743467",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 56,
+    "abstract": null
+  },
+  {
+    "paper_id": "0351b71808731dabf7c7625ceea380a3ad5e38b0",
+    "title": "Informational Robustness and Solution Concepts",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "04592e4d29f77f6636ced8934c60b6f50b6cc91b",
+    "title": "Information in the first price auction \u2217",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "17e99e0e49f6e04c82d9f8f25e120670ed6b647e",
+    "title": "First Price Auctions with General Information Structures: Implications for Bidding and Revenue",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 133,
+    "abstract": null
+  },
+  {
+    "paper_id": "31012d3d187d685fea71da5f817b2728bb6793c4",
+    "title": "Why the Active Management Industry Grew : Learning about Heterogeneity in Skills",
+    "year": 2015,
+    "author_ids": [
+      "151069162",
+      "2109221637",
+      "46256528",
+      "118113211",
+      "3113641",
+      "104566753",
+      "145722784",
+      "35241194",
+      "11520005",
+      "144061269",
+      "48218339",
+      "119335144",
+      "2110004470",
+      "66119414",
+      "2054486994",
+      "118835141"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5e05a2289d1f43d5f18bb60108d97ea08a992ffe",
+    "title": "Risk Premium Shifts and Monetary Policy: A Coordination Approach",
+    "year": 2015,
+    "author_ids": [
+      "48218339",
+      "2249470278"
+    ],
+    "venue": null,
+    "citation_count": 20,
+    "abstract": null
+  }
+]

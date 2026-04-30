@@ -5,7 +5,7 @@ economics research, 2015–2025. Nodes are individual researchers. Edges
 connect any two researchers who co-authored at least one paper in the
 corpus, weighted by the number of shared papers.
 
-Built for SI 507 (Intermediate Programming), University of Michigan.
+Built for SI 507 (Intermediate Programming) at University of Michigan.
 
 ---
 
@@ -13,22 +13,22 @@ Built for SI 507 (Intermediate Programming), University of Michigan.
 
 The app provides four interaction modes for exploring the network:
 
-**Search & Query** — look up any researcher in the corpus. Displays
+**Search & Query**: look up any researcher in the corpus. Displays
 citation count, h-index, centrality ranks across four measures (degree,
 betweenness, eigenvector, closeness), top collaborators, and papers.
 
-**Pathfinding** — find the shortest collaboration chain between two
+**Pathfinding**: find the shortest collaboration chain between two
 researchers (Erdős-number style). Renders the path as a visual chain
 with the bridging papers on each hop. Restricted to the core network
 (largest connected component) where paths exist. Includes a year filter
 to see how the network changes across time periods.
 
-**Rankings** — top researchers by each centrality measure, side by side.
+**Rankings**: top researchers by each centrality measure, side by side.
 The divergence between betweenness and degree rankings is the headline
 finding: researchers who bridge subfields are not the same people as
 those who collaborate most prolifically.
 
-**Overview** — corpus statistics and a summary of the network structure.
+**Overview**: corpus statistics and a summary of the network structure.
 
 ---
 
@@ -44,29 +44,43 @@ pip install -r requirements.txt
 
 ---
 
-## Building the corpus
+## Quick start (with included corpus)
 
-The app reads from `data/corpus.json`. This file is not committed to the
-repository (it is large and contains data derived from the Semantic
-Scholar API). You need to build it yourself.
+The repository ships with a pre-built corpus at `data/corpus.json` and
+cached Semantic Scholar API responses at `data/cache/`. To run the app
+without rebuilding anything:
 
-**1. Get a Semantic Scholar API key.**
-Apply at https://www.semanticscholar.org/product/api#api-key-form.
-Keys are free and arrive within a day or two.
+\```bash
+pip install -r requirements.txt
+streamlit run app.py
+\```
 
-**2. Set the key as an environment variable.**
-```bash
-export S2_API_KEY="your-key-here"
-```
+The corpus contains roughly N papers and N researchers spanning 2015 to
+2025, built via the pipeline described in METHODOLOGY.md. The cache is
+included so that anyone who wants to verify the pipeline can re-run
+`scripts/pull_corpus.py` without needing an API key. All cache hits are
+instant; no API calls will be made unless the cache is missing entries.
 
-**3. Run the corpus builder.**
-```bash
-python scripts/pull_corpus.py
-```
+---
 
-This takes 20–40 minutes on first run. All API responses are cached to
-`data/cache/` so subsequent runs are instant. The script prints progress
-as it runs and outputs a summary at the end.
+## Rebuilding the corpus from scratch
+
+You only need this if you want to verify the pipeline against a fresh
+S2 fetch, or if you want to extend the corpus with new seed authors
+or a different year range.
+
+1. Get a Semantic Scholar API key at
+   https://www.semanticscholar.org/product/api#api-key-form
+2. Set it as an environment variable: `export S2_API_KEY="your-key"`
+3. Delete the cache: `rm -rf data/cache/`
+4. Run: `python scripts/pull_corpus.py`
+
+This takes 20 to 40 minutes and makes 500 to 800 API calls. The script
+respects S2's 1 RPS rate limit but you may still encounter occasional
+429 responses, especially if running shortly after a previous attempt.
+The script will retry with exponential backoff.
+
+---
 
 **What the corpus builder does:**
 

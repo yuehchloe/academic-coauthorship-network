@@ -1,0 +1,676 @@
+[
+  {
+    "paper_id": "71cbaf04ccb866bd72042c026e3e2ae462ee8079",
+    "title": "Automation Experiments and Inequality",
+    "year": 2025,
+    "author_ids": [
+      "2389322209",
+      "2269603317"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "An increasingly large number of experiments study the labor productivity effects of automation technologies such as generative algorithms. A popular question in these experiments relates to inequality: does the technology increase output more for high- or low-skill workers? The answer is often used to anticipate the distributional effects of the technology as it continues to improve. In this paper, we formalize the theoretical content of this empirical test, focusing on automation experiments as commonly designed. Worker-level output depends on a task-level production function, and workers are heterogeneous in their task-level skills. Workers perform a task themselves, or they delegate it to the automation technology. The inequality effect of improved automation depends on the interaction of two factors: ($i$) the correlation in task-level skills across workers, and ($ii$) workers'skills relative to the technology's capability. Importantly, the sign of the inequality effect is often non-monotonic -- as technologies improve, inequality may decrease then increase, or vice versa. Finally, we use data and theory to highlight cases when skills are likely to be positively or negatively correlated. The model generally suggests that the diversity of automation technologies will play an important role in the evolution of inequality."
+  },
+  {
+    "paper_id": "20bd7e0934ba622aa7d9adb7a264506f538aa17a",
+    "title": "From black box to glass box: algorithmic explainability as a strategic decision",
+    "year": 2025,
+    "author_ids": [
+      "3451045",
+      "2101081513"
+    ],
+    "venue": "Information Economics and Policy",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "dd05e091e615a56480165376cc51fbe1fe12310b",
+    "title": "Optimal Integration: Human, Machine, and Generative AI",
+    "year": 2025,
+    "author_ids": [
+      "2273814109"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 0,
+    "abstract": "I study the optimal integration of humans and technologies in multilayered decision-making processes. When each layer can correct existing errors but may also introduce new errors, who should have the final authority? I show that a decision maker\u2019s correction capability normalized by its new errors is a one-dimensional quality metric that determines the optimal rule: deploying higher quality technologies in later stages. Intriguingly, despite its highest quality, the final layer may not generate the greatest error reduction; instead, its role hinges on minimizing new errors. Human effort varies asymmetrically across layers: early stages exert relatively lower effort and prioritize error correction, whereas later stages exert higher effort and focus on avoiding new errors. Applying the model to artificial intelligence (AI) reveals that AI\u2019s generative capabilities make it more likely to serve as the final decision maker, reducing the need for costly human input at the risks of AI hallucination. The theoretical framework also extends to applications including repeated delegation, automation design, loan screening, tenure review, and other multilayer decision-making scenarios. This paper was accepted by Will Cong, finance."
+  },
+  {
+    "paper_id": "646b696380bd844d4cdd8a9a20ac21f20edb48ed",
+    "title": "Agentic AI and hallucinations",
+    "year": 2025,
+    "author_ids": [
+      "121622205",
+      "2953110"
+    ],
+    "venue": "Economics Letters",
+    "citation_count": 4,
+    "abstract": "We model a competitive market where AI agents buy answers from upstream generative models and resell them to users who differ in how much they value accuracy and in how much they fear hallucinations. Agents can privately exert effort for costly verification to lower hallucination risks. Since interactions halt in the event of a hallucination, the threat of losing future rents disciplines effort. A unique reputational equilibrium exists under nontrivial discounting. The equilibrium effort, and thus the price, increases with the share of users who have high accuracy concerns, implying that hallucination-sensitive sectors, such as law and medicine, endogenously lead to more serious verification efforts in agentic AI markets."
+  },
+  {
+    "paper_id": "06b2c8c8000c6e831577e25cf7b5fc9b5c7d7402",
+    "title": "Explaining Models",
+    "year": 2025,
+    "author_ids": [
+      "2292733735",
+      "2292519160",
+      "121388097"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "We study when and how explanations of complex models can aid a decision maker (DM) whose payoff depends on a state of the world described by inputs and outputs. The DM cannot directly understand the true model linking inputs to outputs and must instead rely on an explanation from a class of simpler intelligible models. We analyze mappings from the infinite-dimensional space of possible true models to the finite-dimensional space of intelligible ones \u2014 what we call explainers \u2014 and focus on those that yield explanations which are robustly useful: that is, they allow the DM to improve their worst-case payoff across all models that are consistent with the explanation received. When a decision maker cares about their average payoff across inputs, it is possible to offer an explanation that is robustly first-best across models using the canonical OLS approach. But no explainer can offer a useful explanation that is robust across both models and inputs, or even across both models and distributions of inputs. Moreover, the robust explanation offered by OLS is not robust to sampling error. We apply these results to policy evaluation and AI regulation. For average-scenario decisions, OLS explanations can guide action when data are reliable. For tail risk\u2014such as policies affecting the worst-off or AI failures under extreme conditions\u2014explanations are uninformative unless paired with strong theoretical structure. In such settings, theory is needed to rule out models that explanations cannot distinguish. Direct recommendations about actions is another way to achieve optimal decisions, but only if they are aligned with the DM's preferences. A full version of this paper can be found at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4723587."
+  },
+  {
+    "paper_id": "5d8e20833d13057e77f58d35e6bd0a576573b674",
+    "title": "Inherent and emergent liability issues in LLM-based agentic systems: a principal-agent perspective",
+    "year": 2025,
+    "author_ids": [
+      "69982977",
+      "2353953174",
+      "2367302696",
+      "2367303826"
+    ],
+    "venue": "Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)",
+    "citation_count": 14,
+    "abstract": "Agentic systems powered by large language models (LLMs) are becoming progressively more complex and capable. Their increasing agency and expanding deployment settings attract growing attention to effective governance policies, monitoring, and control protocols. Based on the emerging landscape of the agentic market, we analyze potential liability issues arising from the delegated use of LLM agents and their extended systems through a principal-agent perspective. Our analysis complements existing risk-based studies on artificial agency and covers the spectrum of important aspects of the principal-agent relationship and their potential consequences at deployment. Furthermore, we motivate method developments for technical governance along the directions of interpretability and behavior evaluations, reward and conflict management, and the mitigation of misalignment and misconduct through principled engineering of detection and fail-safe mechanisms. By illustrating the outstanding issues in AI liability for LLM-based agentic systems, we aim to inform the system design, auditing, and tracing to enhance transparency and liability attribution."
+  },
+  {
+    "paper_id": "00cc5fd727c639c090521d47cf9a622a0fa12e05",
+    "title": "Exploring the Dynamic Fusion of Cutting-Edge Technologies Associated with Industry 4.0 and Social Entrepreneurship in Emerging Europe",
+    "year": 2025,
+    "author_ids": [
+      "67263107",
+      "143763480",
+      "2329128449",
+      "91786927"
+    ],
+    "venue": "Sustainability",
+    "citation_count": 4,
+    "abstract": "This article addresses a gap in the literature regarding corporate management in Eastern Europe during over three decades of reforms. This research reveals the influence of corporate management in Industry 4.0 on economic growth and social entrepreneurship in Eastern European countries. A combination of the regression analysis method and the least squares method is used to determine the influence of microeconomic factors connected with corporate management on economic growth in Industry 4.0 and to perform Pareto optimization of these microeconomic factors for the simultaneous achievement of economic growth and development of social entrepreneurship in these countries. The paper includes indicators of corporate management practices and identifies governance factors that influence economic growth in Eastern Europe while also contributing to social entrepreneurship. It explores the unique aspects of Industry 4.0 corporate management and emphasizes that optimizing corporate governance is a crucial response to managing regional economic crises. The article demonstrates that more than thirty years of economic transformation in Eastern Europe have produced positive results, challenging current scholarly perspectives that downplay the role of corporate governance. Improving corporate management by increasing the business disclosure index and reducing the number of companies facing losses due to theft and vandalism can enhance the effectiveness of Industry 4.0 technologies in social entrepreneurship. This approach can also provide a significant anti-crisis impact on the economies of Eastern European countries."
+  },
+  {
+    "paper_id": "7396bdd37def2a968e818e3399ef1e8cb65acdef",
+    "title": "Artificial intelligence machines as relational nonhuman actors in entrepreneurial teams",
+    "year": 2025,
+    "author_ids": [
+      "97594056",
+      "136828405"
+    ],
+    "venue": "Journal of Small Business Management",
+    "citation_count": 7,
+    "abstract": "ABSTRACT We theoretically examine how artificial intelligence (AI) machines interact with and shape strategic decision-making within entrepreneurial teams. First, we explain how AI machines lead and assist teams to engage in cognitively complex decisions and explore new ways to combine resources. Second, we unpack this strategic decision-making reconfiguration process and examine how AI machines allow entrepreneurial teams to better manage diversity and use it as a substitute for external knowledge. Overall, we propose the idea that AI technologies cannot be conceptualized as merely additional resources but as relational nonhuman actors in entrepreneurial teams. Then, we encourage scholars to reflect on human-AI interactions in entrepreneurial teams and outline an agenda for future research."
+  },
+  {
+    "paper_id": "da1d4a5b71013c72b4359648f27936e3508fefaa",
+    "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
+    "year": 2025,
+    "author_ids": [
+      "120935426",
+      "118908827"
+    ],
+    "venue": "Organization science (Providence, R.I.)",
+    "citation_count": 3,
+    "abstract": "This study examines the relationship between the adoption of algorithmic recommendation tools and experiential learning. We argue that the adoption of an algorithmic recommendation tool will harm experiential learning in organizations by limiting knowledge retention and retrieval. We further argue that the adverse relationship between algorithmic tool adoption and experiential learning will be stronger in organizations operating in low-task-difficulty environments than those in high-task-difficulty ones because organizational members in such organizations are likely to rely more on algorithmic recommendations, experiencing higher skill erosion. In addition, the relationship will be stronger in organizations facing low task variety than in those with high task variety, as these organizations are likely to have more rigid routines and in turn experience higher routine disruption after adopting an algorithmic tool. We utilize data on the adoption of an algorithmic tool called a clinical decision support system (CDSS) in a sample of emergency departments in California and utilize a fixed-effects panel regression with control function to test our arguments. We find that the relationship between cumulative experience and mortality becomes significantly weaker after CDSS adoption, suggesting flatter learning curves. We also find evidence that the effect is moderated by task difficulty and task variety. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2022.16738 ."
+  },
+  {
+    "paper_id": "85397da9710ac98d8e0e9f39e858644bfeb51208",
+    "title": "Effect of artificial intelligence on economic growth in European countries: a symmetric and asymmetric cointegration based on linear and non-linear ARDL approach",
+    "year": 2024,
+    "author_ids": [
+      "108745679",
+      "2231833616",
+      "12027028"
+    ],
+    "venue": "Journal of Economic Structures",
+    "citation_count": 23,
+    "abstract": "The impact of accelerated advancements in artificial intelligence (AI) on economic development remains a topic of debate in the current era. It is thought by some that AI has the potential to stimulate economic development; however, the precise function of AI remains uncertain. In order to investigate the influence of AI on economic growth in 30 European countries between 2000 and 2021, this study employed both the symmetric (PMG-ARDL) and asymmetric (PMG-NARDL) models. The ARDL model's results suggest that AI has a stimulating effect on economic development. A 0.217% increase in long-term economic growth is associated with an increase in AI. In the NARDL model, the growth of the economy was observed to be increased by 0.026% as a result of positive shocks to the positive AI variable. Conversely, negative shocks were found to have a negative impact, with a decrease of 0.029% in economic growth. It is posited that AI may stimulate economic development by increasing efficiency, promoting economies of scale, enhancing the quality of products and services, and improving working conditions. Furthermore, the study identifies the displacement of employment, the rising costs of training and adaptation, and the expansion of economic and social inequality. To address these challenges, policymakers must facilitate the creation of alternative employment opportunities, promote the development of new AI-driven industries, and implement rehabilitation programs for workers at risk of automation. Balancing technological advancement with job preservation and high-quality employment necessitates a collaborative approach between public and private sectors."
+  },
+  {
+    "paper_id": "60f2e80f33a1ad748a239dd4e9af267f1c067005",
+    "title": "How Being Outvoted by AI Teammates Impacts Human-AI Collaboration",
+    "year": 2024,
+    "author_ids": [
+      "144365225",
+      "150116886",
+      "2099667158",
+      "2286563651",
+      "1403113928"
+    ],
+    "venue": "International Journal of Human-Computer Interaction",
+    "citation_count": 11,
+    "abstract": "Abstract Recent advances in artificial intelligence (AI) enable AI agents to go beyond simply supporting human activities and, instead, take more control in team decision-making. While significant literature has studied human-AI collaboration through the lens of AI as a \u201csecond opinion system,\u201d this type of interaction is not fully representative of many human-human team collaboration scenarios, such as scenarios where each decision maker is granted equal voting rights for the team decision. In this research, we explore how imparting AI agents with equal voting rights to the human impacts human-AI decision-making and team performance. Using a human subjects experiment in which participants collaborate with two AI teammates for truss structure (aka, bridge) design, we manipulate a series of voting scenarios (e.g., AI agents outvoting the human vs. AI agents agreeing with the human) and AI performance levels (high vs. low performing). The results indicate that changes in human self-confidence are not consistent with whether the quality of the final team-voted design action is advantageous or disadvantageous relative to their own actions. The results also show that when humans are outvoted by their AI teammates, they do not show strong negative emotional reactions if the team-voted decision has an advantageous outcome. Additionally, AI performance significantly influences the human-AI team decision-making process and even one low-performing AI (i.e., an AI that is frequently incorrect) on the team can significantly deteriorate team performance. Taken together, this research provides empirical evidence on the effects of AI voting with equal decision authority on human-AI collaboration, as well as valuable insights supporting real-world applications of human-AI collaboration via voting."
+  },
+  {
+    "paper_id": "0f60f4caeb30d123419873785de11a0d0806b8fd",
+    "title": "Designing Algorithmic Recommendations to Achieve Human-AI Complementarity",
+    "year": 2024,
+    "author_ids": [
+      "153186771",
+      "47281276"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 7,
+    "abstract": "Algorithms frequently assist, rather than replace, human decision-makers. However, the design and analysis of algorithms often focus on predicting outcomes and do not explicitly model their effect on human decisions. This discrepancy between the design and role of algorithmic assistants becomes particularly concerning in light of empirical evidence that suggests that algorithmic assistants again and again fail to improve human decisions. In this article, we formalize the design of recommendation algorithms that assist human decision-makers without making restrictive ex-ante assumptions about how recommendations affect decisions. We formulate an algorithmic-design problem that leverages the potential-outcomes framework from causal inference to model the effect of recommendations on a human decision-maker's binary treatment choice. Within this model, we introduce a monotonicity assumption that leads to an intuitive classification of human responses to the algorithm. Under this assumption, we can express the human's response to algorithmic recommendations in terms of their compliance with the algorithm and the active decision they would take if the algorithm sends no recommendation. We showcase the utility of our framework using an online experiment that simulates a hiring task. We argue that our approach can make sense of the relative performance of different recommendation algorithms in the experiment and can help design solutions that realize human-AI complementarity. Finally, we leverage our approach to derive minimax optimal recommendation algorithms that can be implemented with machine learning using limited training data."
+  },
+  {
+    "paper_id": "d5d0da4820afd07ed0ed47757bc92604a491674b",
+    "title": "Strategic Responses to Algorithmic Recommendations: Evidence from Hotel Pricing",
+    "year": 2024,
+    "author_ids": [
+      "2282922733",
+      "41215223",
+      "2282694994"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 5,
+    "abstract": "We study the interaction between algorithmic advice and human decisions using high-resolution hotel-room pricing data. We document that price setting frictions, arising from adjustment costs of human decision makers, induce a conflict of interest with the algorithmic advisor. A model of advice with costly price adjustments shows that, in equilibrium, algorithmic price recommendations are strategically biased and lead to suboptimal pricing by human decision makers. We quantify the losses from the strategic bias in recommendations using as structural model and estimate the potential benefits that would result from a shift to fully automated algorithmic pricing. This paper was accepted by Axel Ockenfels, special issue on the human-algorithm connection. Funding: D. Garcia gratefully acknowledges that this research was funded in part by the Austrian Science Fund [Grant FWF-FG6]. A. K. Wagner gratefully acknowledges financial support from the Anniversary Fund of the Oesterreichische Nationalbank [Project 18878]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.03740 ."
+  },
+  {
+    "paper_id": "5a07a123bfaadd3eff88e95263ca6cbfcc015cce",
+    "title": "Competition and Cognition in the Market for Online News",
+    "year": 2024,
+    "author_ids": [
+      "2064769656",
+      "2941626",
+      "35239668"
+    ],
+    "venue": "Journal of Management Information Systems",
+    "citation_count": 5,
+    "abstract": "ABSTRACT Does it pay to appear unbiased in an attention-based economy where bias sells? We study this question in light of increased consumer partisan polarization and biases alongside greater technology usage and partisanship in journalism. Using a game-theoretic framework that captures the essential properties of the online news market, we show that polarization with biases may constrain neutral and partisan news websites\u2019 engagement-enhancing strategies differently; and online news providers can strategically exploit consumer perceptions to maximize engagement-driven revenues. Our analysis suggests that neutral news outlets depend on polarization imbalance and perceptions of neutrality. Moreover, increased search costs and consumer bias toward partisan outlets can lessen the echo chamber effect in online news consumption. Our work advances discussions on online news neutrality, providing fresh insights into the \u201cmarketplace of ideas\u201d view and source versus content neutrality in the face of increasing affective polarization."
+  },
+  {
+    "paper_id": "5c9485401f3f4ac2d4edd6540c94065f8dbf6af9",
+    "title": "Who can benefit from postmastectomy radiotherapy among HR+/HER2- T1-2 N1M0 breast cancer patients? An explainable machine learning mortality prediction based approach",
+    "year": 2024,
+    "author_ids": [
+      "2283315583",
+      "2283084097",
+      "2322070592",
+      "2283156262",
+      "2301830429",
+      "2374337616",
+      "2282981958"
+    ],
+    "venue": "Frontiers in Endocrinology",
+    "citation_count": 1,
+    "abstract": "Objective The necessity of postmastectomy radiotherapy(PMRT) for patients with HR+/HER2 T1-2 N1M0 breast cancer remains controversial. We want to use explainable machine learning to learn the feature importance of the patients and identify the subgroup of the patients who may benefit from the PMRT. Additionally, develop tools to provide guidance to the doctors. Methods In this study, we trained and validated 2 machine learning survival models: deep learning neural network and Cox proportional hazard model. The training dataset consisted of 35,347 patients with HR+/HER2- T1-2 N1M0 breast cancer who received mastectomies from the SEER database from 2013 to 2018. The performance of survival models were assessed using a concordance index (c-index).Then we did subgroup analysis to identify the subgroup who could benefit from PMRT. We also analyzed the global feature importance for the model and individual feature importance for individual survival prediction. Finally, we developed a Cloud-based recommendation system for PMRT to visualize the survival curve of each treatment plan and deployed it on the Internet. Results A total of 35,347 patients were included in this study. We identified that radiotherapy improved the OS in patients with tumor size >14mm and age older than 54: 5-year OS rates of 91.9 versus 87.2% (radio vs. nonradio, P <0.001) and cohort with tumor size >14mm and grade worse than well-differentiated, 5-year OS rates of 90.8 versus 82.3% (radio vs. nonradio, P <0.001).The deep learning network performed more stably and accurately in predicting patients survival than the random survival forest and Cox proportional hazard model on the internal test dataset (C-index=0.776 vs 0.641) and in the external validation(C-index=0.769 vs 0.650).Besides, the deep learning model identified several key factors that significantly influence patient survival, including tumor size, examined regional nodes, age at 45-49 years old and positive regional nodes (PRN). Conclusion Patients with tumor size >14mm and age older than 54 and cohort with tumor size >14mm and grade worse than well-differentiated could benefit from the PMRT. The deep learning network performed more stably and accurately in predicting patients survival than Cox proportional hazard model on the internal test. Besides, tumor size, examined regional nodes, age at 45-49 years old and PRN are the most significant factors to the overall survival (OS)."
+  },
+  {
+    "paper_id": "2484d21b931c9bb34c0611dc20bc1a41c399b18a",
+    "title": "Prediction machines, insurance, and protection: An alternative perspective on AI\u2019s role in production",
+    "year": 2024,
+    "author_ids": [
+      "2241714379",
+      "2156380928",
+      "3156782"
+    ],
+    "venue": "Journal of the Japanese and international economies (Print)",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "fb03b68604ecc0ec0f02733fb365394ca22ba6b0",
+    "title": "Positive and negative explanation effects in human\u2013agent teams",
+    "year": 2024,
+    "author_ids": [
+      "2216681366",
+      "2187456537",
+      "2279067861"
+    ],
+    "venue": "AI and Ethics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d31dc8914379ff824911ab2fdab4eda31da0619f",
+    "title": "Decision authority and the returns to algorithms",
+    "year": 2023,
+    "author_ids": [
+      "2336975569",
+      "3701289",
+      "122036781",
+      "1794750",
+      "2265398617"
+    ],
+    "venue": "Strategic Management Journal",
+    "citation_count": 33,
+    "abstract": "We evaluate a pilot in an Inspections Department to explore the returns to a pair of algorithms that varied in their sophistication. We find that both algorithms provided substantial prediction gains, suggesting that even simple data may be helpful. However, these gains did not result in improved decisions. Inspectors often used their decision authority to override algorithmic recommendations, partly to consider other organizational objectives without improving outcomes. Interviews with 55 departments find that while some ran pilots seeking to prioritize inspections using data, all provided considerable decision authority to inspectors. These findings suggest that for algorithms to improve managerial decisions, organizations must consider both the returns to algorithms in the context and how decision authority is managed.We evaluate a pilot in an Inspections Department to explore the returns to algorithms on decisions. We find that the greatest gains in this context come from integrating data into the decision process in the form of simple heuristics, rather than from increasing algorithmic sophistication or additional data. We also find that these improvements in prediction do not fully translate into improved decisions. Decision\u2010makers were less likely to follow data\u2010driven recommendations, partly in consideration of other organizational objectives, but without substantially improving on them overall. These findings suggest that organizations should consider the returns to technical sophistication in each context, and that the design and management of decision authority can be a key choice that impacts the value organizations can capture from using predictive analytics."
+  },
+  {
+    "paper_id": "11e69f5013758644b08b7f1ddcf3d9b11e8377af",
+    "title": "Network Interlinkages between artificial intelligence and green energy dynamics during the War in a Pandemic: An Application of Bayesian vector heterogeneous autoregressions",
+    "year": 2023,
+    "author_ids": [
+      "123936469",
+      "2268157355",
+      "108024740",
+      "123601929"
+    ],
+    "venue": "Environmental Challenges",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "e69f42ac8afab42ce0fc04a6947ce23f9b612ba4",
+    "title": "Interventions Against Machine-Assisted Statistical Discrimination",
+    "year": 2023,
+    "author_ids": [
+      "2108644445"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I study statistical discrimination driven by verifiable beliefs, such as those generated by machine learning, rather than by humans. When beliefs are verifiable, interventions against statistical discrimination can move beyond simple, belief-free designs like affirmative action, to more sophisticated ones, that constrain decision makers based on what they are thinking. I design a belief-contingent intervention I call common identity. I show that it is effective at eliminating equilibrium statistical discrimination, even when training data exhibit the various statistical biases that often plague algorithmic decision problems."
+  },
+  {
+    "paper_id": "f7008b201de6d352eca8c26652f7504e78731106",
+    "title": "Strategic automation and decision\u2010making authority",
+    "year": 2023,
+    "author_ids": [
+      "2239003715",
+      "2243258042",
+      "2955522"
+    ],
+    "venue": "Journal of Economics &amp; Management Strategy",
+    "citation_count": 0,
+    "abstract": "This paper studies how automation impacts the structure of decision\u2010making in organizations. We develop a theoretical model of a firm, where a principal makes a decision about how much to prioritize the new product development division when the division is led by a manager who holds private information specific to this division and has misaligned preferences with the principal. The principal chooses whether to decentralize this decision by delegating it to the manager, resulting in more informed but unbiased decision. In this setting, we investigate how automation which reduces operational variability may alter this choice of organizational structure. The findings from our analysis show that firms deploy automation resources differently depending on their organizational structure: centralized firms choose to automate divisions that face more uncertainty, while decentralized firms do the opposite. Moreover, increasing access to automation results in higher centralization of decision\u2010making in firms. In the extensions, we show that the strategic use of automation reduces the informativeness of intrafirm communication, and also, that automation can be a strategic substitute to monetary contracts."
+  },
+  {
+    "paper_id": "6bc1c9aeef96d111d8257ee403598cf5b28e3ae1",
+    "title": "Analyzing of Using Educational Technology to Improve the Quality and Equity of Learning Outcomes at Politeknik Maritim Negeri",
+    "year": 2023,
+    "author_ids": [
+      "2218604890"
+    ],
+    "venue": "Jurnal Iqra': Kajian Ilmu Pendidikan",
+    "citation_count": 10,
+    "abstract": "This study aimed to identify the use of educational technology in supporting the education of the next generation who want to improve the quality and equity of learning outcomes. The researcher carried out a series of data collection at one of the tertiary institutions, namely the Indonesian state maritime polytechnic. The researcher obtained the needed data through the location observation interview approach and documentation. Next, it analyze uding a phenomenological approach. The secondary and primary data coding was checked, organized, organized, and finally interpreted to get relevant and valid conclusions to answer this study's problems. After a series of analyses and discussion of data, this study concludes that there were several use for technology to support activities and accelerate learning at the Indonesian State Maritime Polytechnic, including that technology has become a core in learning because the power of innovation and revolution provides equity learning result in student learning. These various features and technology platforms enabled very effective and innovative learning, such as in efforts to develop the quality of lecturers with a variety of choices for learning or artificial intelligence to enable learning to occur more autonomously and accelerate training models and other classroom exercises. The study's results provide additional information for similar studies in the future.\nKeywords: Equity Learning Outcome, Quality Learning Outcome, Educational Technology"
+  },
+  {
+    "paper_id": "93b28d71e1bf7740cc00a6024151d92a87fb9012",
+    "title": "Training with AI: Evidence from chess computers",
+    "year": 2023,
+    "author_ids": [
+      "82940472",
+      "40791367"
+    ],
+    "venue": "Strategic Management Journal",
+    "citation_count": 67,
+    "abstract": "We suggest that AI can help decision-makers learn; specifically, that it can help them learn strategic interactions by serving as artificial training partners and thus help them to overcome a bottleneck of scarce human training partners. We present evidence from chess computers, the first widespread incarnation of AI. Leveraging the stag-gered diffusion of chess computers, we find that they did indeed help chess players improve by serving as a substitute for scarce human training partners. We also illustrate that chess computers were not a perfect substitute, as players training with them were not exposed to and thus did not learn to exploit idiosyncratic ( \u201c human \u201d ) mistakes. We discuss implications for research on learning, on AI in management and strategy, and on competitive advantage."
+  },
+  {
+    "paper_id": "04bf9fd1f5c56e260e910f6260b75e286997d588",
+    "title": "The law and economics of AI liability",
+    "year": 2023,
+    "author_ids": [
+      "100560178",
+      "97629633",
+      "2905541"
+    ],
+    "venue": "Computer Law and Security Review",
+    "citation_count": 40,
+    "abstract": "When AI systems possess the characteristics of autonomy and unpredictability, they present challenges for the existing liability framework. (Semi)-autonomous AI systems shift control over these systems away from users and towards producers, while errors of AI systems may be difficult to foresee. Policymakers are faced with the questions when existing civil liability rules do not adequately cover risks arising in the context of AI systems, and how they then should be adapted. This paper addresses these two questions for EU non-contractual liability rules. It considers how liability rules affect the incentives of producers, users"
+  },
+  {
+    "paper_id": "8030ec75e7c19826e0f686b95c798a9206ced485",
+    "title": "How Does Competition Affect Exploration vs. Exploitation? A Tale of Two Recommendation Algorithms",
+    "year": 2023,
+    "author_ids": [
+      "2237400818",
+      "1896349",
+      "2314612581",
+      "7923060"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 19,
+    "abstract": "Through repeated interactions, firms today refine their understanding of individual users\u2019 preferences adaptively for personalization. In this paper, we use a continuous-time bandit model to analyze firms that recommend content to multihoming consumers, a representative setting for strategic learning of consumer preferences to maximize lifetime value. In both monopoly and duopoly settings, we compare a forward-looking recommendation algorithm that balances exploration and exploitation to a myopic algorithm that only maximizes the quality of the next recommendation. Our analysis shows that, compared with a monopoly, firms competing for users\u2019 attention focus more on exploitation than exploration. When users are impatient, competition decreases the return from developing a forward-looking algorithm. In contrast, development of a forward-looking algorithm may hurt users under monopoly but always benefits users under competition. Competing firms\u2019 decisions to invest in a forward-looking algorithm can create a prisoner\u2019s dilemma. Our results have implications for artificial intelligence adoption and for policy makers on the effect of market power on innovation and consumer welfare. This paper was accepted by Dmitri Kuksov, marketing. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4722 ."
+  },
+  {
+    "paper_id": "a0d04429b0be3d8fa5f4982845dc5a43f234b4ab",
+    "title": "Development and validation of machine learning models to predict survival of patients with resected stage-III NSCLC",
+    "year": 2023,
+    "author_ids": [
+      "2115288735",
+      "2283084097",
+      "6353921",
+      "4226979",
+      "49764063",
+      "2146393785"
+    ],
+    "venue": "Frontiers in Oncology",
+    "citation_count": 14,
+    "abstract": "Objective To compare the performance of three machine learning algorithms with the tumor, node, and metastasis (TNM) staging system in survival prediction and validate the individual adjuvant treatment recommendations plan based on the optimal model. Methods In this study, we trained three machine learning madel and validated 3 machine learning survival models-deep learning neural network, random forest and cox proportional hazard model- using the data of patients with stage-al3 NSCLC patients who received resection surgery from the National Cancer Institute Surveillance, Epidemiology, and End Results (SEER) database from 2012 to 2017,the performance of survival predication from all machine learning models were assessed using a concordance index (c-index) and the averaged c-index is utilized for cross-validation. The optimal model was externally validated in an independent cohort from Shaanxi Provincial People\u2019s Hospital. Then we compare the performance of the optimal model and TNM staging system. Finally, we developed a Cloud-based recommendation system for adjuvant therapy to visualize survival curve of each treatment plan and deployed on the internet. Results A total of 4617 patients were included in this study. The deep learning network performed more stably and accurately in predicting stage-iii NSCLC resected patients survival than the random survival forest and Cox proportional hazard model on the internal test dataset (C-index=0.834 vs. 0.678 vs. 0.640) and better than TNM staging system (C-index=0.820 vs. 0.650) in the external validation. The individual patient who follow the reference from recommendation system had superior survival compared to those who did not. The predicted 5-year-survival curve for each adjuvant treatment plan could be accessed in the recommender system via the browser. Conclusion Deep learning model has several advantages over linear model and random forest model in prognostic predication and treatment recommendations. This novel analytical approach may provide accurate predication on individual survival and treatment recommendations for resected Stage-iii NSCLC patients."
+  },
+  {
+    "paper_id": "39184bba5540ead556cf213b65fecaa5c699ffcf",
+    "title": "Ex Ante Predictability of Rapid Growth: A Design Science Approach",
+    "year": 2022,
+    "author_ids": [
+      "1939703",
+      "1962951",
+      "2141634",
+      "2122465096"
+    ],
+    "venue": "Entrepreneurship: Theory & Practice",
+    "citation_count": 11,
+    "abstract": "We examine how machine learning (ML) predictions of high-growth enterprises (HGEs) help a budget-constrained venture capitalist source investments for a fixed size portfolio. Applying a design science approach, we predict HGEs 3\u2009years ahead and focus on decision (not statistical) errors, using an accuracy measure relevant to the decision-making context. We find that when the ML procedure adheres to the budget constraint and maximizes the accuracy measure, nearly 40% of the HGE predictions are correct. Moreover, ML performs particularly well where it matters in practice\u2014in the upper tail of the distribution of the predicted HGE probabilities. JEL Classification: C53, D22, L25"
+  },
+  {
+    "paper_id": "d1582ab0850fe3c6ff90f5da9de0b5ad09ad2cf1",
+    "title": "Algorithmic Assistance with Recommendation-Dependent Preferences",
+    "year": 2022,
+    "author_ids": [
+      "153186771",
+      "47281276"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 16,
+    "abstract": "One important application of algorithms is to turn complex data into simple predictions or recommendations that help decision-makers take better decisions. Examples of this include risk assessments presented to judges or doctors. We typically think of such algorithmic assessments as providing additional information about which choices will lead to better outcomes. But when a decision-maker obtains algorithmic assistance, they may not only react to the information. The decision-maker may view the input of the algorithm as recommending a default action, making it costly for them to deviate. In this article, we consider the effect and design of algorithmic recommendations when they affect choices not just by shifting beliefs, but also by altering preferences. We show that recommendation dependence creates inefficiencies where the decision-maker is overly responsive to the recommendation, and propose changes to the design of recommendation algorithms to counteract this response."
+  },
+  {
+    "paper_id": "c5b7bf4bab203760e1a1db1c6c1522893f089fe1",
+    "title": "Bringing artificial intelligence to business management",
+    "year": 2022,
+    "author_ids": [
+      "3207649",
+      "2698101",
+      "2136765247",
+      "2109269315"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "citation_count": 86,
+    "abstract": null
+  },
+  {
+    "paper_id": "bb2a03df0f8f182333a3e0833b1b556f35736795",
+    "title": "Encouraging consumer activity through automatic switching of the electricity contract - A field experiment",
+    "year": 2022,
+    "author_ids": [
+      "40292689",
+      "96518991",
+      "2216582",
+      "2157584155"
+    ],
+    "venue": "Energy Policy",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "4f7a26037f94f01d92cb3d84a99c8820afce5c49",
+    "title": "Keeping the organization in the loop: a socio-technical extension of human-centered artificial intelligence",
+    "year": 2022,
+    "author_ids": [
+      "143662944",
+      "32400732"
+    ],
+    "venue": "Ai & Society",
+    "citation_count": 89,
+    "abstract": "The human-centered AI approach posits a future in which the work done by humans and machines will become ever more interactive and integrated. This article takes human-centered AI one step further. It argues that the integration of human and machine intelligence is achievable only if human organizations\u2014not just individual human workers\u2014are kept \u201cin the loop.\u201d We support this argument with evidence of two case studies in the area of predictive maintenance, by which we show how organizational practices are needed and shape the use of AI/ML. Specifically, organizational processes and outputs such as decision-making workflows, etc. directly influence how AI/ML affects the workplace, and they are crucial for answering our first and second research questions, which address the pre-conditions for keeping humans in the loop and for supporting continuous and reliable functioning of AI-based socio-technical processes. From the empirical cases, we extrapolate a concept of \u201ckeeping the organization in the loop\u201d that integrates four different kinds of loops: AI use, AI customization, AI-supported original tasks, and taking contextual changes into account. The analysis culminates in a systematic framework of keeping the organization in the loop look based on interacting organizational practices."
+  },
+  {
+    "paper_id": "a8d76d84408c1fe6b1543084e6cec3dfc4ede429",
+    "title": "Stable learning establishes some common ground between causal inference and machine learning",
+    "year": 2022,
+    "author_ids": [
+      "2153522384",
+      "2631417"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "citation_count": 202,
+    "abstract": null
+  },
+  {
+    "paper_id": "00d8f69337acb9c8df0d6297a3f563eaa8fea1fb",
+    "title": "Artificial Intelligence and emerging digital technologies in the energy sector",
+    "year": 2021,
+    "author_ids": [
+      "2175400558",
+      "2108457450"
+    ],
+    "venue": null,
+    "citation_count": 240,
+    "abstract": null
+  },
+  {
+    "paper_id": "200d9993ba6eaa5be48ea165c4adbcc9f0952222",
+    "title": "On the Fairness of Machine-Assisted Human Decisions",
+    "year": 2021,
+    "author_ids": [
+      "74136508",
+      "153186771",
+      "47281276"
+    ],
+    "venue": "Conference on Fairness, Accountability and Transparency",
+    "citation_count": 19,
+    "abstract": "When machine-learning algorithms are deployed in high-stakes decisions, we want to ensure that their deployment leads to fair and equitable outcomes. This concern has motivated a fast-growing literature that focuses on diagnosing and addressing disparities in machine predictions. However, many machine predictions are deployed to assist in decisions where a human decision-maker retains the ultimate decision authority. In this article, we therefore consider how properties of machine predictions affect the resulting human decisions. We show in a formal model that the inclusion of a biased human decision-maker can revert common relationships between the structure of the algorithm and the qualities of resulting decisions. Specifically, we document that excluding information about protected groups from the prediction may fail to reduce, and may even increase, ultimate disparities. While our concrete results rely on specific assumptions about the data, algorithm, and decision-maker, they show more broadly that any study of critical properties of complex decision systems, such as the fairness of machine-assisted human decisions, should go beyond focusing on the underlying algorithmic predictions in isolation."
+  },
+  {
+    "paper_id": "002cc3b093f3591214f8257cd3c7245d12078866",
+    "title": "Soft skills, hard skills: What matters most? Evidence from job postings",
+    "year": 2021,
+    "author_ids": [
+      "2175400558",
+      "2108457450"
+    ],
+    "venue": null,
+    "citation_count": 122,
+    "abstract": null
+  },
+  {
+    "paper_id": "70aef4ad4a0f85e2a4268d8a1cfc299eece26130",
+    "title": "Unpacking the Black Box: Regulating Algorithmic Decisions",
+    "year": 2021,
+    "author_ids": [
+      "120133626",
+      "35576802",
+      "47281276"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 20,
+    "abstract": "We show how to optimally regulate prediction algorithms in a world where (a) high-stakes decisions such as lending, medical testing or hiring are made by a complex 'black-box' prediction functions, (b) there is an incentive conflict between the agent who designs the prediction function and a principal who oversees the use of the algorithm, and (c) the principal is limited in how much she can learn about the agent's black-box model. We show that limiting agents to prediction functions that are simple enough to be fully transparent is inefficient as long as the bias induced by misalignment between principal's and agent's preferences is small relative to the uncertainty about the true state of the world. Algorithmic audits can improve welfare, but the gains depend on the design of the audit tools. Tools that focus on minimizing overall information loss, the focus of many post-hoc explainer tools, will generally be inefficient since they focus on explaining the average behavior of the prediction function rather than those aspects that are most indicative of a misaligned choice. Targeted tools that focus on the source of incentive misalignment, e.g., excess false positives or racial disparities, can provide first-best solutions. We provide empirical support for our theoretical findings using an application in consumer lending. Full manuscript: arxiv.org/abs/2110.03443"
+  },
+  {
+    "paper_id": "7637fb69d6583743ac2c73b1a9bb5f99f3d6da43",
+    "title": "Evaluation of technology clubs by clustering: a cautionary note",
+    "year": 2021,
+    "author_ids": [
+      "121630179",
+      "104753932",
+      "145370216"
+    ],
+    "venue": "Applied Economics",
+    "citation_count": 6,
+    "abstract": "ABSTRACT Applications of machine learning techniques to economic problems are increasing. These are powerful techniques with great potential to extract insights from economic data. However, care must be taken to apply them correctly, or the wrong conclusions may be drawn. In the technology clubs literature, after applying a clustering algorithm, some authors train a supervised machine learning technique, such as a decision tree or a neural network, to predict the label of the clusters. Then, they use some performance metric (typically, accuracy) of that prediction as a measure of the quality of the clustering configuration they have found. This is an error with potential negative implications for policy, because obtaining a high accuracy in such a prediction does not mean that the clustering configuration found is correct. This paper explains in detail why this modus operandi is not sound from theoretical point of view and uses computer simulations to demonstrate it. We caution policy and indicate the direction for future investigations."
+  },
+  {
+    "paper_id": "fdb0c7434b0203e9e700d3ba85d1b5c17224edfc",
+    "title": "Artificial intelligence, firms and consumer behavior: A survey",
+    "year": 2021,
+    "author_ids": [
+      "4814235",
+      "1889998",
+      "6025104"
+    ],
+    "venue": "Journal of economic surveys (Print)",
+    "citation_count": 100,
+    "abstract": null
+  },
+  {
+    "paper_id": "d4334854671f88aea299b3096b82c461c50d35ed",
+    "title": "AI and Its Implications for Organisations",
+    "year": 2021,
+    "author_ids": [
+      "2126423717",
+      "1790972"
+    ],
+    "venue": null,
+    "citation_count": 12,
+    "abstract": "The nature of technologies that are recognised as Artificial Intelligence (AI) has continually changed over time to be something more advanced than other technologies. Despite the fluidity of understanding of AI, the most common theme that has stuck with AI is \u2018human-like decision making\u2019. Advancements in processing power, coupled with big data technologies, gave rise to highly accurate prediction algorithms. Analytical techniques which use multi-layered neural networks such as machine learning and deep learning have emerged as the drivers of these AI-based applications. Due to easy access and growing information workforce, these algorithms are extensively used in a plethora of industries ranging from healthcare, transportation, finance, legal systems, to even military. AI-tools have the potential to transform industries and societies through automation. Conversely, the undesirable or negative consequences of AI-tools have harmed their respective organisations in social, financial and legal spheres. As the use of these algorithms propagates in the industry, the AI-based decisions have the potential to affect large portions of the population, sometimes involving vulnerable groups in society. This chapter presents an overview of AI\u2019s use in organisations by discussing the following: first, it discusses the core components of AI. Second, the chapter discusses common goals organisations can achieve with AI. Third, it examines different types of AI. Fourth, it discusses unintended consequences that may take place in organisations due to the use of AI. Fifth, it discusses vulnerabilities that may arise from AI systems. Lastly, this chapter offers some recommendations for industries to consider regarding the development and implementation of AI systems."
+  },
+  {
+    "paper_id": "aed941b07ec52017c5136ccf9d0b135984d22e3a",
+    "title": "Is Society Ready for AI Ethical Decision Making? Lessons from a Study on Autonomous Cars",
+    "year": 2021,
+    "author_ids": [
+      "2086162307",
+      "2230359"
+    ],
+    "venue": "Journal of Behavioral and Experimental Economics",
+    "citation_count": 14,
+    "abstract": ","
+  },
+  {
+    "paper_id": "9d15d588980cf7e3bd1135675d25e5a7893055a2",
+    "title": "The Medical Authority of AI: A Study of AI-enabled Consumer-Facing Health Technology",
+    "year": 2021,
+    "author_ids": [
+      "46570379",
+      "145508813",
+      "1799964",
+      "39834748"
+    ],
+    "venue": "International Conference on Human Factors in Computing Systems",
+    "citation_count": 21,
+    "abstract": "Recently, consumer-facing health technologies such as Artificial Intelligence (AI)-based symptom checkers (AISCs) have sprung up in everyday healthcare practice. AISCs solicit symptom information from users and provide medical suggestions and possible diagnoses, a responsibility that people usually entrust with real-person authorities such as physicians and expert patients. Thus, the advent of AISCs begs a question of whether and how they transform the notion of medical authority in people's everyday healthcare practice. To answer this question, we conducted an interview study with thirty AISC users. We found that users assess the medical authority of AISCs using various factors including AISCs\u2019 automated decisions and interaction design patterns, associations with established medical authorities like hospitals, and comparisons with other health technologies. We reveal how AISCs are used in healthcare delivery, discuss how AI transforms conventional understandings of medical authority, and derive implications for designing AI-enabled health technology."
+  },
+  {
+    "paper_id": "db88226e260aef4f3c9399e1d4eca1b80f7d18d6",
+    "title": "The Complementarity Between Man and Machine in Forecasting",
+    "year": 2021,
+    "author_ids": [
+      "145522659",
+      "81628901"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 23,
+    "abstract": "This paper explores the complementarity between man and machine in forecasting. We use data on analysts' earnings forecasts. We first show that a machine-learning forecast combining analyst expectations with data dominates both pure data-based and pure analyst forecasts. We then decompose the relative accuracy of these forecasts into three components: two adjustments for analyst bias and noise (which permit improvement over analysts' forecast) and an analyst information advantage (which permits improvement over the data-based forecast). We find that information advantage is large, particularly at shorter horizons, and analyst bias and noise are larger, especially at longer horizons. The simultaneous presence of all three components explains the superiority of the combined forecast. Finally, we document two determinants of man-machine complementarity. First, it is especially strong when there is more firm-level and aggregate uncertainty, consistent with bounded rationality: analysts' information is more valuable, but comes at a cost of more bias and noise. Secondly, complementarity is stronger for firms followed by fewer analysts, for which the consensus forecast contains significant noise."
+  },
+  {
+    "paper_id": "167273526caeae8439b2c08630f984b758f76dab",
+    "title": "An Economic Approach to Regulating Algorithms",
+    "year": 2020,
+    "author_ids": [
+      "88738815",
+      "3371403",
+      "2062143",
+      "50197963"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 45,
+    "abstract": "There is growing concern about \"algorithmic bias\" - that predictive algorithms used in decision-making might bake in or exacerbate discrimination in society. When will these \"biases\" arise? What should be done about them? We argue that such questions are naturally answered using the tools of welfare economics: a social welfare function for the policymaker, a private objective function for the algorithm designer and a model of their information sets and interaction. We build such a model that allows the training data to exhibit a wide range of \"biases.\" Prevailing wisdom is that biased data change how the algorithm is trained and whether an algorithm should be used at all. In contrast, we find two striking irrelevance results. First, when the social planner builds the algorithm, her equity preference has no effect on the training procedure. So long as the data, however biased, contain signal, they will be used and the algorithm built on top will be the same. Any characteristic that is predictive of the outcome of interest, including group membership, will be used. Second, we study how the social planner regulates private (possibly discriminatory) actors building algorithms. Optimal regulation depends crucially on the disclosure regime. Absent disclosure, algorithms are regulated much like human decision-makers: disparate impact and disparate treatment rules dictate what is allowed. In contrast, under stringent disclosure of all underlying algorithmic inputs (data, training procedure and decision rule), once again we find an irrelevance result: private actors can use any predictive characteristic. Additionally, now algorithms strictly reduce the extent of discrimination against protected groups relative to a world in which humans make all the decisions. As these results run counter to prevailing wisdom on algorithmic bias, at a minimum, they provide a baseline set of assumptions that must be altered to generate different conclusions."
+  },
+  {
+    "paper_id": "0dff042fe169db7782bb9aa4d4323e44a2e6b47f",
+    "title": "Managing Intelligence: Skilled Experts and AI in Markets for Complex Products",
+    "year": 2020,
+    "author_ids": [
+      "145607467",
+      "1832070",
+      "122338505",
+      "5528835"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 21,
+    "abstract": "In numerous high stakes markets skilled experts play a key role in facilitating consumer choice of complex products. New artificial intelligence (AI) technologies are increasingly being used to augment expert decisions. We study the role of technology and expertise in the market for health insurance, where consumer choices are widely known to be sub-optimal. Our analysis leverages the large-scale implementation of an AI-based decision support tool in a private Medicare exchange where consumers are randomized to skilled agents over time. We find that, prior to AI-based technology, skilled experts in this market exhibit the same type of inconsistent behavior found in previous studies of individual choices, costing consumers $1260 on average. The addition of AI-based decision support improves outcomes by $278 on average and substantially reduces heterogeneity in broker performance. Experts efficiently synthesize private information, incorporating AI-based recommendations along dimensions that are well suited to AI (e.g. total expected patient costs), but overruling AI-based recommendations along dimensions for which humans are better suited (e.g. specifics of doctor networks). As a result, switching plans, an ex-post measure of plan satisfaction, is meaningfully lower for agents making AI-based recommendations. While AI is a complement to skill on average, we find that it is a substitute across the skill distribution; lower quality agents provide better recommendations with AI than the top agents did without it. Overall productivity rises, with the introduction of decision support associated with a 21% reduction in call time for enrollment."
+  },
+  {
+    "paper_id": "b447e4eff987f6d3b5548bb5a2e4140f8b60f213",
+    "title": "Economics, Fairness and Algorithmic Bias",
+    "year": 2020,
+    "author_ids": [
+      "3222806",
+      "2411615595"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 144,
+    "abstract": "We develop an economic perspective on algorithmic fairness and the surrounding empirical, theoretical and policy issues. Our perspective draws from clear parallels between algorithms and issues in economics of discrimination, crime, personnel and technological innovation; as well as more subtle connections to environmental economics, product safety regulation, behavioral economics and economics of information. We highlight the distinction between biased algorithmic predictions and biased algorithmic objectives. We conclude by discussing economic issues in policy policy and managerial practices around reducing algorithmic unfairness."
+  },
+  {
+    "paper_id": "7f5848234a3874e9be2c8df90a2553162d6a3189",
+    "title": "The Language of Rules: Textual Complexity in Banking Reforms",
+    "year": 2019,
+    "author_ids": [
+      "1582925703",
+      "49173704",
+      "120076551",
+      "2152272897",
+      "67003837"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 18,
+    "abstract": "The banking reforms that followed the financial crisis of 2007\u201308 led to an increase in UK banking regulation from almost 400,000 to over 720,000 words, and to concerns about their complexity. We define complexity in terms of the difficulty of processing linguistic units, both in isolation and within a broader context, and use natural language processing and network analysis to calculate complexity measures on a novel dataset that covers the near universe of prudential regulation for banks in the United Kingdom before (2007) and after (2017) the reforms. Linguistic, ie textual and network, complexity in banking regulation is concentrated in a relatively small number of provisions, and the post-crisis reforms have accentuated this feature. In particular, the comprehension of provisions within a tightly connected \u2018core\u2019 requires following long chains of cross-references."
+  },
+  {
+    "paper_id": "85743237bd3c0a278d74eca92f72802651a515f3",
+    "title": "Digital Technology Adoption and Collaborative Innovation in Chinese High-Speed Rail Industry: Does Organizational Agility Matter?",
+    "year": 2024,
+    "author_ids": [
+      "2163136399",
+      "97234015",
+      "1678657"
+    ],
+    "venue": "IEEE transactions on engineering management",
+    "citation_count": 44,
+    "abstract": "This study aims to assess the effect of digital technology adoption on collaborative innovation in the Chinese high-speed rail industry, along with an exploration of the moderating role of organizational agility (OA). This study distinguishes between vertical and horizontal collaborative innovations. Based on data from the Chinese high-speed rail industry from 2009 to 2021, we assess the impact of digital technology adoption on vertical and horizontal collaborative innovations with two-way fixed effect regression models. The moderating role of OA is also clarified. The results indicate that digital technology adoption has a significantly positive impact on the vertical and horizontal collaborative innovations of the high-speed rail industry in China. OA significantly enhances the abovementioned relationships. This is one of the first empirical studies focusing on digitally driven innovation in emerging economies. Insight and a strategy for the application of digital technologies in collaborative innovation is provided. Additionally, this study demonstrates that successful digital transformation depends on the construction of OA, which enriches the existing digital technology research and provides a reference for firms to accelerate digital transformation."
+  },
+  {
+    "paper_id": "9762cb583b377baf20d5a132392bf031dfec37a9",
+    "title": "Black Box Credit Scoring and Data Sharing",
+    "year": 2024,
+    "author_ids": [
+      "2334160474"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "2ccadc549b9d2b58dd1e0cd4297751fecc60a25d",
+    "title": "Effective Task Allocation in Ad Hoc Human-Agent Teams",
+    "year": 2022,
+    "author_ids": [
+      "2187456537",
+      "145134535"
+    ],
+    "venue": "HHAI",
+    "citation_count": 3,
+    "abstract": ". With accelerated progress in autonomous agent capabilities, mixed hu- man and agent teams will become increasingly commonplace in both our personal and professional spheres. Hence, further examination of factors affecting collab- oration efficacy in these types of teams are needed to inform the design and use of effective human-agent teams. Ad hoc human-agent teams, where team members interact without prior experience with teammates and only for a limited number of interactions, will be commonplace in dynamic environments with short oppor- tunity windows for collaboration between diverse groups. We study ad-hoc team scenarios pairing a human with an agent where both need to assess and adapt to the capabilities of the partner to maximize team performance. In this work, we investigate the relative efficacy of two human-agent collaboration protocols that dif- fer in the team member responsible for allocating tasks to the team. We designed, implemented, and experimented with an environment in which human-agent teams repeatedly collaborate to complete heterogeneous task sets."
+  },
+  {
+    "paper_id": "7ed1d4db165c1c72e4bf60a4ff76c6809b0e2bd8",
+    "title": "Managing Intelligence: Skilled Experts and Decision Support in Markets for Complex Products\u2217",
+    "year": 2021,
+    "author_ids": [
+      "145607467",
+      "1832070",
+      "122338505",
+      "5528835"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "9efcdf341e62cd4d60ea2df2b1cb9723a8f661f0",
+    "title": "CRM and AI in Time of Crisis",
+    "year": 2021,
+    "author_ids": [
+      "2149494304",
+      "1903499"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "A crisis can a\ufb00ect the incentives of various players within a \ufb01rm\u2019s multi-layered sales and marketing organization (e.g., headquarters and branches of a bank). Such shifts can result in sales decisions against the \ufb01rm\u2019s best interests. Motivated by the backlash to the Paycheck Protection Program and the subsequent adoption of arti\ufb01cial intelligence (AI) in the banking industry during the COVID-19 pandemic, we develop a model of decision authority allocation between headquarters and branches, then examine the impact of AI on decision authority and intra-organizational con\ufb02icts. Our model reveals how an increased concentration of decision authority at headquarters during a crisis can push the bank to focus on its largest clients and explains why such a strategy might not be bene\ufb01cial. Furthermore, using AI does not always help the \ufb01rm. When it replaces the branch\u2019s due diligence e\ufb00orts (e.g., Fintech \ufb01rms), AI can mitigate intra-organizational con\ufb02ict and enhance resource allocation. Yet when AI supplements the branch\u2019s due diligence e\ufb00orts (e.g., traditional banks), the branch might decrease its e\ufb00orts and thus lower the bank\u2019s information about the branch\u2019s clients. AI can thus create new con\ufb02icts of interest and result in decision authority becoming concentrated at headquarters. This e\ufb00ect of AI is exacerbated during a crisis. Our \ufb01ndings have important implications for both practitioners and policy-makers that apply beyond the COVID-19 crisis."
+  },
+  {
+    "paper_id": "19eab4771dc9f432a2a2b0b5ea5b13ec3568b96a",
+    "title": "Management by Algorithm? Human Capital in the Age of Intelligent Machines",
+    "year": 2021,
+    "author_ids": [
+      "107642156",
+      "39127899",
+      "41077055"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  }
+]

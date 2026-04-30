@@ -1,0 +1,381 @@
+[
+  {
+    "paper_id": "992b7fc4ac4dee34859ba8188000ad63e55ae491",
+    "title": "Withholding and damage in Bayesian trade mechanisms",
+    "year": 2023,
+    "author_ids": [
+      "3008332",
+      "2387692"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 1,
+    "abstract": ". We study the welfare consequences of allowing the mechanism designer to withhold or damage resources in the optimal mechanism for bilateral trade with independent private values. When the buyer and the seller have discrete value distributions, we establish the following results. Burning money or withholding the good from both traders never enhances welfare. Similarly, damaging the good for the buyer cannot improve welfare. By contrast, damaging the good for the seller may improve welfare in the optimal mechanism. However, such welfare improvements are possible only if the damage hurts some lower valuation type of seller more severely than the highest valuation type. Results extend to the case of continuous value distributions under additional hypotheses regarding virtual values. Methods also apply to optimal Bayesian implementation for allocation problems. In the absence of property rights, damaging goods for any agent has negative welfare consequences. The solution concepts of Bayesian and dominant strategy implementation have distinct implications for the optimality of burning money and withholding goods in these environments."
+  },
+  {
+    "paper_id": "c15a7ea41b428c939716475273fbcd1d261cda96",
+    "title": "Mechanism design for pandemics",
+    "year": 2022,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "Review of Economic Design",
+    "citation_count": 4,
+    "abstract": "Under normal circumstances, competitive markets do an excellent job of supplying the goods that members of society want and need. But in an emergency like a pandemic, unassisted markets may not suffice. Imagine, for example, that society suddenly needs to obtain tens (or even hundreds) of millions of COVID-19 virus test kits a week. Test kits for this virus are a new product, and so it may not even be clear who the relevant set of manufacturers are. If we had the luxury of time, a laissez-faire market might identify these manufacturers: the price of test kits would adjust until supply matched demand. But getting a new market of this size to equilibrate quickly is unrealistic. Furthermore, markets don\u2019t work well when there are concentrations of power on either the buying or selling side, as there might well be here. Finally, a test is, in part, a public good (its benefits go not just to the person being tested, but everyone he might come in contact with), and markets do not usually provide public goods adequately. Fortunately, mechanism design can be enlisted to help."
+  },
+  {
+    "paper_id": "0ad5509098d87dbce992638b13b5be036484f00c",
+    "title": "Evaluation of local leaders in China",
+    "year": 2021,
+    "author_ids": [
+      "25465738",
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "Properly evaluating a local leader is important not only to make sure he is the right person for a particular job, but to give him the right incentives to perform that job well. This note makes suggestions for re-designing the system of evaluation of local leaders in China. We will begin in section 1 by describing local government\u2019s main achievements in China and also their biggest failures. In section 2, we outline the existing evaluation system for local leaders. We then turn in section 3 to some general principles for redesigning the evaluation system. Finally, in section 4, we make suggestions for specific features to include in the new evaluation system."
+  },
+  {
+    "paper_id": "46acd10fb72ea7ee75b34a7f2407f16e37913767",
+    "title": "Government and economics: An emerging field of study",
+    "year": 2021,
+    "author_ids": [
+      "2108634667",
+      "2387692"
+    ],
+    "venue": "Journal of Government and Economics",
+    "citation_count": 25,
+    "abstract": "In this paper, we discuss the \ufb01eld of government and economics , an emerging body of work that aims to better understand government\u2019s role, incentives and behavior in a modern market economy, as well as how government actions shape the economy\u2019s performance. In the \ufb01rst part of the paper, we present evidence that the size and scope of government in market economies have grown much larger since the industrial revolution. We then brie\ufb02y examine particular periods in the histories of the U.S., Germany, Japan, South Korea, and China when these countries\u2019 governments played an especially vigorous role in promoting rapid economic growth. We also provide statistical evidence that, across countries, more robust market-supporting behavior from governments is associated with higher per capita income and faster growth. The second part begins with a review of existing areas of economic research suggesting that, so far, the discipline has neglected some signi\ufb01cant questions concerning government as an active player in a modern market economy. Finally, we propose a number of possible future research topics that we think are tailored for the new \ufb01eld of government and economies."
+  },
+  {
+    "paper_id": "2e690f84e0672311db5aae35942f60a77eebd132",
+    "title": "Editorial: Special issue in memory of Kenneth J. Arrow",
+    "year": 2020,
+    "author_ids": [
+      "2387692",
+      "2250854148",
+      "2753334"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "798570c462a6199b516f390e63ed3cb24ae6fd12",
+    "title": "CAN WITHHOLDING OR DAMAGE IMPROVE WELFARE IN BILATERAL TRADE MECHANISMS?",
+    "year": 2020,
+    "author_ids": [
+      "3008332",
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8fa23cc628c2db4aeea57a4032568825450c6f1c",
+    "title": "Editorial: Special issue in memory of Kenneth J. Arrow",
+    "year": 2020,
+    "author_ids": [
+      "2387692",
+      "2158311973",
+      "2753334"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "bc9001f11990a9cccf682f26332a6829cb621f08",
+    "title": "A modified version of Arrow\u2019s IIA condition",
+    "year": 2020,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "de59eafea5aa910db66b49430433a4f54d2146d3",
+    "title": "Strategy-Proofness, Independence of Irrelevant Alternatives, and Majority Rule",
+    "year": 2020,
+    "author_ids": [
+      "50140537",
+      "2387692"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 18,
+    "abstract": "We show that strategy-proofness, the Pareto principle, anonymity, neutrality, independence of irrelevant alternatives, and decisiveness uniquely characterize majority rule on any domain of preferences for which there exists a voting rule satisfying these axioms. In our formulation, strategy-proofness includes manipulations by coalitions. However, we demonstrate that the characterization still holds when coalitions are restricted to arbitrarily small size. We also show that when coalitions can manipulate outside the domain, there is an extension of majority rule that satisfies these axioms on any domain without Condorcet cycles. (JEL D72)"
+  },
+  {
+    "paper_id": "e2fc59ae954bfbea67b4924e6a25e7812ff3f885",
+    "title": "Twenty Sixth Convocation and R R Kale Memorial Lecture by Prof. Eric S Maskin on \"Introduction to Mechanism Design\" (Photographs)",
+    "year": 2020,
+    "author_ids": [
+      "2387692",
+      "1471191977",
+      "52385382"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "eeccec59f9c81d18a9938bb0e5f25c20a867b21d",
+    "title": "A modified version of Arrow\u2019s IIA condition",
+    "year": 2020,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "435b4d11e9c249d9b1a2cf972760b1dc942ed682",
+    "title": "Feasible Nash Implementation of Social Choice Rules When the Designer Does Not Know Endowments",
+    "year": 2019,
+    "author_ids": [
+      "50247731",
+      "2387692",
+      "2811329"
+    ],
+    "venue": "Studies in Economic Design",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5d32dde329ba7c412e98944c62d09ef7cf9fd3ff",
+    "title": "Change Everything: Creating an Economy for the Common Good",
+    "year": 2019,
+    "author_ids": [
+      "7432583",
+      "39662879",
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 83,
+    "abstract": null
+  },
+  {
+    "paper_id": "86a48304cc8e269f1caec051b6b5a3edded7b147",
+    "title": "The economics of malaria control in an age of declining aid",
+    "year": 2019,
+    "author_ids": [
+      "2387692",
+      "80752899",
+      "4492032",
+      "5050223"
+    ],
+    "venue": "Nature Communications",
+    "citation_count": 11,
+    "abstract": "This article examines financing in the fight against malaria. After briefly describing malaria control plans in Africa since 2000, it offers a stylized model of the economics of malaria and shows how health aid can help escape the malaria trap. Foreign aid is necessary to control tropical diseases in endemic countries. Here the authors outline the steps taken to control malaria in Africa since 2000 and present an economic model to propose that US$25\u221230 per capita will be needed to avoid a disease trap."
+  },
+  {
+    "paper_id": "be9deeebe868fa1419777ebb98b6ec29a8aeb8c9",
+    "title": "Pandering and pork-barrel politics",
+    "year": 2019,
+    "author_ids": [
+      "2387692",
+      "3056693"
+    ],
+    "venue": "Journal of Public Economics",
+    "citation_count": 29,
+    "abstract": "Abstract We develop a model of pork-barrel politics in which a government official tries to improve her reelection chances by spending on targeted interest groups. The spending signals that she shares their concerns. We investigate the effect of such pandering on public spending. Pandering increases spending relative to a non-accountable official (one who does not have to run for reelection) if either the official's overall spending propensity is known, or if it is unknown but the effect of spending on the deficit is opaque to voters. By contrast, an unknown spending propensity may induce the elected official to exhibit fiscal discipline if spending is transparent."
+  },
+  {
+    "paper_id": "e550d46200f7f1b3f1ab36ad3a2ab358dd415773",
+    "title": "Introduction to mechanism design and implementation\u2020",
+    "year": 2019,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "Transnational Corporation Review",
+    "citation_count": 13,
+    "abstract": "Abstract This article provides a brief introduction to mechanism design and implementation theory. First, it provides a brief definition of mechanism design. It then provides a few concrete examples that should make clear what the subject is all about."
+  },
+  {
+    "paper_id": "e78018005049420dcb193792c00db90ab8b03bdf",
+    "title": "The Economics of Kenneth J. Arrow: A Selective Review",
+    "year": 2019,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 7,
+    "abstract": "This article reviews Kenneth Arrow's seminal work in economics, giving special emphasis to his contributions to social choice theory and general equilibrium theory."
+  },
+  {
+    "paper_id": "735dbb8b07b95106d1dba1a734d6ceb61c5eeb23",
+    "title": "Salute to J\u00e1nos Kornai",
+    "year": 2018,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "749106b9d056f4ee472624be6813d394f0fb22a8",
+    "title": "Africa Economic Brief Global Markets and Inequality in African Countries",
+    "year": 2018,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f5d25b16c57417d126d06d48d380964ebb2323ef",
+    "title": "Eric Maskin\u2019s interview responses for J\u00e1nos Kornai\u2019s 90th birthday",
+    "year": 2018,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ba3999403448bbbb466df9003fe93e3d01e0695b",
+    "title": "Integration & Trade Journal: Volume 21: No. 41: March, 2017: Eco Integration in Latin America: Ideas Inspired by the Encyclical Laudato Si'",
+    "year": 2017,
+    "author_ids": [
+      "2468612",
+      "49715214",
+      "98576157",
+      "11513617",
+      "2208616204",
+      "2290614485",
+      "2290608801",
+      "2290615384",
+      "2290615490",
+      "2248253394",
+      "7222408",
+      "2296615446",
+      "2288843204",
+      "2060120223",
+      "3127626",
+      "2259605765",
+      "2387692",
+      "101413480",
+      "72448287",
+      "2290612594",
+      "108437912",
+      "74901119",
+      "2084034695",
+      "2290613789",
+      "2290586440",
+      "104734851",
+      "12169481",
+      "143701008",
+      "2073433515",
+      "2290534786",
+      "2350949679",
+      "2283980292",
+      "1405342047"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Inspired by the encyclical Laudato Si', by Pope Francis, Nobel prizes and world experts pose concrete options for advancing in a regional eco-integration where social and environmental dimension of development are priorities. The commitments made to mitigate climate change at the Paris and Marrakesh summits require the cooperation of different nations in a joint effort to counteract global warming. Latin America has an enormous natural wealth that represents an opportunity, but also a great responsibility: to protect the planet and at the same time find ways to reduce the inequities that characterize the region. The new edition of IDB-INTAL Integration & Trade Journal offers creative measures, analyzes the governance challenges offered by the current scenario, describes sustainable models of trade, examines the impact of climate change and draws bridges to advance in an integral ecology where humanism became the engine of civilization."
+  },
+  {
+    "paper_id": "4bafd70295971a94ae4e5a85c0e0b6b46c58dc57",
+    "title": "Economic Development of Low Earth Orbit",
+    "year": 2016,
+    "author_ids": [
+      "2674836",
+      "96147641",
+      "123805533",
+      "25399224",
+      "2387692",
+      "34655646",
+      "145823954",
+      "2973984",
+      "1747619",
+      "96022174",
+      "146120135"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "886634a12e89960cbc6f32004ac8028eee4ff73c",
+    "title": "An introduction to mechanism",
+    "year": 2016,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "e32b55a4dcd180c8425034833f4958009a1d4f7f",
+    "title": "How Can Cooperative Game Theory Be Made More Relevant to Economics? : An Open Problem",
+    "year": 2016,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "Open Problems in Mathematics",
+    "citation_count": 18,
+    "abstract": null
+  },
+  {
+    "paper_id": "01e287f0adf744ecf779a9b9d5942d5ebae3dd2b",
+    "title": "Why Haven't Global Markets Reduced Inequality in Emerging Economies?",
+    "year": 2015,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 27,
+    "abstract": null
+  },
+  {
+    "paper_id": "17130cf458d6e66735928d90f8e21bdb323fea49",
+    "title": "Friedrich von Hayek and mechanism design",
+    "year": 2015,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": "The Review of Austrian Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5be9c8b8a852f256e4e9fb5bad4991259ceb4df7",
+    "title": "Friedrich von Hayek and mechanism design",
+    "year": 2015,
+    "author_ids": [
+      "2387692"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "9d393112c8a5d7b22707f83fae7467447f5bc7d1",
+    "title": "The World Bank economic review 29 (supplement)",
+    "year": 2015,
+    "author_ids": [
+      "46195680",
+      "52264220",
+      "2006352224",
+      "2068867522",
+      "144624623",
+      "31305313",
+      "36018540",
+      "2387692",
+      "152238831",
+      "145223753",
+      "2907612"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  }
+]

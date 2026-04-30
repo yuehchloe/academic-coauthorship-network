@@ -1,0 +1,2111 @@
+[
+  {
+    "paper_id": "b5ff00e346e938cd6ebfe4557dbfb492a674cbcc",
+    "title": "Sequential Sampling by Individuals and Groups: An Experimental Study",
+    "year": 2025,
+    "author_ids": [
+      "123224156",
+      "2046436",
+      "2846044",
+      "2260293670",
+      "2259295881"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 0,
+    "abstract": "Many committees\u2014juries, political task forces, etc.\u2014spend time gathering costly information before reaching a decision. We report results from lab experiments focused on such dynamic information-collection processes, as in sequential hypothesis testing. We consider decisions governed by individuals and groups and compare how voting rules affect outcomes. Several insights emerge. First, average decision accuracies approximate those predicted theoretically, but these accuracies decline over time: Participants display nonstationary behavior. Second, groups generate markedly different outcomes than individuals, with majority rule yielding faster and less accurate decisions. In particular, welfare is higher when sequential information is collected in groups using unanimity. (JEL C83, D71, D72, D83)"
+  },
+  {
+    "paper_id": "15a9d0c1766d76df99439c385af24af15fb86bdd",
+    "title": "Non-decision time-informed collapsing threshold diffusion model: A joint modeling framework with identifiable time-dependent parameters",
+    "year": 2025,
+    "author_ids": [
+      "1580291127",
+      "2411420090",
+      "2375903419",
+      "73770082",
+      "2298293440"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "33f6d81e348effcab1385b8f638a9526a7cb6a6c",
+    "title": "The Omniscient, yet Lazy, Investor",
+    "year": 2025,
+    "author_ids": [
+      "2373242080"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We formalize the paradox of an omniscient yet lazy investor - a perfectly informed agent who trades infrequently due to execution or computational frictions. Starting from a deterministic geometric construction, we derive a closed-form expected profit function linking trading frequency, execution cost, and path roughness. We prove existence and uniqueness of the optimal trading frequency and show that this optimum can be interpreted through the fractal dimension of the price path. A stochastic extension under fractional Brownian motion provides analytical expressions for the optimal interval and comparative statics with respect to the Hurst exponent. Empirical illustrations on equity data confirm the theoretical scaling behavior."
+  },
+  {
+    "paper_id": "aeffcd49301be3081328af09c57b03b6ae60ace5",
+    "title": "Choice-Induced Preference Change under a Sequential Sampling Model Framework",
+    "year": 2025,
+    "author_ids": [
+      "144968401",
+      "2241401954"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 2,
+    "abstract": "Sequential sampling models of choice, such as the drift-diffusion model (DDM), are frequently fit to empirical data to account for a variety of effects related to accuracy/consistency, response time (RT), and sometimes confidence. However, no model in this class has been shown to account for the phenomenon known as choice-induced preference change, wherein decision makers tend to rate options higher after they choose them and lower after they reject them (and often choose the option that they had initially rated lower). Studies have reported choice-induced preference change for many decades, and the principal findings are robust. The resulting spreading of alternatives (SoA) in terms of their subjective value ratings is incompatible with traditional sequential sampling models, which consider the rated values of the options to be stationary throughout choice deliberation. Here, we propose that extending the basic DDM to incorporate independent attributes into the drift rate can allow this class of model to account for SoA. Critically, the extended model assumes that choice deliberation does not always involve the same set of attributes as is involved in individual evaluations of the same options. We show that this model can generate SoA (while simultaneously accounting for consistency and RT), as well as the relationships between SoA and choice difficulty, attribute disparity, and RT previously reported in the literature."
+  },
+  {
+    "paper_id": "2b0f8a772b14ae11091e348f1d151e36f70691dc",
+    "title": "Choice-Induced Preference Change under the Value Refinement Framework",
+    "year": 2025,
+    "author_ids": [
+      "144968401",
+      "1746694"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "2bc8e0c402a6eb622f03be690fc91730b5387573",
+    "title": "Token Is All You Price",
+    "year": 2025,
+    "author_ids": [
+      "2263844543"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "A seller of a dynamic information service under an information-throughput constraint screens buyers who privately differ in urgency. We characterize the revenue-optimal mechanism: deploy a single preference-aligned belief process; screen buyers with a menu of stopping-time caps. The result rationalizes tokenized GenAI pricing, from consumer subscription tiers to B2B API service tiers. Extensions to heterogeneous valuations and endogenous reasoning quality preserve the qualitative conclusions."
+  },
+  {
+    "paper_id": "90ffebf762a27e5c62a060df8a5768e7d1fc9ca9",
+    "title": "Parameter estimation of hyper-spherical diffusion models with a time-dependent threshold: An integral equation method",
+    "year": 2025,
+    "author_ids": [
+      "2129217992",
+      "34612654",
+      "147018724",
+      "2298293440"
+    ],
+    "venue": "Behavior Research Methods",
+    "citation_count": 1,
+    "abstract": "Over the past several decades, decision-making research has been dominated by the study of binary choice tasks, with key models assuming that people remain equally cautious regardless of how long they have spent on the choice problem. Recent research has begun to place a greater focus on studying tasks with a continuous-response scale, as well as models that allow for decreases in caution over decision time; however, these research topics have remained separate from one another. For instance, proposed models of continuous-response scales have assumed constant caution over time, and studies investigating whether caution decreases over time have focused on binary choice tasks. One reason for this separation is the lack of methodology for estimating the parameters of the decision models with time-dependent parameters for continuous responses. This paper aims to provide a stable and efficient parameter estimation technique for hyper-spherical diffusion models with a time-dependent threshold. Here, we propose an integral equation method for estimating the first-passage time distribution of hyper-spherical diffusion models. We assessed the robustness of our method through parameter recovery studies for constant and time-dependent threshold models, with our results demonstrating efficient and precise estimates for the parameters in both situations."
+  },
+  {
+    "paper_id": "06f8f92eefb3e6488f62c59edfa1a79997ecdd1a",
+    "title": "The Impact of Top-Down Attention on Emotion Ensemble Perception: Fear-Guided Attention Leads to Cautious Decisions",
+    "year": 2025,
+    "author_ids": [
+      "2349327349",
+      "2308951963"
+    ],
+    "venue": "Affective Science",
+    "citation_count": 0,
+    "abstract": "Accurately deducing the emotional tenor of our visual surroundings has important repercussions, such as whether to approach a friendly group or flee a threatening mob. Perceptual decisions regarding individual emotional stimuli are heavily influenced by both task-driven (top-down) and stimulus-driven (bottom-up) attention. However, the impact of these attentional factors on perceptual decisions regarding the overarching or \u201cgist\u201d emotion conveyed by an ensemble of emotional stimuli remains unclear. We manipulated top-down and bottom-up attention in a task in which participants (N\u2009=\u200995) judged the average emotion of ensembles and applied drift diffusion modeling to uncover the underlying computational mechanisms. Our results showed different effects of attention, driven by task-related top-down compared to stimulus-related bottom-up factors, on overall ensemble perception. The inclusion of extremely fearful stimuli (bottom-up effect) led to (1) the ensemble being perceived as fearful more frequently and faster and (2) more efficient fearful evidence accumulation, allowing one to reach a fearful decision faster. In contrast, making fear-related decisions (top-down effect) led to (1) the ensemble being perceived as fearful less frequently and slower with a (2) wider boundary separation, indicating more evidence required for making a fearful decision. These distinct effects are unique to fear. Our findings provide important knowledge in understanding the interplay of top-down and bottom-up attentional mechanisms when swiftly integrating multiple sensory emotional inputs into a coherent perceptual experience, which carries significant implications across social and clinical contexts."
+  },
+  {
+    "paper_id": "2ae9ddf80d5f4f40fde6a8b62f4dbcab514c216b",
+    "title": "Procedural Mixture Sets",
+    "year": 2025,
+    "author_ids": [
+      "96484629"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "The paper characterizes the Shannon (1948) and Tsallis (1988) entropies in a standard framework of decision theory, mixture sets. Procedural mixture sets are introduced as a variant of mixture sets in which it is not necessarily true that a mixture of two identical elements yields the same element. This allows the process of mixing itself to have an intrinsic value. The paper proves the surprising result that simply imposing the standard axioms of von Neumann-Morgenstern on preferences on a procedural mixture set yields the entropy as a representation of procedural value. An application of the theorem to decision processes and the relation between choice probabilities and decision times elucidates the difficulty of extending the drift-diffusion model to multi-alternative choice."
+  },
+  {
+    "paper_id": "9d8c70770bc5ce4f595ab708605e8c9f654ed0d5",
+    "title": "A General Framework for Estimating Preferences Using Response Time Data",
+    "year": 2025,
+    "author_ids": [
+      "2358139075",
+      "113441545",
+      "2265490040"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We propose a general methodology for recovering preference parameters from data on choices and response times. Our methods yield estimates with fast ($1/n$ for $n$ data points) convergence rates when specialized to the popular Drift Diffusion Model (DDM), but are broadly applicable to generalizations of the DDM as well as to alternative models of decision making that make use of response time data. The paper develops an empirical application to an experiment on intertemporal choice, showing that the use of response times delivers predictive accuracy and matters for the estimation of economically relevant parameters."
+  },
+  {
+    "paper_id": "0fb0353eefd0f9f329dba593335a1ccadef11f9d",
+    "title": "A supply and demand approach to information processing in decision-making.",
+    "year": 2025,
+    "author_ids": [
+      "144968401"
+    ],
+    "venue": "Acta Psychologica",
+    "citation_count": 0,
+    "abstract": "Value-based decisions are driven by subjective estimates of value for each available option, but recent work has shown that subjective feelings of certainty about those value estimates also influence choice behavior. Cognitive and computational theories have proposed that decision-makers process information about choice options in order to reduce their uncertainty about their value estimates before choosing an option. One theory specifically proposes that value estimates are refined during deliberation, which results in more certain - and sometimes revised - value estimates after the choice relative to before. Here we examine the idea that choice options hold different levels of familiarity for decision-makers, and that familiarity can influence the degree to which certainty gain or value revision occurs. Our results show that both certainty gain and value revision are decreasing functions of initial certainty - which we classify as a demand effect - and increasing functions of familiarity - which we classify as a supply effect. Together, these results provide support for our supply and demand approach to the processing of information during decision-making."
+  },
+  {
+    "paper_id": "7a1c8dd605e99c8ffc2d7f0c30a383be70d44f52",
+    "title": "Considering What We Know and What We Don\u2019t Know: Expectations and Confidence Guide Value Integration in Value-Based Decision-Making",
+    "year": 2025,
+    "author_ids": [
+      "2240727240",
+      "17026067",
+      "2310589710",
+      "2160770"
+    ],
+    "venue": "Open Mind",
+    "citation_count": 6,
+    "abstract": "Abstract When making decisions, we often have more information about some options than others. Previous work has shown that people are more likely to choose options that they look at more and those that they are more confident in. But should one always prefer options one knows more about? Intuition suggests not. Rather, how additional information impacts our preferences should depend critically on how valuable we expect the options to be. Here, we formalize this intuition in a Bayesian sequential sampling model where attention and confidence influence the precision of momentary evidence. Our model makes a key prediction: attention and confidence both increase choice probability for better-than-average options, and both decrease choice probability for worse-than-average options. We confirm this prediction in two experiments in which we independently manipulate value and attention. Our results offer a novel perspective on prior work on the role of attention and confidence in decision-making, showing that people rely on contextual knowledge and uncertainty estimates to adaptively learn about their options and make better decisions."
+  },
+  {
+    "paper_id": "b1bfee6fe5fd721708e6f8cab14ccc307c71d6b6",
+    "title": "Probing-Based Sequential Decision Making Under Cognitive Limitations",
+    "year": 2025,
+    "author_ids": [
+      "2386905424",
+      "2386905826",
+      "2986446"
+    ],
+    "venue": "International Symposium on Information Theory",
+    "citation_count": 0,
+    "abstract": "We study a variant of the active sequential hypothesis problem (SHT) with a decision-maker having a source probing capability, and a cognitive impairment in data processing. Here a data source outputs memoryless data samples, conditioned on the instantiated (binary) hypothesis and his current state. A potentially noisy version of the generated data is observed by a decision-maker that has cognitive limitations in processing the generated data; the cognitive impairment can, however, be managed by the decision-maker, albemt under some overall constraint. The decision-maker can also probe the data source, and induce a change in its state so as to generate a sample from a favorable source distribution from a collection known a-priori to all. However, similar to its choice of cognition level, the decision-maker has a probing-constraint (possibly due to practical limitations) that limits its long term choice of state selections. We first formalize the above problem as a constrained optimal stopping time problem in a sequential environment. We then present a systematic study of an optimal strategy for the decision maker comprising the stopping time, the pair of sequences of probing-state selection and cognition-levels, and the terminal decision rule. Using classical techniques of active SHT (involving dynamic programming), we show that the sequential probability ratio test (SPRT) is an optimal testing procedure for this problem, and then characterize the optimal stopping time. We also present an optimal choice for the probing state and cognition sequences."
+  },
+  {
+    "paper_id": "279cbd5153864055419362fa37cc6280f09bf69a",
+    "title": "Nudging: An experiment on transparency, accounting for reactance and response time",
+    "year": 2025,
+    "author_ids": [
+      "94483003",
+      "2251678010",
+      "2917267"
+    ],
+    "venue": "Journal of Economic Psychology",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6c1f296b947131be69202c40d283b8b24e5bea3b",
+    "title": "Deliberation during online bargaining reveals strategic information",
+    "year": 2025,
+    "author_ids": [
+      "1396903329",
+      "1471360987",
+      "2240770162"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 2,
+    "abstract": "Significance In strategic interactions like bargaining, agents often have private information that they wish to conceal from others. However, if agents make decisions on the spot, then their response times (RT) may inadvertently betray some of their private information. Indeed, we find that bargainers on eBay take hours longer to accept bad offers and reject good offers. Computational modeling reveals that more experienced sellers are hastier with their decisions and more willing to accept offers. Our results challenge the notion that strategic decisions are preplanned and show that RT can be used strategically when negotiating."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "3ddc53dd7f333a294b6e217410955f3547c3d579",
+    "title": "Optimal allocation of time in risky choices under opportunity costs.",
+    "year": 2025,
+    "author_ids": [
+      "2324623133",
+      "34948496",
+      "2342694466"
+    ],
+    "venue": "Cognitive Psychology",
+    "citation_count": 3,
+    "abstract": "In economic decision-making there is a trade-off between deliberation time to make a good decision and opportunity costs of other rewarding activities. Recent theories describe how the optimal strategy of evidence accumulation for this problem depends on the environment. If the utility difference between two options is known a priori, but not the identity of the better option, decision-makers should accumulate evidence according to a drift diffusion model with constant decision boundaries. If this difference is unknown beforehand, collapsing boundaries should be used. The exact position of the boundaries depends on the opportunity costs. In two experiments, we examined whether people can adaptively adjust their decision bounds. Participants rated and chose between risky lotteries, while we varied prior information about the utility difference. We also varied opportunity costs, by imposing time limits on task blocks. We found that participants used collapsing boundaries in all examined conditions, even in those where constant boundaries would have been optimal. This means they reduced their target strength of evidence during the choice process, even when they should not. In contrast, participants were sensitive to opportunity costs, deciding faster when choice time was more costly. In sum, people adapted to opportunity costs but not to prior information about utility differences."
+  },
+  {
+    "paper_id": "eef8ae964dc02a556d1849c845283d682db033c1",
+    "title": "Search Fatigue, Choice Deferral, and Closure",
+    "year": 2025,
+    "author_ids": [
+      "2314612581",
+      "1403424263",
+      "2338622431"
+    ],
+    "venue": "Marketing science (Providence, R.I.)",
+    "citation_count": 1,
+    "abstract": "Varying search costs can lead to choice deferral and choice closure behavior, with effects of strategic pricing and retargeting."
+  },
+  {
+    "paper_id": "5370223fba7c981bc0298dd995096de0b054e3d7",
+    "title": "Calculated Punishment",
+    "year": 2024,
+    "author_ids": [
+      "2295462707",
+      "2251825564",
+      "2403339525"
+    ],
+    "venue": "Journal of Business Ethics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e5e5a4060449014fc9fff864f66d2518b0725887",
+    "title": "A characterization of the Luce choice rule for an arbitrary collection of menus",
+    "year": 2024,
+    "author_ids": [
+      "1395595130",
+      "32559881"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 4,
+    "abstract": "The Luce Choice Rule (or, equivalently, the multinomial logit model) is extensively used in economics and other \ufb01elds. Classical characterizations rest on Luce\u2019s Choice Axiom, when all choice sets are available, and Luce\u2019s Product Rule in the case of binary choice. Yet, actual datasets typically consist neither of all choice sets nor all binary choice sets. We provide a characterization for the general case, allowing also for zero choice probabilities. Building upon this characterization, we derive implications for experimental design in terms of three criteria: falsi\ufb01cation, identi\ufb01cation, and prediction."
+  },
+  {
+    "paper_id": "7ff7cf3f2ce250020a669ed2ee0fb6c137997ecb",
+    "title": "Stochastic choice and imperfect judgments of line lengths: What is hiding in the noise?",
+    "year": 2024,
+    "author_ids": [
+      "144980768",
+      "2118966315"
+    ],
+    "venue": "Journal of Economic Psychology",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "48a5b0cb43c730f11830c9e91c82c15c1395df13",
+    "title": "On Optimal Scheduling",
+    "year": 2024,
+    "author_ids": [
+      "1873219",
+      "122179361",
+      "3472592"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 8,
+    "abstract": "We consider a decision-maker sequentially choosing among alternatives when periodic payoffs depend on both chosen and unchosen alternatives in that period. We show that when flow payoffs are the sum or product of payoffs from chosen and unchosen alternatives, the optimal policy is an index policy. We characterize key properties of the optimal dynamics and present an algorithm for computing the indices explicitly. Furthermore, we use the results to generalize Weitzman\u2019s (1979) classic \u201cPandora\u2019s boxes\u201d problem to allow for complementarities. We illustrate the framework\u2019s usefulness through applications, including decision problems with disappearing alternatives, repeated bargaining, dynamic supervision, and dynamic occupational choice. (JEL C78, D82, M11)"
+  },
+  {
+    "paper_id": "1db6a6cbe6c4a347b18e862c454863edd874dc55",
+    "title": "Fair Shares and Selective Attention",
+    "year": 2024,
+    "author_ids": [
+      "144351511",
+      "1741100102"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 9,
+    "abstract": "Attitudes toward fairness and redistribution differ along socioeconomic lines. To understand their formation, we conduct a large-scale experiment on attention to merit and luck and the effect of attention on fairness decisions. Randomly advantaged subjects pay less attention to information about true merit and retain more economic surplus, and this effect persists in subsequent impartial decisions. Attention also has a causal role: encouraging subjects to look at merit reduces the effect of an advantaged position on allocations. This suggests that attention-based policy interventions may be effective in reducing polarized views on inequality. (JEL C91, D63, D83)"
+  },
+  {
+    "paper_id": "3ab459943942f2a3a9dbaaf1190a042aa43ab2e0",
+    "title": "Individual and contextual effects of attention in risky choice",
+    "year": 2024,
+    "author_ids": [
+      "15436712",
+      "2297095279",
+      "103172510"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 3,
+    "abstract": "We investigate the role of visual attention in risky choice in a rich experimental dataset that includes eye-tracking data. We first show that attention is not reducible to individual and contextual variables, which explain only 20% of attentional variation. We then decompose attentional variation into individual average attention and trial-wise deviations of attention to capture different cognitive processes. Individual average attention varies by individual, and can proxy for individual preferences or goals (as in models of \u201crational inattention\u201d or goal-directed attention). Trial-wise deviations of attention vary within subjects and depend on contextual factors (as in models of \u201csalience\u201d or stimulus-driven attention). We find that both types of attention predict behavior: average individual attention patterns are correlated with individual levels of loss aversion and capture part of this individual heterogeneity. Adding trial-wise deviations of attention further improves model fit. Our results show that a decomposition of attention into individual average attention and trial-wise deviations of attention can capture separable cognitive components of decision making and provides a useful tool for economists and researchers from related fields interested in decision-making and attention."
+  },
+  {
+    "paper_id": "c24e41c6fda052971c940eb157958027f7266e2e",
+    "title": "Enhancing Preference-based Linear Bandits via Human Response Time",
+    "year": 2024,
+    "author_ids": [
+      "2320585792",
+      "2301077862",
+      "148435289",
+      "2322025346",
+      "2301165986",
+      "2320310007"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 3,
+    "abstract": "Interactive preference learning systems infer human preferences by presenting queries as pairs of options and collecting binary choices. Although binary choices are simple and widely used, they provide limited information about preference strength. To address this, we leverage human response times, which are inversely related to preference strength, as an additional signal. We propose a computationally efficient method that combines choices and response times to estimate human utility functions, grounded in the EZ diffusion model from psychology. Theoretical and empirical analyses show that for queries with strong preferences, response times complement choices by providing extra information about preference strength, leading to significantly improved utility estimation. We incorporate this estimator into preference-based linear bandits for fixed-budget best-arm identification. Simulations on three real-world datasets demonstrate that using response times significantly accelerates preference learning compared to choice-only approaches. Additional materials, such as code, slides, and talk video, are available at https://shenlirobot.github.io/pages/NeurIPS24.html"
+  },
+  {
+    "paper_id": "f6baeb46231b4e5c3dc0a1d609efad07d94d78ca",
+    "title": "Editorial: A celebration of A. A. J. Marley",
+    "year": 2024,
+    "author_ids": [
+      "2636427",
+      "2312797616",
+      "2368342"
+    ],
+    "venue": "Journal of Mathematical Psychology",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "7e9d9715aaa906cbd307a40af9e1285ad3cc002f",
+    "title": "Bounded Rationality in Choice Theory: A Survey",
+    "year": 2024,
+    "author_ids": [
+      "1741157202",
+      "3098101"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 14,
+    "abstract": "A vibrant literature incorporates elements of bounded rationality into choice theory. We survey this work, discussing five central ways in which the literature has modeled departures from the rational choice procedure. We discuss the variety of purposes axiomatic choice characterizations serve for these positive theories, delve into experimental tests, synthesize the welfare debate, and assess important future directions. (JEL D11, D44, D60, D83, D91)"
+  },
+  {
+    "paper_id": "ad335feaf966af030ea1ec5a660d994bf046a75a",
+    "title": "Time is Knowledge: What Response Times Reveal",
+    "year": 2024,
+    "author_ids": [
+      "118985627",
+      "2310571105",
+      "6504025"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "Response times contain information about economically relevant but unobserved variables like willingness to pay, preference intensity, quality, or happiness. We provide a general characterization of the properties of latent variables that can be detected using response time data. Our theoretical framework unifies and generalizes results in the literature and gives rise to many new applications. We illustrate the rich insights that the method can deliver through several empirical applications: revealed preference analysis, identifying an optimal nudge, testing decreasing marginal happiness of income, and predicting treatment heterogeneity."
+  },
+  {
+    "paper_id": "618c2c92888c6a4b3997b0f64a4abeffc3e8c091",
+    "title": "Information Search Within a Web Page: Modeling the Full Sequence of Eye Movement Decisions, Subjective Value Updating, and First Clicks",
+    "year": 2024,
+    "author_ids": [
+      "2278793391",
+      "2278706163"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 4,
+    "abstract": "Online retail settings often present shoppers with large, complex choice sets where they need to quickly and dynamically weigh the benefits and costs of search within each web page. We build a model of information search within a web page using eye-tracking data collected during two incentive-compatible online shopping experiments, in which participants browsed the websites of two different clothing retailers (Experiments 1 and 2), as well as previously reported data from a laboratory experiment involving choices among snack food assortments (Experiment 3). Our model incorporates features that build upon recent advances in descriptive and normative models of information sampling and search in psychology and economics. First, our model captures how people decide where to look by treating eye fixations on clickable options as a series of \u201csplit-second\u201d decisions that depend on estimates of option attractiveness and navigation effort. Second, our model assumes that the value of each option is learned via Bayesian updating. Third, the choice to end search on the web page depends on a dynamic decision threshold. Our model outperforms benchmarks that assume random search, instant learning, fixed thresholds, nonheterogeneous thresholds, and stochastic accumulator stopping rules. Explicitly modeling the sequence of eye fixation decisions results in accurate counterfactual simulations of the effects of hypothetical product orderings on search duration and quality as verified using experimental manipulation, and it can be applied flexibly to a wide range of web-page layouts. Systematic differences across experiments highlight the importance of accounting for product familiarity, choice-set size, and the role of category outside options. This paper was accepted by Ilia Tsetlin, behavioral economics and decision analysis. Funding: This work was supported by the Jay H. Baker Retailing Center and the Wharton Behavioral Lab at the University of Pennsylvania. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2022.02983 ."
+  },
+  {
+    "paper_id": "a2a9c9c4d2e0e64754adb8a08eb17d412a958580",
+    "title": "Understanding Expert Choices Using Decision Time",
+    "year": 2024,
+    "author_ids": [
+      "2301729208",
+      "3311594",
+      "2304883511",
+      "2289541149"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "e30c8d786053c9e25a23c6e840a49be44760d116",
+    "title": "On aims and methods of collective animal behaviour",
+    "year": 2024,
+    "author_ids": [
+      "2250267786",
+      "145218702"
+    ],
+    "venue": "Animal Behaviour",
+    "citation_count": 3,
+    "abstract": "Collective animal behaviour is a sub \ufb01 eld of behavioural ecology, making extensive use of its tools of observation, experimental manipulation and model building. However, a fundamental behavioural ecology approach, the application of optimality theory, has been comparatively neglected in collective animal behaviour. This article seeks to address this imbalance, by outlining an evolutionary theory framework for the discipline. The application of optimality theory to collective animal behaviour requires a number of questions to be addressed. First, what is the correct quantity to optimize? This can be achieved via a combination of considering the organisms' life history, alongside tools such as statistical decision theory and stochastic dynamic programming. Second, what mechanism is appropriate for optimal behaviour? This involves ensuring that models are self-consistent rather than assuming parameter values. Third, at what level of selection does optimization act? Selection acts on the individual except in very particular circumstances, yet collective animal behaviour phenomena are group level, thus introducing a risk of confusing at what level adaptive properties emerge. This article presents examples under each of the three questions, as well as discussing mismatches between theory and observation. In doing so, it is hoped that collective animal behaviour fully inherits the tools and philosophy of its parent discipline of behavioural ecology. \u00a9 2024 The Author(s). Published by Elsevier Ltd on behalf of The Association for the Study of Animal Behaviour. This is an open access article under the CC BY license ("
+  },
+  {
+    "paper_id": "6a5e3dee6c0f85b566991885ee5bb5f92080d412",
+    "title": "Existence, uniqueness, and regularity of solutions to nonlinear and non-smooth parabolic obstacle problems",
+    "year": 2024,
+    "author_ids": [
+      "2103264779",
+      "46406983"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We establish the existence, uniqueness, and $W^{1,2,p}$-regularity of solutions to fully-nonlinear, parabolic obstacle problems when the obstacle is the pointwise supremum of functions in $W^{1,2,p}$ and the nonlinear operator is required only to be measurable in the state and time variables. In particular, the results hold for all convex obstacles. Applied to stopping problems, they provide general conditions under which a decision maker never stops at a convex kink of the stopping payoff. The proof relies on new $W^{1,2,p}$-estimates for obstacle problems when the obstacle is the maximum of finitely many functions in $W^{1,2,p}$."
+  },
+  {
+    "paper_id": "90a67e31cd0dcd964c3fa7577b15a3bdeee1354e",
+    "title": "Speed, Accuracy, and Complexity",
+    "year": 2024,
+    "author_ids": [
+      "2114422135"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "This paper re-examines the use of response time to infer problem complexity. It revisits a canonical Wald model of optimal stopping, taking signal-to-noise ratio as a measure of problem complexity. While choice quality is monotone in problem complexity, expected stopping time is inverse U-shaped. Indeed, decisions are fast in both very simple and very complex problems: in simple problems, it is quick to understand which alternative is best, while in complex problems it would be too costly -- an insight which extends to general costly information acquisition models. This non-monotonicity also underlies an ambiguous relationship between response time and ability, whereby higher ability entails slower decisions in very complex problems, but faster decisions in simple problems. Finally, this paper proposes a new method to correctly infer problem complexity based on the finding that distorting incentives in favour of an alternative has a greater effect on choices in more complex problems."
+  },
+  {
+    "paper_id": "25a969b795633d4abdf9cb50ed8c512fb29249bd",
+    "title": "Learning about a changing state",
+    "year": 2024,
+    "author_ids": [
+      "2052439504"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "A long-lived Bayesian agent observes costly signals of a time-varying state. He chooses the signals'precisions sequentially, balancing their costs and marginal informativeness. I compare the optimal myopic and forward-looking precisions when the state follows a Brownian motion. I also compare the myopic precisions induced by other Gaussian processes."
+  },
+  {
+    "paper_id": "ed71111e72443c7a211f373936d739d3ec88d306",
+    "title": "Decision Making Under Costly Sequential Information Acquisition: The Paradigm of Reversible and Irreversible Decisions",
+    "year": 2023,
+    "author_ids": [
+      "2277260226",
+      "3149076",
+      "2277828359"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "Decision making in modern stochastic systems, including e-commerce platforms, financial markets and healthcare systems, has evolved into a multifaceted process that combines information acquisition and adaptive information sources. This paper initiates a study on such integrated settings, where these elements are not only fundamental but, also, interact in a complex and stochastically intertwined manner. We introduce a relatively simple model, which, however, captures the involved novel elements. A decision maker (DM) may choose between an established product $A$ of known value and a new product $B$ whose value is unknown. In parallel, the DM observes signals about the unknown value of product $B$ and can, also, opt to exchange it for product $A$ if $B$ is initially chosen. Mathematically, the model gives rise to sequential optimal stopping problems with distinct informational regimes (before and after buying product $B$), differentiated by the initial, coarser signal and the subsequent, more accurate one. We analyze in detail the underlying problems using predominantly viscosity solution techniques, departing from the existing literature on information acquisition which is based on traditional optimal stopping arguments. More broadly, the modeling approach introduced herein offers a novel framework for developing more complex interactions among decisions, information sources and information costs in stochastic environments, through a sequence of nested obstacle problems."
+  },
+  {
+    "paper_id": "66e4af211ec7f416e85cd2029b0dd71ac47e35d0",
+    "title": "Imperfect Perception and Stochastic Choice in Experiments",
+    "year": 2023,
+    "author_ids": [
+      "2259208912",
+      "2331155265"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "The branch of psychology that studies how physical objects are perceived by subjects is known as psychophysics. A feature of the experimental design is that the experimenter presents objectively measurable objects that are imperfectly perceived by subjects. The responses are stochastic in that a subject might respond differently in otherwise identical situations. These stochastic choices can be compared to the objectively measurable properties. This Element offers a brief introduction to the topic, explains how psychophysics insights are already present in economics, and describes experimental techniques with the goal that they are useful in the design of economics experiments. Noise is a ubiquitous feature of experimental economics and there is a large strand of economics literature that carefully considers the noise. However, the authors view the psychophysics experimental techniques as uniquely suited to helping experimental economists uncover what is hiding in the noise."
+  },
+  {
+    "paper_id": "79abb1af302038126d47bbf38450fe7029c6223b",
+    "title": "Improving Risky-Choice Predictions Using Response Times",
+    "year": 2023,
+    "author_ids": [
+      "1395595130",
+      "3631703"
+    ],
+    "venue": "Journal of Political Economy Microeconomics",
+    "citation_count": 6,
+    "abstract": "Structural methods to estimate preferences for decisions under risk often perform poorly when predicting new decisions out of sample. We compare standard structural methods to a new nonparametric method that reveals preferences with the help of response times, and does so independently of any utility or (symmetric) noise specification. Using two datasets involving choices over risky prospects, we show that the new method outperforms standard (parametric) utility estimations in terms of predictive accuracy."
+  },
+  {
+    "paper_id": "00725b0947b173034b778a7eee08fbae2537e5c1",
+    "title": "Optimal metacognitive control of memory recall.",
+    "year": 2023,
+    "author_ids": [
+      "17026067",
+      "2243408961",
+      "2243432982",
+      "2115485"
+    ],
+    "venue": "Psychology Review",
+    "citation_count": 14,
+    "abstract": "Most of us have experienced moments when we could not recall some piece of information but felt that it was just out of reach. Research in metamemory has established that such judgments are often accurate; but what adaptive purpose do they serve? Here, we present an optimal model of how metacognitive monitoring (feeling of knowing) could dynamically inform metacognitive control of memory (the direction of retrieval efforts). In two experiments, we find that, consistent with the optimal model, people report having a stronger memory for targets they are likely to recall and direct their search efforts accordingly, cutting off the search when it is unlikely to succeed and prioritizing the search for stronger memories. Our results suggest that metamemory is indeed adaptive and motivate the development of process-level theories that account for the dynamic interplay between monitoring and control. (PsycInfo Database Record (c) 2023 APA, all rights reserved)."
+  },
+  {
+    "paper_id": "05dfa9f2b5dbdcf91cfe322b22a6c877d8006a79",
+    "title": "Shopping for Information: Implications of Consumer Learning for Optimal Pricing and Product Design*",
+    "year": 2023,
+    "author_ids": [
+      "2271228226"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 3,
+    "abstract": "I study a seller's pricing problem where consumers perform costly product research about value before purchase. They buy the product when sufficiently optimistic about value and cease research when sufficiently pessimistic. I find that the seller encourages product research when prior belief about value is high, even though he could sell immediately for a high price. The prior affects both expected value and how additional information changes consumers' beliefs. I show that an increase in research cost affects equilibrium price nonmonotonically. Finally, when the seller chooses price and product value dispersion, the optimal level of dispersion need not be extremal."
+  },
+  {
+    "paper_id": "3a7ed35762a7338adcd1c442876567cd436ace68",
+    "title": "Measuring utility with diffusion models",
+    "year": 2023,
+    "author_ids": [
+      "2378701284",
+      "2815114",
+      "2485090",
+      "1727045",
+      "2233243607"
+    ],
+    "venue": "Science Advances",
+    "citation_count": 4,
+    "abstract": "The drift diffusion model (DDM) is a prominent account of how people make decisions. Many of these decisions involve comparing two alternatives based on differences of perceived stimulus magnitudes, such as economic values. Here, we propose a consistent estimator for the parameters of a DDM in such cases. This estimator allows us to derive decision thresholds, drift rates, and subjective percepts (i.e., utilities in economic choice) directly from the experimental data. This eliminates the need to measure these values separately or to assume specific functional forms for them. Our method also allows one to predict drift rates for comparisons that did not occur in the dataset. We apply the method to two datasets, one comparing probabilities of earning a fixed reward and one comparing objects of variable reward value. Our analysis indicates that both datasets conform well to the DDM. We find that utilities are linear in probability and slightly convex in reward."
+  },
+  {
+    "paper_id": "53f181c6292a00881c6ba85d359dc35725126834",
+    "title": "Combining Choice and Response Time Data: A Drift-Diffusion Model of Mobile Advertisements",
+    "year": 2023,
+    "author_ids": [
+      "81692561",
+      "2289161429",
+      "145598074",
+      "2108279592"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 11,
+    "abstract": "Endogenous response time data are increasingly becoming available to applied researchers of economic choices. However, the usefulness of such data for preference estimation is unclear. Here, we adapt a sequential sampling model\u2014previously validated to jointly explain subjects\u2019 choices and response times in laboratory experiments\u2014to model users\u2019 responses to video advertisements on mobile devices in a field setting. Our estimates of utility correlate positively with out-of-sample measures of ad engagement, thus providing external validation of the value of incorporating endogenous response time information into a choice model. We then use the model estimates to assess the effectiveness of manipulating attention toward an advertisement at the beginning of a decision. Counterfactual simulations predict that making an ad \u201cnonskippable\u201d (requiring users to watch some portion of the ad)\u2014as is the practice of some online platforms (e.g., YouTube)\u2014generates only modest increases in click-through rates and revenue. This paper was accepted by David Simchi-Levi, behavioral economics and decision analysis. Funding: R. Webb work was supported by Social Sciences and Humanities Research Council [Grant 430-2019-00246]. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4738 ."
+  },
+  {
+    "paper_id": "b0e6d968178354e10b394756605e64daf706bbe9",
+    "title": "Optimal tests following sequential experiments",
+    "year": 2023,
+    "author_ids": [
+      "74702731"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "Recent years have seen tremendous advances in the theory and application of sequential experiments. While these experiments are not always designed with hypothesis testing in mind, researchers may still be interested in performing tests after the experiment is completed. The purpose of this paper is to aid in the development of optimal tests for sequential experiments by analyzing their asymptotic properties. Our key finding is that the asymptotic power function of any test can be matched by a test in a limit experiment where a Gaussian process is observed for each treatment, and inference is made for the drifts of these processes. This result has important implications, including a powerful sufficiency result: any candidate test only needs to rely on a fixed set of statistics, regardless of the type of sequential experiment. These statistics are the number of times each treatment has been sampled by the end of the experiment, along with final value of the score (for parametric models) or efficient influence function (for non-parametric models) process for each treatment. We then characterize asymptotically optimal tests under various restrictions such as unbiasedness, \\alpha-spending constraints etc. Finally, we apply our our results to three key classes of sequential experiments: costly sampling, group sequential trials, and bandit experiments, and show how optimal inference can be conducted in these scenarios."
+  },
+  {
+    "paper_id": "cfa7fb89c1c65ad3eb85da22efb295a23de16b2a",
+    "title": "Sensory perception relies on fitness-maximizing codes",
+    "year": 2023,
+    "author_ids": [
+      "2091996184",
+      "2273970043",
+      "3315497",
+      "34982293",
+      "1693892"
+    ],
+    "venue": "Nature Human Behaviour",
+    "citation_count": 25,
+    "abstract": "Sensory information encoded by humans and other organisms is generally presumed to be as accurate as their biological limitations allow. However, perhaps counterintuitively, accurate sensory representations may not necessarily maximize the organism\u2019s chances of survival. To test this hypothesis, we developed a unified normative framework for fitness-maximizing encoding by combining theoretical insights from neuroscience, computer science, and economics. Behavioural experiments in humans revealed that sensory encoding strategies are flexibly adapted to promote fitness maximization, a result confirmed by deep neural networks with information capacity constraints trained to solve the same task as humans. Moreover, human functional MRI data revealed that novel behavioural goals that rely on object perception induce efficient stimulus representations in early sensory structures. These results suggest that fitness-maximizing rules imposed by the environment are applied at early stages of sensory processing in humans and machines. Schaffner et al. show that early stages of sensory processing in humans and machines encode environmental stimuli to promote fitness maximization and not necessarily perceptual accuracy."
+  },
+  {
+    "paper_id": "8030ec75e7c19826e0f686b95c798a9206ced485",
+    "title": "How Does Competition Affect Exploration vs. Exploitation? A Tale of Two Recommendation Algorithms",
+    "year": 2023,
+    "author_ids": [
+      "2237400818",
+      "1896349",
+      "2314612581",
+      "7923060"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 19,
+    "abstract": "Through repeated interactions, firms today refine their understanding of individual users\u2019 preferences adaptively for personalization. In this paper, we use a continuous-time bandit model to analyze firms that recommend content to multihoming consumers, a representative setting for strategic learning of consumer preferences to maximize lifetime value. In both monopoly and duopoly settings, we compare a forward-looking recommendation algorithm that balances exploration and exploitation to a myopic algorithm that only maximizes the quality of the next recommendation. Our analysis shows that, compared with a monopoly, firms competing for users\u2019 attention focus more on exploitation than exploration. When users are impatient, competition decreases the return from developing a forward-looking algorithm. In contrast, development of a forward-looking algorithm may hurt users under monopoly but always benefits users under competition. Competing firms\u2019 decisions to invest in a forward-looking algorithm can create a prisoner\u2019s dilemma. Our results have implications for artificial intelligence adoption and for policy makers on the effect of market power on innovation and consumer welfare. This paper was accepted by Dmitri Kuksov, marketing. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mnsc.2023.4722 ."
+  },
+  {
+    "paper_id": "162d406f38ab38c9cfd4a5908a4dd55f0f04b7de",
+    "title": "Measuring the Factors Influencing Purchasing Decisions: Evidence From Cursor Tracking and Cognitive Modeling",
+    "year": 2023,
+    "author_ids": [
+      "48046614"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 9,
+    "abstract": "Whether to purchase a product is of fundamental importance to marketing, but purchasing behaviors vary widely across individuals and contexts. This paper proposes that a sizeable fraction of this variation is associated with differences in the time at which a product\u2019s desirability and its price are processed and utilized by consumers. To test this hypothesis, participants purchased different products while their mouse cursor movements associated with purchasing an option were recorded across three laboratory studies. These natural cursor movements and estimates from a cognitive model identified the time at which product desirability and price each began to influence decisions. On average, we found that product desirability impacted the decision-making process significantly earlier than price. Moreover, the difference in the time at which product and price influenced choice explained a sizeable fraction of the variation in the option that was purchased. Additional analysis and studies revealed that the time at which an attribute begins to influence decisions can be altered by simple marketing actions, such as a product\u2019s visual display and price discount framing, and that these actions have consequences for choice. Together, these results add to our understanding of how consumers make simple purchasing decisions. This paper was accepted by Matthew Shum, marketing. Funding: This work was supported by the Foundation for Food and Agriculture Research. Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2022.4598 ."
+  },
+  {
+    "paper_id": "1d90f97094fb6ddf7fad76d70e0af5f7502e622a",
+    "title": "Sequential Sampling Equilibrium",
+    "year": 2022,
+    "author_ids": [
+      "2114422135"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "This paper introduces an equilibrium framework based on sequential sampling in which players face strategic uncertainty over their opponents' behavior and acquire informative signals to resolve it. Sequential sampling equilibrium delivers a disciplined model featuring an endogenous distribution of choices, beliefs, and decision times, that not only rationalizes well-known deviations from Nash equilibrium, but also makes novel predictions supported by existing data. It grounds a relationship between empirical learning and strategic sophistication, and generates stochastic choice through randomness inherent to sampling, without relying on indifference or choice mistakes. Further, it provides a rationale for Nash equilibrium when sampling costs vanish."
+  },
+  {
+    "paper_id": "4f58714a3aad313427fd5237b6a52822869e5768",
+    "title": "A value of prediction model to estimate optimal response time to threats for accident prevention",
+    "year": 2022,
+    "author_ids": [
+      "2072831845",
+      "145155228",
+      "49421693",
+      "2145180032"
+    ],
+    "venue": "Reliability Engineering & System Safety",
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "30824075d969345c70aa090d869ce1d7862bf556",
+    "title": "How to Sample and When to Stop Sampling: The Generalized Wald Problem and Minimax Policies",
+    "year": 2022,
+    "author_ids": [
+      "74702731"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 4,
+    "abstract": "\n We study sequential experiments where sampling is costly and a decision-maker aims to determine the best treatment for full scale implementation by (1) adaptively allocating units between two possible treatments, and (2) stopping the experiment when the expected welfare (inclusive of sampling costs) from implementing the chosen treatment is maximized. Working under a continuous time limit, we characterize the optimal policies under the minimax regret criterion. We show that the same policies also remain optimal under both parametric and non-parametric outcome distributions in an asymptotic regime where sampling costs approach zero. The minimax optimal sampling rule is just the Neyman allocation: it is independent of sampling costs and does not adapt to observed outcomes. The decision-maker halts sampling when the product of the average treatment difference and the number of observations surpasses a specific threshold. The results derived also apply to the so-called best-arm identification problem, where the number of observations is exogenously specified."
+  },
+  {
+    "paper_id": "5789a307cae92f0749023942084d03d853368df0",
+    "title": "The Value of Response Time Information in Supply Chain Bargaining",
+    "year": 2022,
+    "author_ids": [
+      "12687707",
+      "3417579",
+      "2526644"
+    ],
+    "venue": "Manufacturing & Service Operations Management",
+    "citation_count": 9,
+    "abstract": "Problem definition: We analyzed the value of response time information in supply chain bargaining and how the transparency of response times affects bargaining dynamics and outcomes. Academic/practical relevance: The research on supply chain bargaining has focused on agents\u2019 choices, whereas the value of process data, such as response times, has received limited attention. The process data underlying a decision can contain valuable information about the agents\u2019 preference. Methodology: We conducted two laboratory experiments with multiround bargaining between a supplier and a retailer, where the supplier had private information about production costs. The retailer proposed wholesale prices to the supplier, and the supplier decided whether to reject or accept them. The experiments were composed of treatments with response time information (RT-Treatments) and those without response time information (noRT-Treatments). Suppliers\u2019 response times were transparent to retailers in the RT-Treatment but were not transparent to those in the noRT-Treatment. Results: We found that suppliers\u2019 response times could indicate their preference strengths regarding retailers\u2019 proposals. In the RT-Treatment, retailers could use suppliers\u2019 response times to their advantage. Compared with those in the noRT-Treatment, retailers in the RT-Treatment made lower initial proposals. The final wholesale prices in agreements were also lower in this treatment, resulting in higher average retailer and channel profits but lower supplier profits. Managerial implications: We demonstrated that response time information in supply chain bargaining revealed bargainers\u2019 preferences and affected bargaining dynamics and outcomes. Bargainers could use their partners\u2019 response times to improve their bargaining outcomes."
+  },
+  {
+    "paper_id": "08636034c348c72cb23ea7cd304dc9343a420f3e",
+    "title": "Attention Capture",
+    "year": 2022,
+    "author_ids": [
+      "145720997",
+      "2029892445"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 8,
+    "abstract": "We develop a unified analysis of how information captures attention. A decision maker (DM) faces a dynamic information structure and decides when to stop paying attention. We characterize the convex$\\unicode{x2013}$order frontier and extreme points of feasible stopping times, as well as dynamic information structures which implement them. This delivers the form of optimal attentional capture as a function of the designer and DM's relative time preferences. Intertemporal commitment is unnecessary: sequentially optimal information structures always exist by inducing stochastic interim beliefs. We further analyze optimal attention capture under non instrumental value of information. Our results speak directly to the attention economy."
+  },
+  {
+    "paper_id": "25a97b0a6dd849c3ff4f2b3a50603902d58154e1",
+    "title": "Prolonged Learning and Hasty Stopping: The Wald Problem with Ambiguity",
+    "year": 2022,
+    "author_ids": [
+      "48942017",
+      "143947522",
+      "1936394"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 6,
+    "abstract": "This paper studies sequential information acquisition by an ambiguity-averse decision-maker (DM), who decides how long to collect information before taking an irreversible action. The agent optimizes against the worst-case belief and updates prior by prior. We show that the consideration of ambiguity gives rise to rich dynamics: compared to the Bayesian DM, the DM here tends to experiment excessively when facing modest uncertainty and, to counteract it, may stop experimenting prematurely when facing high uncertainty. In the latter case, the DM\u2019s stopping rule is nonmonotonic in beliefs and features randomized stopping. (JEL C61, D81, D83, D91)"
+  },
+  {
+    "paper_id": "a5cc6e827bdeeb9337aed6d6cb7520955e3a87f0",
+    "title": "Browse or Experience",
+    "year": 2022,
+    "author_ids": [
+      "1975237",
+      "1403424263"
+    ],
+    "venue": "Marketing science (Providence, R.I.)",
+    "citation_count": 4,
+    "abstract": "Consumer learning prior to and after the purchase, with endogenous pricing, leads to greater search prior to the purchase for more durable products."
+  },
+  {
+    "paper_id": "b6d8ba5cbce4474c7ec9782a8cab87c7a81cf4c3",
+    "title": "Multinomial logit processes and preference discovery: inside and outside the black box",
+    "year": 2022,
+    "author_ids": [
+      "1399027880",
+      "2485090",
+      "1727045",
+      "1796592"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 20,
+    "abstract": "\n We provide two characterizations, one axiomatic and the other neuro-computational, of the dependence of choice probabilities on deadlines, within the widely used softmax representation $$ \\begin{align} p_{t}\\left(a,A\\right) =\\dfrac{e^{\\frac{u\\left( a\\right) }{\\lambda\\left( t\\right) }+\\alpha\\left( a\\right) }}{\\sum_{b\\in A}e^{\\frac{u\\left( b\\right) }{\\lambda\\left( t\\right) }+\\alpha\\left( b\\right) }} \\end{align}$$ where pt (a, A) is the probability that alternative a is selected from the set A of feasible alternatives if t is the time available to decide, \u03bb is a time-dependent noise parameter measuring the unit cost of information, u is a time-independent utility function, and \u03b1 is an alternative-specific bias that determines the initial choice probabilities (reflecting prior information and memory anchoring).\n Our axiomatic analysis provides a behavioral foundation of softmax (also known as Multinomial Logit Model when \u03b1 is constant). Our neuro-computational derivation provides a biologically inspired algorithm that may explain the emergence of softmax in choice behavior. Jointly, the two approaches provide a thorough understanding of softmaximization in terms of internal causes (neuro-physiological mechanisms) and external effects (testable implications)."
+  },
+  {
+    "paper_id": "eb4763d2da361d1e1015cd84caa84aaae24aba7b",
+    "title": "The gradual nature of economic errors",
+    "year": 2022,
+    "author_ids": [
+      "1395595130",
+      "3631703"
+    ],
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "14cb232ed52daa4efdd58bd10c3efeba2b8548c1",
+    "title": "Private Information Acquisition and Preemption: a Strategic Wald Problem",
+    "year": 2022,
+    "author_ids": [
+      "1381610364"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper studies a dynamic information acquisition model with payoff externalities. Two players can acquire costly information about an unknown state before taking a safe or risky action. Both information and the action taken are private. The first player to take the risky action has an advantage but whether the risky action is profitable depends on the state. The players face the tradeoff between being first and being right. In equilibrium, for different priors, there exist three kinds of randomisation: when the players are pessimistic, they enter the competition randomly; when the players are less pessimistic, they acquire information and then randomly stop; when the players are relatively optimistic, they randomly take an action without acquiring information."
+  },
+  {
+    "paper_id": "c0e2f33381ebcaef2e947b142cb48e1a75d22682",
+    "title": "Multiple-switching behavior in choice-list elicitation of risk preference",
+    "year": 2022,
+    "author_ids": [
+      "3254454",
+      "48648079",
+      "46417058",
+      "2512275"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 13,
+    "abstract": "This study examines multiple-switching behavior (MSB) in choice-list elicitation of risk preference from the perspectives of stochastic choice. We distinguish between \u201c regular \u201d and \u201c irregular \u201d MSB, and show that subjects with more irregular MSB are more likely to violate \ufb01rst order stochastic dominance. In contrast, subjects with more regular MSB are more likely to randomize in repeated choice (Agranov and Ortoleva, 2017), and to concurrently exhibit non-expected utility behavior and reduce compound lottery. Our results suggest the need to diagnose the quality of MSB when applying choice-list elicitations, and distinguish stochastic choice models including random utility and deliberate randomization. of is 6.2 percent in certainty choice and in lottery choice The corresponding frequencies of switching are 26.1 in lottery repeated choice and 29.7 percent in certainty repeated choice. In addition, MSB in choice list is signi\ufb01cantly correlated with switching behavior in repeated choice. To di\ufb00erentiate among the MSB patterns resulting from the di\ufb00erent motives, we distinguish between regular MSB and irregular MSB. Under regular MSB , subjects initially choose options on the left and eventually switch to options to the right, regardless of how they switch back and forth in the middle portion of the list. We refer to the rest of the three cases of MSB as irregular MSB . These include the two cases of subjects starting from and ending up choosing options on the same side, and the remaining case of initially choosing options on the right and eventually switching to options on the left. We include in this latter case the possibility of a single switch which starts from the right and ends up on the left. For certainty choice list, the regular MSB frequency is 2.8 percent compared to 3.5 percent for the three types of irregular MSB. For lottery choice list, the frequency of regular MSB is 6.6 percent versus 2.1 percent for irregular MSB. We further observe that regular MSB in certainty choice list (lottery choice list) is signi\ufb01cantly correlated with the switching behavior in certainty repeated choice (lottery repeated choice), but not for dominance violations in a repeated choice setting. By comparison, irregular MSB in certainty choice list (lottery choice list) is not signi\ufb01cantly correlated with the switching behavior in certainty repeated choice (lottery repeated choice), and is signi\ufb01cantly correlated with dominance violations in repeated choice setting. Overall, these results suggest that regular MSB is linked to convex preference along with switching behavior in repeated choice, while irregular MSB is more likely to result from random utility or choice error. For lottery repeated choice, both options are uniform four-outcome lotteries. Additionally, there are two sets of choices in which one option dominates the other."
+  },
+  {
+    "paper_id": "6dfed54d9ae9aefa435a0be4c9d0ecb04e1bfcfd",
+    "title": "Bounded Rationality and Control",
+    "year": 2022,
+    "author_ids": [
+      "34667858"
+    ],
+    "venue": "Automation and remote control",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8ef49ba5403ae1f5ac466ee1c95468e796e7c065",
+    "title": "Strength of preference and decisions under risk",
+    "year": 2022,
+    "author_ids": [
+      "1395595130",
+      "3631703"
+    ],
+    "venue": "Journal of Risk and Uncertainty",
+    "citation_count": 29,
+    "abstract": "Influential economic approaches as random utility models assume a monotonic relation between choice frequencies and \u201cstrength of preference,\u201d in line with widespread evidence from the cognitive sciences, which also document an inverse relation to response times. However, for economic decisions under risk, these effects are largely untested, because models used to fit data assume them. Further, the dimension underlying strength of preference remains unclear in economics, with candidates including payoff-irrelevant numerical magnitudes. We provide a systematic, out-of-sample empirical validation of these relations (both for choices and response times) relying on both a new experimental design and simulations."
+  },
+  {
+    "paper_id": "9a0d6c03823430667839a7976935ac263619d581",
+    "title": "Rational use of cognitive resources in human planning",
+    "year": 2022,
+    "author_ids": [
+      "17026067",
+      "20928097",
+      "30093065",
+      "2119403155",
+      "49614759",
+      "3202750",
+      "1799860"
+    ],
+    "venue": "Nature Human Behaviour",
+    "citation_count": 103,
+    "abstract": null
+  },
+  {
+    "paper_id": "3cc8d31aa66294cb8aed8f199ce18b3f86b78d0d",
+    "title": "Parallel Search for Information in Continuous Time\u2014Optimal Stopping and Geometry of the PDE",
+    "year": 2022,
+    "author_ids": [
+      "144779463",
+      "102381207",
+      "1403424263",
+      "2108243103"
+    ],
+    "venue": "Applied Mathematics &amp; Optimization",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "4e166532cb6d7b7d8175679b633dfb608dbccf5e",
+    "title": "Parallel Search for Information in Continuous Time\u2014Optimal Stopping and Geometry of the PDE",
+    "year": 2022,
+    "author_ids": [
+      "144779463",
+      "102381207",
+      "1403424263",
+      "2108243103"
+    ],
+    "venue": "Applied Mathematics and Optimization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "99b72ee84546a65a7061cb614c20eb14491b18c1",
+    "title": "Speed, Quality, and the Optimal Timing of Complex Decisions: Field Evidence",
+    "year": 2022,
+    "author_ids": [
+      "3586915",
+      "2368762",
+      "46201662"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "This paper presents an empirical investigation of the relation between decision speed and decision quality for a real-world setting of cognitively-demanding decisions in which the timing of decisions is endogenous: professional chess. Move-by-move data provide exceptionally detailed and precise information about decision times and decision quality, based on a comparison of actual decisions to a computational benchmark of best moves constructed using the arti\ufb01cial intelligence of a chess engine. The results reveal that faster decisions are associated with better performance. The \ufb01ndings are consistent with the predictions of procedural decision models like drift-di\ufb00usion-models in which decision makers sequentially acquire information about decision alternatives with uncertain valuations."
+  },
+  {
+    "paper_id": "e03b60b97ad890836d5da28a2b5552364f1e43b9",
+    "title": "Individual and Collective Information Acquisition: An Experimental Study",
+    "year": 2021,
+    "author_ids": [
+      "123224156",
+      "2046436",
+      "2846044",
+      "145554924",
+      "37452006"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": ","
+  },
+  {
+    "paper_id": "e04730e24ff176be3e98728a473daa93d53dc325",
+    "title": "Investors\u2019 attention and information losses under market stress",
+    "year": 2021,
+    "author_ids": [
+      "49915979",
+      "2089326313",
+      "20529746",
+      "3490978"
+    ],
+    "venue": "Journal of Economic Behavior and Organization",
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "e42c21c5797bc08d238d84f7ad594e610ff9e54e",
+    "title": "Magnitude-sensitivity: rethinking decision-making.",
+    "year": 2021,
+    "author_ids": [
+      "3929031",
+      "145218702",
+      "1903012",
+      "144088087",
+      "9005262"
+    ],
+    "venue": "Trends in Cognitive Sciences",
+    "citation_count": 27,
+    "abstract": "Magnitude-sensitivity refers to the result that performance in decision-making, across domains and organisms, is affected by the total value of the possible alternatives. This simple result offers a window into fundamental issues in decision-making and has led to a reconsideration of ecological decision-making, prominent computational models of decision-making, and optimal decision-making. Moreover, magnitude-sensitivity has inspired the design of new robotic systems that exploit natural solutions and apply optimal decision-making policies. In this article, we review the key theoretical and empirical results about magnitude-sensitivity and highlight the importance that this phenomenon has for the understanding of decision-making. Furthermore, we discuss open questions and ideas for future research."
+  },
+  {
+    "paper_id": "3dde6bf28ce7404447958f2197fb1c23eedc3e9c",
+    "title": "Value certainty in drift-diffusion models of preferential choice.",
+    "year": 2021,
+    "author_ids": [
+      "2245251387",
+      "2244815671"
+    ],
+    "venue": "Psychology Review",
+    "citation_count": 20,
+    "abstract": "The drift-diffusion model (DDM) is widely used and broadly accepted for its ability to account for binary choices (in both the perceptual and preferential domains) and response times (RT), as a function of the stimulus or the choice alternative (or option) values. The DDM is built on an evidence accumulation-to-bound concept, where, in the value domain, a decision maker repeatedly samples the mental representations of the values of the available options until satisfied that there is enough evidence (or support) in favor of one option over the other. As the signals that drive the evidence are derived from value estimates that are not known with certainty, repeated sequential samples are necessary to average out noise. The classic DDM does not allow for different options to have different levels of precision in their value representations. However, recent studies have shown that decision makers often report levels of certainty regarding value estimates that vary across choice options. There is therefore a need to extend the DDM to include an option-specific value certainty component. We present several such DDM extensions and validate them against empirical data from four previous studies. The data support best a DDM version in which the drift of the accumulation is based on a sort of signal-to-noise ratio of value for each option (rather than a mere accumulation of samples from the corresponding value distributions). This DDM variant accounts for the impact of value certainty on both choice consistency and RT present in the empirical data. (PsycInfo Database Record (c) 2021 APA, all rights reserved)."
+  },
+  {
+    "paper_id": "2adf3db6a2e24cf89707c844f28db583071dd300",
+    "title": "Using Response Times to Infer Others' Private Information: An Application to Information Cascades",
+    "year": 2021,
+    "author_ids": [
+      "34711724",
+      "2815114"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 25,
+    "abstract": "The standard assumption in social learning environments is that agents learn from others through choice outcomes. We argue that in many settings, agents can also infer information from others\u2019 response times (RT), which can increase efficiency. To investigate this, we conduct a standard information cascade experiment and find that RTs do contain information that is not revealed by choice outcomes alone. When RTs are observable, subjects extract this private information and are more likely to break from incorrect cascades. Our results suggest that in environments where RTs are publicly available, the information structure may be richer than previously thought. This paper was accepted by Yan Chen, decision analysis."
+  },
+  {
+    "paper_id": "e1efdee95b91c192977b9ac85ac19865edb24be0",
+    "title": "Learning to hesitate",
+    "year": 2021,
+    "author_ids": [
+      "144389973",
+      "2032924",
+      "33281683"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "155752fd72dd6831014d535a3aa4a245f08501eb",
+    "title": "Retractions: Updating from Complex Information",
+    "year": 2021,
+    "author_ids": [
+      "2114422135",
+      "2411318178",
+      "120854873"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 4,
+    "abstract": "\n We modify a canonical experimental design to identify the effectiveness of retractions. Comparing beliefs after retractions to beliefs (1) without the retracted information and (2) after equivalent new information, we find that retractions result in diminished belief updating in both cases. We propose this reflects updating from retractions being more complex, and our analysis supports this: we find longer response times, lower accuracy, and higher variability. The results\u2014robust across diverse participant groups and design variations\u2014enhance our understanding of belief updating and offer insights into addressing misinformation."
+  },
+  {
+    "paper_id": "bdb9606925d7b12b16dfab9caca469c52f5fcf87",
+    "title": "Identification and welfare evaluation in sequential sampling models",
+    "year": 2021,
+    "author_ids": [
+      "74900772",
+      "49415985"
+    ],
+    "venue": "Theory and Decision",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "cc11590e850673c574514bda0b11504bfe627480",
+    "title": "Rational inattention in mice",
+    "year": 2021,
+    "author_ids": [
+      "40152979",
+      "2086138788",
+      "2060832751",
+      "1693892"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 19,
+    "abstract": "Behavior exhibited by humans and other organisms is generally inconsistent and biased, and thus is often labeled irrational. However, the origins of this seemingly suboptimal behavior remain elusive. We developed a behavioral task and normative framework to reveal how organisms should allocate their limited processing resources such that there is an advantage to being imprecise and biased for a given metabolic investment that guarantees maximal utility. We found that mice act as rational-inattentive agents by adaptively allocating their sensory resources in a way that maximizes reward consumption in novel stimulus-reward association environments. Surprisingly, perception to commonly occurring stimuli was relatively imprecise, however this apparent statistical fallacy implies \u201cawareness\u201d and efficient adaptation to their neurocognitive limitations. Interestingly, distributional reinforcement learning mechanisms efficiently regulate sensory precision via top-down normalization. These findings establish a neurobehavioral foundation for how organisms efficiently perceive and adapt to environmental states of the world within the constraints imposed by neurobiology."
+  },
+  {
+    "paper_id": "4f6621df845d8ee4bab1df86a00e1b08da10c80a",
+    "title": "Magnitude-sensitive reaction times reveal non-linear time costs in multi-alternative decision-making",
+    "year": 2021,
+    "author_ids": [
+      "31494148",
+      "145218702",
+      "2289080298",
+      "1847178",
+      "3929031"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 6,
+    "abstract": "Optimality analysis of value-based decisions in binary and multi-alternative choice settings predicts that reaction times should be sensitive only to differences in stimulus magnitudes, but not to overall absolute stimulus magnitude. Yet experimental work in the binary case has shown magnitude sensitive reaction times, and theory shows that this can be explained by switching from linear to geometric time costs, but also by nonlinear subjective utility. Thus disentangling explanations for observed magnitude sensitive reaction times is difficult. Here for the first time we extend the theoretical analysis of geometric time-discounting to ternary choices, and present novel experimental evidence for magnitude-sensitivity in such decisions, in both humans and slime moulds. We consider the optimal policies for all possible combinations of linear and geometric time costs, and linear and nonlinear utility; interestingly, geometric discounting emerges as the predominant explanation for magnitude sensitivity."
+  },
+  {
+    "paper_id": "c994326862af506961e336437349afe4095e3e85",
+    "title": "Top Down or Bottom Up? Disentangling the Channels of Attention in Risky Choice",
+    "year": 2021,
+    "author_ids": [
+      "40078523",
+      "15436712",
+      "103172510"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "Economists have become increasingly interested in using attention to explain behavioral patterns both on the micro and macro level. This has resulted in several disparate theoretical approaches. Some, like rational inattention, assume a \u201ctop-down\u201d model of executive optimization. Others, like salience theory, assume a \u201cbottom-up\u201d influence where attention is driven by contextual factors. This distinction is fundamental for the economic implications of attention, but so far there is little understanding of their relative importance. We propose a multi-attribute random utility model that unifies prior theoretical approaches by distinguishing between the impact of top-down and bottom-up attention. We accomplish this by separating agent-specific and decision-specific variation in attention and verify our framework in an eye-tracking experiment on risky choice. We find that both top-down and bottom-up attention are connected to important choice variables: both are associated with the weighting of the attributes of choice options, while top-down attention is additionally associated with measures of loss aversion. We discuss the insights regarding the nature of attention and its role in economic theory."
+  },
+  {
+    "paper_id": "aaf613701218f3ae079810178c28c767e43f6643",
+    "title": "Enhancing models of social and strategic decision making with process tracing and neural data.",
+    "year": 2021,
+    "author_ids": [
+      "40181734",
+      "2525750"
+    ],
+    "venue": "Wiley Interdisciplinary Reviews: Cognitive Science",
+    "citation_count": 13,
+    "abstract": "Every decision we take is accompanied by a characteristic pattern of response delay, gaze position, pupil dilation, and neural activity. Nevertheless, many models of social decision making neglect the corresponding process tracing data and focus exclusively on the final choice outcome. Here, we argue that this is a mistake, as the use of process data can help to build better models of human behavior, create better experiments, and improve policy interventions. Specifically, such data allow us to unlock the \"black box\" of the decision process and evaluate the mechanisms underlying our social choices. Using these data, we can directly validate latent model variables, arbitrate between competing personal motives, and capture information processing strategies. These benefits are especially valuable in social science, where models must predict multi-faceted decisions that are taken in varying contexts and are based on many different types of information. This article is categorized under: Economics > Interactive Decision-Making Neuroscience > Cognition Psychology > Reasoning and Decision Making."
+  },
+  {
+    "paper_id": "897d45ca51ac239a0a4d9f8a01bf061093f52c9d",
+    "title": "Evidence or Confidence: What Is Really Monitored during a Decision?",
+    "year": 2021,
+    "author_ids": [
+      "144968401",
+      "1678422",
+      "1746694"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 24,
+    "abstract": "Assessing our confidence in the choices we make is important to making adaptive decisions, and it is thus no surprise that we excel in this ability. However, standard models of decision-making, such as the drift-diffusion model (DDM), treat confidence assessment as a post hoc or parallel process that does not directly influence the choice, which depends only on accumulated evidence. Here, we pursue the alternative hypothesis that what is monitored during a decision is an evolving sense of confidence (that the to-be-selected option is the best) rather than raw evidence. Monitoring confidence has the appealing consequence that the decision threshold corresponds to a desired level of confidence for the choice, and that confidence improvements can be traded off against the resources required to secure them. We show that most previous findings on perceptual and value-based decisions traditionally interpreted from an evidence-accumulation perspective can be explained more parsimoniously from our novel confidence-driven perspective. Furthermore, we show that our novel confidence-driven DDM (cDDM) naturally generalizes to decisions involving any number of alternative options \u2013 which is notoriously not the case with traditional DDM or related models. Finally, we discuss future empirical evidence that could be useful in adjudicating between these alternatives."
+  },
+  {
+    "paper_id": "63a3749393fd95194f20b8efac413090d3f73ad1",
+    "title": "Visual judgments of length in the economics laboratory: Are there brains in stochastic choice?",
+    "year": 2021,
+    "author_ids": [
+      "144980768",
+      "1393957112",
+      "81089055"
+    ],
+    "venue": "Journal of Behavioral and Experimental Economics",
+    "citation_count": 7,
+    "abstract": "We design an induced value choice experiment where the objects are valued according to only a single attribute with a continuous measure. Subjects have an imperfect perception of the choice objects but can reduce their imperfect perception with cognitive effort. Subjects are given a choice set involving several lines of various lengths and are told to select one of them. They strive to select the longest line because they are paid an amount that is increasing in the length of their selection. This \"idealized\" choice experiment produces a dataset that is uniquely suited to study apparently random choice. We also manipulate the available cognitive resources of the subjects by imposing either a high or low cognitive load. We find that both choices and the allocation of effort are affected by the material incentives in the choice problem and the available cognitive resources. We find evidence that optimal choices have shorter deliberation times than suboptimal choices, which is consistent with previous theoretical predictions. The distribution of errors can have significant implications for the specification of stochastic choice models. Specifications where errors have a Gumbel distribution appear to provide a better fit than those with a normal distribution. Despite that the cognitive load manipulation affects both choice and search, it is notable that neither the Gumbel distribution results nor the relationship between optimal choice and deliberation time appear to be affected by the available cognitive resources. This perhaps suggests that these results are general and persistent features of choice."
+  },
+  {
+    "paper_id": "6c443a14d7bfa2669e0873c57d99c2d2a4e4b1db",
+    "title": "Updating Stochastic Choice",
+    "year": 2021,
+    "author_ids": [
+      "1395595130",
+      "32559881"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "When an economic agent makes a choice, stochastic models predicting those choices can be updated. The structural assumptions embedded in the prior model condition the updated one, to the extent that the same evidence produces different predictions even when previous ones were identical. We provide a general framework for models of stochastic choice allowing for arbitrary forms of (structural) updating and show that different models can be sharply separated by their structural properties, leading to axiomatic characterizations. Our framework encompasses Bayesian updating given beliefs over deterministic preferences (as implied by popular random utility models) and standard neuroeconomic models of choice, which update decision values in the brain through reinforcement learning."
+  },
+  {
+    "paper_id": "0c82031c551df4e065fbbe91c6a7cea80b164a2c",
+    "title": "Multiple behavioral rules in Cournot oligopolies",
+    "year": 2021,
+    "author_ids": [
+      "1395595130",
+      "117343350"
+    ],
+    "venue": "Journal of Economic Behavior and Organization",
+    "citation_count": 10,
+    "abstract": "We show that economic decisions in strategic settings are co-determined by multiple behavioral rules. A simple model of intra-individual behavioral heterogeneity predicts testable differences depending on whether rules share a common prescription (alignment) or not (conflict), a classification which is ex ante observable. The predictions include non-trivial response time interactions reflecting the nature of the underlying processes, hence the model is not an as if explanation. In a laboratory experiment and two replications on Cournot oligopolies, we find direct evidence showing that decisions arise from the interaction between a deliberative myopic best reply rule and a more intuitive imitative rule."
+  },
+  {
+    "paper_id": "1ea53aea9406521e3dddbfd684b21410cda5a372",
+    "title": "A Dynamic Model of Optimal Retargeting",
+    "year": 2021,
+    "author_ids": [
+      "2067433436",
+      "1935102"
+    ],
+    "venue": "Marketing science (Providence, R.I.)",
+    "citation_count": 20,
+    "abstract": "The optimal retargeting strategy requires dynamic analysis, with better information tracking potentially leading to less retargeting."
+  },
+  {
+    "paper_id": "23f76b842f28f0a6715edcd2100fca23a83860e5",
+    "title": "Does Attention Increase the Value of Choice Alternatives?",
+    "year": 2021,
+    "author_ids": [
+      "5962700",
+      "144092991"
+    ],
+    "venue": "Trends in Cognitive Sciences",
+    "citation_count": 43,
+    "abstract": "A growing recognition of the role of attention in decision-making has been driven by both the technology of eye tracking and the development of models that explicitly incorporate attention. One result of this convergence is the arresting claim that attention, by itself, can increase the perceived value of a decision alternative. In this review, we cover the origins of that claim, its empirical foundation, and the reasoning that supports it. The conclusion is that, to date, there is not sufficient evidence to support the claim. Alternative explanations for the extant evidentiary base are discussed, as is the balance between the bottom-up influence of empirical evidence and the top-down commitment to a conceptual framework."
+  },
+  {
+    "paper_id": "cbf6372e0a603df8651352129db01f0b83a3c0fe",
+    "title": "Optimal Allocation of Finite Sampling Capacity in Accumulator Models of Multialternative Decision Making",
+    "year": 2021,
+    "author_ids": [
+      "1422340346",
+      "1401845875"
+    ],
+    "venue": "Cognitive Sciences",
+    "citation_count": 6,
+    "abstract": "Abstract When facing many options, we narrow down our focus to very few of them. Although behaviors like this can be a sign of heuristics, they can actually be optimal under limited cognitive resources. Here, we study the problem of how to optimally allocate limited sampling time to multiple options, modeled as accumulators of noisy evidence, to determine the most profitable one. We show that the effective sampling capacity of an agent increases with both available time and the discriminability of the options, and optimal policies undergo a sharp transition as a function of it. For small capacity, it is best to allocate time evenly to exactly five options and to ignore all the others, regardless of the prior distribution of rewards. For large capacities, the optimal number of sampled accumulators grows sublinearly, closely following a power law as a function of capacity for a wide variety of priors. We find that allocating equal times to the sampled accumulators is better than using uneven time allocations. Our work highlights that multialternative decisions are endowed with breadth\u2013depth tradeoffs, demonstrates how their optimal solutions depend on the amount of limited resources and the variability of the environment, and shows that narrowing down to a handful of options is always optimal for small capacities."
+  },
+  {
+    "paper_id": "dc75ddac67733af0f0ca3084f31123b9cb08f87f",
+    "title": "Disentangling preferences and limited attention: Random-utility models with consideration sets",
+    "year": 2021,
+    "author_ids": [
+      "144270668"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": "Abstract This paper presents a model of choice with limited attention. The decision-maker forms a consideration set, from which she chooses her most preferred alternative. Both preferences and consideration sets are stochastic. While we present axiomatisations for this model, our focus is on the following identification question: to what extent can an observer retrieve probabilities of preferences and consideration sets from observed choices? Our first conclusion is a negative one: if the observed data are choice probabilities, then probabilities of preferences and consideration sets cannot be retrieved from choice probabilities. We solve the identification problem by assuming that an \u201cenriched\u201d dataset is observed, which includes choice probabilities under two frames. Given this dataset, the model is \u201cfully identified\u201d, in the sense that we can recover from observed choices (i) the probabilities of preferences (to the same extent as in models with full attention) and (ii) the probabilities of consideration sets. While a number of recent papers have developed models of limited attention that are, in a similar sense, \u201cfully identified\u201d, they obtain this result not by using an enriched dataset but rather by making a restrictive assumption about the default option, which our paper avoids."
+  },
+  {
+    "paper_id": "14fb3a20c067f729bf91bae39a2c976d554fa03e",
+    "title": "Decisions and Performance Under Bounded Rationality: A Computational Benchmarking Approach.",
+    "year": 2020,
+    "author_ids": [
+      "2368762",
+      "3586915",
+      "46201662"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "6e2dffef3009f5ca772aaacc0da0172b7894e9d7",
+    "title": "Decision making with dynamic uncertain continuous information",
+    "year": 2020,
+    "author_ids": [
+      "2313993",
+      "1790492"
+    ],
+    "venue": "Expert systems with applications",
+    "citation_count": 1,
+    "abstract": "Abstract Decision making is the ability to select the best alternative from a set of candidates based on their respective values. When the value depends on uncertain future events, this task becomes more complicated. The question is then whether to wait for more information before making a decision or to stop and make a decision based on uncertain information. This has been addressed in previous work, when the information (events) could be represented as discrete random variables. However, there are real world domains where this assumption is incorrect. Thus, in this paper, we propose a novel framework and algorithms designed to cope with the challenge posed when future events are represented as continuous random variables. More specifically, we define a mathematical representation to model the utility functions of the candidates and introduce optimal and approximate algorithms to compute the best time to stop, and make a decision in order to optimize the utility. We evaluate our model and algorithms theoretically and empirically, and measure their performance in terms of the gain they achieve and their runtime. Our experiment demonstrates that there is no significant difference between the quality of the decision reached by the two algorithms, while the runtime of the optimal algorithm is much higher than that of the approximate algorithm."
+  },
+  {
+    "paper_id": "a8c36a96ec0b77b51e59025ccc403ffe0bf32a55",
+    "title": "Choice consistency and strength of preference",
+    "year": 2020,
+    "author_ids": [
+      "1395595130",
+      "3631703"
+    ],
+    "venue": "Economics Letters",
+    "citation_count": 29,
+    "abstract": "Abstract Even when presented with the same choices multiple times, humans often make different decisions. We re-analyze data from five experiments using repeated choices in the domain of risky and inter-temporal choices and show that choice consistency is directly linked to cardinal differences in independently-estimated utilities. Strength of preference is monotonically related to choice consistency, with choices being more inconsistent when the alternatives are more similar in preference terms."
+  },
+  {
+    "paper_id": "3ffbf9ba6b6a7b695bab2e516be468f3b123e8ae",
+    "title": "Product Line Design with Quantal Consumer Preferences",
+    "year": 2020,
+    "author_ids": [
+      "2155888742",
+      "143786943"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper studies how a firm designs a product line that motivates consumers to deliberate to infer their preferences and buy the product that matches the perceived preferences by deliberation. Some consumers cannot determine their true preferences after deliberation and instead perceive a wrong preference as their own. The statistics describing the distribution of preference perception after deliberation are defined as quantal preferences. By considering the quantal preferences, the firm is only able to design a product line that makes sure the population of consumers with same true preference willingly and truthfully participate the purchasing activity. Our research shows that the equilibrium properties of a screening contract (product line in our context) have been essentially altered by the quantal preferences compared with corresponding properties in a standard screening contract. With quantal preferences, at equilibrium, firm sacrifices part of their profit to reimburse each group of consumers to participate the purchase. Quantal preferences introduce two new incentives into the product line: limiting surplus losses and driving consumer to deliberate the true preference as much as possible. Different incentives can interrelate, e.g. the incentive motivating consumers to truthfully determine their perceived preferences and hence sorting different populations of consumers by the perceived preferences interacting the incentive limiting surplus losses, where deliberation cost adjusts which incentive is stronger. With quantal preferences, high type product can attract low preference consumers. The quality of high type product can be negative. The profit of high type or low type product can be negative, and the surplus of high type or low product can be negative as well. If only one type of product can be produced, it can be the low type product."
+  },
+  {
+    "paper_id": "c835065fb045dd7f8153bbaac193eab6108a0381",
+    "title": "Cognitive sophistication and deliberation times",
+    "year": 2020,
+    "author_ids": [
+      "1395595130",
+      "113447814"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 22,
+    "abstract": "Differences in cognitive sophistication and effort are at the root of behavioral heterogeneity in economics. To explain this heterogeneity, behavioral models assume that certain choices indicate higher cognitive effort. A fundamental problem with this approach is that observing a choice does not reveal how the choice is made, and hence choice data is insufficient to establish the link between cognitive effort and behavior. We show that deliberation times provide an individually-measurable correlate of cognitive effort. We test a model of heterogeneous cognitive depth, incorporating stylized facts from the psychophysical literature, which makes predictions on the relation between choices, cognitive effort, incentives, and deliberation times. We confirm the predicted relations experimentally in different kinds of games."
+  },
+  {
+    "paper_id": "c49fd87859ec1388a0348c290269e4baa8e3fd4a",
+    "title": "Value Certainty in Diffusion Decision Models",
+    "year": 2020,
+    "author_ids": [
+      "144968401",
+      "3101419"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 8,
+    "abstract": "Decision models such as the drift-diffusion model (DDM) are a widely used and broadly accepted tool that accounts remarkably well for binary choices and their response time distributions, as a function of the option values. The DDM is built on an evidence accumulation to bound concept, where a decision maker repeatedly samples a mental representation of the values of the options on offer until satisfied that there is enough evidence in favor of one option over the other. The value estimates that drive the DDM evidence are derived from the relative strength of value signals that are not stable across time, so that repeated sequential samples are necessary to average out noise. The standard DDM, however, typically does not allow for different options to have different levels of variability in their value representations. However, recent value-based decision studies have shown that a decision maker often reports levels of certainty regarding value estimates that vary across options. We thus propose that future versions of DDM should include an option-specific value certainty component. We present four different versions of such a model and validate them against empirical data from four previous studies. The data show that a model built around a sort of signal-to-noise ratio for each option (rather than a pure signal that randomly fluctuates) performs best, accounting for the positive impact of value certainty on choice consistency and the negative impact of value certainty on response time."
+  },
+  {
+    "paper_id": "38c3e51d92af9998a274a4432944d3194abafcc7",
+    "title": "Optimal policy for attention-modulated decisions explains human fixation behavior",
+    "year": 2020,
+    "author_ids": [
+      "7320618",
+      "2111336007",
+      "2980740"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 53,
+    "abstract": "Traditional accumulation-to-bound decision-making models assume that all choice options are processed simultaneously with equal attention. In real life decisions, however, humans tend to alternate their visual fixation between individual items in order to efficiently gather relevant information [46, 23, 21, 12, 15]. These fixations also causally affect one\u2019s choices, biasing them toward the longer-fixated item [38, 2, 25]. We derive a normative decision-making model in which fixating a choice item boosts information about that item. In contrast to previous models [25, 39], we assume that attention enhances the reliability of information rather than its magnitude, consistent with neurophysiological findings [3, 13, 29, 45]. Furthermore, our model actively controls fixation changes to optimize information gathering. We show that the optimal model reproduces fixation patterns and fixation-related choice biases seen in human decision-makers, and provides a Bayesian computational rationale for the fixation bias. This insight led to additional behavioral predictions that we confirmed in human behavioral data. Finally, we explore the consequences of changing the relative allocation of cognitive resources to the attended versus the unattended item, and show that decision performance is benefited by a more balanced spread of cognitive resources."
+  },
+  {
+    "paper_id": "74847ba6db502ffbe0d905e0b45f1dba6fff5c58",
+    "title": "Cognitive Load in Economic Decisions",
+    "year": 2020,
+    "author_ids": [
+      "1705363",
+      "1395595130",
+      "117343350"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 8,
+    "abstract": "Intuitive decision making has a large and often negative impact in economic decisions, but its measurement and quantification remains challenging. Following research from psychology, behavioral economists have often attempted to causally manipulate the balance of intuition and deliberation by relying on experimental manipulations as cognitive load. However, these attempts have resulted in mixed success, with many null results and no clear general pattern. We explain the possible reasons behind these developments and offer avenues for improvement. First, we show that a very simple formal model of decision processes offers a straightforward test to determine whether cognitive load has been successfully induced, hence disentangling failed inductions and true null results. Specifically, cognitive load in economically-relevant tasks must result in shorter response times. Second, we show that the intuitive arguments on the behavioral implications of cognitive load do not hold on closer, formal examination, unless strong assumptions are made that may or may not hold in typical economic experiments. We then report on seven economic experiments (joint N = 628) using different cognitive load manipulations and confirm the implications of the model. While the effect on response times is strong and pervasive, behavioral effects are weak and elusive. Our research serves as a warning on the differences between economic tasks and psychological experiments and the difficulties associated with importing methods uncritically."
+  },
+  {
+    "paper_id": "052d7623019b4bf362eda78ea13521e36a55ef0d",
+    "title": "A Behavioral Characterization of the Drift Diffusion Model and Its Multialternative Extension for Choice Under Time Pressure",
+    "year": 2020,
+    "author_ids": [
+      "3066793",
+      "1399027880",
+      "2485090",
+      "1727045"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 30,
+    "abstract": "In this paper, we provide an axiomatic foundation for the value-based version of the drift diffusion model (DDM) of Ratcliff, a successful model that describes two-alternative speeded decisions bet..."
+  },
+  {
+    "paper_id": "2326e3803c3bf806fba2cd6ba6c917d00c059bf9",
+    "title": "On the Causes and Consequences of Deviations from Rational Behavior",
+    "year": 2020,
+    "author_ids": [
+      "2368762",
+      "3586915",
+      "46201662"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "This paper presents novel evidence for the prevalence of deviations from rational behavior in human decision making - and for the corresponding causes and consequences. The analysis is based on move-by-move data from chess tournaments and an identification strategy that compares behavior of professional chess players to a rational behavioral benchmark that is constructed using modern chess engines. The evidence documents the existence of several distinct dimensions in which human players deviate from a rational benchmark. In particular, the results show deviations related to loss aversion, time pressure, fatigue, and cognitive limitations. The results also demonstrate that deviations do not necessarily lead to worse performance. Consistent with an important influence of intuition and experience, faster decisions are associated with more frequent deviations from the rational benchmark, yet they are also associated with better performance."
+  },
+  {
+    "paper_id": "7e8e27d0d44d56c81f00b4d1154e47d346e830aa",
+    "title": "Who\u2019ll stop lying under oath? Empirical evidence from tax evasion games",
+    "year": 2020,
+    "author_ids": [
+      "3232196",
+      "48409459",
+      "17160404",
+      "3225858"
+    ],
+    "venue": null,
+    "citation_count": 23,
+    "abstract": "Using two earned income/tax declaration experimental designs we show that only partial liars are affected by a truth-telling oath, a non-price commitment device. Under oath, we see no change in the number of chronic liars and fewer partial liars. Rather than smoothly increasing their compliance, we also observe that partial liars who respond to the oath, respond by becoming fully honest under oath. Based on both response times data and the consistency of subjects when several compliance decisions are made in a row, we show that partial lying arises as the result of weak preferences towards profitable honesty. The oath only transforms people with weak preferences for lying into being committed to the truth."
+  },
+  {
+    "paper_id": "385978f4e4c967377b5ffe6a803126a4ac3e0479",
+    "title": "Multinomial Logit Processes and Preference Discovery: Outside and Inside the Black Box",
+    "year": 2020,
+    "author_ids": [
+      "1399027880",
+      "2485090",
+      "1727045",
+      "2257324132"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 11,
+    "abstract": "We provide two characterizations, one axiomatic and the other neuro-computational, of the dependence of choice probabilities on deadlines, within the widely used softmax representation \\[ p_{t}\\left( a,A\\right) =\\dfrac{e^{\\frac{u\\left( a\\right) }{\\lambda \\left( t\\right) }+\\alpha \\left( a\\right) }}{\\sum_{b\\in A}e^{\\frac{u\\left( b\\right) }{\\lambda \\left( t\\right) }+\\alpha \\left( b\\right) }}% \\] where $p_{t}\\left( a,A\\right) $ is the probability that alternative $a$ is selected from the set $A$ of feasible alternatives if $t$ is the time available to decide, $\\lambda$ is a time dependent noise parameter measuring the unit cost of information, $u$ is a time independent utility function, and $\\alpha$ is an alternative-specific bias that determines the initial choice probabilities and possibly reflects prior information. Our axiomatic analysis provides a behavioral foundation of softmax (also known as Multinomial Logit Model when $\\alpha$ is constant). Our neuro-computational derivation provides a biologically inspired algorithm that may explain the emergence of softmax in choice behavior. Jointly, the two approaches provide a thorough understanding of soft-maximization in terms of internal causes (neurophysiological mechanisms) and external effects (testable implications)."
+  },
+  {
+    "paper_id": "e675594c1236160768561d0f806e6585ec2d54cc",
+    "title": "Attributes: Selective Learning and Influence",
+    "year": 2020,
+    "author_ids": [
+      "102864066"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 8,
+    "abstract": "An agent selectively samples attributes of a complex project so as to influence the decision of a principal. The players disagree about the weighting, or relevance, of attributes. The correlation across attributes is modeled through a Gaussian process, the covariance function of which captures pairwise attribute similarity. The key trade\u2010off in sampling is between the alignment of the players' posterior values for the project and the variability of the principal's decision. Under a natural property of the attribute correlation\u2014the \n nearest\u2010attribute property (NAP)\u2014each optimal attribute is relevant for some player and at most two optimal attributes are relevant for only one player. We derive comparative statics in the strength of attribute correlation and examine the robustness of our findings to violations of NAP for a tractable class of distance\u2010based covariances. The findings carry testable implications for attribute\u2010based product evaluation and strategic selection of pilot sites.\n"
+  },
+  {
+    "paper_id": "ba14068d5f1a6f14d79498a95b977e2385f1f8ef",
+    "title": "Keeping the Listener Engaged: A Dynamic Model of Bayesian Persuasion",
+    "year": 2020,
+    "author_ids": [
+      "143947522",
+      "2110017838",
+      "1936394"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 27,
+    "abstract": "We consider a dynamic model of Bayesian persuasion in which information takes time and is costly for the sender to generate and for the receiver to process, and neither player can commit to their future actions. Persuasion may totally collapse in a Markov perfect equilibrium of this game. However, for persuasion costs sufficiently small, a version of a folk theorem holds: outcomes that approximate Kamenica and Gentzkow\u2019s sender-optimal persuasion as well as full revelation and everything in between are obtained in Markov perfect equilibrium as the cost vanishes."
+  },
+  {
+    "paper_id": "55e29fa7ab5413f0faac6fb9cd8f40abd6056901",
+    "title": "Public Leaderboard Feedback in Sampling Competition: An Experimental Investigation",
+    "year": 2020,
+    "author_ids": [
+      "16565733",
+      "33121700",
+      "11200818"
+    ],
+    "venue": "Review of Economics and Statistics",
+    "citation_count": 3,
+    "abstract": "\n We investigate the role of performance feedback, in the form of a public leaderboard, in a sequential-sampling contest with costly observations. We show theoretically that for contests with a fixed ending date (i.e., finite horizon), providing public performance feedback may result in fewer expected observations and a lower expected value of the winning observation. We conduct a controlled laboratory experiment to test the theoretical predictions, and find that the experimental results largely support the theory. In addition, we investigate how individual characteristics affect competitive sequential-sampling activity."
+  },
+  {
+    "paper_id": "760650ae09a313132bf0a0806a89e7821cb62d26",
+    "title": "An economist and a psychologist form a line: What can imperfect perception of length tell us about stochastic choice?",
+    "year": 2020,
+    "author_ids": [
+      "144980768",
+      "81089055"
+    ],
+    "venue": "Theory and Decision",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "9494533bbe5c19ab8a171047eb41575e7d3cf78e",
+    "title": "The dual accumulator model of strategic deliberation and decision making.",
+    "year": 2019,
+    "author_ids": [
+      "2966478",
+      "2125285101",
+      "103124006"
+    ],
+    "venue": "Psychology Review",
+    "citation_count": 24,
+    "abstract": "What are the mental operations involved in game theoretic decision making? How do players deliberate (intelligently, but perhaps imperfectly) about strategic interdependencies and ultimately decide on a strategy? We address these questions using an evidence accumulation model, with bidirectional connections between preferences for the strategies available to the decision maker and beliefs regarding the opponent's choices. Our dual accumulator model accounts for a variety of behavioral patterns, including limited iterated reasoning, payoff sensitivity, consideration of risk-reward tradeoffs, and salient label effects, and it provides a good quantitative fit to existing behavioral data. In a comparison with other popular behavioral game theoretic models fit at the individual subject level to choices across a set of games, the dual accumulator model makes the most accurate out-of-sample predictions. Additionally, as a cognitive-process model, it can also be used to make predictions about response time patterns, time pressure effects, and attention during deliberation. Stochastic sampling and dynamic accumulation, cognitive mechanisms foundational to decision making, play a critical role in explaining well-known behavioral patterns as well as in generating novel predictions. (PsycINFO Database Record (c) 2019 APA, all rights reserved)."
+  },
+  {
+    "paper_id": "526ee85335f507c840f863ba1aa138ef1d9ea935",
+    "title": "Selective Sampling with Information-Storage Constraints",
+    "year": 2019,
+    "author_ids": [
+      "1836067",
+      "145016239"
+    ],
+    "venue": "Economic Journal",
+    "citation_count": 8,
+    "abstract": "A memoryless agent can acquire arbitrarily many signals. After each signal observation, she either terminates and chooses an action, or she discards her observation and draws a new signal. By conditioning the probability of termination on the information collected, she controls the correlation between the payoff state and her terminal action. We provide an optimality condition for the emerging stochastic choice. The condition highlights the benefits of selective memory applied to the extracted signals. Implications\u2014obtained in simple examples\u2014include (i) confirmation bias, (ii) speed-accuracy complementarity, (iii) overweighting of rare events, and (iv) salience effect."
+  },
+  {
+    "paper_id": "caae73285bd5af7254f42cab5f8efd96716ec5f8",
+    "title": "Dynamic Random Utility",
+    "year": 2019,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "3101667"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 49,
+    "abstract": "We provide an axiomatic analysis of dynamic random utility, characterizing the stochastic choice behavior of agents who solve dynamic decision problems by maximizing some stochastic process (\n U\n \n t\n ) of utilities. We show first that even when (\n U\n \n t\n ) is arbitrary, dynamic random utility imposes new testable \n across\u2010period restrictions on behavior, over and above period\u2010by\u2010period analogs of the static random utility axioms. An important feature of dynamic random utility is that behavior may appear \n history\u2010dependent, because period\u2010\n t choices reveal information about \n U\n \n t\n , which may be serially correlated; however, our key new axioms highlight that the model entails specific limits on the form of history dependence that can arise. Second, we show that imposing natural Bayesian rationality axioms restricts the form of randomness that (\n U\n \n t\n ) can display. By contrast, a specification of utility shocks that is widely used in empirical work violates these restrictions, leading to behavior that may display a negative option value and can produce biased parameter estimates. Finally, dynamic stochastic choice data allow us to characterize important special cases of random utility\u2014in particular, learning and taste persistence\u2014that on static domains are indistinguishable from the general model.\n"
+  },
+  {
+    "paper_id": "c8ecf3affca093e9ac069cc086bd9dbf8cf4f1cb",
+    "title": "Complementary Information and Learning Traps*",
+    "year": 2019,
+    "author_ids": [
+      "39914586",
+      "7837349"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 40,
+    "abstract": "\n We develop a model of social learning from complementary information: short-lived agents sequentially choose from a large set of flexibly correlated information sources for prediction of an unknown state, and information is passed down across periods. Will the community collectively acquire the best kinds of information? Long-run outcomes fall into one of two cases: (i) efficient information aggregation, where the community eventually learns as fast as possible; (ii) \u201clearning traps,\u201d where the community gets stuck observing suboptimal sources and information aggregation is inefficient. Our main results identify a simple property of the underlying informational complementarities that determines which occurs. In both regimes, we characterize which sources are observed in the long run and how often."
+  },
+  {
+    "paper_id": "c43921bdeee0e1d225fe8fd51ee1a310a728b227",
+    "title": "Rational inattention when decisions take time",
+    "year": 2019,
+    "author_ids": [
+      "37564782",
+      "4887754"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 47,
+    "abstract": "Decisions take time, and the time taken to reach a decision is likely to be informative about the cost of more precise judgments. We formalize this insight in the context of a dynamic rational inattention (RI) model. Under standard conditions on the flow cost of information in our discrete-time model, we obtain a tractable model in the continuous-time limit. We next provide conditions under which the resulting belief dynamics resemble either diffusion processes or processes with large jumps. We then demonstrate that the state-contingent choice probabilities predicted by our model are identical to those predicted by a static RI model, providing a micro-foundation for such models. In the diffusion case, our model provides a normative foundation for a variant of the DDM models studied in mathematical psychology."
+  },
+  {
+    "paper_id": "fa9edf48f6066a389a56c59d024acb7cbb7f394e",
+    "title": "Try before you buy: A theory of dynamic information acquisition",
+    "year": 2019,
+    "author_ids": [
+      "144269944"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 11,
+    "abstract": "Abstract This paper develops a model of dynamic information acquisition where a buyer acquires information about a product, and a monopoly seller sets the price of her product anticipating the buyer's behavior. It finds that the buyer makes a purchase decision when his expected gain from trade hits one of two boundaries which are deterministic functions of time. Those boundaries are independent of the buyer's prior value. The seller's profit is increasing in the buyer's cost of information if and only if the buyer's prior purchase probability is above fifty percent. In analyzing the problem, a close connection between the information acquisition problem and the theory of American options is established and exploited."
+  },
+  {
+    "paper_id": "ef48a7cb1a73aacadd4dfed02f5a26a4031fdf81",
+    "title": "Testing the drift-diffusion model",
+    "year": 2019,
+    "author_ids": [
+      "2783939",
+      "3646527",
+      "2450616",
+      "3101667"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 60,
+    "abstract": "Significance The drift-diffusion model (DDM) has been widely used in psychology and neuroeconomics to explain observed patterns of choices and response times. This paper provides an identification and characterization theorems for this model: We show that the parameters are uniquely pinned down and determine which datasets are consistent with some form of DDM. We then develop a statistical test of the model based on finite datasets using spline estimation. These results establish the empirical content of the model and provide a way for researchers to see when it is applicable. The drift-diffusion model (DDM) is a model of sequential sampling with diffusion signals, where the decision maker accumulates evidence until the process hits either an upper or lower stopping boundary and then stops and chooses the alternative that corresponds to that boundary. In perceptual tasks, the drift of the process is related to which choice is objectively correct, whereas in consumption tasks, the drift is related to the relative appeal of the alternatives. The simplest version of the DDM assumes that the stopping boundaries are constant over time. More recently, a number of papers have used nonconstant boundaries to better fit the data. This paper provides a statistical test for DDMs with general, nonconstant boundaries. As a by-product, we show that the drift and the boundary are uniquely identified. We use our condition to nonparametrically estimate the drift and the boundary and construct a test statistic based on finite samples."
+  },
+  {
+    "paper_id": "4420113eafb0e5428510a0a423f315ac500a1d86",
+    "title": "Rules of Thumb and Attention Elasticities: Evidence from Under- and Overreaction to Taxes",
+    "year": 2019,
+    "author_ids": [
+      "34683404",
+      "145946385"
+    ],
+    "venue": "Review of Economics and Statistics",
+    "citation_count": 29,
+    "abstract": "Abstract This paper tests costly attention models of consumers' misreaction to opaque taxes. We report an online shopping experiment that involves shrouded sales taxes that are exogenously varied within consumers over time. Some consumers systematically underreact to sales taxes whereas others systematically overreact, but higher stakes decrease both under- and overreaction. This is consistent with consumers using heterogeneous rules of thumb to compute the opaque tax when the stakes are low, but using costly mental effort at higher stakes. The results allow us to differentiate between various theories of limited attention. We also develop novel econometric techniques for quantifying individual differences."
+  },
+  {
+    "paper_id": "a3fd28a35503fb822c96bcf1617305ab0111aa2a",
+    "title": "Estimating the dynamic role of attention via random utility",
+    "year": 2019,
+    "author_ids": [
+      "35468563",
+      "2815114",
+      "145598074"
+    ],
+    "venue": "Journal of the Economic Science Association",
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "d976d715dac748b077d0f153025aa0554fa035cf",
+    "title": "Choice-Process Data in Experimental Economics",
+    "year": 2019,
+    "author_ids": [
+      "30602500",
+      "2815114",
+      "1776382"
+    ],
+    "venue": "Journal of the Economic Science Association",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "ea454ce8c1004cc909e9ef4838edf6494f72a009",
+    "title": "Revealed strength of preference: Inference from response times",
+    "year": 2019,
+    "author_ids": [
+      "40181734",
+      "2815114"
+    ],
+    "venue": "Judgment and Decision Making",
+    "citation_count": 71,
+    "abstract": "Revealed preference is the dominant approach for inferring preferences, but it is limited in that it relies solely on discrete choice data. When a person chooses one alternative over another, we cannot infer the strength of their preference or predict how likely they will be to make the same choice again. However, the choice process also produces response times (RTs), which are continuous and easily observable. It has been shown that RTs often decrease with strength-of-preference. This is a basic property of sequential sampling models such as the drift diffusion model. What remains unclear is whether this relationship is sufficiently strong, relative to the other factors that affect RTs, to allow us to reliably infer strength-of-preference across individuals. Using several experiments, we show that even when every subject chooses the same alternative, we can still rank them based on their RTs and predict their behavior on other choice problems. We can also use RTs to predict whether a subject will repeat or reverse their decision when presented with the same choice problem a second time. Finally, as a proof-of-concept, we demonstrate that it is also possible to recover individual preference parameters from RTs alone. These results demonstrate that it is indeed possible to use RTs to infer preferences."
+  },
+  {
+    "paper_id": "568b63d418dd1e6b8eff6ac24cb0772266cacd56",
+    "title": "Strength of Preference and Decision Making Under Risk",
+    "year": 2019,
+    "author_ids": [
+      "1395595130",
+      "3631703"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "Overwhelming evidence from the cognitive sciences shows that, in simple discrimination tasks (determining what is louder, longer, brighter, or even which number is larger) humans make more mistakes and decide more slowly when the stimuli are closer along the relevant scale. We investigate to what extent these effects are relevant for economic decisions. Strikingly, we find that even when there is an objectively correct answer independently of attitudes toward risk, the same effects obtain as expected values become closer. Contrary to pure discrimination tasks, however, differences in payoff-independent numerical magnitudes play a minor role. When correct answers depend on subjective attitudes toward risk, differences in expected values fail to explain error rates. The gradual effects on error rates and response times subsist but are instead explained by cardinal differences in independently-estimated subjective utilities (\u201cstrength of preference\u201d). This is in agreement with assumptions typically made (but seldom validated) in random utility models. We conclude that the gradual effects on choice found in cognitive discrimination paradigms are very much present in economic choices, but depend on purely economic variables. An implication is that even if correct economic choices can be seen as ordinal, actual economic choices carry a cardinal component."
+  },
+  {
+    "paper_id": "76fa586efd289f972d73ecc9ffcbc686d4c1e66c",
+    "title": "Anticipatory Anxiety and Wishful Thinking",
+    "year": 2019,
+    "author_ids": [
+      "40078523",
+      "4387829",
+      "27068056",
+      "2194150149",
+      "2194150149",
+      "2194150149",
+      "2122834361"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 36,
+    "abstract": "Across five experiments (N = 1,714), we test whether people engage in wishful thinking to alleviate anxiety about adverse future outcomes. Participants perform pattern recognition tasks in which some patterns may result in an electric shock or a monetary loss. Diagnostic of wishful thinking, participants are less likely to correctly identify patterns that are associated with a shock or loss. Wishful thinking is more pronounced under more ambiguous signals and only reduced by higher accuracy incentives when participants\u2019 cognitive effort reduces ambiguity. Wishful thinking disappears in the domain of monetary gains, indicating that negative emotions are important drivers of the phenomenon. (JEL C91, D12, D83, D91)"
+  },
+  {
+    "paper_id": "9246c7a481785c331b9faaa8f6a86d4381f93ad4",
+    "title": "Testing Optimal Timing in Value-Linked Decision Making",
+    "year": 2019,
+    "author_ids": [
+      "3829715"
+    ],
+    "venue": "Computational Brain & Behavior",
+    "citation_count": 19,
+    "abstract": null
+  },
+  {
+    "paper_id": "9e4efe468ffa3bae2fdbfa9dc20b90bd75d14069",
+    "title": "Parallel Search for Information",
+    "year": 2019,
+    "author_ids": [
+      "2267962150",
+      "102381207",
+      "1403424263",
+      "2108243103"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We consider the problem of a decision-maker searching for information on multiple alternatives when information is learned on all alternatives simultaneously. The decision-maker has a running cost of searching for information, and has to decide when to stop searching for information and choose one alternative. The expected payoff of each alternative evolves as a diffusion process when information is being learned. We present necessary and sufficient conditions for the solution, establishing existence and uniqueness. We show that the optimal boundary where search is stopped (free boundary) is star-shaped, and present an asymptotic characterization of the value function and the free boundary. We show properties of how the distance between the free boundary and the diagonal varies with the number of alternatives, and how the free boundary under parallel search relates to the one under sequential search, with and without economies of scale on the search costs."
+  },
+  {
+    "paper_id": "704fdd518c63d1dc106c3467531ec230a56bf83a",
+    "title": "Dynamically Aggregating Diverse Information",
+    "year": 2019,
+    "author_ids": [
+      "39914586",
+      "7837349",
+      "3043674"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 35,
+    "abstract": "An agent has access to multiple information sources, each modeled as a Brownian motion whose drift provides information about a different component of an unknown Gaussian state. Information is acquired continuously---where the agent chooses both which sources to sample from, and also how to allocate attention across them---until an endogenously chosen time, at which point a decision is taken. We demonstrate conditions on the agent's prior belief under which it is possible to exactly characterize the optimal information acquisition strategy. We then apply this characterization to derive new results regarding: (1) endogenous information acquisition for binary choice, (2) the dynamic consequences of attention manipulation, and (3) strategic information provision by biased news sources."
+  },
+  {
+    "paper_id": "34b09e98fd4df753f51bc730a9b25cc82288c1c7",
+    "title": "Identification and Welfare Analysis in Sequential Sampling Models",
+    "year": 2019,
+    "author_ids": [
+      "74900772",
+      "2320137177"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Consider an agent who, before making a choice privately learns information about an uncertain, objective state of the world through a technology of sequential experiments. We consider two cases of learning costs. In the first, the agent discounts future payoffs geometrically. In the second, she incurs a constant flow cost of time. We show that if the observable data consist only of the joint distributions over chosen actions and decision times, an analyst can uniquely identify the discount factor in the first case and the flow cost of time in the second case, besides identifying the agent\u2019s prior belief and taste. Moreover, we show how an analyst can recover the agent\u2019s ex-ante welfare in both cases. Our approach does not rely on any knowledge about the underlying sequential experiment."
+  },
+  {
+    "paper_id": "484eea63545e45c2dec5b7e725e11c492f2929be",
+    "title": "Estimating the dynamic role of attention via random utility",
+    "year": 2019,
+    "author_ids": [
+      "35468563",
+      "2815114",
+      "145598074"
+    ],
+    "venue": "Journal of the Economic Science Association",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "eeb5d83d4823448eaa96405f97951e6f8392726c",
+    "title": "Fixation patterns in simple choice reflect optimal information sampling",
+    "year": 2019,
+    "author_ids": [
+      "17026067",
+      "145542456",
+      "1799860"
+    ],
+    "venue": "PLoS Comput. Biol.",
+    "citation_count": 101,
+    "abstract": "Simple choices (e.g., eating an apple vs. an orange) are made by integrating noisy evidence that is sampled over time and influenced by visual attention; as a result, fluctuations in visual attention can affect choices. But what determines what is fixated and when? To address this question, we model the decision process for simple choice as an information sampling problem, and approximate the optimal sampling policy. We find that it is optimal to sample from options whose value estimates are both high and uncertain. Furthermore, the optimal policy provides a reasonable account of fixations and choices in binary and trinary simple choice, as well as the differences between the two cases. Overall, the results show that the fixation process during simple choice is influenced dynamically by the value estimates computed during the decision process, in a manner consistent with optimal information sampling."
+  },
+  {
+    "paper_id": "0cfe6d4fdaa16b9eb11b369ff5883fd88fd568cd",
+    "title": "Learning to hesitate",
+    "year": 2019,
+    "author_ids": [
+      "144389973",
+      "2032924",
+      "33281683"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 3,
+    "abstract": "We investigate how people make choices when they are unsure about the value of the options they face and have to decide whether to choose now or wait and acquire more information first. In an experiment, we find that participants deviate from optimal information acquisition in a systematic manner. They acquire too much information (when they should only collect little) or not enough (when they should collect a lot). We show that this pattern can be explained as naturally emerging from Fechner cognitive errors. Over time participants tend to learn to approximate the optimal strategy when information is relatively costly."
+  },
+  {
+    "paper_id": "eddd7607509a53eb13db2c27d61660826e727ade",
+    "title": "Testing Optimal Timing in Value-Linked Decision Making",
+    "year": 2019,
+    "author_ids": [
+      "3829715"
+    ],
+    "venue": "Computational Brain & Behavior",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "aab23ce7e1281e658d31eacc502fd23a09f53ac5",
+    "title": "A statistical test for the optimality of deliberative time allocation",
+    "year": 2019,
+    "author_ids": [
+      "3829715"
+    ],
+    "venue": "Psychonomic Bulletin & Review",
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "ef950c1282fa9079207fe70acc8ff7d4ed393360",
+    "title": "Random Choice and Learning",
+    "year": 2019,
+    "author_ids": [
+      "102717102"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 98,
+    "abstract": "Context-dependent individual choice challenges the principle of utility maximization. I explain context dependence as the optimal response of an imperfectly informed agent to the ease of comparison of the options. I introduce a discrete choice model, the Bayesian probit, which allows the analyst to identify stable preferences from context-dependent choice data. My model accommodates observed behavioral phenomena\u2014including the attraction and compromise effects\u2014that lie beyond the scope of any random utility model. I use data from frog mating choices to illustrate how the model can outperform the random utility framework in goodness of fit and out-of-sample prediction."
+  },
+  {
+    "paper_id": "0264dfb71acd33267299cc9dbb88621a6c8cfba6",
+    "title": "Time Will Tell: Recovering Preferences When Choices Are Noisy",
+    "year": 2018,
+    "author_ids": [
+      "1395595130",
+      "144327037",
+      "6504025"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 78,
+    "abstract": "When choice is stochastic, revealed preference analysis often relies on random utility models. However, it is impossible to infer preferences without assumptions on the distribution of utility noise. We show that this difficulty can be overcome by using response time data. A simple condition on response time distributions ensures that choices reveal preferences without distributional assumptions. Standard models from economics and psychology generate data fulfilling this condition. Sharper results are obtained under symmetric or Fechnerian noise, where response times allow uncovering preferences or predicting choice probabilities out of sample. Application of our tools is simple and generates remarkable prediction accuracy."
+  },
+  {
+    "paper_id": "c0f09b695309ee8512db490d2dd45cc9087963f6",
+    "title": "Cautious stochastic choice, optimal stopping and deliberate randomization",
+    "year": 2018,
+    "author_ids": [
+      "1832209",
+      "145205253",
+      "102591987"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 4,
+    "abstract": "We study cautious stochastic choice (CSC) agents facing optimal timing decisions in a dynamic setting. In an expected utility setting, the optimal strategy is always a threshold strategy\u2014to stop/sell the first time the price process exits an interval. In contrast, we show that in the CSC setting, where the agent has a family of utility functions and is concerned with the worst case certainty equivalent, the optimal strategy may be of non-threshold form and may involve randomization. We provide some carefully constructed examples, including one where we can solve explicitly for the optimal stopping rule and show it is a non-trivial mixture of threshold strategies. Our model is consistent with recent experimental evidence in dynamic setups whereby individuals do not play cut-off or threshold strategies."
+  },
+  {
+    "paper_id": "dd440f1c396d0f5fb51c9222fed65932d69806f9",
+    "title": "Regulation with Experimentation: Ex Ante Approval, Ex Post Withdrawal, and Liability",
+    "year": 2018,
+    "author_ids": [
+      "27027161",
+      "134425242",
+      "143846702"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 9,
+    "abstract": "We analyze the optimal mix of ex ante experimentation and ex post learning for the dynamic adoption of activities with uncertain payoffs in a two-phase model of information diffusion. In a first preintroduction phase, costly experimentation is undertaken to decide whether to adopt an activity or abandon experimentation. In a second stage following adoption, learning can continue possibly at a different pace while the activity remains in place; the withdrawal option is exercised following the accumulation of sufficiently bad news. We compare from a law and economics perspective the performance of three regulatory frameworks commonly adopted to govern private experimentation and adoption incentives: liability, withdrawal, and authorization regulation. Liability should be preempted to avoid chilling of activities that generate large positive externalities consistent with the preemption doctrine. Liability should be used to discourage excessive experimentation for activities that generate small positive externalities. Authorization regulation should be lenient whenever it is used consistent with the organization of regulation in a number of areas, ranging from product safety to antitrust. This paper was accepted by Joshua Gans, business strategy."
+  },
+  {
+    "paper_id": "e9556e4249bf0f4420102fb41f7398b076bf86b2",
+    "title": "Information Acquisition and Time-Risk Preference",
+    "year": 2018,
+    "author_ids": [
+      "2113598359",
+      "8384764"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 1,
+    "abstract": "An agent acquires information dynamically until her belief about a binary state reaches an upper or lower threshold. She can choose any signal process subject to a constraint on the rate of entropy reduction. Strategies are ordered by \u201ctime risk\u201d\u2014the dispersion of the distribution of threshold-hitting times. We construct a strategy maximizing time risk (Greedy Exploitation) and one minimizing it (Pure Accumulation). Under either, beliefs follow a compensated Poisson process. In the former, beliefs jump to the threshold closer in Bregman divergence. In the latter, beliefs jump to the unique point with the same entropy as the current belief. (JEL D81, D82, D83)"
+  },
+  {
+    "paper_id": "6d35fa8de30cd60863981044d8d6c9c22c449d96",
+    "title": "No Time to Think: Food Decision-Making under Time Pressure",
+    "year": 2018,
+    "author_ids": [
+      "51292448",
+      "2815114",
+      "12210542"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "521b5da22c53f869410cbd16e648130c0b0d89cd",
+    "title": "Behavioral Inattention",
+    "year": 2017,
+    "author_ids": [
+      "3465180"
+    ],
+    "venue": "Handbook of Behavioral Economics - Foundations and Applications 2",
+    "citation_count": 358,
+    "abstract": "Inattention is a central, unifying theme for much of behavioral economics. It permeates such disparate fields as microeconomics, macroeconomics, finance, public economics, and industrial organization. It enables us to think in a rather consistent way about behavioral biases, speculate about their origins, and trace out their implications for market outcomes.This survey first discusses the most basic models of attention, using a fairly unified framework. Then, it discusses the methods used to measure attention, which present a number of challenges on which a great deal of progress has been achieved, although much more work needs to be done. It then examines the various theories of attention, both behavioral and more Bayesian. It finally discusses some applications. For instance, inattention offers a way to write a behavioral version of basic microeconomics, as in consumer theory and Arrow-Debreu. A last section is devoted to open questions in the attention literature.This chapter is a pedagogical guide to the literature on attention. Derivations are self-contained. <br><br>Institutional subscribers to the NBER working paper series, and residents of developing countries may download this paper without additional charge at <a href=\"http://www.nber.org/papers/&#119;24096\" TARGET=\"_blank\">www.nber.org</a>.<br>"
+  },
+  {
+    "paper_id": "22706c149ba127721ff08dc7c426c43ce8dc1b87",
+    "title": "Decision by sampling implements efficient coding of psychoeconomic functions",
+    "year": 2017,
+    "author_ids": [
+      "3829715",
+      "1831199"
+    ],
+    "venue": "bioRxiv",
+    "citation_count": 76,
+    "abstract": "The theory of decision by sampling (DbS) proposes that an attribute\u2019s subjective value is its rank within a sample of attribute values retrieved from memory. This can account for instances of context dependence beyond the reach of classic theories which assume stable preferences. In this paper, we provide a normative justification for DbS that is based on the principle of efficient coding. The efficient representation of information in a noiseless communication channel is characterized by a uniform response distribution, which the rank transformation implements. However, cognitive limitations imply that decision samples are finite, introducing noise. Efficient coding in a noisy channel requires smoothing of the signal, a principle that leads to a new generalization of DbS. This generalization is closely connected to range-frequency theory, and helps descriptively account for a wider set of behavioral observations, such as how context sensitivity varies with the number of available response categories."
+  },
+  {
+    "paper_id": "652cb501c3252aa392e57d9b5a2ef68c3b95a807",
+    "title": "Strategic Complexity and the Value of Thinking",
+    "year": 2017,
+    "author_ids": [
+      "50625260",
+      "2412316754",
+      "2412316754"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 9,
+    "abstract": "\n We leverage response-time data from repeated strategic interactions to measure the strategic complexity of a situation by how long people think on average when they face that situation (where we categorize situations according to characteristics of play in the previous round). We find that strategic complexity varies significantly across situations, and we find considerable heterogeneity in how responsive subjects\u2019 thinking times are to complexity. We also study how variation in response times at the individual level affects success: when a subject thinks for longer than she would normally do in a particular situation, she wins less frequently and earns less."
+  },
+  {
+    "paper_id": "5ab6cc1c2af496f5ce2c65b71ba92a011701fc14",
+    "title": "Optimal Learning Under Robustness and Time-Consistency",
+    "year": 2017,
+    "author_ids": [
+      "18663548",
+      "3268643"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 12,
+    "abstract": "In many situations, decisions under uncertainty are made with incomplete confidence about the probability law describing the environment (model uncertainty, or ambiguity), but with the opportunity ..."
+  },
+  {
+    "paper_id": "df3f32c67d918dd69803d47d80c8e2cecb484c1d",
+    "title": "Optimal Learning under Robustness and Time-Consistency",
+    "year": 2017,
+    "author_ids": [
+      "18663548",
+      "3268643"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "We model learning in a continuous-time Brownian setting where there is prior ambiguity. The associated model of preference values robustness and is time-consistent. It is applied to study optimal learning when the choice between actions can be postponed, at a per-unit-time cost, in order to observe a signal that provides information about an unknown parameter. The corresponding optimal stopping problem is solved in closed-form, with a focus on two specific settings: Ellsberg's two-urn thought experiment expanded to allow learning before the choice of bets, and a robust version of the classical problem of sequential testing of two simple hypotheses about the unknown drift of a Wiener process. In both cases, the link between robustness and the demand for learning is studied."
+  },
+  {
+    "paper_id": "7779649b27a0c0c836136723a1d962d36481be86",
+    "title": "Information Acquisition with Uncertain Signal Structure",
+    "year": 2025,
+    "author_ids": [
+      "2380891970"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1223d867c2a83bd09d7a47670aad7fa9efebcba0",
+    "title": "Fostering collaboration",
+    "year": 2025,
+    "author_ids": [
+      "2295159644",
+      "2393327815",
+      "116981247"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 0,
+    "abstract": "We study project selection and development by a principal, interacting with two agents, each of whom wants his respective project selected. When the best choice is uncertain, keeping both projects alive gives the principal the ability to adapt her choice in the future, but implies an efficiency loss of effort being spent on the project finally not chosen. We show that a time\u2010varying threshold rule is uniquely optimal: the principal selects the first project to achieve a sufficient lead. The optimum entails initial competition, always followed by permanent collaboration. Our proof uses martingale time\u2010change methods that apply weak solutions."
+  },
+  {
+    "paper_id": "02d93f665709b23a3811463dda3cc8a05f5e3416",
+    "title": "Human-AI Interaction in Congested Service Systems: When It Improves Performance, and When It Doesn't",
+    "year": 2025,
+    "author_ids": [
+      "2344681792",
+      "1398289449"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "2855bd5041a6be054aeef299dcc09c7dbc499b9c",
+    "title": "On the complexity of forming mental models",
+    "year": 2024,
+    "author_ids": [
+      "49247607",
+      "2281259633"
+    ],
+    "venue": "Quantitative Economics",
+    "citation_count": 9,
+    "abstract": "We experimentally study how people form predictive models of simple data generating processes (DGPs), by showing subjects data sets and asking them to predict future outputs. We find that subjects: (i) often fail to predict in this task, indicating a failure to form a model, (ii) often cannot explicitly describe the model they have formed even when successful, and (iii) tend to be attracted to the same, simple models when multiple models fit the data. Examining a number of formal complexity metrics, we find that all three patterns are well organized by metrics suggested by Lipman (1995) and Gabaix (2014) that describe the information processing required to deploy models in prediction."
+  },
+  {
+    "paper_id": "662a9b0094d98fb9f208727a4ab15f5fa5bab731",
+    "title": "Sequential Sampling Beyond Decisions? A Normative Model of Decision Confidence",
+    "year": 2023,
+    "author_ids": [
+      "2137361962"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study informational dissociations between decisions and decision con\ufb01dence. We explore the consequences of a dual-system model: the decision system and con\ufb01dence system have distinct goals, but share access to a source of noisy and costly information about a decision-relevant variable. The decision system aims to maximize utility while the con\ufb01dence system monitors the decision system and aims to provide good feedback about the correctness of the decision. In line with existing experimental evidence showing the importance of post-decisional information in con\ufb01dence formation, we allow the con\ufb01dence system to accumulate information after the decision. We aim to base the post-decisional stage (used in descriptive models of con\ufb01dence) in the optimal learning theory. However, we \ufb01nd that it is not always optimal to engage in the second stage, even for a given individual in a given decision environment. In particular, there is scope for post-decisional information acquisition only for relatively fast decisions. Hence, a strict distinction between one-stage and two-stage theories of decision con\ufb01dence may be misleading because both may manifest themselves under one underlying mechanism in a non-trivial manner."
+  },
+  {
+    "paper_id": "c5ca3e8f076ea2e2530271c94b19d0b8127aeb2a",
+    "title": "Choice Deferral and Search Fatigue\u2217",
+    "year": 2023,
+    "author_ids": [
+      "1975237"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c009cea0984806a7fd445fe9319820e83235ac54",
+    "title": "ESSAYS ON CONSTRAINED INFORMATION ACQUISITION",
+    "year": 2023,
+    "author_ids": [
+      "2099415634"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "15ab5afd808973d71be7e8ce29af9de20d06cd45",
+    "title": "Searching for \u201c Arms \u201d : Experimentation with Endogenous Consideration Sets \u2217",
+    "year": 2023,
+    "author_ids": [
+      "122179361",
+      "2291044039",
+      "2356522358",
+      "102864066",
+      "2258718770",
+      "2257249654",
+      "2862914",
+      "2275996882",
+      "1873219",
+      "2291202522",
+      "2079493",
+      "2271451477",
+      "2261117804",
+      "2261834843",
+      "2271254789",
+      "2237906547",
+      "2255936993",
+      "2270366861",
+      "2291043185",
+      "2971545",
+      "119143253",
+      "2245477714",
+      "46406983",
+      "2503903",
+      "2275989880"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e68fb731c499be40d4aeee29e72c19de008cf68d",
+    "title": "Feasible Joint Distributions over Actions and Stopping Times",
+    "year": 2023,
+    "author_ids": [
+      "2265288476",
+      "2029892445"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3d6abeb0c4d7d0dbaa0b9b765b3a7db94020a824",
+    "title": "Optimal Dynamic Information Acquisition",
+    "year": 2022,
+    "author_ids": [
+      "8384764"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 47,
+    "abstract": "I study a dynamic model in which a decision\u2010maker (DM) acquires information about the payoffs of different alternatives prior to making a decision. The model's key feature is the flexibility of information: the DM can choose any dynamic signal process as an information source, subject to a flow cost that depends on the informativeness of the signal. Under the optimal policy, the DM acquires a signal that arrives according to a \n Poisson process. The optimal Poisson signal confirms the DM's prior belief and is sufficiently precise to warrant immediate action. Over time, given the absence of the arrival of a Poisson signal, the DM continues seeking an increasingly precise but less frequent Poisson signal.\n"
+  },
+  {
+    "paper_id": "1f49390fcd3f32e60cd86e5b1dba586a87721d4d",
+    "title": "Experimentation and Approval Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "143690237"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 25,
+    "abstract": "We study the design of approval rules when costly experimentation must be delegated to an agent with misaligned preferences. When the agent has the option to end experimentation, we show that in contrast to standard stopping problems, the optimal approval rule must be history\u2010dependent. We characterize the optimal rule and show the approval threshold moves downward over the course of experimentation. We find that private information may qualitatively change the optimal mechanism: an agent can choose a fast\u2010track option in the form of an initially depressed approval threshold. On expiry of the fast track, the threshold jumps up, introducing more stringent standards. Our results provide a theoretical foundation for both the loosening of approval standards on longer experimentation paths and fast\u2010track mechanisms."
+  },
+  {
+    "paper_id": "619a9021f408829358d0263b32624a60173b8f7b",
+    "title": "Sequential choice and self-reinforcing rankings",
+    "year": 2022,
+    "author_ids": [
+      "2137006",
+      "119192452",
+      "2621084",
+      "2540641",
+      "2267481202",
+      "72927209",
+      "2245851597",
+      "2306696926",
+      "2260850007",
+      "1907958",
+      "2237223150",
+      "2274847851",
+      "48725539",
+      "2261470112"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "7a9f2fa1fad809f350d611c6b7fdabd79940c081",
+    "title": "On the Optimal Scheduling of Attention",
+    "year": 2022,
+    "author_ids": [
+      "1873219",
+      "122179361",
+      "3472592"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "25c0b5baf2ef6bdf7cc528a5691d84ebe10099f5",
+    "title": "Using Eye-Tracking Techniques to Understand the Role of Attention on Choice and Reversals",
+    "year": 2021,
+    "author_ids": [
+      "145449728",
+      "12133465"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "A preference reversal (PR) refers to behavior that violates revealed preference or is simply incoherent \u2013 i.e., not explainable by a rational ordering. In a classical PR experiment, for instance, participants often exhibit greater risk aversion in a Choice-based revelation procedure than in an Evaluation-based one, i.e., choose the safer of two gambles but express a higher monetary valuation for the riskier. We conjecture that PRs are partly due to the interaction between attention and task mode, and explore three compatible explanations using eye-tracking techniques. Explanation 1 says that difficult tasks require more time to be performed without \u2018mistakes\u2019. Those who pay scarcely more attention to Evaluation than Choice, therefore, are more likely to act incoherently. Our data corroborate such a prediction. Explanation 2 assumes that the subjective value of (i) a bet or (ii) any of its attributes (prize and winning probability) depends on the attention paid to it. PRs occur when people allocate attention to different elements across tasks. In line with recent models of drift-diffusion, we find evidence consistent with point (i): a higher focus on the safer bet during Choice predicts PRs. In contrast, little evidence supports the idea (ii) that the share of fixations on probabilities versus prizes influences behavior or PRs. Explanation 3, finally, states that the nature of the tasks may affect the comparisons people make between the options, which are relevant for behavior. For instance, the cognitive difficulty of pricing a bet in Evaluation could distract attention from the relative risk across bets, thus reducing risk aversion. In our design, both bets are visible on the computer screen in both tasks, and subjects make substantially more transitions between bets in Choice. Yet this is observed among all participants, not only the reversers."
+  },
+  {
+    "paper_id": "ce12c0602a030ec970333fd5740515dd4202abf9",
+    "title": "Limited Self-Knowledge and Survey Response Behavior",
+    "year": 2021,
+    "author_ids": [
+      "1953018",
+      "1394215051",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "IZA DP No. 14526 JULY 2021 Limited Self-Knowledge and Survey Response Behavior We study response behavior in surveys and show how the explanatory power of self-reports can be improved. First, we develop a choice model of survey response behavior under the assumption that the respondent has imperfect self-knowledge about her individual characteristics. In panel data, the model predicts that the variance in responses for different characteristics increases in self-knowledge and that the variance for a given characteristic over time is non-monotonic in self-knowledge. Importantly, the ratio of these variances identifies an individual\u2019s level of self-knowledge, i.e., the latter can be inferred from observed response patterns. Second, we develop a consistent and unbiased estimator for self-knowledge based on the model. Third, we run an experiment to test the model\u2019s main predictions in a context where the researcher knows the true underlying characteristics. The data confirm the model\u2019s predictions as well as the estimator\u2019s validity. Finally, we turn to a large panel data set, estimate individual levels of self-knowledge, and show that accounting for differences in self-knowledge significantly increases the explanatory power of regression models. Using a median split in self-knowledge and regressing risky behaviors on selfreported risk attitudes, we find that the R can be multiple times larger for abovethan below-median subjects. Similarly, gender differences in risk attitudes are considerably larger when restricting samples to subjects with high self-knowledge. These examples illustrate how using the estimator may improve inference from survey data. JEL Classification: C83, D83, C91, D91, J24"
+  },
+  {
+    "paper_id": "bd9be9f5f5f483417b01f0a4e8ba9b382c388159",
+    "title": "Response times in the wild: eBay sellers take hours longer to reject high offers and accept low offers",
+    "year": 2021,
+    "author_ids": [
+      "1396903329",
+      "2815114"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "40ef77d5c0340d9433aba67c2564eaa38ab7d9bc",
+    "title": "Curtailing Competition",
+    "year": 2021,
+    "author_ids": [
+      "2286339",
+      "104198254"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a453b1b0f5faae59e17918b8c76ad6e3c699789b",
+    "title": "Searching for \u201cArms\u201d: Experimentation with Endogenous Consideration Sets\u2217",
+    "year": 2021,
+    "author_ids": [
+      "2080086973"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "c2b6c7a234a9f75f280e62b4f80e285345265057",
+    "title": "PREDICTABLE EFFECTS OF VISUAL SALIENCE IN EXPERIMENTAL DECISIONS AND GAMES",
+    "year": 2021,
+    "author_ids": [
+      "2211151"
+    ],
+    "venue": null,
+    "citation_count": 29,
+    "abstract": null
+  },
+  {
+    "paper_id": "01e7be964faf6018914a27e5a91d10f1603b778e",
+    "title": "Evidence or Confidence : What Really Accumulates During a Decision ? 1",
+    "year": 2021,
+    "author_ids": [
+      "144968401",
+      "2237665514"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "8ad93a70290ee11324618d4cff731f65473fde78",
+    "title": "Categorizing Information Mistakes",
+    "year": 2020,
+    "author_ids": [
+      "112976719"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b5c090b29226123781b5875bdc947aee9855c81e",
+    "title": "Value Certainty in Drift-Diffusion Models of Preferential Choice 1",
+    "year": 2020,
+    "author_ids": [
+      "2245251387",
+      "2244815671"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e36c1a00cf8040906d3b017586f92f7deb0eeca5",
+    "title": "Combining Choices and Response Times in the Field: a Drift-Diffusion Model of Mobile Advertisements \u2217",
+    "year": 2019,
+    "author_ids": [
+      "81692561",
+      "46179057",
+      "145598074",
+      "2108279592"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "d90c5ba22d85a4499cfebd3075a34bbac218e067",
+    "title": "Theoretical and Econometric Models of Behavioural Decision-making: Limited Attention, Framing effects and Online Search",
+    "year": 2019,
+    "author_ids": [
+      "144270668"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1872f9dc7712ba353830a460668d33b038bd12c5",
+    "title": "Collective Search in Networks\u2217",
+    "year": 2019,
+    "author_ids": [
+      "123687670",
+      "46406983",
+      "1682807",
+      "46412716"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "28651063439ea434755056c21c6d57dd33086a70",
+    "title": "Efficient Coding and Risky Choice\u2217",
+    "year": 2019,
+    "author_ids": [
+      "34711724",
+      "2110085296"
+    ],
+    "venue": null,
+    "citation_count": 110,
+    "abstract": null
+  },
+  {
+    "paper_id": "c8274175394b9b937304ec599cb05d93f9060acf",
+    "title": "Behavioral and Brain Sciences (forthcoming)",
+    "year": 2019,
+    "author_ids": [
+      "4774202",
+      "7019942",
+      "2256690562"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "630c6860475f8efa6f8873cff22df164305cfb0f",
+    "title": "Beyond bounded rationality: Reverse-engineering and enhancing human intelligence",
+    "year": 2018,
+    "author_ids": [
+      "3202750"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "c91cf078c4944448c085397564789dce11e73835",
+    "title": "DIVISIBLE UPDATING",
+    "year": 2018,
+    "author_ids": [
+      "2053851"
+    ],
+    "venue": null,
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "c9986073624c7e73a6ff96fdf3f9499516b1e82d",
+    "title": "Approval Regulation, Withdrawal, and Liability\u2217",
+    "year": 2018,
+    "author_ids": [
+      "27027161",
+      "134425242",
+      "143846702"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e3e6d907deb8cbacac018cc60c524d79cb8ca1c8",
+    "title": "Split-second Decision-Making in the Field : Response Times in Mobile Advertising \u2217",
+    "year": 2018,
+    "author_ids": [
+      "81692561",
+      "145598074"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "de37d03a1b85cc622471b20ccebfdd77e1216471",
+    "title": "Using Response Times to Infer Others\u2019 Beliefs: An Application to Information Cascades",
+    "year": 2017,
+    "author_ids": [
+      "34711724",
+      "2815114"
+    ],
+    "venue": null,
+    "citation_count": 28,
+    "abstract": null
+  },
+  {
+    "paper_id": "b075154fb103cc8a27198e2009a5a7bbb12ea2a4",
+    "title": "Myopia and Discounting \u2217",
+    "year": 2017,
+    "author_ids": [
+      "3465180",
+      "3467819"
+    ],
+    "venue": null,
+    "citation_count": 118,
+    "abstract": null
+  },
+  {
+    "paper_id": "89d711778d832d3312db25f7eae9297b9acd623e",
+    "title": "A Appendix: Further Derivations and Mathematical Complements",
+    "year": 2017,
+    "author_ids": [],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cd8ddf61b6c7996c65c527a48e9735e26c07f0e1",
+    "title": "Optimal Sequential Decision with Limited Attention\u2217",
+    "year": 2016,
+    "author_ids": [
+      "143947522",
+      "1936394"
+    ],
+    "venue": null,
+    "citation_count": 33,
+    "abstract": null
+  }
+]

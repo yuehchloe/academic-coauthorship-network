@@ -1,0 +1,1821 @@
+[
+  {
+    "paper_id": "47b96d757ed9601b273894902d3ee64a10037be1",
+    "title": "Qini Curves for Multi-Armed Treatment Rules",
+    "year": 2023,
+    "author_ids": [
+      "1517881123",
+      "2112254229",
+      "2631417",
+      "3160667"
+    ],
+    "venue": "Journal of Computational And Graphical Statistics",
+    "citation_count": 10,
+    "abstract": "Abstract Qini curves have emerged as an attractive and popular approach for evaluating the benefit of data-driven targeting rules for treatment allocation. We propose a generalization of the Qini curve to multiple costly treatment arms that quantifies the value of optimally selecting among both units and treatment arms at different budget levels. We develop an efficient algorithm for computing these curves and propose bootstrap-based confidence intervals that are exact in large samples for any point on the curve. These confidence intervals can be used to conduct hypothesis tests comparing the value of treatment targeting using an optimal combination of arms with using just a subset of arms, or with a non-targeting assignment rule ignoring covariates, at different budget levels. We demonstrate the statistical performance in a simulation experiment and an application to treatment targeting for election turnout."
+  },
+  {
+    "paper_id": "595f9717ab23f9166e33716d8dccf596f2dbed4a",
+    "title": "Federated Offline Policy Learning",
+    "year": 2023,
+    "author_ids": [
+      "51450897",
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We consider the problem of learning personalized decision policies from observational bandit feedback data across multiple heterogeneous data sources. In our approach, we introduce a novel regret analysis that establishes finite-sample upper bounds on distinguishing notions of global regret for all data sources on aggregate and of local regret for any given data source. We characterize these regret bounds by expressions of source heterogeneity and distribution shift. Moreover, we examine the practical considerations of this problem in the federated setting where a central server aims to train a policy on data distributed across the heterogeneous sources without collecting any of their raw data. We present a policy learning algorithm amenable to federation based on the aggregation of local policies trained with doubly robust offline policy evaluation strategies. Our analysis and supporting experimental results provide insights into tradeoffs in the participation of heterogeneous data sources in offline policy learning."
+  },
+  {
+    "paper_id": "5bad555d32b80cdf791c3ab564d597660eed4cdc",
+    "title": "Synthetic Difference-in-Differences Estimation",
+    "year": 2023,
+    "author_ids": [
+      "48285910",
+      "2123200637",
+      "2631417",
+      "47166531"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 68,
+    "abstract": "In this paper, we describe a computational implementation of the Synthetic difference-in-differences (SDID) estimator of Arkhangelsky et al. (2021) for Stata. Synthetic difference-in-differences can be used in a wide class of circumstances where treatment effects on some particular policy or event are desired, and repeated observations on treated and untreated units are available over time. We lay out the theory underlying SDID, both when there is a single treatment adoption date and when adoption is staggered over time, and discuss estimation and inference in each of these cases. We introduce the sdid command which implements these methods in Stata, and provide a number of examples of use, discussing estimation, inference, and visualization of results."
+  },
+  {
+    "paper_id": "958f9b76d242acfcccafa2b36947edaf0716cf83",
+    "title": "Torch-Choice: A PyTorch Package for Large-Scale Choice Modelling with Python",
+    "year": 2023,
+    "author_ids": [
+      "2056897605",
+      "2661277",
+      "2631417"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "The $\\texttt{torch-choice}$ is an open-source library for flexible, fast choice modeling with Python and PyTorch. $\\texttt{torch-choice}$ provides a $\\texttt{ChoiceDataset}$ data structure to manage databases flexibly and memory-efficiently. The paper demonstrates constructing a $\\texttt{ChoiceDataset}$ from databases of various formats and functionalities of $\\texttt{ChoiceDataset}$. The package implements two widely used models, namely the multinomial logit and nested logit models, and supports regularization during model estimation. The package incorporates the option to take advantage of GPUs for estimation, allowing it to scale to massive datasets while being computationally efficient. Models can be initialized using either R-style formula strings or Python dictionaries. We conclude with a comparison of the computational efficiencies of $\\texttt{torch-choice}$ and $\\texttt{mlogit}$ in R as (1) the number of observations increases, (2) the number of covariates increases, and (3) the expansion of item sets. Finally, we demonstrate the scalability of $\\texttt{torch-choice}$ on large-scale datasets."
+  },
+  {
+    "paper_id": "e5bfbad37b68da6835d8eaa50edddb9a241bb657",
+    "title": "Proportional Response: Contextual Bandits for Simple and Cumulative Regret Minimization",
+    "year": 2023,
+    "author_ids": [
+      "47318645",
+      "2088873890",
+      "2631417",
+      "2563117"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 11,
+    "abstract": "Simple regret minimization is a critical problem in learning optimal treatment assignment policies across various domains, including healthcare and e-commerce. However, it remains understudied in the contextual bandit setting. We propose a new family of computationally efficient bandit algorithms for the stochastic contextual bandit settings, with the flexibility to be adapted for cumulative regret minimization (with near-optimal minimax guarantees) and simple regret minimization (with SOTA guarantees). Furthermore, our algorithms adapt to model misspecification and extend to the continuous arm settings. These advantages come from constructing and relying on\"conformal arm sets\"(CASs), which provide a set of arms at every context that encompass the context-specific optimal arm with some probability across the context distribution. Our positive results on simple and cumulative regret guarantees are contrasted by a negative result, which shows that an algorithm can't achieve instance-dependent simple regret guarantees while simultaneously achieving minimax optimal cumulative regret guarantees."
+  },
+  {
+    "paper_id": "f16ed468fcf197f10435673d5a77856e7332eca6",
+    "title": "Machine-learning-based high-benefit approach versus conventional high-risk approach in blood pressure management",
+    "year": 2023,
+    "author_ids": [
+      "2148436161",
+      "2631417",
+      "3804107"
+    ],
+    "venue": "International Journal of Epidemiology",
+    "citation_count": 42,
+    "abstract": "Abstract Background In medicine, clinicians treat individuals under an implicit assumption that high-risk patients would benefit most from the treatment (\u2018high-risk approach\u2019). However, treating individuals with the highest estimated benefit using a novel machine-learning method (\u2018high-benefit approach\u2019) may improve population health outcomes. Methods This study included 10\u200a672 participants who were randomized to systolic blood pressure (SBP) target of either <120 mmHg (intensive treatment) or <140 mmHg (standard treatment) from two randomized controlled trials (Systolic Blood Pressure Intervention Trial, and Action to Control Cardiovascular Risk in Diabetes Blood Pressure). We applied the machine-learning causal forest to develop a prediction model of individualized treatment effect (ITE) of intensive SBP control on the reduction in cardiovascular outcomes at 3 years. We then compared the performance of high-benefit approach (treating individuals with ITE\u2009>0) versus the high-risk approach (treating individuals with SBP\u2009\u2265130\u2009mmHg). Using transportability formula, we also estimated the effect of these approaches among 14\u200a575 US adults from National Health and Nutrition Examination Surveys (NHANES) 1999\u20132018. Results We found that 78.9% of individuals with SBP \u2265130\u2009mmHg benefited from the intensive SBP control. The high-benefit approach outperformed the high-risk approach [average treatment effect (95% CI), +9.36 (8.33\u201310.44) vs +1.65 (0.36\u20132.84) percentage point; difference between these two approaches, +7.71 (6.79\u20138.67) percentage points, P-value\u2009<0.001]. The results were consistent when we transported the results to the NHANES data. Conclusions The machine-learning-based high-benefit approach outperformed the high-risk approach with a larger treatment effect. These findings indicate that the high-benefit approach has the potential to maximize the effectiveness of treatment rather than the conventional high-risk approach, which needs to be validated in future research."
+  },
+  {
+    "paper_id": "06e088a66641e7ed2362482a44a692c458e74042",
+    "title": "Smiles in Profiles: Improving Fairness and Efficiency Using Estimates of User Preferences in Online Marketplaces",
+    "year": 2022,
+    "author_ids": [
+      "2631417",
+      "3019739",
+      "2083101971",
+      "34567611"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "Online platforms often face challenges being both fair (i.e., non-discriminatory) and efficient (i.e., maximizing revenue). Using computer vision algorithms and observational data from a microlending marketplace, we find that choices made by borrowers creating online profiles impact both of these objectives. We further support this conclusion with a web-based randomized survey experiment. In the experiment, we create profile images using Generative Adversarial Networks that differ in a specific feature and estimate it\u2019s impact on lender demand. We then counterfactually evaluate alternative platform policies and identify particular approaches to influencing the changeable profile photo features that can ameliorate the fairness-efficiency tension. JEL Classification: J710, L1, C9"
+  },
+  {
+    "paper_id": "506a4dd536580cf4a5e92afff1949eb5df1ebe1f",
+    "title": "Flexible and Efficient Contextual Bandits with Heterogeneous Treatment Effect Oracle",
+    "year": 2022,
+    "author_ids": [
+      "51450897",
+      "47318645",
+      "2631417"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citation_count": 1,
+    "abstract": "Contextual bandit algorithms often estimate reward models to inform decision-making. However, true rewards can contain action-independent redundancies that are not relevant for decision-making. We show it is more data-efficient to estimate any function that explains the reward differences between actions, that is, the treatment effects. Motivated by this observation, building on recent work on oracle-based bandit algorithms, we provide the first reduction of contextual bandits to general-purpose heterogeneous treatment effect estimation, and we design a simple and computationally efficient algorithm based on this reduction. Our theoretical and experimental results demonstrate that heterogeneous treatment effect estimation in contextual bandits offers practical advantages over reward estimation, including more efficient model estimation and greater flexibility to model misspecification."
+  },
+  {
+    "paper_id": "57ceadbb37da24ce24b3ab8ff826ddcae717c0e2",
+    "title": "Learning Transferrable Representations of Career Trajectories for Economic Prediction",
+    "year": 2022,
+    "author_ids": [
+      "70025184",
+      "2083101971",
+      "2661277",
+      "2631417",
+      "1796335"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "6325d9a0bb710687e12241a47d4df0eadc6a6d9d",
+    "title": "CAREER: A Foundation Model for Labor Sequence Data",
+    "year": 2022,
+    "author_ids": [
+      "70025184",
+      "2083101971",
+      "2661277",
+      "2631417",
+      "1796335"
+    ],
+    "venue": "Trans. Mach. Learn. Res.",
+    "citation_count": 14,
+    "abstract": "Labor economists regularly analyze employment data by fitting predictive models to small, carefully constructed longitudinal survey datasets. Although machine learning methods offer promise for such problems, these survey datasets are too small to take advantage of them. In recent years large datasets of online resumes have also become available, providing data about the career trajectories of millions of individuals. However, standard econometric models cannot take advantage of their scale or incorporate them into the analysis of survey data. To this end we develop CAREER, a foundation model for job sequences. CAREER is first fit to large, passively-collected resume data and then fine-tuned to smaller, better-curated datasets for economic inferences. We fit CAREER to a dataset of 24 million job sequences from resumes, and adjust it on small longitudinal survey datasets. We find that CAREER forms accurate predictions of job sequences, outperforming econometric baselines on three widely-used economics datasets. We further find that CAREER can be used to form good predictions of other downstream variables. For example, incorporating CAREER into a wage model provides better predictions than the econometric models currently in use."
+  },
+  {
+    "paper_id": "7398285e8341cddc71030894b7248d12a7164d56",
+    "title": "Personalized Recommendations in EdTech: Evidence from a Randomized Controlled Trial",
+    "year": 2022,
+    "author_ids": [
+      "2183356024",
+      "2631417",
+      "2661277",
+      "2083101971"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": "We study the impact of personalized content recommendations on the usage of an educational app for children. In a randomized controlled trial, we show that the introduction of personalized recommendations increases the consumption of content in the personalized section of the app by approximately 60%. We further show that the overall app usage increases by 14%, compared to the baseline system where human content editors select stories for all students at a given grade level. The magnitude of individual gains from personalized content increases with the amount of data available about a student and with preferences for niche content: heavy users with long histories of content interactions who prefer niche content benefit more than infrequent, newer users who like popular content. To facilitate the move to personalized recommendation systems from a simpler system, we describe how we make important design decisions, such as comparing alternative models using offline metrics and choosing the right target audience."
+  },
+  {
+    "paper_id": "782a0fd26b0197ae956cdaa3ab28efa3e39a250f",
+    "title": "Expanding Capacity for Vaccines Against Covid-19 and Future Pandemics: A Review of Economic Issues",
+    "year": 2022,
+    "author_ids": [
+      "2631417",
+      "2151113397",
+      "2392136979",
+      "2137180145",
+      "2175281136",
+      "49407444"
+    ],
+    "venue": "Oxford review of economic policy",
+    "citation_count": 18,
+    "abstract": "\n We review economic arguments for using public policy to accelerate vaccine supply during a pandemic. Rapidly vaccinating a large share of the global population helps avoid economic, mortality, and social losses, which in the case of Covid-19 mounted into trillions of dollars. However, pharmaceutical firms are unlikely to have private incentives to invest in vaccine capacity at the socially optimal scale and speed. The socially optimal level of public spending may cause some sticker shock but\u2014as epitomized by the tagline \u2018spending billions to save trillions\u2019\u2014is eclipsed by the benefits and can be restrained with the help of careful policy design and advance preparations. Capacity is so valuable during a pandemic that fractional dosing and other measures to stretch available capacity should be explored."
+  },
+  {
+    "paper_id": "a8d76d84408c1fe6b1543084e6cec3dfc4ede429",
+    "title": "Stable learning establishes some common ground between causal inference and machine learning",
+    "year": 2022,
+    "author_ids": [
+      "2153522384",
+      "2631417"
+    ],
+    "venue": "Nature Machine Intelligence",
+    "citation_count": 202,
+    "abstract": null
+  },
+  {
+    "paper_id": "f18b58cc46b7cb751485087b1a2de1dd15fa3e11",
+    "title": "Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning",
+    "year": 2022,
+    "author_ids": [
+      "2631417",
+      "1394463468",
+      "1388505341",
+      "47318645",
+      "32568631",
+      "2118491700"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 16,
+    "abstract": "We design and implement an adaptive experiment (a \u201ccontextual bandit\u201d) to learn a targeted treatment assignment policy, where the goal is to use a participant\u2019s survey responses to determine which charity to expose them to in a donation solicitation. The design balances two competing objectives: optimizing the outcomes for the subjects in the experiment (\u201ccumulative regret minimization\u201d) and gathering data that will be most useful for policy learning, that is, for learning an assignment rule that will maximize welfare if used after the experiment (\u201csimple regret minimization\u201d). We evaluate alternative experimental designs by collecting pilot data and then conducting a simulation study. Next, we implement our selected algorithm. Finally, we perform a second simulation study anchored to the collected data that evaluates the benefits of the algorithm we chose. Our first result is that the value of a learned policy in this setting is higher when data is collected via a uniform randomization rather than collected adaptively using standard cumulative regret minimization or policy learning algorithms. We propose a simple heuristic for adaptive experimentation that improves upon uniform randomization from the perspective of policy learning at the expense of increasing cumulative regret relative to alternative bandit algorithms. The heuristic modifies an existing contextual bandit algorithm by (i) imposing a lower bound on assignment probabilities that decay slowly so that no arm is discarded too quickly, and (ii) after adaptively collecting data, restricting policy learning to select from arms where sufficient data has been gathered. \u2217Authors are listed in alphabetical order. We are grateful for the generous financial support provided by the Sloan Foundation, the Golub Capital Social Impact Lab at Stanford Graduate School of Business, and the Office of Naval Research grant N00014-19-1-2468. Molly Offer-Westort and Imanol Ibarra provided excellent advice and research assistance on this or earlier versions of the project. Athey: Stanford Graduate School of Business. Byambadalai: Stanford Graduate School of Business. Hadad: Amazon. Krishnamurthy: Stanford Management Science and Engineering. Weiwen Leung: Coupang. Joseph Jay Williams: University of Toronto Computer Science. 1 ar X iv :2 21 1. 12 00 4v 1 [ ec on .E M ] 2 2 N ov 2 02 2"
+  },
+  {
+    "paper_id": "16cd0cadc4a757d85da6bd72992f6fb75a685ac7",
+    "title": "Integrating explanation and prediction in computational social science",
+    "year": 2021,
+    "author_ids": [
+      "40368603",
+      "1783914",
+      "2631417",
+      "4347244",
+      "1799860",
+      "3371403",
+      "1791413",
+      "2062143",
+      "1925509",
+      "2809726",
+      "80273596",
+      "2075675"
+    ],
+    "venue": "Nature",
+    "citation_count": 286,
+    "abstract": null
+  },
+  {
+    "paper_id": "27e46dfcfbcce75660b39462cccff62328d0ede5",
+    "title": "The Impact of Aggregators on Internet News Consumption",
+    "year": 2021,
+    "author_ids": [
+      "2631417",
+      "2412109870",
+      "103246724"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 75,
+    "abstract": "A policy debate centers around the question whether news aggregators such as Google News decrease or increase traffic to online news sites. One side of the debate, typically espoused by publishers, views aggregators as substitutes for traditional news consumption because aggregators\u2019 landing pages provide snippets of news stories and therefore reduce the incentive to click on the linked articles. Defendants of aggregators, on the other hand, view aggregators as complements because they make it easier to discover news and therefore drive traffic to publishers. This debate has received particular attention in the European Union where two countries, Germany and Spain, enacted copyright reforms that allow newspapers to charge aggregators for linking to news snippets. In this paper, we use Spain as a natural experiment because Google News shut down all together in response to the reform in December 2014. We compare the news consumption of a large number of Google News users with a synthetic control group of similar non-Google News users. We find that the shutdown of Google News reduces overall news consumption by about 20% for treatment users, and it reduces page views on publishers other than Google News by 10%. This decrease is concentrated around small publishers while large publishers do not see significant changes in their overall traffic. We further find that when Google News shuts down, its users are able to replace some but not all of the types of news they previously read. Post-shutdown, they read less breaking news, hard news, and news that is not well covered on their favorite news publishers. These news categories explain most of the overall reduction in news consumption, and shed light on the mechanisms through which aggregators interact with traditional publishers."
+  },
+  {
+    "paper_id": "29626da4b00b7eae0b7a149170caa69e8107284b",
+    "title": "Federated causal inference in heterogeneous observational data",
+    "year": 2021,
+    "author_ids": [
+      "50824401",
+      "101883616",
+      "2056987231",
+      "153099102",
+      "1717958",
+      "2631417"
+    ],
+    "venue": "Statistics in Medicine",
+    "citation_count": 64,
+    "abstract": "We are interested in estimating the effect of a treatment applied to individuals at multiple sites, where data is stored locally for each site. Due to privacy constraints, individual\u2010level data cannot be shared across sites; the sites may also have heterogeneous populations and treatment assignment mechanisms. Motivated by these considerations, we develop federated methods to draw inferences on the average treatment effects of combined data across sites. Our methods first compute summary statistics locally using propensity scores and then aggregate these statistics across sites to obtain point and variance estimators of average treatment effects. We show that these estimators are consistent and asymptotically normal. To achieve these asymptotic properties, we find that the aggregation schemes need to account for the heterogeneity in treatment assignments and in outcomes across sites. We demonstrate the validity of our federated methods through a comparative study of two large medical claims databases."
+  },
+  {
+    "paper_id": "626a63cc942b126a1643d47d0c87fef46bd599bd",
+    "title": "Association of \u03b11-Blocker Receipt With 30-Day Mortality and Risk of Intensive Care Unit Admission Among Adults Hospitalized With Influenza or Pneumonia in Denmark",
+    "year": 2021,
+    "author_ids": [
+      "1921089",
+      "2936398",
+      "1398654578",
+      "1717958",
+      "1965563",
+      "46369801",
+      "2369333898",
+      "2631417",
+      "34432960"
+    ],
+    "venue": "JAMA Network Open",
+    "citation_count": 15,
+    "abstract": "Key Points Question Is the receipt of \u03b11\u2013adrenergic receptor blocking agents (\u03b11-blockers) associated with protective benefits against adverse outcomes, such as mortality and intensive care unit admission, among adult patients with severe respiratory tract infections? Findings In this cohort study of 528\u2009467 Danish adults hospitalized with influenza or pneumonia, current receipt of \u03b11-blockers was associated with a 14% reduction in the relative risk of 30-day mortality. Meaning This study\u2019s findings suggest that the receipt of \u03b11-blockers may have a clinically relevant association with protective benefits against adverse outcomes among patients with severe respiratory tract infections."
+  },
+  {
+    "paper_id": "65742fffe1e690d0d2d593fb4d0f1812de288d87",
+    "title": "Off-Policy Evaluation via Adaptive Weighting with Data from Contextual Bandits",
+    "year": 2021,
+    "author_ids": [
+      "2088873890",
+      "1388505341",
+      "2466171",
+      "2631417"
+    ],
+    "venue": "Knowledge Discovery and Data Mining",
+    "citation_count": 75,
+    "abstract": "It has become increasingly common for data to be collected adaptively, for example using contextual bandits. Historical data of this type can be used to evaluate other treatment assignment policies to guide future innovation or experiments. However, policy evaluation is challenging if the target policy differs from the one used to collect data, and popular estimators, including doubly robust (DR) estimators, can be plagued by bias, excessive variance, or both. In particular, when the pattern of treatment assignment in the collected data looks little like the pattern generated by the policy to be evaluated, the importance weights used in DR estimators explode, leading to excessive variance. In this paper, we improve the DR estimator by adaptively weighting observations to control its variance. We show that a t-statistic based on our improved estimator is asymptotically normal under certain conditions, allowing us to form confidence intervals and test hypotheses. Using synthetic data and public benchmarks, we provide empirical evidence for our estimator's improved accuracy and inferential properties relative to existing alternatives."
+  },
+  {
+    "paper_id": "68d31060d13da8e16693f8394dd19a165454c160",
+    "title": "The Association Between Alpha-1 Adrenergic Receptor Antagonists and In-Hospital Mortality From COVID-19",
+    "year": 2021,
+    "author_ids": [
+      "145246513",
+      "2055287478",
+      "101883616",
+      "2056987231",
+      "50824401",
+      "153099102",
+      "2061371457",
+      "144152687",
+      "46369801",
+      "1965563",
+      "2631417",
+      "1717958",
+      "6923209",
+      "25386885"
+    ],
+    "venue": "Frontiers in Medicine",
+    "citation_count": 16,
+    "abstract": "Effective therapies for coronavirus disease 2019 (COVID-19) are urgently needed, and pre-clinical data suggest alpha-1 adrenergic receptor antagonists (\u03b11-AR antagonists) may be effective in reducing mortality related to hyperinflammation independent of etiology. Using a retrospective cohort design with patients in the Department of Veterans Affairs healthcare system, we use doubly robust regression and matching to estimate the association between baseline use of \u03b11-AR antagonists and likelihood of death due to COVID-19 during hospitalization. Having an active prescription for any \u03b11-AR antagonist (tamsulosin, silodosin, prazosin, terazosin, doxazosin, or alfuzosin) at the time of admission had a significant negative association with in-hospital mortality (relative risk reduction 18%; odds ratio 0.73; 95% CI 0.63\u20130.85; p \u2264 0.001) and death within 28 days of admission (relative risk reduction 17%; odds ratio 0.74; 95% CI 0.65\u20130.84; p \u2264 0.001). In a subset of patients on doxazosin specifically, an inhibitor of all three alpha-1 adrenergic receptors, we observed a relative risk reduction for death of 74% (odds ratio 0.23; 95% CI 0.03\u20130.94; p = 0.028) compared to matched controls not on any \u03b11-AR antagonist at the time of admission. These findings suggest that use of \u03b11-AR antagonists may reduce mortality in COVID-19, supporting the need for randomized, placebo-controlled clinical trials in patients with early symptomatic infection."
+  },
+  {
+    "paper_id": "6c4f209e2a378d3bc0b33bdb81906a6e6725e2f8",
+    "title": "Adapting to misspecification in contextual bandits with offline regression oracles",
+    "year": 2021,
+    "author_ids": [
+      "47318645",
+      "1388505341",
+      "2631417"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "citation_count": 27,
+    "abstract": "Computationally efficient contextual bandits are often based on estimating a predictive model of rewards given contexts and arms using past data. However, when the reward model is not well-specified, the bandit algorithm may incur unexpected regret, so recent work has focused on algorithms that are robust to misspecification. We propose a simple family of contextual bandit algorithms that adapt to misspecification error by reverting to a good safe policy when there is evidence that misspecification is causing a regret increase. Our algorithm requires only an offline regression oracle to ensure regret guarantees that gracefully degrade in terms of a measure of the average misspecification level. Compared to prior work, we attain similar regret guarantees, but we do no rely on a master algorithm, and do not require more robust oracles like online or constrained regression oracles (e.g., Foster et al. (2020a); Krishnamurthy et al. (2020)). This allows us to design algorithms for more general function approximation classes."
+  },
+  {
+    "paper_id": "7d61f74914fc4331e7b7c7ab6d52ceae2bc7f2df",
+    "title": "Author response: Alpha-1 adrenergic receptor antagonists to prevent hyperinflammation and death from lower respiratory tract infection",
+    "year": 2021,
+    "author_ids": [
+      "101883616",
+      "2056987231",
+      "50824401",
+      "153099102",
+      "2055530571",
+      "47749449",
+      "1388304651",
+      "47366358",
+      "8486569",
+      "120243210",
+      "83431793",
+      "1886238",
+      "145130892",
+      "6105137",
+      "3546803",
+      "2111204024",
+      "144798543",
+      "144152687",
+      "1965563",
+      "2185974",
+      "46369801",
+      "6923209",
+      "1875164",
+      "1717958",
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "8722b62a7aec2854337ed1381ff389ebcded9e00",
+    "title": "Preparing for a Pandemic: Accelerating Vaccine Availability",
+    "year": 2021,
+    "author_ids": [
+      "46195680",
+      "2631417",
+      "2070046617",
+      "3309574",
+      "2287032177",
+      "4249203",
+      "1794750",
+      "1722759",
+      "2108360568",
+      "145439402",
+      "2345653163",
+      "2345655412",
+      "1739279188",
+      "4971332"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 47,
+    "abstract": "Vaccinating the world's population quickly in a pandemic has enormous health and economic benefits. We analyze the problem faced by governments in determining the scale and structure of procurement for vaccines. We analyze alternative approaches to procurement, arguing that buyers should directly fund manufacturing capacity and shoulder most of the risk of failure while maintaining some direct incentives for speed. We analyzed the optimal portfolio of vaccine investments for countries with different characteristics as well as the implications for international cooperation. Our analysis, considered in light of the experience of 2020, suggests lessons for future pandemics."
+  },
+  {
+    "paper_id": "9802a49ed454751f6dc6d1097b384516443d5ee9",
+    "title": "Uncovering interpretable potential confounders in electronic medical records",
+    "year": 2021,
+    "author_ids": [
+      "2641684",
+      "6529872",
+      "2064589361",
+      "2631417",
+      "2932960"
+    ],
+    "venue": "Nature Communications",
+    "citation_count": 36,
+    "abstract": "Randomized clinical trials (RCT) are the gold standard for informing treatment decisions. Observational studies are often plagued by selection bias, and expert-selected covariates may insufficiently adjust for confounding. We explore how unstructured clinical text can be used to reduce selection bias and improve medical practice. We develop a framework based on natural language processing to uncover interpretable potential confounders from text. We validate our method by comparing the estimated hazard ratio (HR) with and without the confounders against established RCTs. We apply our method to four cohorts built from localized prostate and lung cancer datasets from the Stanford Cancer Institute and show that our method shifts the HR estimate towards the RCT results. The uncovered terms can also be interpreted by oncologists for clinical insights. We present this proof-of-concept study to enable more credible causal inference using observational data, uncover meaningful insights from clinical text, and inform high-stakes medical decisions. Randomized clinical trials are often plagued by selection bias, and expert-selected covariates may insufficiently adjust for confounding factors. Here, the authors develop a framework based on natural language processing to uncover interpretable potential confounders from text."
+  },
+  {
+    "paper_id": "a2e0bde0593e5a6f8d46d39902ea90b07a6eb52b",
+    "title": "Policy Learning with Adaptively Collected Data",
+    "year": 2021,
+    "author_ids": [
+      "2088873890",
+      "14526183",
+      "2631417",
+      "47230320"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 34,
+    "abstract": "In a wide variety of applications, including healthcare, bidding in first price auctions, digital recommendations, and online education, it can be beneficial to learn a policy that assigns treatments to individuals based on their characteristics. The growing policy-learning literature focuses on settings in which policies are learned from historical data in which the treatment assignment rule is fixed throughout the data-collection period. However, adaptive data collection is becoming more common in practice from two primary sources: (1) data collected from adaptive experiments that are designed to improve inferential efficiency and (2) data collected from production systems that progressively evolve an operational policy to improve performance over time (e.g., contextual bandits). Yet adaptivity complicates the problem of learning an optimal policy ex post for two reasons: first, samples are dependent and, second, an adaptive assignment rule may not assign each treatment to each type of individual sufficiently often. In this paper, we address these challenges. We propose an algorithm based on generalized augmented inverse propensity weighted (AIPW) estimators, which nonuniformly reweight the elements of a standard AIPW estimator to control worst case estimation variance. We establish a finite-sample regret upper bound for our algorithm and complement it with a regret lower bound that quantifies the fundamental difficulty of policy learning with adaptive data. When equipped with the best weighting scheme, our algorithm achieves minimax rate-optimal regret guarantees even with diminishing exploration. Finally, we demonstrate our algorithm\u2019s effectiveness using both synthetic data and public benchmark data sets. This paper was accepted by Hamid Nazerzadeh, data science. Funding: This work is supported by the National Science Foundation [Grant CCF-2106508]. R. Zhan was supported by Golub Capital and the Michael Yao and Sara Keying Dai AI and Digital Technology Fund. Z. Ren was supported by the Office of Naval Research [Grant N00014-20-1-2337]. S. Athey was supported by the Office of Naval Research [Grant N00014-19-1-2468]. Z. Zhou is generously supported by the New York University\u2019s 2022\u20132023 Center for Global Economy and Business faculty research grant and the Digital Twin research grant from Bain & Company. Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2023.4921 ."
+  },
+  {
+    "paper_id": "a84f0a8be8c8f53637551b4133c4ba159f262681",
+    "title": "Estimating experienced racial segregation in US cities using large-scale GPS data",
+    "year": 2021,
+    "author_ids": [
+      "2631417",
+      "2004316368",
+      "8731644",
+      "2070679879"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 101,
+    "abstract": "Significance Racial segregation shapes key aspects of a healthy society, including educational development, psychological well-being, and economic mobility. As such, a large literature has formed to measure segregation. Estimates of racial segregation often rely on assumptions of uniform interaction within some fixed time and geographic space despite the dynamic nature of urban environments. We leverage Global Positioning System data to estimate a measure of segregation that relaxes these strict assumptions. Experienced segregation according to our measure is substantially lower than standard measures would suggest. By decomposing segregation by functions of a city, like entertainment, restaurants, and retail, we facilitate targeted policy making where segregation matters most. We estimate a measure of segregation, experienced isolation, that captures individuals\u2019 exposure to diverse others in the places they visit over the course of their days. Using Global Positioning System (GPS) data collected from smartphones, we measure experienced isolation by race. We find that the isolation individuals experience is substantially lower than standard residential isolation measures would suggest but that experienced isolation and residential isolation are highly correlated across cities. Experienced isolation is lower relative to residential isolation in denser, wealthier, more educated cities with high levels of public transit use and is also negatively correlated with income mobility."
+  },
+  {
+    "paper_id": "c0947446175aea5478a1204bf244041d6932c2fc",
+    "title": "Falling living standards during the COVID-19 crisis: Quantitative evidence from nine developing countries",
+    "year": 2021,
+    "author_ids": [
+      "1572386858",
+      "144624624",
+      "145917695",
+      "47795504",
+      "120011055",
+      "3019739",
+      "2047923838",
+      "144313493",
+      "144129402",
+      "49448799",
+      "2116448373",
+      "5493144",
+      "2047925111",
+      "2631417",
+      "1403726274",
+      "2047923579",
+      "47798676",
+      "2047927833",
+      "105076586",
+      "79335629",
+      "2107373371",
+      "48138649",
+      "151231131",
+      "118711476",
+      "84382011",
+      "150960370"
+    ],
+    "venue": "Science Advances",
+    "citation_count": 394,
+    "abstract": "Income, employment, and food security fell sharply across low- and middle-income countries during the COVID crisis. Despite numerous journalistic accounts, systematic quantitative evidence on economic conditions during the ongoing COVID-19 pandemic remains scarce for most low- and middle-income countries, partly due to limitations of official economic statistics in environments with large informal sectors and subsistence agriculture. We assemble evidence from over 30,000 respondents in 16 original household surveys from nine countries in Africa (Burkina Faso, Ghana, Kenya, Rwanda, Sierra Leone), Asia (Bangladesh, Nepal, Philippines), and Latin America (Colombia). We document declines in employment and income in all settings beginning March 2020. The share of households experiencing an income drop ranges from 8 to 87% (median, 68%). Household coping strategies and government assistance were insufficient to sustain precrisis living standards, resulting in widespread food insecurity and dire economic conditions even 3 months into the crisis. We discuss promising policy responses and speculate about the risk of persistent adverse effects, especially among children and other vulnerable groups."
+  },
+  {
+    "paper_id": "c58f844eb5cc108e588fce62340b609e24cfc0a8",
+    "title": "NBER WORKING PAPER SERIES SYNTHETIC DIFFERENCE IN DIFFERENCES",
+    "year": 2021,
+    "author_ids": [
+      "82860571",
+      "2631417",
+      "2466171",
+      "47166531",
+      "3160667",
+      "2262845159"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d65f7c9905edc6ddf23b311f22f260d821433d7c",
+    "title": "Market design to accelerate COVID-19 vaccine supply",
+    "year": 2021,
+    "author_ids": [
+      "2151113397",
+      "46195680",
+      "2631417",
+      "2070046617",
+      "3309574",
+      "65779526",
+      "4249203",
+      "1794750",
+      "1722759",
+      "144132560",
+      "2108360568",
+      "145439402",
+      "46385704",
+      "13454141",
+      "1739279188",
+      "4971332"
+    ],
+    "venue": "Science",
+    "citation_count": 114,
+    "abstract": "Build more capacity, and stretch what we already have Each month, COVID-19 kills hundreds of thousands of people, reduces global gross domestic product (GDP) by hundreds of billions of dollars, and generates large, accumulating losses to human capital by harming education and health (1\u20134). Achieving widespread immunization 1 month faster would thus save many lives and mitigate short- and long-run economic harm. Although the value of vaccines may seem obvious, government action and investment in vaccines have not been commensurate with the enormous scale of benefits, with many countries not likely to achieve widespread immunization until the end of 2022."
+  },
+  {
+    "paper_id": "e597faf0a561de858600ccead4e44ff782a37c3d",
+    "title": "Correction to: Counterfactual inference for consumer choice across many product categories",
+    "year": 2021,
+    "author_ids": [
+      "145171749",
+      "2055969088",
+      "1796335",
+      "2631417"
+    ],
+    "venue": "Quantitative Marketing and Economics",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "e93c038d7796659b79d3d4f05878e0dca29314b0",
+    "title": "Semiparametric Estimation of Treatment Effects in Randomized Experiments",
+    "year": 2021,
+    "author_ids": [
+      "2631417",
+      "1678771",
+      "39602222",
+      "47166531",
+      "2097658209"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 14,
+    "abstract": "\n We develop new semi-parametric methods for estimating treatment effects. We focus on settings where the outcome distributions may be thick tailed, where treatment effects may be small, where sample sizes are large, and where assignment is completely random. This setting is of particular interest in recent online experimentation. We propose using parametric models for the treatment effects, leading to semi-parametric models for the outcome distributions. We derive the semi-parametric efficiency bound for the treatment effects for this setting, and propose efficient estimators. In the leading case with constant quantile treatment effects, one of the proposed efficient estimators has an interesting interpretation as a weighted average of quantile treatment effects, with the weights proportional to minus the second derivative of the log of the density of the potential outcomes. Our analysis also suggests an extension of Huber\u2019s model and trimmed mean to include asymmetry."
+  },
+  {
+    "paper_id": "f40369ffd66b7476a7b630bd310be35069158a2d",
+    "title": "Optimal Model Selection in Contextual Bandits with Many Classes via Offline Oracles",
+    "year": 2021,
+    "author_ids": [
+      "47318645",
+      "2631417"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "140a2069d29d68d61340e21bcfe357b2dd619a6d",
+    "title": "A how-to guide for conducting retrospective analyses: example COVID-19 study",
+    "year": 2020,
+    "author_ids": [
+      "2056987957",
+      "101883616",
+      "6031233",
+      "2061344961",
+      "6923209",
+      "50824401",
+      "3878196",
+      "3834894",
+      "46369801",
+      "145246513",
+      "2369333898",
+      "4475912",
+      "1886238",
+      "2631417",
+      "145130892",
+      "1717958"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "In the urgent setting of the COVID-19 pandemic, treatment hypotheses abound, each of which requires careful evaluation. A randomized controlled trial generally provides the strongest possible evaluation of a treatment, but the efficiency and effectiveness of the trial depend on the existing evidence supporting the treatment. The researcher must therefore compile a body of evidence justifying the use of time and resources to further investigate a treatment hypothesis in a trial. An observational study can help provide this evidence, but the lack of randomized exposure and the researcher\u2019s inability to control treatment administration and data collection introduce significant challenges for nonexperimental studies. A proper analysis of observational health care data thus requires an extensive background in a diverse set of topics ranging from epidemiology and causal analysis to relevant medical specialties and data sources. Here we provide 10 rules that serve as an end-to-end introduction to retrospective analyses of observational health care data. A running example of a COVID-19 study presents a practical implementation of each rule in the context of a specific treatment hypothesis. When carefully designed and properly executed, a retrospective analysis framed around these rules will inform the decisions of whether and how to investigate a treatment hypothesis in a randomized controlled trial."
+  },
+  {
+    "paper_id": "1cebbcb575ff4a7c04e5a3ca04c188c4f8bf995d",
+    "title": "Sampling\u2010Based versus Design\u2010Based Uncertainty in Regression Analysis",
+    "year": 2020,
+    "author_ids": [
+      "2260192906",
+      "2260192906",
+      "2631417",
+      "47166531",
+      "1823130"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 251,
+    "abstract": "Consider a researcher estimating the parameters of a regression function based on data for all 50 states in the United States or on data for all visits to a website. What is the interpretation of the estimated parameters and the standard errors? In practice, researchers typically assume that the sample is randomly drawn from a large population of interest and report standard errors that are designed to capture sampling variation. This is common even in applications where it is difficult to articulate what that population of interest is, and how it differs from the sample. In this article, we explore an alternative approach to inference, which is partly design\u2010based. In a design\u2010based setting, the values of some of the regressors can be manipulated, perhaps through a policy intervention. Design\u2010based uncertainty emanates from lack of knowledge about the values that the regression outcome would have taken under alternative interventions. We derive standard errors that account for design\u2010based uncertainty instead of, or in addition to, sampling\u2010based uncertainty. We show that our standard errors in general are smaller than the usual infinite\u2010population sampling\u2010based standard errors and provide conditions under which they coincide."
+  },
+  {
+    "paper_id": "2076a17b99b3e9e72c01510baf2a473e9cc7b204",
+    "title": "Experienced Segregation",
+    "year": 2020,
+    "author_ids": [
+      "2631417",
+      "2004316368",
+      "8731644",
+      "2070679879"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 39,
+    "abstract": "We estimate a measure of segregation, experienced isolation, that captures individuals\u2019 exposure to diverse others in the places they visit over the course of their days. Using Global Positioning System (GPS) data collected from smartphones, we measure experienced isolation by race. We find that the isolation individuals experience is substantially lower than standard residential isolation measures would suggest, but that experienced and residential isolation are highly correlated across cities. Experienced isolation is lower relative to residential isolation in denser, wealthier, more educated cities with high levels of public transit use"
+  },
+  {
+    "paper_id": "2132987bbf5612edfbf890d4b12842fdcaa5a479",
+    "title": "Survey Bandits with Regret Guarantees",
+    "year": 2020,
+    "author_ids": [
+      "47318645",
+      "2631417"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 4,
+    "abstract": "We consider a variant of the contextual bandit problem. In standard contextual bandits, when a user arrives we get the user's complete feature vector and then assign a treatment (arm) to that user. In a number of applications (like healthcare), collecting features from users can be costly. To address this issue, we propose algorithms that avoid needless feature collection while maintaining strong regret guarantees."
+  },
+  {
+    "paper_id": "4ac947dd96ed95a6fe8a669c80719d329cae4fbc",
+    "title": "An adaptive experiment to improve quality in contraceptive counseling and increase the uptake of long-acting reversible contraceptive methods",
+    "year": 2020,
+    "author_ids": [
+      "2631417",
+      "143742114",
+      "46535744",
+      "2081233544",
+      "9866404"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "504bdee48c8a19c18b5963cd27b449cbc408d920",
+    "title": "The Association Between Alpha-1 Adrenergic Receptor Antagonists and In-Hospital Mortality from COVID-19",
+    "year": 2020,
+    "author_ids": [
+      "145246513",
+      "2055287478",
+      "101883616",
+      "2056987231",
+      "50824401",
+      "153099102",
+      "144152687",
+      "46369801",
+      "1965563",
+      "6923209",
+      "2631417",
+      "1717958",
+      "25386885"
+    ],
+    "venue": "medRxiv",
+    "citation_count": 16,
+    "abstract": "Effective therapies for coronavirus disease 2019 (COVID-19) are urgently needed, and preclinical data suggest alpha-1 adrenergic receptor antagonists (\u03b11-AR antagonists) may be effective in reducing mortality related to hyperinflammation independent of etiology. Using a retrospective cohort design with patients in the Department of Veterans Affairs healthcare system, we use doubly robust regression and matching to estimate the association between baseline use of \u03b11-AR antagonists and likelihood of death due to COVID-19 during hospitalization. Having an active prescription for any \u03b11-AR antagonist (tamsulosin, silodosin, prazosin, terazosin, doxazosin, or alfuzosin) at the time of admission had a significant negative association with in-hospital mortality (relative risk reduction 18%; odds ratio 0.73; 95% CI 0.63 to 0.85; p \u2264 0.001) and death within 28 days of admission (relative risk reduction 17%; odds ratio 0.74; 95% CI 0.65 to 0.84; p \u2264 0.001). In a subset of patients on doxazosin specifically, an inhibitor of all three alpha-1 adrenergic receptors, we observed a relative risk reduction for death of 74% (odds ratio 0.23; 95% CI 0.03 to 0.94; p = 0.028) compared to matched controls not on any \u03b11-AR antagonist at the time of admission. These findings suggest that use of \u03b11-AR antagonists may reduce mortality in COVID-19, supporting the need for randomized, placebo-controlled clinical trials in patients with early symptomatic infection."
+  },
+  {
+    "paper_id": "6003cbc1763f3a62a1ebfce2c2a6406fde465fc5",
+    "title": "Targeting the catecholamine-cytokine axis to prevent SARS-CoV-2 cytokine storm syndrome",
+    "year": 2020,
+    "author_ids": [
+      "6923209",
+      "2056987231",
+      "3546803",
+      "84742703",
+      "2111204024",
+      "48051037",
+      "47749449",
+      "1388304651",
+      "101883616",
+      "50824401",
+      "1875164",
+      "144798543",
+      "144152687",
+      "1965563",
+      "1717958",
+      "2631417",
+      "2185974",
+      "46369801"
+    ],
+    "venue": "medRxiv",
+    "citation_count": 19,
+    "abstract": "The mortality of Coronavirus disease 2019 (COVID-19) appears to be driven by acute respiratory distress syndrome (ARDS) and a dysregulated immune response to SARS-CoV-2. Emerging evidence suggests that a subset of COVID-19 is characterized by the development of a cytokine storm syndrome (CSS), and interleukin (IL)-6 levels are predictors of COVID-19 severity and in-hospital mortality. Targeting hyper-inflammation in COVID-19 may be critical for reducing mortality. Catecholamines enhance inflammatory injury by augmenting the production of IL-6 and other cytokines through a self-amplifying feed-forward loop in immune cells that requires alpha-1 adrenergic receptor (\u03b11-AR) signaling. Prophylactic inhibition of catecholamine synthesis with the \u03b11-AR antagonist prazosin reduced catecholamines and cytokine responses in mice, and resulted in markedly increased survival following various hyper-inflammatory stimuli. These findings offer a rationale for studying \u03b11-AR antagonists in the prophylaxis of patients with COVID-19-CSS and ARDS. As high infection rates threaten to overwhelm hospital capacity during this pandemic, preventative approaches that ameliorate COVID-19 severity and reduce excessive mortality are desperately needed. We hypothesize that treatment with prazosin of individuals who test positive for SARS-CoV-2 could reduce catecholamine surges, secondary cytokine dysregulation, and mortality. To investigate a potential role for \u03b11-AR antagonists in preventing poor outcomes in ARDS, we conducted a retrospective analysis of hospitalized patients diagnosed with ARDS. Using data from the Truven Health MarketScan Research Database (2010-2017), we identified 13,125 men (age 45-64) with ARDS, of whom 655 patients (5.0%) were prescribed \u03b11-AR antagonists in the previous year. Applying logistic regression models, we found that patients with prior use of \u03b11-AR antagonists had lower odds of invasive mechanical ventilation compared to non-users (adjusted OR=0.75, 95% CI 0.59-0.95, p=0.019). Perhaps more importantly, those patients had a ~36% lower incidence of both being ventilated and dying in the hospital (adjusted OR=0.59, 95% CI 0.34-0.95, p=0.042). By contrast, prior use of beta-adrenergic receptor (\u03b2-AR) antagonists was not correlated with either outcome. We extended these analyses to patients admitted with pneumonia. Of 108,956 subjects in this cohort, 5,498 patients (5.0%) were taking \u03b11-AR antagonist. Similar to ARDS, patients with pneumonia on \u03b11-AR antagonists (but no \u03b2-AR antagonists) had a lower odds of mechanical ventilation (adjusted OR=0.83, 95% CI 0.75-0.92, p<0.001) and of both being ventilated and dying in the hospital (adjusted OR=0.77, 95% CI 0.62-0.94, p=0.014) compared to non-users. Mirroring findings from pre-clinical models, these data support a clinical rationale to study \u03b11-AR antagonists in the prevention of severe complications of pneumonia, ARDS, and COVID-19. Prospective, randomized clinical trials of alpha-1 receptor antagonists (e.g. prazosin) administered prior to the onset of severe symptoms are needed to assess their efficacy in preventing CSS and reducing mortality in COVID-19."
+  },
+  {
+    "paper_id": "642c5831e2a497752475a8c9fded9dbb90513482",
+    "title": "Stable Prediction with Model Misspecification and Agnostic Distribution Shift",
+    "year": 2020,
+    "author_ids": [
+      "2238006728",
+      "50824401",
+      "143738684",
+      "2631417",
+      "71788673"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 154,
+    "abstract": "For many machine learning algorithms, two main assumptions are required to guarantee performance. One is that the test data are drawn from the same distribution as the training data, and the other is that the model is correctly specified. In real applications, however, we often have little prior knowledge on the test data and on the underlying true model. Under model misspecification, agnostic distribution shift between training and test data leads to inaccuracy of parameter estimation and instability of prediction across unknown test data. To address these problems, we propose a novel Decorrelated Weighting Regression (DWR) algorithm which jointly optimizes a variable decorrelation regularizer and a weighted regression model. The variable decorrelation regularizer estimates a weight for each sample such that variables are decorrelated on the weighted training data. Then, these weights are used in the weighted regression to improve the accuracy of estimation on the effect of each variable, thus help to improve the stability of prediction across unknown test data. Extensive experiments clearly demonstrate that our DWR algorithm can significantly improve the accuracy of parameter estimation and stability of prediction with model misspecification and agnostic distribution shift."
+  },
+  {
+    "paper_id": "7ac7b907577d1b31a1dad6b0eb0ad108283a7f39",
+    "title": "Alpha-1 adrenergic receptor antagonists to prevent hyperinflammation and death from lower respiratory tract infection",
+    "year": 2020,
+    "author_ids": [
+      "101883616",
+      "2056987231",
+      "50824401",
+      "153099102",
+      "48051037",
+      "47749449",
+      "1388304651",
+      "47366358",
+      "8486569",
+      "120243210",
+      "83431793",
+      "1886238",
+      "145130892",
+      "6105137",
+      "3546803",
+      "2111204024",
+      "144798543",
+      "144152687",
+      "1965563",
+      "2185974",
+      "46369801",
+      "6923209",
+      "1875164",
+      "1717958",
+      "2631417"
+    ],
+    "venue": "eLife",
+    "citation_count": 23,
+    "abstract": "In severe viral pneumonia, including Coronavirus disease 2019 (COVID-19), the viral replication phase is often followed by hyperinflammation, which can lead to acute respiratory distress syndrome, multi-organ failure, and death. We previously demonstrated that alpha-1 adrenergic receptor (\u237a1-AR) antagonists can prevent hyperinflammation and death in mice. Here, we conducted retrospective analyses in two cohorts of patients with acute respiratory distress (ARD, n = 18,547) and three cohorts with pneumonia (n = 400,907). Federated across two ARD cohorts, we find that patients exposed to \u237a1-AR antagonists, as compared to unexposed patients, had a 34% relative risk reduction for mechanical ventilation and death (OR = 0.70, p = 0.021). We replicated these methods on three pneumonia cohorts, all with similar effects on both outcomes. All results were robust to sensitivity analyses. These results highlight the urgent need for prospective trials testing whether prophylactic use of \u237a1-AR antagonists ameliorates lower respiratory tract infection-associated hyperinflammation and death, as observed in COVID-19."
+  },
+  {
+    "paper_id": "890615571e004fd021f5ee0584a7e93c402f3c24",
+    "title": "Policy Learning via Doubly Robust Empirical Welfare Maximization over Trees [R package policytree version 1.0.3]",
+    "year": 2020,
+    "author_ids": [
+      "47230320",
+      "2631417",
+      "3160667",
+      "2661277"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8a16af60eddfbf5907858201d9b799cb0705feaa",
+    "title": "Using Experiments to Correct for Selection in Observational Studies",
+    "year": 2020,
+    "author_ids": [
+      "2631417",
+      "50976894",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 76,
+    "abstract": "Researchers increasingly have access to two types of data: (i) large observational datasets where treatment (e.g., class size) is not randomized but several primary outcomes (e.g., graduation rates) and secondary outcomes (e.g., test scores) are observed and (ii) experimental data in which treatment is randomized but only secondary outcomes are observed. We develop a new method to estimate treatment effects on primary outcomes in such settings. We use the difference between the secondary outcome and its predicted value based on the experimental treatment effect to measure selection bias in the observational data. Controlling for this estimate of selection bias yields an unbiased estimate of the treatment effect on the primary outcome under a new assumption that we term latent unconfoundedness, which requires that the same confounders affect the primary and secondary outcomes. Latent unconfoundedness weakens the assumptions underlying commonly used surrogate estimators. We apply our estimator to identify the effect of third grade class size on students outcomes. Estimated impacts on test scores using OLS regressions in observational school district data have the opposite sign of estimates from the Tennessee STAR experiment. In contrast, selection-corrected estimates in the observational data replicate the experimental estimates. Our estimator reveals that reducing class sizes by 25% increases high school graduation rates by 0.7 percentage points. Controlling for observables does not change the OLS estimates, demonstrating that experimental selection correction can remove biases that cannot be addressed with standard controls."
+  },
+  {
+    "paper_id": "92d16914e8fe28179d897090dc1b28150534ab3c",
+    "title": "policytree: Policy learning via doubly robust empirical welfare maximization over trees",
+    "year": 2020,
+    "author_ids": [
+      "1517881123",
+      "2661277",
+      "47230320",
+      "2631417",
+      "3160667"
+    ],
+    "venue": "Journal of Open Source Software",
+    "citation_count": 61,
+    "abstract": "There has recently been a considerable amount of work on statistical methodology for policy learning, including Manski (2004), Zhao, Zeng, Rush, & Kosorok (2012), Swaminathan & Joachims (2015), Kitagawa & Tetenov (2018), van der Laan & Luedtke (2015), Luedtke & van der Laan (2016), Mbakop & Tabord-Meehan (2016), Athey & Wager (2017), Kallus & Zhou (2018), and Zhou, Athey, & Wager (2018). In particular, Kitagawa & Tetenov (2018) show that if we only consider policies \u03c0 restricted to a class \u03a0 with finite VC dimension and have access to data from a randomized trial with n samples, then an empirical welfare maximization algorithm achieves regret that scales as \u221a VC(\u03a0)/n. Athey & Wager (2017) extend this result to observational studies via doubly robust scoring, and Zhou et al. (2018) further consider the case with multiple treatment choices (in particular, the regret will depend on the tree depth, feature space, and number of actions)."
+  },
+  {
+    "paper_id": "9d297a4b9a65b75ba75ba3c269e3283d6320996d",
+    "title": "Alpha-1 adrenergic receptor antagonists prevent acute respiratory distress syndrome and death: implications for Coronavirus disease 2019",
+    "year": 2020,
+    "author_ids": [
+      "1717958",
+      "2056987231",
+      "101883616",
+      "50824401",
+      "48051037",
+      "47749449",
+      "1388304651",
+      "144798543",
+      "144152687",
+      "1965563",
+      "2185974",
+      "46369801",
+      "6923209",
+      "1875164",
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "b92a94b0c34e7b8b03d410c24f5fc7fc759a70a3",
+    "title": "A retrospective clinical study supporting the rationale for trials of Alpha-1 Adrenoreceptor Antagonists to prevent cytokine storm and severe COVID-19",
+    "year": 2020,
+    "author_ids": [
+      "1717958",
+      "2056987231",
+      "101883616",
+      "50824401",
+      "6923209",
+      "48051037",
+      "47749449",
+      "1388304651",
+      "144798543",
+      "144152687",
+      "1965563",
+      "2185974",
+      "46369801",
+      "1875164",
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b9dae16407b2b700c722bf55a327150d4b44be55",
+    "title": "The Allocation of Decision Authority to Human and Artificial Intelligence",
+    "year": 2020,
+    "author_ids": [
+      "2631417",
+      "33123123",
+      "2362107267"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 60,
+    "abstract": "The allocation of decision authority by a principal to either a human agent or an artificial intelligence (AI) is examined. The principal trades off an AI's more aligned choice with the need to motivate the human agent to expend effort in learning choice payoffs. When agent effort is desired, it is shown that the principal is more likely to give that agent decision authority, reduce investment in AI reliability, and adopt an AI that may be biased. Organizational design considerations are likely to have an impact on how AIs are trained."
+  },
+  {
+    "paper_id": "bdb7936f18af956bdda7a36ce3301cf189426fe0",
+    "title": "Ten Rules for Conducting Retrospective Pharmacoepidemiological Analyses: Example COVID-19 Study",
+    "year": 2020,
+    "author_ids": [
+      "2056987957",
+      "101883616",
+      "6031233",
+      "2061344961",
+      "6923209",
+      "50824401",
+      "3878196",
+      "3834894",
+      "46369801",
+      "145246513",
+      "2369333898",
+      "4475912",
+      "1886238",
+      "2631417",
+      "145130892",
+      "1717958"
+    ],
+    "venue": "Frontiers in Pharmacology",
+    "citation_count": 6,
+    "abstract": "Since the beginning of the COVID-19 pandemic, pharmaceutical treatment hypotheses have abounded, each requiring careful evaluation. A randomized controlled trial generally provides the most credible evaluation of a treatment, but the efficiency and effectiveness of the trial depend on the existing evidence supporting the treatment. The researcher must therefore compile a body of evidence justifying the use of time and resources to further investigate a treatment hypothesis in a trial. An observational study can provide this evidence, but the lack of randomized exposure and the researcher\u2019s inability to control treatment administration and data collection introduce significant challenges. A proper analysis of observational health care data thus requires contributions from experts in a diverse set of topics ranging from epidemiology and causal analysis to relevant medical specialties and data sources. Here we summarize these contributions as 10 rules that serve as an end-to-end introduction to retrospective pharmacoepidemiological analyses of observational health care data using a running example of a hypothetical COVID-19 study. A detailed supplement presents a practical how-to guide for following each rule. When carefully designed and properly executed, a retrospective pharmacoepidemiological analysis framed around these rules will inform the decisions of whether and how to investigate a treatment hypothesis in a randomized controlled trial. This work has important implications for any future pandemic by prescribing what we can and should do while the world waits for global vaccine distribution."
+  },
+  {
+    "paper_id": "c1e49d830e67269d4d2053a5f124ea773c79b740",
+    "title": "Computational social science: Obstacles and opportunities",
+    "year": 2020,
+    "author_ids": [
+      "3185333",
+      "144994682",
+      "1783914",
+      "2413779",
+      "2631417",
+      "67128030",
+      "2202119",
+      "1404609254",
+      "143890476",
+      "1791413",
+      "46548784",
+      "1925509",
+      "1743043",
+      "80273596",
+      "144065562"
+    ],
+    "venue": "Science",
+    "citation_count": 342,
+    "abstract": "Data sharing, research ethics, and incentives must improve The field of computational social science (CSS) has exploded in prominence over the past decade, with thousands of papers published using observational data, experimental designs, and large-scale simulations that were once unfeasible or unavailable to researchers. These studies have greatly improved our understanding of important phenomena, ranging from social inequality to the spread of infectious diseases. The institutions supporting CSS in the academy have also grown substantially, as evidenced by the proliferation of conferences, workshops, and summer schools across the globe, across disciplines, and across sources of data. But the field has also fallen short in important ways. Many institutional structures around the field\u2014including research ethics, pedagogy, and data infrastructure\u2014are still nascent. We suggest opportunities to address these issues, especially in improving the alignment between the organization of the 20th-century university and the intellectual requirements of the field."
+  },
+  {
+    "paper_id": "e4cad4ebaaef602deb8fd275dd301be3cf38fae0",
+    "title": "Alpha-1 adrenergic receptor antagonists for preventing acute respiratory distress syndrome and death from cytokine storm syndrome.",
+    "year": 2020,
+    "author_ids": [
+      "1717958",
+      "2056987231",
+      "101883616",
+      "50824401",
+      "48051037",
+      "47749449",
+      "1388304651",
+      "1886238",
+      "145130892",
+      "144798543",
+      "144152687",
+      "1965563",
+      "2185974",
+      "46369801",
+      "6923209",
+      "1875164",
+      "2631417"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 19,
+    "abstract": null
+  },
+  {
+    "paper_id": "f24611539af3f3095cd98d2a0bcd2e337a5c308a",
+    "title": "Tractable contextual bandits beyond realizability",
+    "year": 2020,
+    "author_ids": [
+      "47318645",
+      "1388505341",
+      "2631417"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citation_count": 9,
+    "abstract": "Tractable contextual bandit algorithms often rely on the realizability assumption -- i.e., that the true expected reward model belongs to a known class, such as linear functions. We investigate issues that arise in the absence of realizability and note that the dynamics of adaptive data collection can lead commonly used bandit algorithms to learn a suboptimal policy. In this work, we present a tractable bandit algorithm that is not sensitive to the realizability assumption and computationally reduces to solving a constrained regression problem in every epoch. When realizability does not hold, our algorithm ensures the same guarantees on regret achieved by realizability-based algorithms under realizability, up to an additive term that accounts for the misspecification error. This extra term is proportional to T times the (2/5)-root of the mean squared error between the best model in the class and the true model, where T is the total number of time-steps. Our work sheds light on the bias-variance trade-off for tractable contextual bandits. This trade-off is not captured by algorithms that assume realizability, since under this assumption there exists an estimator in the class that attains zero bias."
+  },
+  {
+    "paper_id": "f392c7ee8f99c54499fa561c3013795ea1afc111",
+    "title": "Preventing cytokine storm syndrome in COVID-19 using \u03b1-1 adrenergic receptor antagonists.",
+    "year": 2020,
+    "author_ids": [
+      "6923209",
+      "2056988001",
+      "3546803",
+      "84742703",
+      "2111204024",
+      "48051037",
+      "47749449",
+      "1388304651",
+      "101883616",
+      "50824401",
+      "1875164",
+      "144798543",
+      "144152687",
+      "1965563",
+      "1717958",
+      "2631417",
+      "2185974",
+      "46369801"
+    ],
+    "venue": "Journal of Clinical Investigation",
+    "citation_count": 100,
+    "abstract": "Medications that target catecholamine-associated inflammation may prevent cytokine storm syndrome associated with COVID-19 and other diseases."
+  },
+  {
+    "paper_id": "f3a4fbbcf8c7c8ee2617eea6c539572cc5a46862",
+    "title": "Generalized Random Forests [R package grf version 1.2.0]",
+    "year": 2020,
+    "author_ids": [
+      "2099589",
+      "2631417",
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "4cabf1f9babc4589706f834efa4e2dd8161df5df",
+    "title": "Implementing a low-dose CT screening programme for lung cancer into routine NHS practice: the South Tyneside Model",
+    "year": 2019,
+    "author_ids": [
+      "2057376293",
+      "2631417",
+      "152164538",
+      "48092588"
+    ],
+    "venue": "Lung Cancer",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5b14301fd12209003a432fbf77bb719cf2ce1e60",
+    "title": "Using Wasserstein Generative Adversarial Networks for the design of Monte Carlo simulations",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "47166531",
+      "2073158961",
+      "152616129"
+    ],
+    "venue": "Journal of Econometrics",
+    "citation_count": 102,
+    "abstract": "When researchers develop new econometric methods it is common practice to compare the performance of the new methods to those of existing methods in Monte Carlo studies. The credibility of such Monte Carlo studies is often limited because of the freedom the researcher has in choosing the design. In recent years a new class of generative models emerged in the machine learning literature, termed Generative Adversarial Networks (GANs) that can be used to systematically generate artificial data that closely mimics real economic datasets, while limiting the degrees of freedom for the researcher and optionally satisfying privacy guarantees with respect to their training data. In addition if an applied researcher is concerned with the performance of a particular statistical method on a specific data set (beyond its theoretical properties in large samples), she may wish to assess the performance, e.g., the coverage rate of confidence intervals or the bias of the estimator, using simulated data which resembles her setting. Tol illustrate these methods we apply Wasserstein GANs (WGANs) to compare a number of different estimators for average treatment effects under unconfoundedness in three distinct settings (corresponding to three real data sets) and present a methodology for assessing the robustness of the results. In this example, we find that (i) there is not one estimator that outperforms the others in all three settings, so researchers should tailor their analytic approach to a given setting, and (ii) systematic simulation studies can be helpful for selecting among competing methods in this situation."
+  },
+  {
+    "paper_id": "76d9d783323b4cd128141cad6612c38dc5560f1a",
+    "title": "A Bayesian Approach to Predicting Occupational Transitions",
+    "year": 2019,
+    "author_ids": [
+      "49830249",
+      "47731517",
+      "2070170034",
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "818d138bb6614f226a6cf73f69404ca917aebfdf",
+    "title": "Counterfactual inference for consumer choice across many product categories",
+    "year": 2019,
+    "author_ids": [
+      "145171749",
+      "2055969088",
+      "1796335",
+      "2631417"
+    ],
+    "venue": "Quantitative Marketing and Economics",
+    "citation_count": 38,
+    "abstract": "This paper proposes a method for estimating consumer preferences among discrete choices, where the consumer chooses at most one product in a category, but selects from multiple categories in parallel. The consumer\u2019s utility is additive in the different categories. Her preferences about product attributes as well as her price sensitivity vary across products and may be correlated across products. We build on techniques from the machine learning literature on probabilistic models of matrix factorization, extending the methods to account for time-varying product attributes and products going out-of-stock. We evaluate the performance of the model using held-out data from weeks with price changes or out of stock products. We show that our model improves over traditional modeling approaches that consider each category in isolation. One source of the improvement is the ability of the model to accurately estimate heterogeneity in preferences (by pooling information across categories); another source of improvement is its ability to estimate the preferences of consumers who have rarely or never made a purchase in a given category in the training data. Using held-out data, we show that our model can accurately distinguish which consumers are most price sensitive to a given product. We consider counterfactuals such as personally targeted price discounts, showing that using a richer model such as the one we propose substantially increases the benefits of personalization in discounts."
+  },
+  {
+    "paper_id": "b730a03665f2400f5594e54cc0273b8ea41fb2f2",
+    "title": "Methodology and Practice of RCTs The Econometrics of Randomized Experiments",
+    "year": 2019,
+    "author_ids": [
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "be88c0acfa3b936e2f85e8883a864444ab5c3390",
+    "title": "Comment on: \u201cThe Blessings of Multiple Causes\u201d by Yixin Wang and David M. Blei",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "47166531",
+      "2097658209"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "citation_count": 7,
+    "abstract": "We congratulate the authors of Wang and Blei (2018) on a thought-provoking article on causal inference in settings with unobserved confounders. We expect that their ideas will lead to further developments in this important area. In this comment, we offer some thoughts on one such direction. Specifically, we explore the relevance of the Wang and Blei (2018) multiple causes ideas for a canonical problem in economics, namely the identification of demand functions in simultaneous equations (supply and demand) models. This is an old problem in economics, going back to the origins of the field of econometrics in the 1920s. Classic references include Tinbergen (1930), Haavelmo (1943), Wright (1928), and many econometric textbooks. See Angrist, Graddy, and Imbens (2000) for an interpretation in the modern causal inference literature. We show that the Wang and Blei (2018) multiple causes ideas bring new insights to this setting, but that they will not be a panacea. First let us introduce a version of the canonical set up for demand function estimation to demonstrate how the presence of unobserved confounders naturally emerges. Consider initially a setting with a single product. For a number of markets, indexed by t, we observe the price for this product, Pt , and the quantity sold, Qt . These markets may correspond to geographically separated markets or to the same location at different points in time. The interest is in the demand function Qt : R \u2192 R that describes how much consumers are willing to buy at different prices. Causal effects correspond to comparisons of the demand function at different prices, possibly scaled by the price differences, for example, (Qt (p) \u2212 Qt (p\u2032)/(p \u2212 p\u2032). For illustrative purposes, we assume the demand function is linear:"
+  },
+  {
+    "paper_id": "cf83e81fd6cc77d4f9968ecd0b12b4a1fa9a26e0",
+    "title": "Optimal Experimental Design for Staggered Rollouts",
+    "year": 2019,
+    "author_ids": [
+      "50824401",
+      "2631417",
+      "46491690",
+      "47166531"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 42,
+    "abstract": "In this paper, we study the design and analysis of experiments conducted on a set of units over multiple time periods in which the starting time of the treatment may vary by unit. The design problem involves selecting an initial treatment time for each unit in order to most precisely estimate both the instantaneous and cumulative effects of the treatment. We first consider nonadaptive experiments, in which all treatment assignment decisions are made prior to the start of the experiment. For this case, we show that the optimization problem is generally NP-hard, and we propose a near-optimal solution. Under this solution, the fraction entering treatment each period is initially low, then high, and finally low again. Next, we study an adaptive experimental design problem, in which both the decision to continue the experiment and treatment assignment decisions are updated after each period\u2019s data are collected. For the adaptive case, we propose a new algorithm, the precision-guided adaptive experiment algorithm, which addresses the challenges at both the design stage and the stage of estimating treatment effects, ensuring valid post-experiment inference, accounting for the adaptive nature of the design. Using realistic settings, we demonstrate that our proposed solutions can reduce the opportunity cost of the experiments by more than 50%, compared with static design benchmarks. This paper was accepted by George Shanthikumar, data science. Funding: S. Athey and G. Imbens were supported by the Office of Naval Research [Grant N00014-19-1-2468]. M. Bayati was supported by the National Science Foundation [Grant CMMI 1554140]. Supplemental Material: The e-companion and data are available at https://doi.org/10.1287/mnsc.2023.4928 ."
+  },
+  {
+    "paper_id": "d1225abcfc1948811c58e8e8c05f9e4ef664e0b3",
+    "title": "The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "50976894",
+      "47166531",
+      "15618212"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 167,
+    "abstract": "\n A common challenge in estimating the impact of interventions (e.g., job training programs, educational programs) is that many outcomes of interest (e.g., lifetime earnings or other labor market outcomes) are observed with a long delay. In biomedical settings this is often addressed by using short-term outcomes as so-called \u201csurrogates\u201d for the outcome of interest, e.g., tumor size as a surrogate for mortality in cancer studies. We build on this literature by combining multiple, possibly qualitatively distinct, short-term outcomes (e.g., short-run earnings and employment indicators) systematically into a \u201csurrogate index.\u201d Under the Prentice surrogacy assumption, which requires that the primary outcome is independent of the treatment conditional on the surrogates, we show that the average treatment effect on the surrogate index equals the treatment effect on the long-term outcome. We also relate the surrogacy assumption to a set of structural, causal assumptions. We then characterize the bias that arises from violations of each of the key assumptions, and we provide simple methods to validate these assumptions using additional observed outcomes. We apply our method to analyze the long-term impacts of a multi-site job training experiment in California. Rather than waiting a full nine years to directly observe the long-term impact, we show that it is possible to use short-term (the first six quarters) outcomes as surrogates. One could have estimated the program\u2019s long-term impacts on mean employment rates using the employment rates observed in the first six quarters, with a 35% reduction in standard errors."
+  },
+  {
+    "paper_id": "d75356e2bf674902a06a14bb55d18ee88af5b4bb",
+    "title": "Machine Learning Methods That Economists Should Know About",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 842,
+    "abstract": "We discuss the relevance of the recent machine learning (ML) literature for economics and econometrics. First we discuss the differences in goals, methods, and settings between the ML literature and the traditional econometrics and statistics literatures. Then we discuss some specific methods from the ML literature that we view as important for empirical researchers in economics. These include supervised learning methods for regression and classification, unsupervised learning methods, and matrix completion methods. Finally, we highlight newly developed methods at the intersection of ML and econometrics that typically perform better than either off-the-shelf ML or more traditional econometric methods when applied to particular classes of problems, including causal inference for average treatment effects, optimal policy estimation, and estimation of the counterfactual effect of price changes in consumer choice models."
+  },
+  {
+    "paper_id": "e1ba163add43af79da3a063c6eab114e482b55b5",
+    "title": "de travail du personnel 2019-22 Online Privacy and Information Disclosure by Consumers by Shota Ichihashi",
+    "year": 2019,
+    "author_ids": [
+      "98372127",
+      "153280673",
+      "151445626",
+      "2631417",
+      "2277453098",
+      "66446045",
+      "2108947070",
+      "3435272",
+      "1411480611",
+      "3295708",
+      "2927136",
+      "49962196",
+      "3278308",
+      "2108636835",
+      "2154101",
+      "2053793899",
+      "13035705",
+      "48436181",
+      "1836323",
+      "98543827",
+      "122209867"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e81fe800e8ae78dd84bac4684b6ac689d1bd177e",
+    "title": "Sufficient Representations for Categorical Variables",
+    "year": 2019,
+    "author_ids": [
+      "101843232",
+      "1388505341",
+      "2631417",
+      "3160667"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 20,
+    "abstract": "Many learning algorithms require categorical data to be transformed into real vectors before it can be used as input. Often, categorical variables are encoded as one-hot (or dummy) vectors. However, this mode of representation can be wasteful since it adds many low-signal regressors, especially when the number of unique categories is large. In this paper, we investigate simple alternative solutions for universally consistent estimators that rely on lower-dimensional real-valued representations of categorical variables that are \"sufficient\" in the sense that no predictive information is lost. We then compare preexisting and proposed methods on simulated and observational datasets."
+  },
+  {
+    "paper_id": "e9ab6f110a8fa973ff476b2128d61d55239166ac",
+    "title": "Ensemble Methods for Causal Effects in Panel Data Settings",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "46491690",
+      "47166531",
+      "115579762"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 47,
+    "abstract": "In many prediction problems researchers have found that combinations of prediction methods (\u201censembles\u201d) perform better than individual methods. In this paper we apply these ideas to synthetic control type problems in panel data. Here a number of conceptually quite different methods have been developed. We compare the predictive accuracy of three methods with an ensemble method and find that the latter dominates. These results show that ensemble methods are a practical and effective method for the type of data configurations typically encountered in empirical work in economics, and that these methods deserve more attention."
+  },
+  {
+    "paper_id": "ee07ca60a0619f2f0cb72c7fc690c14a6598801e",
+    "title": "Estimating Treatment Effects with Causal Forests: An Application",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "3160667"
+    ],
+    "venue": "Observational Studies",
+    "citation_count": 486,
+    "abstract": "Abstract:We apply causal forests to a dataset derived from the National Study of Learning Mindsets, and discusses resulting practical and conceptual challenges. This note will appear in an upcoming issue of Observational Studies, Empirical Investigation of Methods for Heterogeneity, that compiles several analyses of the same dataset."
+  },
+  {
+    "paper_id": "f7f495228f4eae82d8cb72153d5db4ec34090877",
+    "title": "Service Quality in the Gig Economy: Empirical Evidence about Driving Quality at Uber",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "2151113397",
+      "102101253"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 26,
+    "abstract": "The rise of marketplaces for goods and services has led to changes in the mechanisms used to ensure high quality. We analyze this phenomenon in the Uber market, where the system of pre-screening that prevailed in the taxi industry has been diminished in favor of (automated) quality measurement, reviews, and incentives. This shift allows greater flexibility in the workforce but its net effect on quality is unclear. Using telematics data as an objective quality outcome, we show that UberX drivers provide better quality than UberTaxi drivers, controlling for all observables of the ride. We then explore whether this difference is driven by incentives, nudges, and information. We show that riders' preferences shape driving behavior. We also find that drivers respond to both user preferences and nudges, such as notifications when ratings fall below a threshold. Finally, we show that informing drivers about their past behavior increases quality, especially for low-performing drivers."
+  },
+  {
+    "paper_id": "0f7ebce98cb2e92458fc2e709914e50b638d5731",
+    "title": "Balanced Linear Contextual Bandits",
+    "year": 2018,
+    "author_ids": [
+      "8472327",
+      "47230320",
+      "2631417",
+      "47166531"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 72,
+    "abstract": "Contextual bandit algorithms are sensitive to the estimation method of the outcome model as well as the exploration method used, particularly in the presence of rich heterogeneity or complex outcome models, which can lead to difficult estimation problems along the path of learning. We develop algorithms for contextual bandits with linear payoffs that integrate balancing methods from the causal inference literature in their estimation to make it less prone to problems of estimation bias. We provide the first regret bound analyses for linear contextual bandits with balancing and show that our algorithms match the state of the art theoretical guarantees. We demonstrate the strong practical advantage of balanced contextual bandits on a large number of supervised learning datasets and on a synthetic example that simulates model misspecification and prejudice in the initial training data."
+  },
+  {
+    "paper_id": "3746aa8774c943d1ad36ca11bb7440942195f537",
+    "title": "Apple Pay and Mobile Payments in Australia (A)",
+    "year": 2018,
+    "author_ids": [
+      "2075370974",
+      "2631417",
+      "2058054064"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "394929d51af693e42063f6e033add1db35096553",
+    "title": "Estimating Heterogeneous Consumer Preferences for Restaurants and Travel Time Using Mobile Location Data",
+    "year": 2018,
+    "author_ids": [
+      "2631417",
+      "1796335",
+      "145171749",
+      "144211059",
+      "2070679879"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 67,
+    "abstract": "This paper analyzes consumer choices over lunchtime restaurants using data from a sample of several thousand anonymous mobile phone users in the San Francisco Bay Area. The data is used to identify users' approximate typical morning location, as well as their choices of lunchtime restaurants. We build a model where restaurants have latent characteristics (whose distribution may depend on restaurant observables, such as star ratings, food category, and price range), each user has preferences for these latent characteristics, and these preferences are heterogeneous across users. Similarly, each item has latent characteristics that describe users' willingness to travel to the restaurant, and each user has individual-specific preferences for those latent characteristics. Thus, both users' willingness to travel and their base utility for each restaurant vary across user-restaurant pairs. We use a Bayesian approach to estimation. To make the estimation computationally feasible, we rely on variational inference to approximate the posterior distribution, as well as stochastic gradient descent as a computational approach. Our model performs better than more standard competing models such as multinomial logit and nested logit models, in part due to the personalization of the estimates. We analyze how consumers re-allocate their demand after a restaurant closes to nearby restaurants versus more distant restaurants with similar characteristics, and we compare our predictions to actual outcomes. Finally, we show how the model can be used to analyze counterfactual questions such as what type of restaurant would attract the most consumers in a given location."
+  },
+  {
+    "paper_id": "3e0c07343156fe547aca662793eb1b7befec6463",
+    "title": "M14\u2005Implementing a low dose CT screening programme for lung cancer into routine NHS practice \u2013 the south tyneside model",
+    "year": 2018,
+    "author_ids": [
+      "48092588",
+      "2631417",
+      "152164538"
+    ],
+    "venue": "Cancer screening and follow up",
+    "citation_count": 0,
+    "abstract": "&NA; Our local population has one of the highest incidences of lung cancer in the country with a high proportion of the most deprived socioeconomic quintile. This leads to around a third presenting as emergency admissions often at late stage and hence with poorer outcomes. We wished to improve earlier diagnosis by embedding a low dose CT (LDCT) screening programme for our high risk population into the routine NHS practice within the financial constraints of the current NHS. The NLST criteria are established but the UK hasn\u2019t implemented these into routine NHS practice with concerns about sensitivity. In mainland Europe it has been shown in long running projects that using COPD and emphysema are independent significant risk factors for lung cancer. Hence we planned to use the established annual COPD review by practice nurses within the GP practice to offer eligible patients a LDCT. Smoking cessation already occurs as a brief intervention in these reviews but the importance was to be again emphasised. A CCG business case was successful with support from the Trust at a cost of \u00a394 per LDCT to include reporting with a standardised report with advice to GPs for the next step. If the LDCT is suspicious of lung cancer the lung cancer physician is informed and patient sent an appointment in the one stop lung cancer clinic. 528 scans were estimated in the 1st year by the business case if uptake was 31%. Face to face training of practice nurses in 6 voluntary GP practices took place alongside production of guidelines and patient information leaflets for 4\u2009month initial feasibility. The full pilot was then rolled out across all GP practices in the CCG area. Results To date 444 scans have been performed. 3 lung cancers have been diagnosed and 2 other cancers identified. 74 nodules have been picked up and all follow up scans have been requested. This pilot has demonstrated the feasibility of embedding LDCT screening for lung cancer in a high risk group into routine NHS service without additional funding. Ongoing evaluation is required to establish Health economics, cost effectiveness and patient experience."
+  },
+  {
+    "paper_id": "5ce7bbc004a72805daeabb8f436fbd6722286503",
+    "title": "Economists (and Economics) in Tech Companies",
+    "year": 2018,
+    "author_ids": [
+      "2631417",
+      "2342599"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 61,
+    "abstract": "As technology platforms have created new markets and new ways of acquiring information, economists have come to play an increasingly central role in tech companies\u2014tackling problems such as platform design, strategy, pricing, and policy. Over the past five years, hundreds of PhD economists have accepted positions in the technology sector. In this paper, we explore the skills that PhD economists apply in tech companies, the companies that hire them, the types of problems that economists are currently working on, and the areas of academic research that have emerged in relation to these problems."
+  },
+  {
+    "paper_id": "7e205f4ce2057c51c5002d06bccd035da169f124",
+    "title": "Stable Prediction across Unknown Environments",
+    "year": 2018,
+    "author_ids": [
+      "2238006728",
+      "50824401",
+      "143738684",
+      "2631417",
+      "2165243316"
+    ],
+    "venue": "Knowledge Discovery and Data Mining",
+    "citation_count": 188,
+    "abstract": "In many important machine learning applications, the training distribution used to learn a probabilistic classifier differs from the distribution on which the classifier will be used to make predictions. Traditional methods correct the distribution shift by reweighting training data with the ratio of the density between test and training data. However, in many applications training takes place without prior knowledge of the testing distribution. Recently, methods have been proposed to address the shift by learning the underlying causal structure, but those methods rely on diversity arising from multiple training data sets, and they further have complexity limitations in high dimensions. In this paper, we propose a novel Deep Global Balancing Regression (DGBR) algorithm to jointly optimize a deep auto-encoder model for feature selection and a global balancing model for stable prediction across unknown environments. The global balancing model constructs balancing weights that facilitate estimation of partial effects of features (holding fixed all other features), a problem that is challenging in high dimensions, and thus helps to identify stable, causal relationships between features and outcomes. The deep auto-encoder model is designed to reduce the dimensionality of the feature space, thus making global balancing easier. We show, both theoretically and with empirical experiments, that our algorithm can make stable predictions across unknown environments. Our experiments on both synthetic and real datasets demonstrate that our algorithm outperforms the state-of-the-art methods for stable prediction across unknown environments."
+  },
+  {
+    "paper_id": "7f4b27f893512caf592cffbebc76cb821cb3cc55",
+    "title": "Learning in Games with Lossy Feedback",
+    "year": 2018,
+    "author_ids": [
+      "47230320",
+      "1844925",
+      "2631417",
+      "1715888",
+      "144756643",
+      "145185457"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 28,
+    "abstract": null
+  },
+  {
+    "paper_id": "848ff553a7463f81601b97e1909e25a990d97836",
+    "title": "Offline Multi-Action Policy Learning: Generalization and Optimization",
+    "year": 2018,
+    "author_ids": [
+      "47230320",
+      "2631417",
+      "3160667"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 146,
+    "abstract": "As a result of digitization of the economy, more and more decision makers from a wide range of domains have gained the ability to target products, services, and information provision based on individual characteristics. Examples include selecting offers, prices, advertisements, or emails to send to consumers, choosing a bid to submit in a contextual first-price auctions, and determining which medication to prescribe to a patient. The key to enabling this is to learn a treatment policy from historical observational data in a sample-efficient way, hence uncovering the best personalized treatment choice recommendation. In \u201cOffline Policy Learning: Generalization and Optimization,\u201d Z. Zhou, S. Athey, and S. Wager provide a sample-optimal policy learning algorithm that is computationally efficient and that learns a tree-based treatment policy from observational data. In our quest toward fully automated personalization, the work provides a theoretically sound and practically implementable approach."
+  },
+  {
+    "paper_id": "a5b6a8b4f679cf5b4e195b99db50730d6e03f04b",
+    "title": "Local Linear Forests Rina",
+    "year": 2018,
+    "author_ids": [
+      "153375606",
+      "2099589",
+      "2631417",
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "aadd66799655666d252a55046284abff6a67169c",
+    "title": "Design-based Analysis in Difference-In-Differences Settings with Staggered Adoption",
+    "year": 2018,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": "Journal of Econometrics",
+    "citation_count": 744,
+    "abstract": "In this paper we study estimation of and inference for average treatment effects in a setting with panel data. We focus on the setting where units, e.g., individuals, firms, or states, adopt the policy or treatment of interest at a particular point in time, and then remain exposed to this treatment at all times afterwards. We take a design perspective where we investigate the properties of estimators and procedures given assumptions on the assignment process. We show that under random assignment of the adoption date the standard Difference-In-Differences estimator is is an unbiased estimator of a particular weighted average causal effect. We characterize the proeperties of this estimand, and show that the standard variance estimator is conservative."
+  },
+  {
+    "paper_id": "adade3149b2a6177296de352f003471eefa958b8",
+    "title": "The Impact of Machine Learning on Economics",
+    "year": 2018,
+    "author_ids": [
+      "2631417"
+    ],
+    "venue": "The Economics of Artificial Intelligence",
+    "citation_count": 478,
+    "abstract": "This paper provides an assessment of the early contributions of machine learning to economics, as well as predictions about its future contributions. It begins by brie\ufb02y overviewing some themes from the literature on machine learning, and then draws some contrasts with traditional approaches to estimating the impact of counterfactual policies in economics. Next, we review some of the initial \u201co\ufb00-the-shelf\u201d applications of machine learning to economics, including applications in analyzing text and images. We then describe new types of questions that have been posed surrounding the application of machine learning to policy problems, including \u201cprediction policy problems,\u201d as well as considerations of fairness and manipulability. Next, we brie\ufb02y review of some of the emerging econometric literature combining machine learning and causal inference. Finally, we overview a set of predictions about the future impact of machine learning on economics."
+  },
+  {
+    "paper_id": "c1b7291e42b65406bfdc8ab8dea328590583248e",
+    "title": "NBER WORKING PAPER SERIES MATRIX COMPLETION METHODS FOR CAUSAL PANEL DATA MODELS",
+    "year": 2018,
+    "author_ids": [
+      "2631417",
+      "46491690",
+      "88738379",
+      "47166531",
+      "2308992"
+    ],
+    "venue": null,
+    "citation_count": 437,
+    "abstract": null
+  },
+  {
+    "paper_id": "cb1442e5d29685391d8f4b63c3a9f89d560eb850",
+    "title": "Synthetic Difference In Differences",
+    "year": 2018,
+    "author_ids": [
+      "82860571",
+      "2631417",
+      "2466171",
+      "47166531",
+      "3160667"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 1068,
+    "abstract": "We present a new estimator for causal effects with panel data that builds on insights behind the widely used difference-in-differences and synthetic control methods. Relative to these methods we find, both theoretically and empirically, that this \u201csynthetic difference-in-differences\u201d estimator has desirable robustness properties, and that it performs well in settings where the conventional estimators are commonly used in practice. We study the asymptotic behavior of the estimator when the systematic part of the outcome model includes latent unit factors interacted with latent time factors, and we present conditions for consistency and asymptotic normality. (JEL C23, H25, H71, I18, L66)"
+  },
+  {
+    "paper_id": "f7b4e31d9c01edd1a0d64047db341d70d4dc7568",
+    "title": "Multi-agent Online Learning with Asynchronous Feedback Loss",
+    "year": 2018,
+    "author_ids": [
+      "47230320",
+      "1844925",
+      "2631417",
+      "1715888",
+      "144756643",
+      "145185457"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ffe71f10d96323639b4647883a65445e1fe4a969",
+    "title": "Local Linear Forests",
+    "year": 2018,
+    "author_ids": [
+      "153375606",
+      "2099589",
+      "2631417",
+      "3160667"
+    ],
+    "venue": "Journal of Computational And Graphical Statistics",
+    "citation_count": 102,
+    "abstract": "Abstract Random forests are a powerful method for nonparametric regression, but are limited in their ability to fit smooth signals. Taking the perspective of random forests as an adaptive kernel method, we pair the forest kernel with a local linear regression adjustment to better capture smoothness. The resulting procedure, local linear forests, enables us to improve on asymptotic rates of convergence for random forests with smooth signals, and provides substantial gains in accuracy on both real and simulated data. We prove a central limit theorem valid under regularity conditions on the forest and smoothness constraints, and propose a computationally efficient construction for confidence intervals. Moving to a causal inference application, we discuss the merits of local regression adjustments for heterogeneous treatment effect estimation, and give an example on a dataset exploring the effect word choice has on attitudes to the social safety net. Last, we include simulation results on real and generated data. A software implementation is available in the R package grf. Supplementary materials for this article are available online."
+  },
+  {
+    "paper_id": "1ee23da30802c9e817db0b79d0486c69450b31e1",
+    "title": "Estimation Considerations in Contextual Bandits",
+    "year": 2017,
+    "author_ids": [
+      "8472327",
+      "2631417",
+      "47166531"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 73,
+    "abstract": "Contextual bandit algorithms seek to learn a personalized treatment assignment policy, balancing exploration against exploitation. Although a number of algorithms have been proposed, there is little guidance available for applied researchers to select among various approaches. Motivated by the econometrics and statistics literatures on causal effects estimation, we study a new consideration to the exploration vs. exploitation framework, which is that the way exploration is conducted in the present may contribute to the bias and variance in the potential outcome model estimation in subsequent stages of learning. We leverage parametric and non-parametric statistical estimation methods and causal effect estimation methods in order to propose new contextual bandit designs. Through a variety of simulations, we show how alternative design choices impact the learning performance and provide insights on why we observe these effects."
+  },
+  {
+    "paper_id": "22f3c0a727bc7f07e7d5073b6d6bb4f73102ba74",
+    "title": "Structured Embedding Models for Grouped Data",
+    "year": 2017,
+    "author_ids": [
+      "144016056",
+      "144211059",
+      "2631417",
+      "1796335"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 37,
+    "abstract": "Word embeddings are a powerful approach for analyzing language, and exponential family embeddings (EFE) extend them to other types of data. Here we develop structured exponential family embeddings (S-EFE), a method for discovering embeddings that vary across related groups of data. We study how the word usage of U.S. Congressional speeches varies across states and party affiliation, how words are used differently across sections of the ArXiv, and how the co-purchase patterns of groceries can vary across seasons. Key to the success of our method is that the groups share statistical information. We develop two sharing strategies: hierarchical modeling and amortization. We demonstrate the benefits of this approach in empirical studies of speeches, abstracts, and shopping baskets. We show how S-EFE enables group-specific interpretation of word usage, and outperforms EFE in predicting held-out data."
+  },
+  {
+    "paper_id": "3a4bea2033c86ac1d26f76d1d9c07216c9a1a541",
+    "title": "SHOPPER: A Probabilistic Model of Consumer Choice with Substitutes and Complements",
+    "year": 2017,
+    "author_ids": [
+      "144211059",
+      "2631417",
+      "1796335"
+    ],
+    "venue": "Annals of Applied Statistics",
+    "citation_count": 96,
+    "abstract": "We develop SHOPPER, a sequential probabilistic model of market baskets. SHOPPER uses interpretable components to model the forces that drive how a customer chooses products; in particular, we designed SHOPPER to capture how items interact with other items. We develop an efficient posterior inference algorithm to estimate these forces from large-scale data, and we analyze a large dataset from a major chain grocery store. We are interested in answering counterfactual queries about changes in prices. We found that SHOPPER provides accurate predictions even under price interventions, and that it helps identify complementary and substitutable pairs of products."
+  },
+  {
+    "paper_id": "3b718eebc6f4469053dadb5737b67ee18b16722d",
+    "title": "Beyond prediction: Using big data for policy problems",
+    "year": 2017,
+    "author_ids": [
+      "2631417"
+    ],
+    "venue": "Science",
+    "citation_count": 532,
+    "abstract": null
+  },
+  {
+    "paper_id": "481bfca889fc43c9152ccb8fbcf28e5639928e07",
+    "title": "Yuliy Sannikov: Winner of the 2016 Clark Medal",
+    "year": 2017,
+    "author_ids": [
+      "2631417",
+      "1703390"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "77631bca1f46bedf14955eaa718de8ae5d160fed",
+    "title": "Science Journals \u2014 AAAS",
+    "year": 2017,
+    "author_ids": [
+      "2631417"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b1a0d2f7b570546460d2d69af5421b3b41e44304",
+    "title": "When Should You Adjust Standard Errors for Clustering?",
+    "year": 2017,
+    "author_ids": [
+      "1689973",
+      "2631417",
+      "47166531",
+      "2412093056"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 1897,
+    "abstract": "\n Clustered standard errors, with clusters defined by factors such as geography, are widespread in empirical research in economics and many other disciplines. Formally, clustered standard errors adjust for the correlations induced by sampling the outcome variable from a data-generating process with unobserved cluster-level components. However, the standard econometric framework for clustering leaves important questions unanswered: (i) Why do we adjust standard errors for clustering in some ways but not others, e.g., by state but not by gender, and in observational studies, but not in completely randomized experiments? (ii) Why is conventional clustering an \u201call-or-nothing\u201d adjustment, while within-cluster correlations can be strong or extremely weak? (iii) In what settings does the choice of whether and how to cluster make a difference? We address these and other questions using a novel framework for clustered inference on average treatment effects. In addition to the common sampling component, the new framework incorporates a design component that accounts for the variability induced on the estimator by the treatment assignment mechanism. We show that, when the number of clusters in the sample is a nonnegligible fraction of the number of clusters in the population, conventional cluster standard errors can be severely inflated, and propose new variance estimators that correct for this bias."
+  },
+  {
+    "paper_id": "d11078c90e68f2034b1fca382b200e352cda739a",
+    "title": "Efficient Policy Learning",
+    "year": 2017,
+    "author_ids": [
+      "2631417",
+      "3160667"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 184,
+    "abstract": "We consider the problem of using observational data to learn treatment assignment policies that satisfy certain constraints specified by a practitioner, such as budget, fairness, or functional form constraints. This problem has previously been studied in economics, statistics, and computer science, and several regret-consistent methods have been proposed. However, several key analytical components are missing, including a characterization of optimal methods for policy learning, and sharp bounds for minimax regret. In this paper, we derive lower bounds for the minimax regret of policy learning under constraints, and propose a method that attains this bound asymptotically up to a constant factor. Whenever the class of policies under consideration has a bounded Vapnik-Chervonenkis dimension, we show that the problem of minimax-regret policy learning can be asymptotically reduced to first efficiently evaluating how much each candidate policy improves over a randomized baseline, and then maximizing this value estimate. Our analysis relies on uniform generalizations of classical semiparametric efficiency results for average treatment effect estimation, paired with sharp concentration bounds for weighted empirical risk minimization that may be of independent interest."
+  },
+  {
+    "paper_id": "d63c85ee5725e4e2ecf45078a37d7638fae9bd76",
+    "title": "Policy Learning With Observational Data",
+    "year": 2017,
+    "author_ids": [
+      "2631417",
+      "3160667"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 446,
+    "abstract": "In many areas, practitioners seek to use observational data to learn a treatment assignment policy that satisfies application\u2010specific constraints, such as budget, fairness, simplicity, or other functional form constraints. For example, policies may be restricted to take the form of decision trees based on a limited set of easily observable individual characteristics. We propose a new approach to this problem motivated by the theory of semiparametrically efficient estimation. Our method can be used to optimize either binary treatments or infinitesimal nudges to continuous treatments, and can leverage observational data where causal effects are identified using a variety of strategies, including selection on observables and instrumental variables. Given a doubly robust estimator of the causal effect of assigning everyone to treatment, we develop an algorithm for choosing whom to treat, and establish strong guarantees for the asymptotic utilitarian regret of the resulting policy."
+  },
+  {
+    "paper_id": "e6b35b4b8a188fe3614cdfb707e2498335b037ae",
+    "title": "Estimating Average Treatment Effects: Supplementary Analyses and Remaining Challenges",
+    "year": 2017,
+    "author_ids": [
+      "2631417",
+      "47166531",
+      "1576593712",
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 75,
+    "abstract": "There is a large literature on semiparametric estimation of average treatment effects under unconfounded treatment assignment in settings with a fixed number of covariates. More recently attention has focused on settings with a large number of covariates. In this paper we extend lessons from the earlier literature to this new setting. We propose that in addition to reporting point estimates and standard errors, researchers report results from a number of supplementary analyses to assist in assessing the credibility of their estimates."
+  },
+  {
+    "paper_id": "f2e71c763354e38d931aed16784344b9615576a0",
+    "title": "The Digital Privacy Paradox: Small Money, Small Costs, Small Talk",
+    "year": 2017,
+    "author_ids": [
+      "2631417",
+      "2142201",
+      "2142201",
+      "2411615595"
+    ],
+    "venue": null,
+    "citation_count": 204,
+    "abstract": null
+  },
+  {
+    "paper_id": "fea7064e129db2e577f8c3b84a6d11a9f835a8c3",
+    "title": "Context Selection for Embedding Models",
+    "year": 2017,
+    "author_ids": [
+      "46458178",
+      "144211059",
+      "2631417",
+      "1796335"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "11aed9455ab854816b40ec454bc16d216cc337cd",
+    "title": "A Theory of Community Formation and Social Hierarchy",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "2390013870",
+      "2390013870",
+      "51892305"
+    ],
+    "venue": null,
+    "citation_count": 21,
+    "abstract": null
+  },
+  {
+    "paper_id": "2507eaa62fa1f09e2a69cd409f0c07ee06015ec8",
+    "title": "Estimating Treatment Effects using Multiple Surrogates: The Role of the Surrogate Score and the Surrogate Index",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "50976894",
+      "47166531",
+      "15618212"
+    ],
+    "venue": null,
+    "citation_count": 52,
+    "abstract": "Estimating the long-term effects of treatments is of interest in many fields. A common challenge in estimating such treatment effects is that long-term outcomes are unobserved in the time frame needed to make policy decisions. One approach to overcome this missing data problem is to analyze treatments effects on an intermediate outcome, often called a statistical surrogate, if it satisfies the condition that treatment and outcome are independent conditional on the statistical surrogate. The validity of the surrogacy condition is often controversial. Here we exploit that fact that in modern datasets, researchers often observe a large number, possibly hundreds or thousands, of intermediate outcomes, thought to lie on or close to the causal chain between the treatment and the long-term outcome of interest. Even if none of the individual proxies satisfies the statistical surrogacy criterion by itself, using multiple proxies can be useful in causal inference. We focus primarily on a setting with two samples, an experimental sample containing data about the treatment indicator and the surrogates and an observational sample containing information about the surrogates and the primary outcome. We state assumptions under which the average treatment effect be identified and estimated with a high-dimensional vector of proxies that collectively satisfy the surrogacy assumption, and derive the bias from violations of the surrogacy assumption, and show that even if the primary outcome is also observed in the experimental sample, there is still information to be gained from using surrogates."
+  },
+  {
+    "paper_id": "26f2b6a1748b7366899cd0b0f41cb83337f598bd",
+    "title": "Solving Heterogeneous Estimating Equations with Gradient Forests",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "2099589",
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 21,
+    "abstract": null
+  },
+  {
+    "paper_id": "44dd4630d5646f3c895295deb9b4a5b4084903e0",
+    "title": "Model Criticism for Bayesian Causal Inference",
+    "year": 2016,
+    "author_ids": [
+      "47497262",
+      "144211059",
+      "2631417",
+      "1454971705"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": "The goal of causal inference is to understand the outcome of alternative courses of action. However, all causal inference requires assumptions. Such assumptions can be more influential than in typical tasks for probabilistic modeling, and testing those assumptions is important to assess the validity of causal inference. We develop model criticism for Bayesian causal inference, building on the idea of posterior predictive checks to assess model fit. Our approach involves decomposing the problem, separately criticizing the model of treatment assignments and the model of outcomes. Conditioned on the assumption of unconfoundedness---that the treatments are assigned independently of the potential outcomes---we show how to check any additional modeling assumption. Our approach provides a foundation for diagnosing model-based causal inferences."
+  },
+  {
+    "paper_id": "4608c47632940d8fee96054d99c303cc7e6a1e5a",
+    "title": "The Econometrics of Randomized Experiments",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 456,
+    "abstract": "Abstract In this chapter, we present econometric and statistical methods for analyzing randomized experiments. For basic experiments, we stress randomization-based inference as opposed to sampling-based inference. In randomization-based inference, uncertainty in estimates arises naturally from the random assignment of the treatments, rather than from hypothesized sampling from a large population. We show how this perspective relates to regression analyses for randomized experiments. We discuss the analyses of stratified, paired, and clustered randomized experiments, and we stress the general efficiency gains from stratification. We also discuss complications in randomized experiments such as noncompliance. In the presence of noncompliance, we contrast intention-to-treat analyses with instrumental variables analyses allowing for general treatment effect heterogeneity. We consider, in detail, estimation and inference for heterogenous treatment effects in settings with (possibly many) covariates. These methods allow researchers to explore heterogeneity by identifying subpopulations with different treatment effects while maintaining the ability to construct valid confidence intervals. We also discuss optimal assignment to treatment based on covariates in such settings. Finally, we discuss estimation and inference in experiments in settings with interactions between units, both in general network settings and in settings where the population is partitioned into groups with all interactions contained within these groups."
+  },
+  {
+    "paper_id": "5af281567b606ecbba05004e4112614dfc81e5da",
+    "title": "Minutes of the Meeting of the Executive Committee: Chicago, IL, April 24, 2015",
+    "year": 2016,
+    "author_ids": [
+      "119530058",
+      "2631417",
+      "152203111",
+      "81141608"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8a7c799b5734dfd961606ace218deab192e06ec5",
+    "title": "Bitcoin Pricing, Adoption, and Usage: Theory and Evidence",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "121643777",
+      "121334617",
+      "2069551824"
+    ],
+    "venue": null,
+    "citation_count": 213,
+    "abstract": null
+  },
+  {
+    "paper_id": "cfd34e285ff2c2b32e04dab98f828da9038fa842",
+    "title": "The State of Applied Econometrics - Causality and Policy Evaluation",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 1189,
+    "abstract": "In this paper we discuss recent developments in econometrics that we view as important for empirical researchers working on policy evaluation questions. We focus on three main areas, where in each case we highlight recommendations for applied work. First, we discuss new research on identification strategies in program evaluation, with particular focus on synthetic control methods, regression discontinuity, external validity, and the causal interpretation of regression methods. Second, we discuss various forms of supplementary analyses to make the identification strategies more credible. These include placebo analyses as well as sensitivity and robustness analyses. Third, we discuss recent advances in machine learning methods for causal effects. These advances include methods to adjust for differences between treated and control units in high-dimensional settings, and methods for identifying and estimating heterogeneous treatment effects."
+  },
+  {
+    "paper_id": "d04788c38a8481004426077685f45c8c2bff2750",
+    "title": "Efficient Inference of Average Treatment Effects in High Dimensions via Approximate Residual Balancing",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "47166531",
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 50,
+    "abstract": null
+  },
+  {
+    "paper_id": "da6af72069d401e1aa20152586667ca3cab4a537",
+    "title": "Generalized random forests",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "2099589",
+      "3160667"
+    ],
+    "venue": "Annals of Statistics",
+    "citation_count": 1662,
+    "abstract": "We propose generalized random forests, a method for non-parametric statistical estimation based on random forests (Breiman, 2001) that can be used to fit any quantity of interest identified as the solution to a set of local moment equations. Following the literature on local maximum likelihood estimation, our method considers a weighted set of nearby training examples; however, instead of using classical kernel weighting functions that are prone to a strong curse of dimensionality, we use an adaptive weighting function derived from a forest designed to express heterogeneity in the specified quantity of interest. We propose a flexible, computationally efficient algorithm for growing generalized random forests, develop a large sample theory for our method showing that our estimates are consistent and asymptotically Gaussian, and provide an estimator for their asymptotic variance that enables valid confidence intervals. We use our approach to develop new methods for three statistical tasks: non-parametric quantile regression, conditional average partial effect estimation, and heterogeneous treatment effect estimation via instrumental variables. A software implementation, grf for R and C++, is available from CRAN."
+  },
+  {
+    "paper_id": "dc90743d55fff9c7a15e720b85bad24736040153",
+    "title": "Escaping from Government and Corporate Surveillance . Evidence from the MIT Digital Currency Experiment",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "2142201",
+      "50696623"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "f1a626bee8bb1d0cb9f9647bb15143911cf5d166",
+    "title": "Approximate residual balancing: debiased inference of average treatment effects in high dimensions",
+    "year": 2016,
+    "author_ids": [
+      "2631417",
+      "47166531",
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 419,
+    "abstract": "There are many settings where researchers are interested in estimating average treatment effects and are willing to rely on the unconfoundedness assumption, which requires that the treatment assignment be as good as random conditional on pretreatment variables. The unconfoundedness assumption is often more plausible if a large number of pretreatment variables are included in the analysis, but this can worsen the performance of standard approaches to treatment effect estimation. We develop a method for debiasing penalized regression adjustments to allow sparse regression methods like the lasso to be used for \u221an\u2010consistent inference of average treatment effects in high dimensional linear models. Given linearity, we do not need to assume that the treatment propensities are estimable, or that the average treatment effect is a sparse contrast of the outcome model parameters. Rather, in addition to standard assumptions used to make lasso regression on the outcome model consistent under 1\u2010norm error, we require only overlap, i.e. that the propensity score be uniformly bounded away from 0 and 1. Procedurally, our method combines balancing weights with a regularized regression adjustment."
+  },
+  {
+    "paper_id": "165003e9d288cce23d6e1ebc64641e2d8e481d38",
+    "title": "Antitrust, Privacy & Big Data",
+    "year": 2015,
+    "author_ids": [
+      "2165978",
+      "123118603",
+      "2631417",
+      "118607092",
+      "115378172",
+      "118960213",
+      "47312704",
+      "48431654",
+      "123171522",
+      "150260372",
+      "12845227"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1a472d87ddd9cd3b4b2e3ccaec61a03053586897",
+    "title": "Recursive partitioning for heterogeneous causal effects",
+    "year": 2015,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 1633,
+    "abstract": "In this paper we propose methods for estimating heterogeneity in causal effects in experimental and observational studies and for conducting hypothesis tests about the magnitude of differences in treatment effects across subsets of the population. We provide a data-driven approach to partition the data into subpopulations that differ in the magnitude of their treatment effects. The approach enables the construction of valid confidence intervals for treatment effects, even with many covariates relative to the sample size, and without \u201csparsity\u201d assumptions. We propose an \u201chonest\u201d approach to estimation, whereby one sample is used to construct the partition and another to estimate treatment effects for each subpopulation. Our approach builds on regression tree methods, modified to optimize for goodness of fit in treatment effects and to account for honest estimation. Our model selection criterion anticipates that bias will be eliminated by honest estimation and also accounts for the effect of making additional splits on the variance of treatment effect estimates within each subpopulation. We address the challenge that the \u201cground truth\u201d for a causal effect is not observed for any individual unit, so that standard approaches to cross-validation must be modified. Through a simulation study, we show that for our preferred method honest estimation results in nominal coverage for 90% confidence intervals, whereas coverage ranges between 74% and 84% for nonhonest approaches. Honest estimation requires estimating the model with a smaller sample size; the cost in terms of mean squared error of treatment effects for our preferred method ranges between 7\u201322%."
+  },
+  {
+    "paper_id": "42487e2b089b0139a3f67af794fe6823a462f2b7",
+    "title": "Machine Learning and Causal Inference for Policy Evaluation",
+    "year": 2015,
+    "author_ids": [
+      "2631417"
+    ],
+    "venue": "Knowledge Discovery and Data Mining",
+    "citation_count": 112,
+    "abstract": null
+  },
+  {
+    "paper_id": "54b84d44c4ba1cfc601f11289cced5abbf2905f6",
+    "title": "Concurrence, Protection des donn\u00e9es & Big Data",
+    "year": 2015,
+    "author_ids": [
+      "123118603",
+      "2165978",
+      "118607092",
+      "2631417",
+      "115378172",
+      "118960213",
+      "47312704",
+      "48431654",
+      "123171522",
+      "150260372",
+      "12845227"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "701f8f1aa9c93ac478b8e1cbcef0e94b2a0d3821",
+    "title": "A Measure of Robustness to Misspecification",
+    "year": 2015,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 65,
+    "abstract": null
+  },
+  {
+    "paper_id": "7aa900ff26a87eaf03ff234469fe19c1cdb48a1f",
+    "title": "Chapter 15 - The Nature and Incidence of Software Piracy: Evidence from Windows / Susan Athey and Scott Stern",
+    "year": 2015,
+    "author_ids": [
+      "2631417",
+      "49900354"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "86ce004214845a1683d59b64c4363a067d342cac",
+    "title": "Machine Learning Methods for Estimating Heterogeneous Causal Eects",
+    "year": 2015,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 133,
+    "abstract": null
+  },
+  {
+    "paper_id": "992285080b474ae8fe21a43293c76c4a0ddbef12",
+    "title": "Machine Learning for Estimating Heterogeneous Causal Effects",
+    "year": 2015,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 30,
+    "abstract": null
+  },
+  {
+    "paper_id": "c2fcb00fe4b773f9cb1682aaa69749aac59f711d",
+    "title": "Estimation and Inference of Heterogeneous Treatment Effects using Random Forests",
+    "year": 2015,
+    "author_ids": [
+      "3160667",
+      "2631417"
+    ],
+    "venue": "Journal of the American Statistical Association",
+    "citation_count": 2971,
+    "abstract": "ABSTRACT Many scientific and engineering challenges\u2014ranging from personalized medicine to customized marketing recommendations\u2014require an understanding of treatment effect heterogeneity. In this article, we develop a nonparametric causal forest for estimating heterogeneous treatment effects that extends Breiman\u2019s widely used random forest algorithm. In the potential outcomes framework with unconfoundedness, we show that causal forests are pointwise consistent for the true treatment effect and have an asymptotically Gaussian and centered sampling distribution. We also discuss a practical method for constructing asymptotic confidence intervals for the true treatment effect that are centered at the causal forest estimates. Our theoretical results rely on a generic Gaussian theory for a large family of random forest algorithms. To our knowledge, this is the first set of results that allows any type of random forest, including classification and regression forests, to be used for provably valid statistical inference. In experiments, we find causal forests to be substantially more powerful than classical methods based on nearest-neighbor matching, especially in the presence of irrelevant covariates."
+  },
+  {
+    "paper_id": "f99e541bd435e43cc8867b81871c22295fbea463",
+    "title": "MACHINE LEARNING METHODS IN ECONOMICS AND ECONOMETRICS \u2021 A Measure of Robustness to Misspecification \u2020",
+    "year": 2015,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "paper_id": "994bc2dee03679e933e8f5b1155a520449cef24f",
+    "title": "Robust Technology Regulation",
+    "year": 2024,
+    "author_ids": [
+      "2265288476",
+      "2029892445"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We analyze how uncertain technologies should be robustly regulated and how regulation should evolve with new information. An adaptive sandbox comprising a zero marginal tax up to an evolving quantity limit is (i) robust: it delivers optimal payoff guarantees when the agent's learning process and/or preferences are chosen adversarially; (ii) dominant: it outperforms other robust and regular mechanisms across all agent learning processes and preferences; (iii) time-consistent: it is the only robust mechanism that can be implemented without commitment. Robustness is important: absent robust regulation, worst-case payoffs can be arbitrarily poor and are induced by weak but growing optimism that encourages excessive risk-taking. Our results offer optimality foundations for existing policy and speak directly to current debates around managing emerging technologies."
+  },
+  {
+    "paper_id": "ef056171f9de3b8cf73d2e90cda0ce6b8c496187",
+    "title": "A General Solution to the Quasi Linear Screening Problem",
+    "year": 2024,
+    "author_ids": [
+      "2295665888",
+      "2239329418",
+      "2095325",
+      "2132978"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "We provide an algorithm for solving multidimensional screening problems which are intractable analytically. The algorithm is a primal-dual algorithm which alternates between optimising the primal problem of the surplus extracted by the principal and the dual problem of the optimal assignment to deliver to the agents for a given surplus. We illustrate the algorithm by solving (i) the generic monopolist price discrimination problem and (ii) an optimal tax problem covering income and savings taxes when citizens differ in multiple dimensions."
+  }
+]

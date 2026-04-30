@@ -1,0 +1,882 @@
+[
+  {
+    "paper_id": "783e25db3d13707de857e955f40bbb9d57c6582f",
+    "title": "The Importance of Being Slow - The Costs and Benefits of Phasing-In Regulatory Reforms",
+    "year": 2025,
+    "author_ids": [
+      "146786056",
+      "145317833",
+      "9691710",
+      "2095325"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b28f5e8dc84228d606b77d059f3a9c9abbcfb6e2",
+    "title": "Why Do Firms Issue Green Bonds?",
+    "year": 2025,
+    "author_ids": [
+      "102141151",
+      "134738713",
+      "2095325"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 27,
+    "abstract": "Corporate green bond announcements generate positive abnormal stock returns. We suggest this might be because managers use green bonds to signal the profitability of the climate-friendly projects they finance. First, we build a signaling model of green bond issuance. It predicts that firms\u2019 incentives to decarbonize are amplified by the interest of their managers in their stock price. Second, we provide supporting empirical evidence, using cross-country variations in effective carbon prices, and cross-industry differences in the stock-price sensitivity of managers\u2019 compensation. Our results suggest that green bonds are not substitutes for but rather complements to carbon pricing. JEL Classification: D53; H23; G14; Q54"
+  },
+  {
+    "paper_id": "e85da60dc6bb9b3f0feb79d27cbf91a70483beb1",
+    "title": "Do cryptocurrencies matter?",
+    "year": 2025,
+    "author_ids": [
+      "2239356016",
+      "2095325",
+      "2244304106"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": ","
+  },
+  {
+    "paper_id": "0ab8796bcb7d699cbf53cd438cff42518ea69eee",
+    "title": "Dynamic Contracting with Many Agents",
+    "year": 2024,
+    "author_ids": [
+      "2239356016",
+      "2238467525",
+      "2095325",
+      "1491252433",
+      "2244304106"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b420a5c2d1ccdfc09e977e72fb9acd99d041fcff",
+    "title": "Fiscal Policy and the Balance Sheet of the Private Sector",
+    "year": 2024,
+    "author_ids": [
+      "2238467525",
+      "2095325",
+      "1491252433"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ef056171f9de3b8cf73d2e90cda0ce6b8c496187",
+    "title": "A General Solution to the Quasi Linear Screening Problem",
+    "year": 2024,
+    "author_ids": [
+      "2295665888",
+      "2239329418",
+      "2095325",
+      "2132978"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "We provide an algorithm for solving multidimensional screening problems which are intractable analytically. The algorithm is a primal-dual algorithm which alternates between optimising the primal problem of the surplus extracted by the principal and the dual problem of the optimal assignment to deliver to the agents for a given surplus. We illustrate the algorithm by solving (i) the generic monopolist price discrimination problem and (ii) an optimal tax problem covering income and savings taxes when citizens differ in multiple dimensions."
+  },
+  {
+    "paper_id": "f246e7283fef1e6a15b8515581933448cf8d99f2",
+    "title": "Multidimensional screening after 37 years",
+    "year": 2024,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": "Journal of Mathematical Economics",
+    "citation_count": 2,
+    "abstract": "This expository article surveys the literature that has followed my paper \u201dA Necessary and Sufficient Condition for Rationalizability in a Quasi-linear Context\u201d that was published in the Journal of Mathematical Economics in 1987."
+  },
+  {
+    "paper_id": "3a5b02b12494dedc4f7e1214dc5750005741df54",
+    "title": "Money and Taxes Implement Dynamic Optimal Mechanisms",
+    "year": 2023,
+    "author_ids": [
+      "2239356016",
+      "2238467525",
+      "2095325",
+      "1491252433",
+      "2244304106"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ce2df5027a8a04346f8d1c7499e7ac4070b389ba",
+    "title": "Inefficient Bank Recapitalization, Bailout, and Post-Crisis Recoveries",
+    "year": 2023,
+    "author_ids": [
+      "1663913370",
+      "3113641",
+      "119197961",
+      "121197516",
+      "98045694",
+      "73625415",
+      "144881466",
+      "41017531",
+      "51461259",
+      "2066293241",
+      "89961251",
+      "1382251958",
+      "2066072113",
+      "2231531896",
+      "103121273",
+      "3193086",
+      "2642888",
+      "119133486",
+      "47862368",
+      "2413454",
+      "143669840",
+      "2095325",
+      "46948212",
+      "143675651",
+      "69514850",
+      "12568409",
+      "145346941",
+      "92387673",
+      "46247841",
+      "2229784941"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b42c1c1869d4b5fafe36c95e99ef4d93e360f489",
+    "title": "Risk Appetite Fluctuations in the Insurance Industry",
+    "year": 2022,
+    "author_ids": [
+      "1807349",
+      "2095325"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "The risk appetite of insurance companies \ufb02 uctuates over time in a quasi cyclical fashion. When their capitalization is high (low), companies choose portfolios with a high (small) share of risky assets. We show that this phenomenon may have the same source as the underwriting cycle, namely recapitalization costs. We build a simple dynamic model of the insurance sector where \ufb01 nancial frictions prevent companies from maintaining a target leverage. Portfolio decisions of insurers \ufb02 uctuate with their aggregate capitalization. The model rationalizes two apparently disjoint pieces of evidence: long-standing Elisa empirical evidence on underwriting cycles and more recent evidence on the \ufb02 uctuations of insurance companies\u2019 risk appetite."
+  },
+  {
+    "paper_id": "c837d8f50c9aada051a7f708431fa12a5ad50498",
+    "title": "Taxing Financial Transactions",
+    "year": 2022,
+    "author_ids": [
+      "2239356016",
+      "2095325"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We examine the capacity of a Financial Transaction Tax (FTT) to generate substantial \ufb01scal revenue without provoking too many distortions. In a model where investors\u2019 wealth is imperfectly observable, we show that a FTT is always part of the optimal tax mix under one condition: it must be that richer people are more inclined to trade on \ufb01nancial markets than poorer people. Under this assumption, the \ufb01nancial transactions volume of an individual investor gives a second signal (after capital income) about unobserved wealth. We show that both signals have to be used in the optimal tax mix. If the government could commit not to increase the total tax burden on investors, investors would even bene\ufb01t from the introduction of a FTT, if it is compensated by an appropriate decrease in the tax on capital income. However by extending the model to include workers, we show that even if a FTT always increases aggregate welfare and workers\u2019 utilities, it may be opposed by investors."
+  },
+  {
+    "paper_id": "cac4a6a62b03bb3ce97b2b2ead79cd26546ee449",
+    "title": "Public Debt and the Balance Sheet of the Private Sector",
+    "year": 2022,
+    "author_ids": [
+      "1491252433",
+      "2194458",
+      "2095325"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "This paper studies the impact of corporate political in\ufb02uence on \ufb01scal policy. We introduce di\ufb00erent interest groups, \ufb01rms and households, into a simple growth model with incomplete markets and heterogeneous agents. Firms face non-insurable id-iosyncratic productivity shocks. They \ufb01nance their productive investments by issuing bonds but cannot issue equity. Households\u2019 savings are invested into corporate bonds and public debt. The government selects the levels of taxes and public debt so as to maximize a weighted sum of the welfares of \ufb01rms\u2019owners and households. More government debt reduces corporate leverage, increases the risk free rate r and decreases the growth rate g . A. The weight of \ufb01rms in social welfare determines whether r < g or r > g at the optimum, with di\ufb00erent dynamics in both regimes."
+  },
+  {
+    "paper_id": "cb24beb85c671417edb3ecef55075e61067140c4",
+    "title": "Financial Globalization and Bank Lending: The Limits of Domestic Monetary Policy",
+    "year": 2022,
+    "author_ids": [
+      "2341715599",
+      "12350437",
+      "2365119625",
+      "118722912",
+      "72429723",
+      "9323673",
+      "2365127565",
+      "118665606",
+      "2365135223",
+      "2237380907",
+      "2262122972",
+      "118869174",
+      "67132528",
+      "2411466666",
+      "119154181",
+      "2238467525",
+      "2361545963",
+      "2354421738",
+      "145154857",
+      "40243002",
+      "2358670255",
+      "2272917577",
+      "103410029",
+      "2350381722",
+      "2095325",
+      "67170736",
+      "2365135044",
+      "11427350",
+      "1792509",
+      "2285068755",
+      "2273025727"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f5c88255923a599c9bfd56d7ee805dcfe4b2e8f3",
+    "title": "The Fluctuations of Insurers\u2019 Risk Appetite",
+    "year": 2022,
+    "author_ids": [
+      "1807349",
+      "2095325"
+    ],
+    "venue": "Journal of Economic Dynamics and Control",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "780ee7de96a0db61659e28bdd34929e36cf67fe2",
+    "title": "Exposure to the Unexpected, Duty of Disclosure, and Contract Design \u2217",
+    "year": 2021,
+    "author_ids": [
+      "2242916661",
+      "2243333109",
+      "2238505006",
+      "2251052325",
+      "2244932547",
+      "3024016",
+      "2281337782",
+      "2095325",
+      "2238766076",
+      "2244567586",
+      "2339079451",
+      "2240185034"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "f9aa4e7ade2aaa54728c7b2f2377f5970f4dd4a4",
+    "title": "The Long-Term Effects of Capital Requirements",
+    "year": 2021,
+    "author_ids": [
+      "146786056",
+      "145317833",
+      "9691710",
+      "2095325"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "44dd16ce03f9220b1ba9d39bb9dad76bd888d2c7",
+    "title": "Imperfect Banking Competition and Macroeconomic Volatility: A DSGE Framework",
+    "year": 2020,
+    "author_ids": [
+      "2108992128",
+      "114469483",
+      "89990659",
+      "119459937",
+      "104068507",
+      "2108279839",
+      "39789269",
+      "3559216",
+      "1738935264",
+      "101958625",
+      "2116515191",
+      "145323850",
+      "2114409858",
+      "121946304",
+      "113454080",
+      "144195408",
+      "2095325",
+      "46948212",
+      "82850088",
+      "90204422",
+      "39937993",
+      "122209867",
+      "2144109681"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "5cc0e17b176297d5cb44fa995a9b2d30dbab0927",
+    "title": "The safe asset, banking equilibrium, and optimal central bank monetary, prudential and balance-sheet policies",
+    "year": 2020,
+    "author_ids": [
+      "104298480",
+      "3389014",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "Abstract A simple equilibrium model is presented which permits the joint study of optimal Central Bank prudential, monetary and balance sheet policies in the pre and post 2008 Crisis periods. It explains the new policies\u2014the purchase of risky securities (QE), payment of interest on reserves (IR) and use of reverse repo (RRP)\u2014as the response to the lack of safe assets in the economy, and shows why these policies were not needed to achieve optimality before 2008, but were needed for the 2008 Crisis and thereafter."
+  },
+  {
+    "paper_id": "5e732822fd4195cea06b8b33b384a56d01e98867",
+    "title": "OPTIMAL PAYMENT PRACTICES: A FRAMEWORK FOR ANALYSING THE COLOMBIAN PAYMENTS ECOSYSTEM",
+    "year": 2020,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ac7576a4ad59ac680503b0438008d7eb1fecd0ff",
+    "title": "Swiss Finance Institute Roundups Finance and the Green Transition",
+    "year": 2020,
+    "author_ids": [
+      "2095325",
+      "2124037122"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "07d60cf4c5965429edff8f258c01ae24461f34b8",
+    "title": "Debt \u2014 Growth \u2014 Resilience",
+    "year": 2019,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "44470db9f900f67d9672d0e91230d17727c7e68e",
+    "title": "The Rise of NGO Activism : Online Appendix",
+    "year": 2019,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5067f5495206f417e79cec85cf3e37db4758eb46",
+    "title": "Permanent researchers Associated researchers",
+    "year": 2019,
+    "author_ids": [
+      "3180443",
+      "119203414",
+      "118779677",
+      "2325349",
+      "50399415",
+      "2851336",
+      "66676578",
+      "104794235",
+      "3052940",
+      "49766920",
+      "2480874",
+      "80022272",
+      "11330232",
+      "69898227",
+      "70001102",
+      "2630764",
+      "16311235",
+      "1922840",
+      "143727783",
+      "144394008",
+      "118979204",
+      "2990074",
+      "93396609",
+      "103290366",
+      "2996940",
+      "33150433",
+      "2894310",
+      "145496709",
+      "3396827",
+      "3056693",
+      "3434975",
+      "2994552",
+      "2411655831",
+      "1831662",
+      "144269637",
+      "2095325",
+      "104220916"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "669d5f8dc4e570c750b0c742ad28c3915dd8f134",
+    "title": "Intertemporal price discrimination with two products",
+    "year": 2019,
+    "author_ids": [
+      "2095325",
+      "2132978"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 8,
+    "abstract": "We study the two\u2010product monopoly profit maximization problem for a seller who can commit to a dynamic pricing strategy. We show that if consumers' valuations are not strongly ordered, then optimality for the seller can require intertemporal price discrimination: the seller offers a choice between supplying a complete bundle now, or delaying the supply of a component of that bundle until a later date. For general valuations, we establish a sufficient condition for such dynamic pricing to be more profitable than mixed bundling. So we show that the established no\u2010discrimination\u2010across\u2010time result does not extend to two\u2010product sellers under standard taste distributions."
+  },
+  {
+    "paper_id": "71795707982890458c87aa08d1a065b4bae79f10",
+    "title": "Can Finance Make the Planet Greener ?",
+    "year": 2019,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8e0d0003732660e6e3da4a8f5efd90426e04ca1c",
+    "title": "The Rise of NGO Activism",
+    "year": 2019,
+    "author_ids": [
+      "102141151",
+      "2095325"
+    ],
+    "venue": "American Economic Journal: Economic Policy",
+    "citation_count": 38,
+    "abstract": "Activist nongovernmental organizations (NGOs) increasingly oppose firms\u2019 practices. We suggest this might be related to the vulnerability of public regulation to corporate influence. We examine a potentially harmful industrial project subject to regulatory approval. Under industry influence, the regulator may approve the project even though it is harmful. However, an NGO may oppose it. We characterize the circumstances under which NGO opposition occurs and under which it is socially beneficial. Our theory explains the role that NGOs have assumed in the last decades, and has implications for the social legitimacy of activism and the appropriate degree of transparency of industrial activities. (JEL D21, D74, D82, L31, L51)"
+  },
+  {
+    "paper_id": "9041e40705d8ed88836117826ec884b1ed7aa711",
+    "title": "Two Sided Markets : An Overview (semanticscholar.org)",
+    "year": 2019,
+    "author_ids": [
+      "2095325",
+      "3056693"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "be17acda22ca3e05ad0bb1f52c344c570015721f",
+    "title": "Risk Management In Turbulent Times By Gilles Beneplanc;Jean-Charles Rochet",
+    "year": 2019,
+    "author_ids": [
+      "2059840084",
+      "2080011234",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "135319a241624e44557e4b566c4df3f20b72b35d",
+    "title": "Money, Banking and Financial Markets [adjusting for 2018-11-21 test] ECONOMIC",
+    "year": 2018,
+    "author_ids": [
+      "2392738",
+      "2620985",
+      "2240553533",
+      "2241003307",
+      "2241009960",
+      "2241003079",
+      "103534884",
+      "2095325",
+      "9147481",
+      "2239752772",
+      "2241004649",
+      "2329069319"
+    ],
+    "venue": null,
+    "citation_count": 67,
+    "abstract": null
+  },
+  {
+    "paper_id": "2446180524ad37bf8bd84dd3f4c4e8848a7fd303",
+    "title": "SHAREHOLDER RISK MEASURES",
+    "year": 2018,
+    "author_ids": [
+      "2525424",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4427265dc0bffdcdf574391e7cf87d7a1159d13c",
+    "title": "Leverage Dynamics without Commitment",
+    "year": 2018,
+    "author_ids": [
+      "3393931",
+      "2242030800",
+      "2259185174",
+      "2259194130",
+      "119038508",
+      "2237746098",
+      "2412463460",
+      "144662444",
+      "2411595044",
+      "2350187022",
+      "119048581",
+      "35002483",
+      "11402332",
+      "2411255748",
+      "2095325",
+      "48530128",
+      "120690976"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "68f8bf4b5d01e929d9e67f6964854c137c11a0c3",
+    "title": "5. Applications to Insurance",
+    "year": 2018,
+    "author_ids": [
+      "1403263314",
+      "2095325"
+    ],
+    "venue": "Continuous-Time Models in Corporate Finance, Banking, and Insurance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "72b0a9c38ca73aae9a26bcaf909ecf360b6d9604",
+    "title": "Appendix C Useful Mathematical Results",
+    "year": 2018,
+    "author_ids": [
+      "1403263314",
+      "2095325"
+    ],
+    "venue": "Continuous-Time Models in Corporate Finance, Banking, and Insurance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cdb24e7ba5aa600bc0c8e5aab8f9b47e4a496b3f",
+    "title": "1. Why Is Option Pricing Useful in Corporate Finance?",
+    "year": 2018,
+    "author_ids": [
+      "1403263314",
+      "2095325"
+    ],
+    "venue": "Continuous-Time Models in Corporate Finance, Banking, and Insurance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f11e47b33f30d8400a11b818d25c416482b46150",
+    "title": "Continuous-Time Models in Corporate Finance, Banking, and Insurance: A User's Guide",
+    "year": 2018,
+    "author_ids": [
+      "1403263314",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "05557663332581c019eed2a1690f1404b996cd8a",
+    "title": "Dividends with random profitability rate",
+    "year": 2017,
+    "author_ids": [
+      "16120045",
+      "2095325",
+      "1697174"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "3623458bdf20ca3ec2bda525e9e5e03ba0601039",
+    "title": "Financial Intermediation, Capital Accumulation and Crisis Recovery",
+    "year": 2017,
+    "author_ids": [
+      "2194458",
+      "2095325",
+      "91570860"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "\n We integrate bank and bond financing into a two-sector neoclassical growth model and identify an automatic stabilization effect due to endogenous bank leverage adjustment. We show that although bank leverage amplifies shocks, the increase of leverage due to a decline in bank equity partially offsets the post crisis decline of bank lending and accelerates economic recovery by reducing the persistence of the bank lending channel. In this case, endogenous leverage adjustment is an automatic stabilizer. Regulatory state-independent capital limits and wage rigidities impair the re-allocation of capital between sectors and weaken this automatic stabilization. A quantitative analysis of the US during the Great Recession shows that the magnitude of automatic stabilization can be significant and informs about potentially high costs of strict capital regulation or wage rigidities during banking crises."
+  },
+  {
+    "paper_id": "725cc684c4f07d6ec0ec231aa43526b7f9881f83",
+    "title": "Capital Regulation and Credit Fluctuations",
+    "year": 2017,
+    "author_ids": [
+      "2194458",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 107,
+    "abstract": null
+  },
+  {
+    "paper_id": "a70fd049aab983b76411f6c3bcf110f3f85d275c",
+    "title": "Charles A. Dice Center for Research in Financial Economics Procyclical Finance: The Money View",
+    "year": 2017,
+    "author_ids": [
+      "2271504176",
+      "2269853759",
+      "2270362427",
+      "2271816097",
+      "2258699138",
+      "2271769503",
+      "144743716",
+      "2252258956",
+      "12689481",
+      "2237174279",
+      "2108637903",
+      "21506025",
+      "2249386057",
+      "119048581",
+      "2292768581",
+      "2420424",
+      "2270329290",
+      "2241741808",
+      "2270362630",
+      "2414215",
+      "2237596521",
+      "2095325",
+      "9818700",
+      "2239356206",
+      "2335474708",
+      "2270267136",
+      "2270341490",
+      "2820319",
+      "2238571230",
+      "2271399201",
+      "2272725197",
+      "2259758316"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "b8753a4279db2d8139edbfabb9117a3a48cac643",
+    "title": "Markets Are Efficient",
+    "year": 2017,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "da4f0780872fb17e1104eb0092a5742f9e69fc59",
+    "title": "Balancing the Banks",
+    "year": 2017,
+    "author_ids": [
+      "51218054",
+      "2095325",
+      "3056693",
+      "93627660"
+    ],
+    "venue": null,
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "f5e44f1ca3ecf139d57a051833097c1b1e01bb73",
+    "title": "Optimal dividend policies with random profitability",
+    "year": 2017,
+    "author_ids": [
+      "1388063599",
+      "2095325",
+      "1697174"
+    ],
+    "venue": "Mathematical Finance",
+    "citation_count": 29,
+    "abstract": "We study an optimal dividend problem under a bankruptcy constraint. Firms face a trade\u2010off between potential bankruptcy and extraction of profits. In contrast to previous works, general cash flow drifts, including Ornstein\u2013Uhlenbeck and CIR processes, are considered. We provide rigorous proofs of continuity of the value function, whence dynamic programming, as well as comparison between discontinuous sub\u2010 and supersolutions of the Hamilton\u2013Jacobi\u2013Bellman equation, and we provide an efficient and convergent numerical scheme for finding the solution. The value function is given by a nonlinear partial differential equation (PDE) with a gradient constraint from below in one direction. We find that the optimal strategy is both a barrier and a band strategy and that it includes voluntary liquidation in parts of the state space. Finally, we present and numerically study extensions of the model, including equity issuance and gambling for resurrection."
+  },
+  {
+    "paper_id": "fed35ea5a5e217a0335698025d88e6c0b66f5d18",
+    "title": "A simple macroeconomic model with extreme financial frictions",
+    "year": 2017,
+    "author_ids": [
+      "145317833",
+      "9691710",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "3057a7a317f3b26d49e9831854718ec614097c78",
+    "title": "Complex Outliers of Hermitian Random Matrices",
+    "year": 2016,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": "Journal of theoretical probability",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "336f93bf5accf1a4dc2cac5527a8ec74ef2966a6",
+    "title": "Fluctuation of Matrix Entries and Application to Outliers of Elliptic Matrices",
+    "year": 2016,
+    "author_ids": [
+      "1403061192",
+      "102411434",
+      "2095325"
+    ],
+    "venue": "Canadian Journal of Mathematics - Journal Canadien de Mathematiques",
+    "citation_count": 3,
+    "abstract": "Abstract For any family of $N\\,\\times \\,N$ random matrices ${{\\left( {{\\text{A}}_{k}} \\right)}_{k\\in K}}$ that is invariant, in law, under unitary conjugation, we give general sufficient conditions for central limit theorems for random variables of the type $\\text{Tr}\\left( {{\\text{A}}_{k}}\\text{M} \\right)$ , where the matrix $\\text{M}$ is deterministic (such random variables include, for example, the normalized matrix entries of ${{\\text{A}}_{k}}$ ). A consequence is the asymptotic independence of the projection of the matrices ${{\\text{A}}_{k}}$ onto the subspace of null trace matrices from their projections onto the orthogonal of this subspace. These results are used to study the asymptotic behavior of the outliers of a spiked elliptic random matrix. More precisely, we show that the fluctuations of these outliers around their limits can have various rates of convergence, depending on the Jordan Canonical Form of the additive perturbation. Also, some correlations can arise between outliers at a macroscopic distance from each other.These phenomena have already been observed with random matrices from the Single Ring Theorem."
+  },
+  {
+    "paper_id": "658c0d5be87d4aa7c4bbb426b49e6dba0a449492",
+    "title": "The Dynamics of Insurance Prices",
+    "year": 2016,
+    "author_ids": [
+      "92237126",
+      "145317833",
+      "2095325"
+    ],
+    "venue": "The Geneva Risk and Insurance Review",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "662d4a4f4b5b2b6e102c561650019834c0cdd6a2",
+    "title": "The Dynamics of Insurance Prices",
+    "year": 2016,
+    "author_ids": [
+      "92237126",
+      "145317833",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 25,
+    "abstract": null
+  },
+  {
+    "paper_id": "e348b69fa67988c0b45ee81ddc7a79a44d4c1028",
+    "title": "Isolated eigenvalues of non Hermitian random matrices",
+    "year": 2016,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "\n Dans cette th\u00e8se, il est question de spiked models pour des matrices al\u00e9atoires nonhermitiennes. Plus pr\u00e9cis\u00e9ment, on consid\u00e8re des matrices de type A+P, tel que le rang de P reste born\u00e9 ind\u00e9pendamment de la taille de la matrice qui tend vers l\u2019infini, et tel que A est une matrice al\u00e9atoire non-hermitienne. Tout d\u2019abord, on prouve que dans le cas o\u00f9 la matrice P poss\u00e8de des valeurs propres hors du bulk, quelques valeurs propres de A+P (appel\u00e9es outliers) apparaissent loin de celui-ci. Ensuite, on regarde les fluctuations des outliers de A autour de leurs limites et on montre que celles-ci ont la m\u00eame distribution que les valeurs propres d\u2019une certaine matrice al\u00e9atoire de taille finie. Ce genre de ph\u00e9nom\u00e8ne avait d\u00e9j\u00e0 \u00e9t\u00e9 observ\u00e9 pour des mod\u00e8les hermitiens. De mani\u00e8re inattendue, on montre que les vitesses de convergence des outliers varient (en fonction de la R\u00e9duite de Jordan de P) et que des corr\u00e9lations peuvent appara\u00eetre entre des outliers situ\u00e9s \u00e0 une distance macroscopique l\u2019un de l\u2019autre. Le premier mod\u00e8le de matrices non-hermitiennes que l\u2019on consid\u00e8re provient du th\u00e9or\u00e8me du Single Ring que l\u2019on doit \u00e0 Guionnet, Krishnapur et Zeitouni. Un autre mod\u00e8le \u00e9tudi\u00e9 est celui des matrices dites \u201cpresque\u201d hermitiennes : c\u2019est-\u00e0-dire lorsque A est hermitienne mais P ne l\u2019est pas. Enfin, on regarde aussi les outliers pour des matrices Elliptiques Gaussiennes. Cette th\u00e8se traite aussi de la convergence en loi de variables al\u00e9atoires du type Tr( f (A)M) o\u00f9 A est une matrice du th\u00e9or\u00e8me du Single Ring et f est une fonction holomorphe sur un voisinage du bulk et la norme de Frobenius de M est de l\u2019ordre de \u221aN. En corollaire de ce r\u00e9sultat, on obtient des th\u00e9or\u00e8mes type \u201cCentrale Limite\u201d pour les statistiques lin\u00e9aires de A (pour des fonctions tests holomorphes) et des projections de rang finies de la matrice A (comme par exemple les entr\u00e9es de la matrice)."
+  },
+  {
+    "paper_id": "1e18b4cf30cbb42bfeb4e7b6fa45efe0daf2984d",
+    "title": "Complex Outliers of Hermitian Random Matrices",
+    "year": 2015,
+    "author_ids": [
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 12,
+    "abstract": "In this paper, we study the asymptotic behavior of the outliers of the sum a Hermitian random matrix and a finite rank matrix which is not necessarily Hermitian. We observe several possible convergence rates and outliers locating around their limits at the vertices of regular polygons as in Benaych-Georges and Rochet (Probab Theory Relat Fields, 2015), as well as possible correlations between outliers at macroscopic distance as in Knowles and Yin (Ann Probab 42(5):1980\u20132031, 2014) and Benaych-Georges and Rochet (2015). We also observe that a single spike can generate several outliers in the spectrum of the deformed model, as already noticed in Benaych-Georges and Nadakuditi (Adv Math 227(1):494\u2013521, 2011) and Belinschi et al. (Outliers in the spectrum of large deformed unitarily invariant models 2012, arXiv:1207.5443v1). In the particular case where the perturbation matrix is Hermitian, our results complete the work of Benaych-Georges et al. (Electron J Probab 16(60):1621\u20131662, 2011), as we consider fluctuations of outliers lying in \u201choles\u201d of the limit support, which happen to exhibit surprising correlations."
+  },
+  {
+    "paper_id": "285adc663d7ba784239b1dcb49700f0931ad2189",
+    "title": "Risky utilities",
+    "year": 2015,
+    "author_ids": [
+      "2095325",
+      "144995226"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "35995508f3ec25a43e3879adfb88ca99532eb715",
+    "title": "Fluctuations for analytic test functions in the Single Ring Theorem",
+    "year": 2015,
+    "author_ids": [
+      "1403061192",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We consider a non-Hermitian random matrix $A$ whose distribution is invariant under the left and right actions of the unitary group. The so-called Single Ring Theorem, proved by Guionnet, Krishnapur and Zeitouni, states that the empirical eigenvalue distribution of $A$ converges to a limit measure supported by a ring $S$. In this text, we establish the convergence in distribution of random variables of the type $Tr (f(A)M)$ where $f$ is analytic on $S$ and the Frobenius norm of $M$ has order $\\sqrt{N}$. As corollaries, we obtain central limit theorems for linear spectral statistics of $A$ (for analytic test functions) and for finite rank projections of $f(A)$ (like matrix entries). As an application, we locate outliers in multiplicative perturbations of $A$."
+  },
+  {
+    "paper_id": "3813533d5d4f97ac7d6b68477f1cb4e04a236eba",
+    "title": "Sovereign Debt Sustainability in Advanced Economies",
+    "year": 2015,
+    "author_ids": [
+      "49766920",
+      "144082295",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 70,
+    "abstract": null
+  },
+  {
+    "paper_id": "4cc12c17e5eb38eecc9fcdbd39c38bbb6780524e",
+    "title": "Lending Standards , Credit Booms , and Monetary Policy",
+    "year": 2015,
+    "author_ids": [
+      "69878125",
+      "2102017028",
+      "93098269",
+      "2247673660",
+      "2257182441",
+      "2247688286",
+      "2061584090",
+      "2238467525",
+      "75077953",
+      "2095325",
+      "2095586303"
+    ],
+    "venue": null,
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "9c217f64ea4bde9fed475de33b0894d0ad1141c3",
+    "title": "Taking Banks to Solow",
+    "year": 2015,
+    "author_ids": [
+      "2194458",
+      "2095325",
+      "91570860"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "b22e9823ccd7a75b78b1faedfaf41e617b42ab42",
+    "title": "A Theory of the Stakeholder Corporation",
+    "year": 2015,
+    "author_ids": [
+      "104298480",
+      "3389014",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 135,
+    "abstract": null
+  },
+  {
+    "paper_id": "f51f71f3a6ca14636cd995a1cd9d5d448092de0f",
+    "title": "Bank Capital and Aggregate Credit Nataliya Klimenko",
+    "year": 2015,
+    "author_ids": [
+      "9691710",
+      "2095325"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

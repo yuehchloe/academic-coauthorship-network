@@ -1,0 +1,406 @@
+[
+  {
+    "paper_id": "5080422a0049634d24ebf7c77d44251f4ffd2893",
+    "title": "Optimal Auction Design under Costly Learning",
+    "year": 2025,
+    "author_ids": [
+      "2352104041"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study optimal auction design in an independent private values environment where bidders can endogenously -- but at a cost -- improve information about their own valuations. The optimal mechanism is two-stage: at stage-1 bidders register an information acquisition plan and pay a transfer; at stage-2 they bid, and allocation and payments are determined. We show that the revenue-optimal stage-2 rule is the Vickrey--Clarke--Groves (VCG) mechanism, while stage-1 transfers implement the optimal screening of types and absorb information rents consistent with incentive compatibility and participation. By committing to VCG ex post, the pre-auction information game becomes a potential game, so equilibrium information choices maximize expected welfare; the stage-1 fee schedule then transfers an optimal amount of payoff without conditioning on unverifiable cost scales. The design is robust to asymmetric primitives and accommodates a wide range of information technologies, providing a simple implementation that unifies efficiency and optimal revenue in environments with endogenous information acquisition."
+  },
+  {
+    "paper_id": "4c6997c780672d6f1ed95e9a7b29531cbb2ebeb1",
+    "title": "From Best Responses to Learning: Investment Efficiency in Dynamic Environment",
+    "year": 2025,
+    "author_ids": [
+      "2324990917",
+      "2320819519",
+      "48499717"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We study the welfare of a mechanism in a dynamic environment where a learning investor can make a costly investment to change her value. In many real-world problems, the common assumption that the investor always makes the best responses, i.e., choosing her utility-maximizing investment option, is unrealistic due to incomplete information in a dynamically evolving environment. To address this, we consider an investor who uses a no-regret online learning algorithm to adaptively select investments through repeated interactions with the environment. We analyze how the welfare guarantees of approximation allocation algorithms extend from static to dynamic settings when the investor learns rather than best-responds, by studying the approximation ratio for optimal welfare as a measurement of an algorithm's performance against different benchmarks in the dynamic learning environment. First, we show that the approximation ratio in the static environment remains unchanged in the dynamic environment against the best-in-hindsight benchmark. Second, we provide tight characterizations of the approximation upper and lower bounds relative to a stronger time-varying benchmark. Bridging mechanism design with online learning theory, our work shows how robust welfare guarantees can be maintained even when an agent cannot make best responses but learns their investment strategies in complex, uncertain environments."
+  },
+  {
+    "paper_id": "5ab130370b0d3cd000df9e9fd014fd93d2a33c4a",
+    "title": "A Case for Pay-as-Bid Auctions",
+    "year": 2025,
+    "author_ids": [
+      "2263697728",
+      "2057897443"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "571ecb1bce3bd8f57a9248d0a331b3f31c958dcb",
+    "title": "Coasian Dynamics with Free Disposability and Zero Marginal Cost: Information Goods",
+    "year": 2025,
+    "author_ids": [
+      "2305727631"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper studies a durable goods monopoly with multiple provision levels, free disposability, and zero marginal cost. We establish a Folk-Theorem-type result: as parties become sufficiently patient, equilibrium seller payoffs contains an interval bounded below by the lowest-type buyer's efficient surplus and above by the maximal static payoff under incentive-compatible mechanisms guaranteeing that type efficient provision. This multiplicity arises because free disposability and zero marginal cost render the efficient provision level non-unique. Our analysis demonstrates how structural features common in information goods can undermine the Coase conjecture."
+  },
+  {
+    "paper_id": "ec61f632a301cea5ba84fc37230822dbb17af7a2",
+    "title": "Innovation incentives and competition for corporate resources",
+    "year": 2025,
+    "author_ids": [
+      "3172311",
+      "50378238"
+    ],
+    "venue": "Review of accounting studies",
+    "citation_count": 1,
+    "abstract": "This paper investigates how competition for scarce corporate resources impacts innovation incentives within multidivisional firms and, consequently, shapes firms\u2019 preferences for fostering or restricting intra-firm competition. In our model, divisions become privately informed about the potential value of new investment opportunities generated through their innovation initiatives. We demonstrate that intra-firm competition unambiguously reduces divisions\u2019 ex ante innovation incentives. However, it benefits ex post resource allocation by enabling the firm to (i) select the most promising project and (ii) limit the rents divisions earn from their private information. Consequently, a firm\u2019s preference to limit or encourage interdivisional competition hinges on balancing ex post allocative efficiency, which favors increased intra-firm competition, against ex ante innovation incentives, which favor reduced competition. Our analysis identifies plausible conditions under which each organizational design\u2014competitive or exclusive innovation\u2014emerges as the optimal choice."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "32bc278e88fdaf0394c49630c6015bf7294f8b7c",
+    "title": "Revenue Maximization Under Unknown Private Values with Nonobligatory Inspection",
+    "year": 2024,
+    "author_ids": [
+      "145842420",
+      "143942794",
+      "3079666"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 0,
+    "abstract": "Rethinking Informational Assumptions in Mechanism Design Mechanism design has proven to be very effective is soliciting buyers\u2019 incentives and finding the optimal way of allocating scares resources. A common assumption in classic mechanism design, however, is that buyers have full information about their values. Motivated by application in e-commerce, Alaei et al. (2024) consider settings without this assumption and finds the optimal selling mechanism for them."
+  },
+  {
+    "paper_id": "24180aa81da1407c14697a707c917948801899be",
+    "title": "Optimal Allocation via Waitlists: Simplicity through Information Design",
+    "year": 2024,
+    "author_ids": [
+      "1717971",
+      "1396810650",
+      "3139725"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "\n We study nonmonetary markets where objects that arrive over time are allocated to unit-demand agents with private types, such as in the allocation of public housing or deceased-donor organs. An agent\u2019s value for an object is supermodular in her type and the object quality, and her payoff is her value minus her waiting cost. The social planner's objective is a weighted sum of allocative efficiency (i.e., the sum of values) and welfare (i.e., the sum of payoffs). We identify optimal mechanisms in the class of direct-revelation mechanisms. When the social planner can design the information disclosed to the agents about the objects, the optimal mechanism has a simple implementation: a first-come first-served waitlist with deferrals. In this implementation, the object qualities are partitioned into intervals; only the interval containing the object quality is disclosed to agents. When the planner places a higher weight on welfare, optimal disclosure policies become coarser."
+  },
+  {
+    "paper_id": "ad1f4fafda18df98ad28bcd8c351120d60872447",
+    "title": "Auction Design with Shortlisting When Value Discovery is Covert",
+    "year": 2023,
+    "author_ids": [
+      "2787242",
+      "2112638993",
+      "34979384"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "This paper studies optimal auction design when buyers\u2019 value discovery investment is covert but essential for mutually beneficial trade between seller and buyers. Since selling mechanisms contingent on value discovery (e.g. ex ante fees charged upon information acquisition) are not feasible, a framework of second price auctions with reserves contingent on number of actual bidders ex post is adopted. Under a regularity condition of monotone hazard rate, we find that the optimal reserve depends on the number of shortlisted bidders, but not on the number of actual bidders. Depending on the value discovery cost, the seller shortlists either the socially efficient number of buyers or one more bidder. The comparison between the two options of the seller is completely resolved. The optimal reserve depends discontinuously and non-monotonically on the value discovery cost. In the former case, equilibrium information acquisition is efficient but ex post allocation is inefficient, while in the latter case it is the opposite."
+  },
+  {
+    "paper_id": "999eaad05ab36dc292366054ff17773150183da8",
+    "title": "Non-Market Allocation Mechanisms: Optimal Design and Investment Incentives",
+    "year": 2023,
+    "author_ids": [
+      "2307473353",
+      "1405139922"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study how to optimally design selection mechanisms, accounting for agents'investment incentives. A principal wishes to allocate a resource of homogeneous quality to a heterogeneous population of agents. The principal commits to a possibly random selection rule that depends on a one-dimensional characteristic of the agents she intrinsically values. Agents have a strict preference for being selected by the principal and may undertake a costly investment to improve their characteristic before it is revealed to the principal. We show that even if random selection rules foster agents'investments, especially at the top of the characteristic distribution, deterministic\"pass-fail\"selection rules are in fact optimal."
+  },
+  {
+    "paper_id": "d5a42657618781dc16b358c38f3a10bb3f77389b",
+    "title": "Nonlinear Pricing with Underutilization: A Theory of Multi-part Tariffs",
+    "year": 2023,
+    "author_ids": [
+      "119159863",
+      "1726112402",
+      "36346609"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 5,
+    "abstract": "We study the nonlinear pricing of goods whose usage generates revenue for the seller and of which buyers can freely dispose. The optimal price schedule is a multi-part tariff, featuring tiers within which buyers pay a marginal price of zero. We apply our model to digital goods, for which advertising, data generation, and network effects make usage valuable, but monitoring legitimate usage is infeasible. Our results rationalize common pricing schemes including free products, free trials, and unlimited subscriptions. The possibility of free disposal harms producer and consumer welfare and makes both less sensitive to changes in usage-based revenue and demand. (JEL D11, D21, D42, L86, M37)"
+  },
+  {
+    "paper_id": "74d618fbf1c3f7d74c05ca703b13d62f8dd61158",
+    "title": "Differential treatment and the winner's effort in contests with incomplete information",
+    "year": 2022,
+    "author_ids": [
+      "2325513",
+      "50495997"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 4,
+    "abstract": "We study the design of all-pay contests when the organizer\u2019s objective is to maximize the expected winner\u2019s effort and contestants have private information about their valuations for the prize. We identify sufficient conditions for every optimal contest to involve differential treatment of ex ante symmetric contestants. Moreover, we provide a complete characterization of optimal contests when valuations are uniformly distributed. Finally, we demonstrate that when differential treatment is allowed, maximizing the expected winner\u2019s effort is different from maximizing the expected highest effort, which can be strictly greater in the optimum."
+  },
+  {
+    "paper_id": "77bfc54aa982c7d15dfe22bacfdb2e92c3c1f874",
+    "title": "Beckmann's approach to multi-item multi-bidder auctions",
+    "year": 2022,
+    "author_ids": [
+      "153053314",
+      "2948341",
+      "3294084",
+      "144757635"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 15,
+    "abstract": "We consider the problem of revenue-maximizing Bayesian auction design with several i.i.d. bidders and several items. We show that the auction-design problem can be reduced to the problem of continuous optimal transportation introduced by Beckmann (1952). We establish the strong duality between the two problems and demonstrate the existence of solutions. We then develop a new numerical approximation scheme that combines multi-to-single-agent reduction and the majorization theory insights to characterize the solution."
+  },
+  {
+    "paper_id": "40c4728eb2ae78f4a8b1ee5ebbcb8370ac74f5d2",
+    "title": "Reduced-form budget allocation with multiple public alternatives",
+    "year": 2022,
+    "author_ids": [
+      "2067237550"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "1a9c7ef95306c02e119b6c5dc19faa5ea1e9ce3e",
+    "title": "Monopoly, Product Quality, and Flexible Learning",
+    "year": 2022,
+    "author_ids": [
+      "72044649",
+      "114355951"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "A seller offers a buyer a schedule of transfers and associated product qualities. After observing this schedule, the buyer chooses a flexible costly signal about his type. We show it is without loss to focus on a class of mechanisms that compensate the buyer for his learning costs. Using these mechanisms, we prove that when marginal costs of quality are strictly increasing, quality always lies strictly below the efficient level at all types strictly below the highest possible type under the prior. When learning costs are sufficiently steep, it follows the monopolist optimum distorts quality downward even\"at the top\"of the buyer's chosen signal structure. Moreover, when marginal costs of quality are constant, interior buyer types obtain interior qualities. These results stand in contrast to the exogenous information case, which features\"no distortion at the top\"when marginal production costs are increasing, and serving the maximal quality to all types above some threshold when marginal product costs are constant. We also show that when learning costs are steep, the monopolist finds it optimal to offer a simple menu that contains at most two purchasing options. Under appropriate curvature conditions, offering a single purchasing option is optimal."
+  },
+  {
+    "paper_id": "15f7ab23bfe488090c82a376cfcc319b678dac16",
+    "title": "Reduced-Form Allocations with Complementarity: A 2-Person Case",
+    "year": 2022,
+    "author_ids": [
+      "2067237550"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "We investigate the implementation of reduced-form allocation probabilities in a two-person bargaining problem without side payments, where the agents have to select one alternative from a finite set of social alternatives. We provide a necessary and sufficient condition for the implementability. We find that the implementability condition in bargaining has some new feature compared to Border\u2019s theorem. Our results have applications in compromise problems and package exchange problems where the agents barter indivisible objects and the agents value the objects as complements."
+  },
+  {
+    "paper_id": "f07bcca0acabf52decddb6fc9308c9344006adba",
+    "title": "Orchestrating Information Acquisition",
+    "year": 2021,
+    "author_ids": [
+      "34979384",
+      "40340232",
+      "2112638993"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 9,
+    "abstract": "We study how to orchestrate information acquisition in an environment where bidders endowed with original estimates (\u201ctypes\u201d) about their private values can acquire further information by incurring a cost. We consider both single-round and fully sequential short-listing rules. The optimal single-round shortlisting rule admits the set of most efficient bidders that maximizes expected virtual surplus adjusted by the second-stage signal and information acquisition cost. When shortlisting is fully sequential, at each round, the most efficient remaining bidder is admitted provided that her conditional expected contribution to the virtual surplus is positive. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "3c18f05b9ba661dba6fc3afd9ea2cde749efa4ca",
+    "title": "Screening with Under-Utilization: Tiers, Add-ons, and Multi-Part Tariffs",
+    "year": 2021,
+    "author_ids": [
+      "119159863",
+      "1726112402",
+      "36346609"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We propose a model of screening in which agents have satiated preferences and can engage in under-utilization. We characterize implementable and optimal contracts and show that, whenever the principal has positive externalities from agents' consumption, the optimal menu involves multi-part tariffs with regions of zero marginal cost. We apply our results to study the pricing of digital goods which naturally feature usage-based externalities and unpunishable under-utilization (e.g., social media, online news, and media streaming). We derive comparative statics to study the mapping of different externalities to familiar multi-part pricing schemes (premium plans, freemium models, and free products) and the welfare implications of technological progress in targeted advertising and data collection. We also characterize the effects of monitoring utilization and apply our results to study regulation and taxation."
+  },
+  {
+    "paper_id": "8609c40b2b094bd9619a7f5a5174a6981cd7a848",
+    "title": "Selling Data to an Agent with Endogenous Information",
+    "year": 2021,
+    "author_ids": [
+      "2716214"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "We consider the model of the data broker selling information to a single agent to maximize his revenue. The agent has private valuation for the additional information, and upon receiving the signal from the data broker, the agent can conduct her own experiment to refine her posterior belief on the states with additional costs. In this paper, we show that in the optimal mechanism, the agent has no incentive to acquire any additional costly information under equilibrium. Still, the ability to acquire additional information distorts the incentives of the agent, and reduces the optimal revenue of the data broker. Moreover, assuming the valuation functions are linear, we fully characterize the revenue optimal mechanisms, which in general may be complex and contain a continuum of menu entries. However, we show that posting a deterministic price for revealing the states obtains at least half of the optimal revenue for arbitrary prior and cost functions. This leads to a sharp contrast to the exogenous information setting where the menu complexity can be unbounded for approximating the optimal revenue."
+  },
+  {
+    "paper_id": "f5e79e70eb981668938f932cb13b2a5d0a7d94e5",
+    "title": "Revenue Maximization for Buyers with Costly Participation",
+    "year": 2021,
+    "author_ids": [
+      "1708772",
+      "1754163",
+      "2716214",
+      "1694393"
+    ],
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "citation_count": 0,
+    "abstract": "We study mechanisms for selling a single item when buyers have private costs for participating in the mechanism. An agent's participation cost can also be interpreted as an outside option value that she must forego to participate. This substantially changes the revenue maximization problem, which becomes non-convex in the presence of participation costs. For multiple buyers, we show how to construct a $(2+\\epsilon)$-approximately revenue-optimal mechanism in polynomial time. Our approach makes use of a many-buyers-to-single-buyer reduction, and in the single-buyer case our mechanism improves to an FPTAS. We also bound the menu size and the sample complexity for the optimal single-buyer mechanism. Moreover, we show that posting a single price in the single-buyer case is in fact optimal under the assumption that either (1) the participation cost is independent of the value, and the value distribution has decreasing marginal revenue or monotone hazard rate; or (2) the participation cost is a concave function of the value. When there are multiple buyers, we show that sequential posted pricing guarantees a large fraction of the optimal revenue under similar conditions."
+  },
+  {
+    "paper_id": "ea13370c22067f0f9b6e2935e0ae94dca4eebe78",
+    "title": "Revenue Maximization for Buyers with Outside Options",
+    "year": 2021,
+    "author_ids": [
+      "1708772",
+      "1754163",
+      "2716214",
+      "1694393"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "fdb865bc5a253c53c0bb4d7b8293b644497c62af",
+    "title": "Extreme Points and Majorization: Economic Applications",
+    "year": 2020,
+    "author_ids": [
+      "34732812",
+      "2277670372",
+      "2277670372",
+      "2450616"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 115,
+    "abstract": "We characterize the set of extreme points of monotonic functions that are either majorized by a given function \n f or themselves majorize \n f and show that these extreme points play a crucial role in many economic design problems. Our main results show that each extreme point is uniquely characterized by a countable collection of intervals. Outside these intervals the extreme point equals the original function \n f and inside the function is constant. Further consistency conditions need to be satisfied pinning down the value of an extreme point in each interval where it is constant. We apply these insights to a varied set of economic problems: equivalence and optimality of mechanisms for auctions and (matching) contests, Bayesian persuasion, optimal delegation, and decision making under uncertainty.\n"
+  },
+  {
+    "paper_id": "0eef2cd5f82ae3cd69537f6815404c60c38ad959",
+    "title": "Simple Mechanisms for Agents with Non-linear Utilities",
+    "year": 2020,
+    "author_ids": [
+      "15171946",
+      "2346641",
+      "2716214"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We show that economic conclusions derived from Bulow and Roberts (1989) for linear utility models approximately extend to non-linear utility models. Speci\ufb01cally, we quantify the extent to which agents with non-linear utilities resemble agents with linear utilities, and we show that the approximation of mechanisms for agents with linear utilities approximately extend for agents with non-linear utilities. We illustrate the framework for the objectives of revenue and welfare on non-linear models that include agents with budget constraints, agents with risk aversion, and agents with endogenous valuations. We derive bounds on how much these models resemble the linear utility model and combine these bounds with well-studied approximation results for linear utility models. We conclude that simple mechanisms are approximately optimal for these non-linear agent models."
+  },
+  {
+    "paper_id": "328eb2ec2aca51dd2e559797532d75202459a5aa",
+    "title": "Feasible Joint Posterior Beliefs",
+    "year": 2020,
+    "author_ids": [
+      "2661139",
+      "2830102",
+      "2948341",
+      "1740329"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 33,
+    "abstract": "We study the set of possible joint posterior belief distributions of a group of agents who share a common prior regarding a binary state and who observe some information structure. For two agents, we introduce a quantitative version of Aumann\u2019s agreement theorem and show that it is equivalent to a characterization of feasible distributions from a 1995 work by Dawid and colleagues. For any number of agents, we characterize feasible distributions in terms of a \u201cno-trade\u201d condition. We use these characterizations to study information structures with independent posteriors. We also study persuasion problems with multiple receivers, exploring the extreme feasible distributions."
+  },
+  {
+    "paper_id": "15d58804f1ba700eef14c9aebf1d2617e9abb07d",
+    "title": "Distributing Resources: An Exploration of Auctions and Other Allocation Mechanisms",
+    "year": 2019,
+    "author_ids": [
+      "1678499355"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "832b85b0d44d1e92a0790d81b58d20333bde5ea7",
+    "title": "Algorithmic Mechanism Design With Investment",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 3,
+    "abstract": "We study the investment incentives created by truthful mechanisms that allocate resources using approximation algorithms. Some approximation algorithms guarantee nearly 100% of the optimal welfare in the allocation problem but guarantee nothing when accounting for investment incentives. An algorithm's allocative and investment guarantees coincide if and only if its \n confirming negative externalities are sufficiently small. We introduce fast approximation algorithms for the knapsack problem that have no confirming negative externalities and guarantees close to 100% for both allocation and investment.\n"
+  },
+  {
+    "paper_id": "f43f5d1e20f87bdad69f06ed5330a010861372ff",
+    "title": "Optimally Coarse Contracts",
+    "year": 2023,
+    "author_ids": [
+      "119159863",
+      "1726112402",
+      "2258288753"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study when a principal\u2019s difficulty in describing payoff-relevant outcomes leads contracts to be optimally incomplete. Our setting is a general principal-agent model in which agents\u2019 actions are partially contractible and the principal can choose the extent of contractibility at a cost. We first characterize implementable and optimal incomplete contracts for any fixed extent of contractibility. We next show that, if costs of contractibility satisfy a generalized notion of having a strictly positive marginal cost, then contracts are optimally coarse: they specify finitely many outcomes out of a continuum of possibilities. This provides a general foundation for incomplete contracts: even with arbitrarily small costs of contractibility, optimal contracts leave almost all outcomes unspecified. We apply these results in a standard nonlinear pricing setting to study when and why optimal price schedules have coarse tiers. In additional applications, we rationalize coarse product tiers in further assignment problems that feature menu costs, privacy concerns, and quality certification. \u2217MIT Department of Economics, 50 Memorial Drive, Cambridge, MA, 02142. Email: rcorrao@mit.edu. \u2020Yale University Department of Economics, 30 Hillhouse Avenue, New Haven, CT, 06511. Email: joel.flynn@yale.edu. \u2021Princeton University Department of Economics, Julis Romo Rabinowitz Building, Princeton, NJ, 08544, Email: ksastry@princeton.edu. We are grateful to Daron Acemoglu, Alessandro Bonatti, O\u011fuzhan \u00c7elebi, Daniel Chen, Piotr Dworczak, Drew Fudenberg, Robert Gibbons, Zi Yang Kang, Giacomo Lanzani, Stephen Morris, Ellen Muir, Jean Tirole, Jonathan Weinstein, Alexander Wolitzky, and Kai Hao Yang."
+  },
+  {
+    "paper_id": "8bd6e87d6c150e5fdec03f2a5e884c9948c8012d",
+    "title": "Choose your auction: Mechanism design for a bidder",
+    "year": 2023,
+    "author_ids": [
+      "121715831",
+      "2138663987"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8fee187102ccded768062b55cc4ec84a53e4c3e3",
+    "title": "Investment Incentives in Truthful Approximation Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "0d9523a8f30b466ef340bb5e63b53554b547c3ee",
+    "title": "Screening with Under-Utilization: Tiers, Multi-Part Tariffs, and Welfare Implications",
+    "year": 2021,
+    "author_ids": [
+      "119159863",
+      "1726112402",
+      "36346609"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "7fb1161788de32e6028547f2b0e94e213d7a74fb",
+    "title": "T H ] 2 2 D ec 2 02 0 Feasible Joint Posterior Beliefs",
+    "year": 2020,
+    "author_ids": [
+      "2661139",
+      "2830102",
+      "2948341",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8c7348549509bebe384a4191684c0dbc9c94d1f1",
+    "title": "Screening Inattentive Agents",
+    "year": 2019,
+    "author_ids": [
+      "72044649"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "Information plays a crucial role in mechanism design problems. A potential complication is that agents may be inattentive, and so information may endogenously and flexibly depend on what options are offered. I show that it is without loss to look at contour mechanisms, which comprise triplets of allocation probabilities, prices, and beliefs, and are uniquely determined by a single such point. The mechanism design problem then reduces to Bayesian persuasion along the optimal contour. The reduction to contour mechanisms has significant implications for both implementation of the optimal mechanism, and the revenues that can be achieved. I would like to thank Alex Gershkov, Konrad Mierendorff, Doron Ravid, Jakub Steiner, and Balazs Szentes, as well as various seminar participants at Tel Aviv University and the Technion for helpful conversations and comments. This project was generously supported by the Israel Science Foundation, Grant #798/18. Tal Shewlker provided excellent research assistance. Hebrew University; jeffrey.mensch@mail.huji.ac.il"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "paper_id": "0992740b6af093bcde456df4d690488e2b7325ac",
+    "title": "Regulating Platform Fees Under Price Parity",
+    "year": 2024,
+    "author_ids": [
+      "115528261",
+      "2404831"
+    ],
+    "venue": "Journal of the European Economic Association",
+    "citation_count": 15,
+    "abstract": "\n Online intermediaries greatly expand consumer information, but also raise sellers\u2019 marginal costs by charging high commissions. To prevent disintermediation, some platforms adopted price parity and anti-steering provisions, which restrict sellers\u2019 ability to use alternative sales channels. Whether to uphold, reform, or ban these provisions has been at the center of the policy debate, but, so far, little consensus has emerged. As an alternative, this paper studies how to cap platforms\u2019 commissions. The utilitarian cap reflects the Pigouvian precept according to which the platform should charge net fees no greater than the informational externality it exerts on other market participants."
+  },
+  {
+    "paper_id": "ad482129a4b8b49667ffc4c30ee7c635dfe8e32b",
+    "title": "Price customization and targeting in matching markets",
+    "year": 2024,
+    "author_ids": [
+      "115528261",
+      "39835022"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 8,
+    "abstract": "We introduce a model of (platform\u2010mediated) many\u2010to\u2010many matching in which agents' preferences are both vertically and horizontally differentiated. We first show how the model can be used to derive the profit\u2010maximizing matching plans under customized pricing. We then investigate the implications for targeting and welfare of uniform pricing (be it explicitly mandated or induced by privacy regulation), preventing the platform from conditioning prices on agents' profiles. The model can be applied to study ad exchanges, online retailing, and media\u00a0markets."
+  },
+  {
+    "paper_id": "74ab0f3afbe6ca5525edd6ddf63a8f0f271da571",
+    "title": "Mobile Payments and Interoperability: Insights from the Academic Literature",
+    "year": 2023,
+    "author_ids": [
+      "50399415",
+      "145396806",
+      "115528261",
+      "143890994",
+      "134850680"
+    ],
+    "venue": "Information Economics and Policy",
+    "citation_count": 17,
+    "abstract": "We connect various streams of academic literature to shed light on how the degree of interoperability in mobile payments affects market outcomes and welfare. We organize our discussion around four dimensions of interoperability. First, we consider mobile network interoperability (whether clients of one telecom can access another telecom\u2019s payment services) in connection with the IO literature on tying. Second, we discuss platform level interoperability (the ability to send money off-network) in light of the literature on compatibility. We also build on the behavioral IO literature to suggest how the effects of interoperability may be very heterogeneous across various types of firms and consumers, or even backfire. Third, we consider interoperability in the cash-in-cash-out agent network, in light of the literature on co-investment in network industries, and of more specific studies on ATMs\u2019 interoperability. Fourth, we discuss how the literature in banking and on data ownership can be used to understand interoperability of data. We conclude with some broader remarks on policy implications and on possible directions for future research."
+  },
+  {
+    "paper_id": "0238a2154c8360959aeaecf014b9a1abd75c86c1",
+    "title": "Two-sided Markets and Matching Design",
+    "year": 2021,
+    "author_ids": [
+      "115528261",
+      "39835022"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "a9fcd8337540cc2173141cf92a3597c384983d9b",
+    "title": "Oligopoly under incomplete information: On the welfare effects of price discrimination",
+    "year": 2021,
+    "author_ids": [
+      "31895329",
+      "115528261",
+      "35080542"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 0,
+    "abstract": "Abstract We study competition by firms that simultaneously post (potentially nonlinear) tariffs to consumers who are privately informed about their tastes. Market power stems from informational frictions, in that consumers are heterogeneously informed about firms\u2019 offers. In the absence of regulation, all firms offer quantity discounts. As a result, relative to Bertrand pricing, imperfect competition benefits disproportionately more consumers whose willingness to pay is high, rather than low. Regulation imposing linear pricing hurts the former but benefits the latter consumers. While consumer surplus increases, firms\u2019 profits decrease, enough to drive down utilitarian welfare. By contrast, improvements in market transparency increase utilitarian welfare, and achieve similar gains on consumer surplus as imposing linear pricing, although with limited distributive impact. On normative grounds, our analysis suggests that banning price discrimination is warranted only if its distributive benefits have a weight on the societal objective."
+  },
+  {
+    "paper_id": "f988e39118495c2b159e70ad09e3d6e29e7ff1e4",
+    "title": "Two-sided Markets, Platforms, and Matching Design \u2217",
+    "year": 2021,
+    "author_ids": [
+      "115528261",
+      "39835022",
+      "1737366",
+      "2720748",
+      "2271501170",
+      "2260893487",
+      "2330996261",
+      "2286150828"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "479e5444019e63a263d981a30b70810822d9dc06",
+    "title": "Nonlinear Pricing in Oligopoly: How Brand Preferences Shape Market Outcomes",
+    "year": 2020,
+    "author_ids": [
+      "115528261",
+      "118979204",
+      "35080542"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "12ef3a305a0c935aee9e2313bbf640c2663e88bc",
+    "title": "Shrouded transaction costs: must-take cards, discounts and surcharges",
+    "year": 2019,
+    "author_ids": [
+      "90276520",
+      "115528261",
+      "3056693"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 25,
+    "abstract": "Abstract The proliferation of new payment methods on the Internet rekindles the old and unsettled debate about merchants\u2019 incentive and ability to differentiate price according to payment choice. This paper develops an imperfect-information framework for the analysis of platform and social regulation of card surcharging and cash discounting. It makes three main contributions. First, it identifies the conditions under which concerns about missed sales induce merchants to perceive that they must take the card. Second, it derives a set of predictions about cash discounts, card surcharges and platform fees that shed light on existing evidence. Finally, it shows that the optimal regulation of surcharging is related to public policy toward merchant fees and substantially differs from current practice."
+  },
+  {
+    "paper_id": "1603086e96229db337beb92a56029d274927e0fc",
+    "title": "Competitive Screening Under Heterogeneous Information",
+    "year": 2018,
+    "author_ids": [
+      "2241992173",
+      "115528261",
+      "35080542"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 12,
+    "abstract": "\n We study the interplay between informational frictions and second-degree price discrimination. Our theory recognizes that consumers differ in their tastes for quality as well as in the information they possess about available offers, which leads to dispersion over price\u2013quality menus in equilibrium. While firms are ex ante identical, we show that their menus are ordered so that more generous menus leave more surplus to consumers of all valuations. We explore the cross-section of equilibrium menus and variations in market conditions to generate empirical predictions on prices, qualities, and markups across firms, and within a firm\u2019s product line. For instance, more competition may raise prices for low-quality goods; yet, consumers are better off, as the qualities they receive also increase. The predictions of our model illuminate empirical findings in many markets, such as those for cell phone plans, yellow-pages advertising, cable TV, and air travel."
+  },
+  {
+    "paper_id": "1754b43e6b25e34013a92ff9d607b092c1221c56",
+    "title": "Price customization and targeting in many-to-many matching markets",
+    "year": 2018,
+    "author_ids": [
+      "115528261",
+      "39835022"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "6a352ca09704be2055fec6296763a7e3fc78894a",
+    "title": "Price Customization and Targeting in Platform Markets",
+    "year": 2018,
+    "author_ids": [
+      "115528261",
+      "39835022"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "8a270feb36db1ab284a0094fbcbccd1c370dc6ba",
+    "title": "Missed Sales and the Pricing of Ancillary Goods*",
+    "year": 2018,
+    "author_ids": [
+      "115528261",
+      "3056693"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 25,
+    "abstract": "Firms often sell a basic good as well as ancillary ones. Hold-up concerns have led to ancillary good regulations, such as transparency and price caps. The hold-up narrative, however, runs counter to evidence in many retail settings where ancillary good prices are set below cost (e.g., free shipping or limited card surcharging in countries where the \u201cno-surcharge rule\u201d was lifted). We argue that the key to unifying these conflicting narratives is that the seller may absorb partly or fully the ancillary good\u2019s cost so as not to miss sales on the basic good. A supplier with market power on the ancillary good market then takes advantage of cost absorption and jacks up its wholesale price. Hold-ups occur only when consumers are initially uninformed or naive about the drip price and shopping costs are high. The price of the basic good then acts as a signal of the drip price, since a high markup on the basic good makes the firm more wary of missed sales. Regardless of whether consumers are informed, uninformed but rational, or naive, mandating price transparency and banning loss-making on the ancillary good leads to (i) an efficient consumption of the ancillary good, and (ii) a reduction of its wholesale price, generating strict welfare gains."
+  },
+  {
+    "paper_id": "614ac66baa9093a9e7a19d19f3df045f4cc2f8ed",
+    "title": "Experimentation and project selection: Screening and learning",
+    "year": 2016,
+    "author_ids": [
+      "115528261",
+      "144392282",
+      "35080542"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 33,
+    "abstract": null
+  },
+  {
+    "paper_id": "b05ce00c5069779e63f21cc3d801e6afa5835ec6",
+    "title": "Many-to-Many Matching and Price Discrimination \u21e4",
+    "year": 2016,
+    "author_ids": [
+      "115528261",
+      "39835022"
+    ],
+    "venue": null,
+    "citation_count": 65,
+    "abstract": "We study centralized many-to-many matching in markets where agents have private information about (vertical) characteristics that determine match values. Our analysis reveals how matching patterns reflect cross-subsidization between sides. Agents are endogenously partitioned into consumers and inputs .A t the optimum, the costs of procuring agents-inputs are compensated by the gains from agents-consumers. We show how such cross-subsidization can be achieved through matching rules that have a simple threshold structure and are assortative in the weak-order (set inclusion) sense. We then deliver testable predictions relating the optimal matching rules and price schedules to the distribution of the agents\u2019 characteristics. The analysis has implications for the design of large matching intermediaries, such as advertising exchanges, business-to-business platforms, and online job-matching agencies."
+  },
+  {
+    "paper_id": "b466c45ec58ae8433e862f8445070d66a4a3d631",
+    "title": "Di\u21b5erential Taxation and Occupational Choice Supplementary Material",
+    "year": 2016,
+    "author_ids": [
+      "115528261",
+      "118979204",
+      "39835022"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "98748957bef1405db9068d0abc773e9f9627e278",
+    "title": "Matching Plans for Agents with Vertically and Horizontally Differentiated Preferences\u2217",
+    "year": 2015,
+    "author_ids": [
+      "115528261"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  }
+]

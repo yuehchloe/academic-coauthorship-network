@@ -1,0 +1,780 @@
+[
+  {
+    "paper_id": "732d78e622380e484a0534d9d0b633687a11d5db",
+    "title": "The Impact of School District Turnaround on Postsecondary Outcomes: Evidence From Lawrence, Massachusetts",
+    "year": 2025,
+    "author_ids": [
+      "2267565954",
+      "2380322008",
+      "2380259492"
+    ],
+    "venue": "Educational Research",
+    "citation_count": 0,
+    "abstract": "Limited research examines the impact of accountability interventions on outcomes beyond test-based measures of short-term academic achievement. We examine the effects of the 2012 state takeover and district-wide turnaround of Massachusetts\u2019s Lawrence Public Schools\u2014a district serving a majority-low-income, majority-Hispanic student population\u2014on high school and postsecondary outcomes using statewide, student-level data covering 2005\u20132006 to 2019\u20132020 and event study methods. These interventions have served as a model for other district turnaround efforts in the state and nationally. We find reforms improved high school graduation rates but find no impact on college enrollment and null to small negative effects on postsecondary persistence."
+  },
+  {
+    "paper_id": "eb4c93223333b5a141d7045c8ed7753b39862768",
+    "title": "Strategic Response of News Publishers to Generative AI",
+    "year": 2025,
+    "author_ids": [
+      "2265457541",
+      "2265272490"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Generative AI can adversely impact news publishers by lowering consumer demand. It can also reduce demand for newsroom employees, and increase the creation of news\"slop.\"However, it can also form a source of traffic referrals and an information-discovery channel that increases demand. We use high-frequency granular data to analyze the strategic response of news publishers to the introduction of Generative AI. Many publishers strategically blocked LLM access to their websites using the robots.txt file standard. Using a difference-in-differences approach, we find that large publishers who block GenAI bots experience reduced website traffic compared to not blocking. In addition, we find that large publishers shift toward richer content that is harder for LLMs to replicate, without increasing text volume. Finally, we find that the share of new editorial and content-production job postings rises over time. Together, these findings illustrate the levers that publishers choose to use to strategically respond to competitive Generative AI threats, and their consequences."
+  },
+  {
+    "paper_id": "4efaa73c33ff70824d786019c07f86b50d02fa08",
+    "title": "Crime and Law Enforcement After Fatal Police Encounters: Differential Impacts of Freddie Gray\u2019s Death Across Baltimore Neighborhoods",
+    "year": 2025,
+    "author_ids": [
+      "2238795778",
+      "2401341492",
+      "2257567199",
+      "2403084216"
+    ],
+    "venue": "Justice quarterly",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8abee2f7ee636a82dd575bbe9884c317d20c761d",
+    "title": "Estimating Causal Effects With Observational Data: Guidelines for Agricultural and Applied Economists",
+    "year": 2025,
+    "author_ids": [
+      "2295218368",
+      "2203157859",
+      "2350650515",
+      "32267289",
+      "2294237196",
+      "1572136501",
+      "2247893435"
+    ],
+    "venue": "Journal of Agricultural Economics",
+    "citation_count": 3,
+    "abstract": "\n Most research questions in agricultural and applied economics are causal in nature: they study how changes in one or more variables (such as policies, prices or weather) affect one or more other variables (e.g., income, crop yields or pollution). Only a minority of these research questions can be studied with experimental methods, so most empirical studies in agricultural and applied economics rely on observational data. However, estimating causal effects with observational data requires an appropriate research design and a transparent discussion of all identifying assumptions, together with a critical discussion of how plausible they are. This paper provides an overview of approaches that are frequently used in agricultural and applied economics to estimate causal effects with observational data. It then provides advice and guidelines for agricultural and applied economists seeking to estimate causal effects with observational data, including how to assess and discuss the identification strategies adopted in their analysis."
+  },
+  {
+    "paper_id": "75e67dee7cc00001969606fd5474015356e5930b",
+    "title": "Assessing the impact of municipal mergers on local public expenditure dynamics in Italy",
+    "year": 2025,
+    "author_ids": [
+      "2287439269",
+      "152930259",
+      "2006517720",
+      "33701214"
+    ],
+    "venue": "Regional studies",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "870d9b04b295368f59af47849d1eec055c140171",
+    "title": "Contested memories: the political effects of de-commemoration proposals",
+    "year": 2025,
+    "author_ids": [
+      "2392195539",
+      "2279074904"
+    ],
+    "venue": "Journal of European Public Policy",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "570a4a96791e417cf904c42906e24cedef0fcf6f",
+    "title": "The effect of a police crackdown on online drug sales: on the importance of targeting vendors' reputation?",
+    "year": 2025,
+    "author_ids": [
+      "2265743501",
+      "1398816594",
+      "2400085954",
+      "2400086386",
+      "2349503631",
+      "2400085810"
+    ],
+    "venue": "The International journal on drug policy",
+    "citation_count": 0,
+    "abstract": "OBJECTIVES\nThis article evaluates the effect of a police crackdown on cannabis vendors operating in cryptomarkets. The police seized >100 cannabis parcels in transit and arrested one runner during this crackdown.\n\n\nMETHODS\nAn automated web crawler was used to download, and structure content found on 30 cryptomarkets between 1 January 2015 and 26 June 2017. Data were then aggregated on a weekly basis. The synthetic difference-and-difference (SDiD) approach and its extension for event-study analysis were used to estimate the effect of the police crackdown on the number of cannabis transactions and vendors.\n\n\nRESULTS\nEstimates from the SDiD models suggest that the crackdown was associated with a significant decline in cannabis transactions. The event-study analysis indicates that the effect was delayed and for a short time. Estimates from the SDiD show that the overall effect of the crackdown on vendors was not significant. The event-study analysis shows that a significant effect was observed for several time units; the effect can be characterized as abrupt and lasted for several weeks after the intervention.\n\n\nCONCLUSIONS\nResults suggest that police crackdowns can effectively disrupt for cryptomarkets. Seizing parcels negatively affected vendors' reputation and compromised the trust system on which cryptomarkets are built."
+  },
+  {
+    "paper_id": "72413dacc2474a9d2dce2b626fc1ff0ed64f058b",
+    "title": "Fixing the Leaky Pipeline: Affirmative Action in Local Elite Colleges and Subject Choice",
+    "year": 2025,
+    "author_ids": [
+      "1922144687"
+    ],
+    "venue": "Southern Economic Journal",
+    "citation_count": 0,
+    "abstract": "\n Women are largely underrepresented in STEM careers associated with higher labor market returns. This gender gap is even more stark in a context where societal biases are prevalent and female role models are lacking. This paper investigates the impact of an affirmative action (AA) policy implemented in an elite educational institution in India that ensures additional seats specifically for women in undergraduate STEM courses. After the policy was implemented, the proportion of women enrolling increased by 100%, proportion of women taking the college entrance exam increased by 10% and those qualifying the exam increased by 15%. Using nationally representative data, I employ a triple difference strategy and find a 27% increase in the probability of studying science courses after Grade 10 amongst younger girls exposed to this policy, suggesting increase in the future expected earnings of women."
+  },
+  {
+    "paper_id": "ae40bfecd9269eac12413a9141d2ac0a72773763",
+    "title": "Protocol for the Start for Life National Evaluation: What works, for whom, under what circumstances?",
+    "year": 2025,
+    "author_ids": [
+      "2415087211",
+      "2362325819",
+      "2417497182",
+      "2415784862",
+      "2416655950",
+      "2131706580",
+      "2307595851",
+      "2095589274",
+      "2399685540",
+      "2270955224",
+      "2399683733"
+    ],
+    "venue": "NIHR Open Research",
+    "citation_count": 1,
+    "abstract": "Background Launched in 2021, the joint Department of Health and Social Care and Department for Education Family Hubs and Start for Life (SfL) programme aims to improve support through pregnancy and early childhood. Funding is provided to 75 local authorities (LAs) with high levels of deprivation. As part of this, \u00a3170m DHSC funding was allocated for Start for Life services which focus on the 1,001 days between pregnancy and age 2. In January 2025, \u00a357 million was announced for the continuation of Start for Life services in 2025/26. The programme seeks to improve key outcomes for parents and infants. This paper describes the national evaluation of the programme. Methods This study uses a mixed-method multilevel triangulation design to assess the impact and cost-benefit of SfL, and to determine which interventions are effective, for whom, and in what contexts. The evaluation consists of two main components: 1) a process and outcome evaluation: to assess changes at both service and individual levels. Qualitative data will be analysed thematically, while quantitative process data will be examined descriptively and triangulated with longitudinal qualitative data and broader process evaluation findings. System-level factors (e.g., workforce attitudes and practices) will be explored to determine their impact on parents and infants; 2) an impact and economic evaluation: this component will use the Synthetic Difference-in-Differences method to construct counterfactuals and evaluate whether the programme affected key parent\u2019s and children\u2019s outcomes, using both individual and LA-level data; it will also include a cost analysis, in which the study will monetise SfL benefits and compare them against the cost of the programme to assess whether it is more effective than usual care, with associated net cost savings."
+  },
+  {
+    "paper_id": "f7c3aa46ec9f77cc2720734095f350118cd2f06e",
+    "title": "Impact of State-Level Changes in Paid Family Leave Policies: Evidence from New Jersey",
+    "year": 2025,
+    "author_ids": [
+      "1484338122",
+      "112966611",
+      "2400036562"
+    ],
+    "venue": "Eastern Economic Journal",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "94915880804df83f8e136de4fc05be68801f2a5e",
+    "title": "Just Cause Protection Under Manager Discrimination",
+    "year": 2025,
+    "author_ids": [
+      "2351878036",
+      "2256254032"
+    ],
+    "venue": "ILR Review",
+    "citation_count": 1,
+    "abstract": "Just cause policies aim to discourage the arbitrary firing of employees. Recent efforts at passing such laws in the United States have been motivated by deterring discrimination. This article presents a framework to study the effects of just cause when managers engage in taste-based discrimination. If managers are motivated by bias, one would expect to see separations of disfavored workers concentrated in the initial probationary period, before workers are covered by the just cause protection. Since probationary periods are a typical feature of protections, the approach is generalizable. The authors test this prediction using New York City\u2019s 2021 just cause law for fast-food employees and a synthetic difference-in-differences design on publicly available data. They do not find results consistent with taste-based discrimination against Black, Hispanic, female, nor older workers, though lack of enforcement or data issues could drive the nulls. Further analysis suggests another mechanism: screening discrimination against younger workers."
+  },
+  {
+    "paper_id": "864ea6efcc71c8e39def808bb903b474d89b6641",
+    "title": "6 \u015eubat Depremlerinin K\u0131sa D\u00f6nem Sosyoekonomik Etkileri",
+    "year": 2025,
+    "author_ids": [
+      "2323640037",
+      "1404652080"
+    ],
+    "venue": "T\u00fcrk Deprem Ara\u015ft\u0131rma Dergisi",
+    "citation_count": 0,
+    "abstract": "Bu \u00e7al\u0131\u015fma, 6 \u015eubat 2023 Kahramanmara\u015f merkezli depremlerin k\u0131sa d\u00f6nemde sosyoekonomik etkilerini farklar\u0131n fark\u0131 (difference-in-differences) y\u00f6ntemiyle de\u011ferlendirmektedir. Depremlerden etkilenen 11 il, benzer sosyoekonomik ve co\u011frafi \u00f6zelliklere sahip 7 ille kar\u015f\u0131la\u015ft\u0131r\u0131lm\u0131\u015ft\u0131r. Analizde 2021\u20132024 y\u0131llar\u0131 i\u00e7in n\u00fcfus, net i\u00e7 g\u00f6\u00e7 oran\u0131, istihdam oran\u0131, ihracat hacmi, sanayide elektrik t\u00fcketimi ve konut sat\u0131\u015f\u0131 g\u00f6stergeleri kullan\u0131lm\u0131\u015ft\u0131r. Bulgular, depremden etkilenen illerde di\u011fer illere g\u00f6re k\u0131sa d\u00f6nemde sanayi elektrik t\u00fcketimi ve konut sat\u0131\u015flar\u0131nda istatistiksel olarak anlaml\u0131 azal\u0131\u015flar oldu\u011funu, di\u011fer de\u011fi\u015fkenlerde ise anlaml\u0131 bir farkl\u0131la\u015fma bulunmad\u0131\u011f\u0131n\u0131 g\u00f6stermektedir. Bu durum k\u0131sa d\u00f6nemde depremlerin b\u00f6lgenin \u00fcretim kapasitesini ve konut piyasas\u0131n\u0131 olumsuz etkiledi\u011fini; buna kar\u015f\u0131l\u0131k istihdam ve d\u0131\u015f ticarette yap\u0131lan kamu m\u00fcdahalelerinin ve verilen desteklerin depremlerin olumsuz etkilerini s\u0131n\u0131rlam\u0131\u015f olabilece\u011fini d\u00fc\u015f\u00fcnd\u00fcrmektedir. \u00d6te yandan, can kay\u0131plar\u0131 ve yerle\u015fim yerlerindeki y\u0131k\u0131m beklendi\u011fi gibi demografik g\u00f6stergelerde (n\u00fcfus ve net i\u00e7 g\u00f6\u00e7 oran\u0131) negatif etki yaratmas\u0131na ra\u011fmen mevcut bulgular b\u00f6lgenin demografik yap\u0131s\u0131ndaki de\u011fi\u015fimin k\u0131sa d\u00f6nemde g\u00f6rece s\u0131n\u0131rl\u0131 kald\u0131\u011f\u0131na i\u015faret etmektedir. \u00c7al\u0131\u015fman\u0131n bulgular\u0131n\u0131n, afet sonras\u0131 politika tasar\u0131m\u0131 ve uygulamalar\u0131na veri temelli girdi sa\u011flamas\u0131 ama\u00e7lanmaktad\u0131r."
+  },
+  {
+    "paper_id": "3d59e0f7b760edc87f005bab2569579004254240",
+    "title": "The Impact of Information Disclosure on Foreign Direct Investment: Evidence from Open Government Data in China",
+    "year": 2025,
+    "author_ids": [
+      "2400053160",
+      "2262270158",
+      "2331066093",
+      "2399275351"
+    ],
+    "venue": "Emerging markets finance & trade",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "367f0cf4fc0a47d26e830a793ef0fc1e02643c9c",
+    "title": "Command-and-control with Chinese characteristics: the role of vertical monitoring and public disclosure in reducing air pollution",
+    "year": 2025,
+    "author_ids": [
+      "2372215345",
+      "2256330067",
+      "2318340933",
+      "122534194",
+      "3295538"
+    ],
+    "venue": "Economic Change and Restructuring",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "2569a3e5159fb81a8cea5d9a6fcd139c313331ab",
+    "title": "How Visa-Free Policies Fuel International Research Collaboration: Evidence from China",
+    "year": 2025,
+    "author_ids": [
+      "2221966864",
+      "2352532818",
+      "2398620822"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "Visa regimes constitute significant institutional barriers to the cross-border mobility of researchers. Utilizing China's phased implementation of a unilateral visa-free policy since 2023 as a quasi-natural experiment, this study employs a staggered difference-in-differences design to assess the policy's effect on international scientific collaboration. Results indicate that the policy significantly increased the volume of Sino-foreign co-authored publications. The mechanism analysis indicates that this effect is primarily achieved by enhancing transportation accessibility and human mobility, which in turn facilitates cross-border research collaboration among scholars. Further evidence suggests that academic conferences partially attenuated the policy's impact, indicating a substitutive relationship across collaboration channels. Moreover, the effect was more pronounced for countries with greater geographical distance or lower research capacity. This study elucidates the mechanisms through which visa facilitation promotes international scientific collaboration and offers new insights into how institutional barriers shape research cooperation and knowledge production."
+  },
+  {
+    "paper_id": "2802a7f91c3cd8e163783ee1ab1a4258c6e83105",
+    "title": "The power of the visible hand's micro-intervention in agricultural credit: a policy analysis based on Sichuan Province's risk compensation fund system",
+    "year": 2025,
+    "author_ids": [
+      "2212509422",
+      "2111696307",
+      "2148955208",
+      "2398777077"
+    ],
+    "venue": "Frontiers in Sustainable Food Systems",
+    "citation_count": 0,
+    "abstract": "\n This study investigates the effects of the Risk Compensation Fund System (RCFS), a government micro-intervention in agricultural credit, in Sichuan Province, China. Using the staggered difference-in-differences method as a benchmark model, we find that the RCFS increased the added value of the primary industry by 14%. Robustness tests using the\n Callaway and Sant'Anna (2021)\n Difference-in-Differences and Bacon decomposition confirm the validity of our hypothesis, suggesting that the RCFS can effectively promote agricultural development. Furthermore, we employ the Synthetic Difference-in-Differences method to estimate the policy's individual treatment effect. Heterogeneity analysis indicates that the RCFS can be successfully implemented even in areas with poor geographical conditions and low levels of economic development, highlighting its potential for policy expansion. However, our findings suggest that policies focusing solely on promoting competitive county-level banking or increasing agricultural leverage do not necessarily lead to optimal outcomes. Instead, policymakers should prioritize improving the efficiency of fiscal fund utilization and enhancing the policy implementation mechanism to optimize the benefits of the RCFS. Our study underscores the positive significance of targeted government intervention in promoting economic development in developing countries and emphasizes the importance of well-designed micro-mechanisms in ensuring policy success.\n"
+  },
+  {
+    "paper_id": "7b4ae2436b55e3093f07f73cf23bcb0451abf792",
+    "title": "The impact of MLB team relocation on hotel demand",
+    "year": 2025,
+    "author_ids": [
+      "2130736752",
+      "2271021868"
+    ],
+    "venue": "Tourism Economics",
+    "citation_count": 1,
+    "abstract": "This study examines the effect of a Major League Baseball team moving to Cobb County, Georgia on attracting visitors by observing changes in hotel room rentals. We employ a synthetic difference-in-differences event study approach to measure the causal effect of the team\u2019s interjurisdictional relocation within metropolitan Atlanta on hotel stays and room prices. We identify no meaningful impact of the team\u2019s move at the county level or in close proximity to the stadium. In total, the findings are not consistent with the hypothesis that sports venues offer a channel to increase community wealth through tourism."
+  },
+  {
+    "paper_id": "c1a98506a02492cd0e4b3edc6428c160b813407d",
+    "title": "Synthetic Interventions: Extending Synthetic Controls to Multiple Treatments",
+    "year": 2025,
+    "author_ids": [
+      "49203555",
+      "2257347148",
+      "3376895"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 1,
+    "abstract": "Beyond One Policy: A New Framework for Comparing Multiple Interventions\n Traditional methods for policy evaluation typically focus on a single intervention. Yet many real-world settings feature multiple, often concurrent, interventions\u2014making it crucial to understand their comparative effects. In \u201cSynthetic Interventions: Extending Synthetic Controls to Multiple Treatments,\u201d Agarwal, Shah, and Shen introduce the synthetic interventions framework, a generalization of the synthetic controls method that accommodates multiple treatments within a unified model. By representing outcomes as a low-rank tensor capturing relationships across time, units, and interventions, their approach enables researchers to estimate counterfactual outcomes under all interventions for each unit. The authors establish consistency of their estimator and show that a bias-corrected version achieves asymptotic normality, permitting valid statistical inference. This work offers a new perspective for evaluating complex, multipolicy environments where traditional causal inference tools fall short."
+  },
+  {
+    "paper_id": "10720f8324f208352e031f258cb62802822de818",
+    "title": "Evaluation of the policy effects of strong maritime country construction in China",
+    "year": 2025,
+    "author_ids": [
+      "2267330763",
+      "2398006820",
+      "2387171954",
+      "2398584202",
+      "2149307531",
+      "2267271929"
+    ],
+    "venue": "Frontiers in Marine Science",
+    "citation_count": 0,
+    "abstract": "Since the proposal to build a strong maritime country in 2012, China\u2019s marine economy has developed rapidly. This study, using panel data from nine southeastern coastal provinces (1999-2023), employs methods such as the hybrid control-weighting model, kernel density estimation, and factor detection to evaluate the policy effects of building a strong maritime country on coastal regions. Fujian Province exhibits the strongest policy effect, whereas Hainan Province shows a weaker effect due to a narrow industrial structure and lagging technological innovation. Marine informatization is the core driver (q = 0.964), it enhances outcomes through marine technological innovation and industrial optimization. Marine technological innovation and tertiary sector optimization account for 92.6% and 76.9% of the explanatory power, respectively, emphasizing their role in high-quality marine economic development. The study suggests that future policies should focus on enhancing informatization, technological innovation, and optimizing the tertiary sector to advance the construction of a strong maritime country."
+  },
+  {
+    "paper_id": "85510a648a7b0d5c69930cb28d9caa7be1507a78",
+    "title": "Testing the Significance of the Difference-in-Differences Coefficient via Doubly Randomised Inference",
+    "year": 2025,
+    "author_ids": [
+      "2373242080",
+      "2397381806"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This article develops a significance test for the Difference-in-Differences (DiD) estimator based on doubly randomised inference, in which both the treatment and time indicators are permuted to generate an empirical null distribution of the DiD coefficient. Unlike classical $t$-tests or single-margin permutation procedures, the proposed method exploits a substantially enlarged randomization space. We formally characterise this expansion and show that dual randomization increases the number of admissible relabelings by a factor of $\\binom{n}{n_T}$, yielding an exponentially richer permutation universe. This combinatorial gain implies a denser and more stable approximation of the null distribution, a result further justified through an information-theoretic (entropy) interpretation. The validity and finite-sample behaviour of the test are examined using multiple empirical datasets commonly analysed in applied economics, including the Indonesian school construction program (INPRES), brand search data, minimum wage reforms, and municipality-level refugee inflows in Greece. Across all settings, doubly randomised inference performs comparably to standard approaches while offering superior small-sample stability and sharper critical regions due to the enlarged permutation space. The proposed procedure therefore provides a robust, nonparametric alternative for assessing the statistical significance of DiD estimates, particularly in designs with limited group sizes or irregular assignment structures."
+  },
+  {
+    "paper_id": "2f12f0dc13b66bdeb5e0d6b25076f25dbf7ffe23",
+    "title": "When wine walked into grocery stores: Examining the (un)intended economic consequences of wine Sale reform in Tennessee",
+    "year": 2025,
+    "author_ids": [
+      "2297034081",
+      "2297069915",
+      "1387209714",
+      "12410770"
+    ],
+    "venue": "American Journal of Agricultural Economics",
+    "citation_count": 0,
+    "abstract": "\n Alcohol policy liberalization is a contentious issue in the United States, including debates over whether grocery stores should be allowed to sell wine. This issue reflects a dilemma between accommodating consumer convenience, promoting wine industry growth, and generating tax revenue, versus concerns about potential harm to liquor stores. However, there is a lack of empirical studies evaluating the dual impacts of wine sales liberalization following policy reforms. This study uses synthetic control methods and synthetic difference\u2010in\u2010differences to provide robust evidence on the impact that wine sale liberalization has on liquor store closures, employment outcomes, and wine excise tax revenue. Drawing on proprietary NielsenIQ data and official government statistics, the study provides a multidimensional assessment of how a 2016 Tennessee policy reform affected wine sales and supply chain dynamics. The results suggest that allowing grocery stores to sell wine had a statistically insignificant impact on the number of liquor stores, while also increasing wine excise tax revenue. However, there is mixed evidence of a potential short\u2010term decline in liquor store employment, where the statistical significance of the point estimate depends on the statistical approach. Recognizing that policy reform can have unintended economic consequences, these results provide valuable, policy\u2010relevant insights for stakeholders navigating the evolving landscape of alcohol distribution."
+  },
+  {
+    "paper_id": "e5f533f10fe59a819445167d756311969f8c758a",
+    "title": "Assessing the ecological impacts of rural residential land consolidation in China: a synthetic control approach",
+    "year": 2025,
+    "author_ids": [
+      "2217073835",
+      "2832405",
+      "2383420665"
+    ],
+    "venue": "International Journal of Environmental Science and Technology",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3ba8501faa5ca05470e7c8086d69ec840a12ebc8",
+    "title": "Brand crisis and recovery in livestream commerce: A psychological contract violation theory perspective",
+    "year": 2025,
+    "author_ids": [
+      "2238109608",
+      "2277815202",
+      "2278207754",
+      "2277807331",
+      "2287876662",
+      "2238100641"
+    ],
+    "venue": "Decision Support Systems",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3fc00bf1aa8354be757a875d9d338e9f1e12559e",
+    "title": "COUNTERFACTUAL INFERENCE IN SEQUENTIAL EXPERIMENTS.",
+    "year": 2025,
+    "author_ids": [
+      "35688808",
+      "2218407338",
+      "39544679",
+      "2035680",
+      "144180010",
+      "145081804"
+    ],
+    "venue": "Annals of Statistics",
+    "citation_count": 16,
+    "abstract": "We consider after-study statistical inference for sequentially designed experiments wherein multiple units are assigned treatments for multiple time points using treatment policies that adapt over time. Our goal is to provide inference guarantees for the counterfactual mean at the smallest possible scale-mean outcome under different treatments for each unit and each time-with minimal assumptions on the adaptive treatment policy. Without any structural assumptions on the counterfactual means, this challenging task is infeasible due to more unknowns than observed data points. To make progress, we introduce a latent factor model over the counterfactual means that serves as a non-parametric generalization of the non-linear mixed effects model and the bilinear latent factor model considered in prior works. For estimation, we use a non-parametric method, namely a variant of nearest neighbors, and establish a non-asymptotic high probability error bound for the counterfactual mean for each unit and each time. Under regularity conditions, this bound leads to asymptotically valid confidence intervals for the counterfactual mean as the number of units and time points grows to \u221e together at suitable rates. We illustrate our theory via several simulations and a case study involving data from a mobile health clinical trial HeartSteps."
+  },
+  {
+    "paper_id": "f1458f9d12a4332321abfcf981907c6208e210ee",
+    "title": "Effects of IMF-supported programs on gender inequality",
+    "year": 2025,
+    "author_ids": [
+      "8725355",
+      "2380209021",
+      "98026645"
+    ],
+    "venue": "European Journal of Political Economy",
+    "citation_count": 1,
+    "abstract": ": Crises often require economic consolidations that may unevenly affect different segments of the population. Some crisis countries enter financial arrangements with the IMF and adopt adjustment programs, and studies have associated program conditionality with negative impacts on gender inequality. Proper evaluations of the impacts of IMF-supported programs on gender inequality require, however, credible control groups that address the counterfactual: do post-crisis gender disparities evolve differently without an IMF-supported program? We examine over 150 IMF-supported programs (1994-2022) using custom-tailored control groups that match each IMF-supported program country\u2019s gender and economic trends and find overwhelming evidence against systematic impacts of IMF-supported programs on gender equality"
+  },
+  {
+    "paper_id": "a8c170237310869b6de0a27135eeb54433ce3442",
+    "title": "Unintended negative impact of environmental regulation on public safety: Evidence from China",
+    "year": 2025,
+    "author_ids": [
+      "2280549984",
+      "2275003718",
+      "2334699573"
+    ],
+    "venue": "China economic review",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5f7bb6e15bbcb1f8f60ecf1bba08d6c43ba4f712",
+    "title": "College access spillover on high school performance: Evidence from college openings",
+    "year": 2025,
+    "author_ids": [
+      "2384991108",
+      "120778822"
+    ],
+    "venue": "Economics of Education Review",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e3d3bd7855b2d1acf2e8d0d9151b88fdbb8fc333",
+    "title": "How substitutable are the classical and radical right?",
+    "year": 2025,
+    "author_ids": [
+      "1393615700",
+      "2308158836"
+    ],
+    "venue": "Journal of Public Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "791f89ffacfa6c984c215647145ca019b3890928",
+    "title": "Balancing human development and environmental protection: Evidence from the Yangtze River Economic Belt ecological and environmental protection policy",
+    "year": 2025,
+    "author_ids": [
+      "2336252971",
+      "2337090194",
+      "2346483028",
+      "2336253020"
+    ],
+    "venue": "Journal of Cleaner Production",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "5b73bf509c50d396fd49346d18e255aa20dc2f5a",
+    "title": "Quasi-experimental evidence on Spanish VAT cuts during economic shocks",
+    "year": 2025,
+    "author_ids": [
+      "2393733001",
+      "2393745246",
+      "1406696072",
+      "2393745033"
+    ],
+    "venue": "International Review of Economics &amp; Finance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "07e19e3b95607ee0f2532f4c43e832d33904da86",
+    "title": "Closing the information gap: Tax data sharing and small business finance",
+    "year": 2025,
+    "author_ids": [
+      "2406794222",
+      "2173530123",
+      "2741036",
+      "2044596352"
+    ],
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ab4d229b3424c3702b598371ed062a70437baa62",
+    "title": "State Capacity and the Catch-Up Effect",
+    "year": 2025,
+    "author_ids": [
+      "2318040779",
+      "2204976538"
+    ],
+    "venue": "Journal of Development Studies",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3602946b29228cb283f70db7e74a3523496a0d74",
+    "title": "Hospital Finances, Operations, And Patient Experience Remain Stable After Oregon's Hospital Payment Cap Was Implemented.",
+    "year": 2025,
+    "author_ids": [
+      "2354525465",
+      "2237972354",
+      "2327345931"
+    ],
+    "venue": "Health Affairs",
+    "citation_count": 1,
+    "abstract": "Hospital prices are an important driver of rising US health care spending, prompting states to explore policies to control hospital price growth. In October\u00a02019, Oregon implemented a hospital payment cap, limiting hospital payments to 200\u00a0percent of Medicare payments for care provided to state employees. The policy generated $50\u00a0million in annual savings for the state and its members, but its impact on hospitals' finances, operations, and care delivery remains unclear. We used a synthetic difference-in-differences analytic design to examine the effect of Oregon's payment cap on net patient revenues, patient care expenses, and operating margins. We found small and nonsignificant changes in Oregon hospitals' revenues, expenses, and margins after implementation of the cap. Consistent with these findings, we observed limited changes in hospital operations and the patient experience of care. Overall, we found little evidence that Oregon's payment cap disrupted hospital operations or care delivery."
+  },
+  {
+    "paper_id": "910a01b091d363eacdca80e60a62ee7211c2d856",
+    "title": "From Markups to Competitive Optimization: The Dual Role of Science and Technology Policies in Innovation",
+    "year": 2025,
+    "author_ids": [
+      "2261917513"
+    ],
+    "venue": "Chinese Economy",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e3833afd586fc880e0ec950867829accab5929be",
+    "title": "How the technological and regulatory factors mediate the impact of supply chain digitalization on energy utilization efficiency",
+    "year": 2025,
+    "author_ids": [
+      "2361264020",
+      "2257434183",
+      "2196106031",
+      "2257100371",
+      "2334056180"
+    ],
+    "venue": "Economic Analysis and Policy",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e0e34f8cf1b4462110c13a9b4150d66d344a517c",
+    "title": "Does Entry Deregulation Foster Entrepreneurship? Evidence from China\u2019s Unified Market Access Reform",
+    "year": 2025,
+    "author_ids": [
+      "2400053160",
+      "2262270158",
+      "2265361536",
+      "2283460444"
+    ],
+    "venue": "Economic Analysis and Policy",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "4cb2acd17cef073723f3826e119c528872274147",
+    "title": "The Effect of International Sanctions on the Size of the Middle Class in Iran",
+    "year": 2025,
+    "author_ids": [
+      "98840084",
+      "52118240"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 7,
+    "abstract": "This study examines the impact of international economic sanctions, imposed on Iran due to its nuclear program, on the development of the middle class. Specifically, it investigates how the middle class in Iran would have developed in the absence of these sanctions post-2012. To address this question, we employ a synthetic control model to create a counterfactual scenario for Iran, using a weighted average of other comparable countries that mirror pre-sanction Iran, but did not experience significant international sanctions. By comparing the middle-class size of this counterfactual Iran with the actual Iran that faced major economic sanctions, our results indicate that the annual middle-class size would have been approximately 11 percentage points larger, on average, without the post-2012 sanctions. Our findings are robust across various tests, including placebo tests and synthetic difference-in-difference analyses. The latter analysis shows that the estimated average effect of sanctions on the middle-class size of Iran from 2012 to 2019 is highly statistically significant. Finally, we provide evidence on the relevance of real GDP per capita and merchandise imports as key selected channels through which sanctions negatively affect the size of the middle class."
+  },
+  {
+    "paper_id": "6a5136cb2d25b993fdfaf64a6a5220d20ee85bc5",
+    "title": "Can the sustainable agricultural development policy reduce agricultural carbon emissions? evidence from a quasi-natural experiment in China",
+    "year": 2025,
+    "author_ids": [
+      "2338364884",
+      "2379393213",
+      "2285878198"
+    ],
+    "venue": "Environment, Development and Sustainability",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6a19b92cac79025935d212a1af48ddf1f69cc836",
+    "title": "Was the KORUS FTA a Horrible Deal?",
+    "year": 2025,
+    "author_ids": [
+      "2312917226",
+      "2120831800",
+      "2322933951",
+      "2143545166",
+      "2291483088"
+    ],
+    "venue": "Open Economies Review",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f4ddf0cdcf1658aa610840f53a3d01d95d99e8fc",
+    "title": "Does rural tourism policy unlock economic growth in China\u2019s rural areas? A synthetic control approach",
+    "year": 2025,
+    "author_ids": [
+      "2307825453",
+      "2110445286",
+      "93706711",
+      "118715969"
+    ],
+    "venue": "Tourism Economics",
+    "citation_count": 0,
+    "abstract": "Rural tourism has become a key instrument for promoting economic development in rural areas. In response, the central government of China launched the National Rural Tourism Key Villages (LRTV) policy in 2019, designating 320 villages with high tourism potential to receive financial support, talent training, and destination planning to boost rural revitalization. This study employs the synthetic control method from 2005 to 2021 to assess the policy\u2019s economic effects. Results show that treated villages experienced, on average, a 12.45% increase in local GDP relative to their synthetic counterparts. This result suggests that state-led tourism policies can promote economic growth in rural areas with weak tourism market mechanisms. The policy\u2019s effectiveness also varies by economic conditions, population density, and tourism type. This study fills a gap by providing evidence on rural tourism effectiveness in China with implications for other developing economies."
+  },
+  {
+    "paper_id": "846da11af7da8d587b83f0ff0d6226606ed88881",
+    "title": "Exemption or illusion? The impact of a youth tax policy on house asking prices in Portugal",
+    "year": 2025,
+    "author_ids": [
+      "2314982265",
+      "2294246031"
+    ],
+    "venue": "Real Estate Economics",
+    "citation_count": 0,
+    "abstract": "Affordable housing has become an increasing challenge for young individuals in Portugal, where rising house prices and precarious employment conditions hinder homeownership. To address this barrier, the Portuguese Government introduced a tax exemption for individuals under 35 purchasing their first home. However, while the policy aims to improve housing affordability, it may paradoxically drive house prices up by boosting demand and influencing sellers' pricing strategies. This study examines sellers' reactions to the policy announcement using the synthetic difference\u2010in\u2010differences methodology and monthly data on the asking price per square meter growth rate from January 2023 to December 2024, with Spain serving as a natural control. The findings show a significant rise in asking price growth, suggesting sellers priced in the tax exemption. This increase was strongest in Lisbon and Oporto, lower\u2010income areas and where more buyers were eligible, pointing to an uneven market response shaped by local conditions. On average, the tax savings will be offset in 3 to 15 months depending on the housing price range. The unintended consequences of the tax exemption highlight the risks of implementing demand\u2010side measures without corresponding supply\u2010side adjustments."
+  },
+  {
+    "paper_id": "984ff3abe4e41cddca7dbb21d81eebfe7ee93d42",
+    "title": "Pollution liability insurance and corporate environmental compliance in China",
+    "year": 2025,
+    "author_ids": [
+      "2359274580",
+      "2116491216",
+      "2372129383"
+    ],
+    "venue": "Journal of Risk and Insurance",
+    "citation_count": 0,
+    "abstract": "\n This study examines the effect of a pollution liability insurance mandate on corporate environmental compliance in Shenzhen, China. We employ a triple differences design, comparing electroplating and circuit board (ECB) manufacturing firms, mandated to purchase insurance, to industries and a neighboring city without the mandate. Results show a 0.48 reduction in annual environmental violations per firm (a 72% decrease) across all Shenzhen ECB firms. Within the Shenzhen ECB industry, only about half of firms comply. Notably, both insured and uninsured firms reduced violations, consistent with anticipation that (eventual) premiums would depend on past violations. The insurance could generate two opposing forces: premium\u2010based incentives to reduce violations versus moral hazard among the insured. We find suggestive evidence that insured firms' environmental compliance gains are partially offset by moral hazard. Our findings demonstrate that premium\u2010based incentives dominate and effectively counteract market failures due to asymmetric information, increasing environmental compliance on net."
+  },
+  {
+    "paper_id": "e18b1a252f8da00f664032a5f682b7bffc8f23fb",
+    "title": "Beyond Parallel Trends: An Identification-Strategy-Robust Approach to Causal Inference with Panel Data",
+    "year": 2025,
+    "author_ids": [
+      "80108366",
+      "2372980058",
+      "2283018638",
+      "104073402"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "In this paper, we propose a new approach to causal inference with panel data. Instead of using panel data to adjust for differences in the distribution of unobserved heterogeneity between the treated and comparison groups, we instead use panel data to search for\"close comparison groups\"-- groups that are similar to the treated group in terms of pre-treatment outcomes. Then, we compare the outcomes of the treated group to the outcomes of these close comparison groups in post-treatment periods. We show that this approach is often identification-strategy-robust in the sense that our approach recovers the ATT under many different non-nested panel data identification strategies, including difference-in-differences, change-in-changes, or lagged outcome unconfoundedness, among several others. We provide related, though non-nested, results under\"time homogeneity\", where outcomes do not systematically change over time for any comparison group. Our strategy asks more out of the research design -- namely that there exist close comparison groups or time homogeneity (neither of which is required for most existing panel data approaches to causal inference) -- but, when available, leads to more credible inferences."
+  },
+  {
+    "paper_id": "24fd82eaf0c61f2550c40aa4199f01c9fb6eb509",
+    "title": "The artificial intelligence dividend: Firm-level profitability and the asymmetric impact of gulf cooperation council technology policies",
+    "year": 2025,
+    "author_ids": [
+      "2188398521"
+    ],
+    "venue": "Asian Economic and Financial Review",
+    "citation_count": 0,
+    "abstract": "We examine the asymmetric effects of national Artificial Intelligence (AI) and diversification policies on firm-level profitability in the Gulf Cooperation Council (GCC), addressing a critical gap in the microeconomic literature on the region's technology-driven transition. Using a dynamic panel dataset of 53 strategically essential firms across all six GCC countries from 2015 to 2024, we employ a Difference-in-Differences (DiD) approach, complemented by System Generalized Method of Moments (SGMM) estimation, to establish causal relationships while rigorously addressing concerns about endogeneity. The results reveal that AI-focused policies boosted profitability in firms actively investing in AI, with policy milestones increasing asset-based returns by 2.1% and equity-based returns by 2.8%. In comparison, government subsidies dedicated to the AI sector amplified these effects by an additional 4.5% and 6.5%, respectively. The positive impact of these policies grew even stronger after 2020. For firms deeply invested in AI, targeted subsidies led to profitability increases of 8.8% on assets and 13.1% on equity. In stark contrast, companies in traditional, non-AI sectors showed no statistically meaningful improvement from the same policy measures. These findings highlight the power of well-targeted fiscal incentives and selective policy support for the AI sector in promoting successful economic diversification. They offer a valuable blueprint for policymakers in resource-rich nations aiming to build sustainable, knowledge-based economies by making strategic technological investments. Notable limitations include the study's focus on large, strategic firms and its timeframe, which captures only the initial phase of AI policy implementation."
+  },
+  {
+    "paper_id": "829cb642588ad1c6bfd899241514857f2aee5aa0",
+    "title": "Cash Transfers in the Perinatal Period and Child Welfare System Involvement Among Infants: Evidence from the Rx Kids Program in Flint, Michigan",
+    "year": 2025,
+    "author_ids": [
+      "2119399601",
+      "2380121673",
+      "2394166131",
+      "2267056864",
+      "2380120218",
+      "2336993526"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Infants are most vulnerable to child maltreatment, which may be due in part to economic instability during the perinatal period. In 2024, Rx Kids was launched in Flint, Michigan, achieving near 100% aggregate take up and providing every expectant mother with unconditional cash transfers during pregnancy and infancy. Synthetic difference-in-differences was used to compare changes in allegations of maltreatment within the first six months of life in Flint before and after implementation of Rx Kids relative to the corresponding change in control cities without the program. In the three years prior to the implementation of Rx Kids, the proportion of infants with a maltreatment allegation within the first six months of life was 21.7% in Flint and 19.5% among control cities. After implementation of Rx Kids in 2024, the maltreatment allegation rate dropped to 15.5% in Flint, falling below the maltreatment allegation rate of 20.6% among the control cities. Rx Kids was associated with a statistically significant 7.0 percentage-point decrease in the maltreatment allegation rate (p = 0.021), corresponding to a 32% decrease relative to the pre-intervention period. There was a decrease in the rate of neglect-related, non-neglect-related, and substantiated allegations; these were directionally consistent with the primary outcome but not statistically significant. Results were robust to alternative model specifications. The Rx Kids prenatal and infant cash prescription program led to a significant reduction in allegations of maltreatment among infants. These findings provide important evidence about the role of economic stability in preventing child welfare system involvement."
+  },
+  {
+    "paper_id": "38dc0520bdd207952eea33e155d5719313d6a8ed",
+    "title": "The Impact of Digital Governance on Energy Efficiency: Evidence from E-Government Pilot City in China",
+    "year": 2025,
+    "author_ids": [
+      "2394716981",
+      "2394788582",
+      "2394916742"
+    ],
+    "venue": "Sustainability",
+    "citation_count": 0,
+    "abstract": "The digital economy plays a transformative role in enhancing energy efficiency and promoting sustainable development globally. As a key manifestation of digital governance, e-government has emerged as a vital instrument for accelerating the digital transformation of public administration and modernizing governance systems. This study examines the impact of digital governance on urban energy efficiency by analyzing China\u2019s E-Government Pilot City (EPC) policy as a quasi-natural experiment. Using a Difference-in-Differences (DID) approach and balanced panel data from 282 prefecture-level cities (2006\u20132020), we find that the EPC policy significantly improves total factor energy efficiency (TFEE) by an average of 2.60%. Mechanism analyses reveal that digital governance enhances energy efficiency through industrial structure upgrading, green technology innovation, and foreign direct investment attraction. Heterogeneity analyses indicate that the policy\u2019s benefits are more pronounced in larger, non-resource-based, and non-old industrial base cities, as well as in regions with stronger institutional environments and advanced digital infrastructure. However, spatial spillover effects suggest that while the EPC policy boosts local energy efficiency, it may inadvertently reduce efficiency in neighboring areas due to competitive dynamics and industrial relocation. These findings underscore the importance of tailored and coordinated policy designs to maximize the energy efficiency benefits of digital governance."
+  },
+  {
+    "paper_id": "d3570eca8bbdc6e88d53959e07300a99fb7f67bb",
+    "title": "The Electoral Effects of State-Sponsored Anti-LGBTQ Measures",
+    "year": 2025,
+    "author_ids": [
+      "2219038365",
+      "2350024299",
+      "1423032525",
+      "2306355488",
+      "2376509269"
+    ],
+    "venue": "Journal of Politics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c9164cc8e24aa494a4c9f61c3969dbe92f9b9d21",
+    "title": "Demographic and health impacts of women's bodily autonomy: switching prescription requirements for emergency contraceptives.",
+    "year": 2025,
+    "author_ids": [
+      "2291868067",
+      "2281197650"
+    ],
+    "venue": "The European journal of health economics : HEPAC : health economics in prevention and care",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0420ed284699bc7e36969793c546a83149861a8b",
+    "title": "Indoor vaccine mandates in U.S. cities, vaccination behavior, and COVID\u201019 outcomes",
+    "year": 2025,
+    "author_ids": [
+      "2161830809",
+      "119611366",
+      "2361237125"
+    ],
+    "venue": "Contemporary economic policy",
+    "citation_count": 0,
+    "abstract": "\n Many U.S. cities introduced indoor vaccine mandates in 2021\u20132022 to increase COVID\u201019 vaccination and curb transmission. While national mandates abroad boosted uptake, the effects of city\u2010level mandates in the U.S. remain unclear. Using the synthetic difference\u2010in\u2010differences methodology, we estimate the impact of mandates in nine major cities on first\u2010dose uptake, cases, and deaths. We find no consistent pattern of significant effects, and results are robust across estimators, outcome definitions, lag structures, and donor pool choice. The contrast with international findings suggests localized mandates may be less effective in settings with high baseline coverage, mobility across jurisdictions, and vaccine hesitancy."
+  },
+  {
+    "paper_id": "c4702b4b80de33f8ed1537044c53b8ed723bff1f",
+    "title": "Synthetic Survival Control: Extending Synthetic Controls for \"When-If\" Decision",
+    "year": 2025,
+    "author_ids": [
+      "2269414861",
+      "2286317897"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "Estimating causal effects on time-to-event outcomes from observational data is particularly challenging due to censoring, limited sample sizes, and non-random treatment assignment. The need for answering such\"when-if\"questions--how the timing of an event would change under a specified intervention--commonly arises in real-world settings with heterogeneous treatment adoption and confounding. To address these challenges, we propose Synthetic Survival Control (SSC) to estimate counterfactual hazard trajectories in a panel data setting where multiple units experience potentially different treatments over multiple periods. In such a setting, SSC estimates the counterfactual hazard trajectory for a unit of interest as a weighted combination of the observed trajectories from other units. To provide formal justification, we introduce a panel framework with a low-rank structure for causal survival analysis. Indeed, such a structure naturally arises under classical parametric survival models. Within this framework, for the causal estimand of interest, we establish identification and finite sample guarantees for SSC. We validate our approach using a multi-country clinical dataset of cancer treatment outcomes, where the staggered introduction of new therapies creates a quasi-experimental setting. Empirically, we find that access to novel treatments is associated with improved survival, as reflected by lower post-intervention hazard trajectories relative to their synthetic counterparts. Given the broad relevance of survival analysis across medicine, economics, and public policy, our framework offers a general and interpretable tool for counterfactual survival inference using observational data."
+  },
+  {
+    "paper_id": "cfedca2964c81d8942e0dfd6bec847f25b585c24",
+    "title": "In-Person Voting Increases Turnout Among Incarcerated Persons: Evidence From the Cook County Jail",
+    "year": 2025,
+    "author_ids": [
+      "90329732"
+    ],
+    "venue": "Election Law Journal",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e3a651272dcd71dc96e15008600906c422cedf83",
+    "title": "Double/debiased machine learning for semiparametric synthetic difference-in-differences models",
+    "year": 2025,
+    "author_ids": [
+      "2267808122",
+      "3026384",
+      "2276180803"
+    ],
+    "venue": "Econometric Reviews",
+    "citation_count": 0,
+    "abstract": "Abstract We propose a new estimator for causal effects when the data do not satisfy the parallel trends assumption in high-dimensional settings. Our estimator combines insights from the semiparametric difference-in-differences and synthetic difference-in-differences methods and compensates for the lack of parallel trends by re-weighting units. The score/moment function used for estimating effects satisfies Neyman orthogonality, which allows for the application of machine learning in the first-step estimation. Additionally, we establish the consistency and asymptotic normality of the estimator. In simulation experiments, our estimator performs well compared to other estimators. Finally, we apply this estimator to evaluate the effects of green finance on green innovation, and the results show that green finance has a significant positive effect on green innovation."
+  },
+  {
+    "paper_id": "d37dc50ec3c4ece858b7168b33efcac261d51e30",
+    "title": "The Effects of the South\u2010to\u2010North Water Transfer Project on Agriculture in China: A Tale of Two Routes",
+    "year": 2025,
+    "author_ids": [
+      "2336012154",
+      "2290857093",
+      "2392684391"
+    ],
+    "venue": "Agricultural Economics",
+    "citation_count": 0,
+    "abstract": "\n This study investigates the impacts of China's South\u2010to\u2010North Water Transfer Project (SNWTP) on agricultural production using city\u2010level data from 2009 to 2019. Utilizing the Synthetic Control Difference\u2010in\u2010Differences method, we find heterogeneous impacts along the eastern and middle routes of the SNWTP. The operation of the eastern route increases agricultural output by 3.7%, primarily driven by an increase in fishery and aquaculture output. In contrast, the middle route decreases agricultural output by 10.8%, mainly due to the reduction in outputs of crop cultivation and animal husbandry. This unexpected decrease in agricultural output in the water\u2010receiving cities along the middle route can be attributed to the stricter environmental regulations aimed at preserving the quality of the diverted water. The heterogenous effects of the SNWTP on agricultural production highlight the complex consequences of large\u2010scale water infrastructure projects, underscoring the importance of incorporating environmental considerations into the evaluation of such initiatives."
+  },
+  {
+    "paper_id": "1e835f2fbf1771e62106fcbb2831bf046bb98596",
+    "title": "State Affordable Housing Tax Credits and Renter Outcomes: Evidence from Illinois",
+    "year": 2025,
+    "author_ids": [
+      "2392576552"
+    ],
+    "venue": "Housing Policy Debate",
+    "citation_count": 1,
+    "abstract": "Abstract With the United States, among other countries, facing an unprecedented housing affordability crisis, tax credit programs are a powerful policy tool for promoting the development and maintenance of housing units affordable to low-income households. While existing literature has focused on the federal Low-Income Housing Tax Credit (LIHTC), little research has been done regarding state-level affordable housing tax credits. I address this gap in the literature, using the Illinois Affordable Housing Tax Credit (IAHTC) as a case study to examine renter outcomes. Since the program\u2019s inception in 2001, not-for-profit organizations have constructed and rehabilitated more than 23,000 housing units in the state of Illinois with the help of nearly $630 million in IAHTC-related donations. Through my analysis, I find that the IAHTC program did not lower real rents, but rather increased the proportion of low-income households living in newer rental housing units. At the neighborhood level, rents actually increased, with observed effects strongest at the upper end of the rent distribution, indicating the program may remove existing disamenities. Thus, it may be more appropriate for states considering their own affordable housing tax credits to view this type of program as a neighborhood revitalization effort, instead of one that necessarily improves housing affordability."
+  },
+  {
+    "paper_id": "582427dc7e59028a00e25cb55867d64fa2b69f0e",
+    "title": "The Policy Spatial Footprint: Causal Identification of Land Value Capitalization Using Network-Time Exposure",
+    "year": 2025,
+    "author_ids": [
+      "2330752829",
+      "2330592679",
+      "2330510224"
+    ],
+    "venue": "Land",
+    "citation_count": 2,
+    "abstract": "Policies rarely act on simple circles around project sites. We develop a policy-semantics-to-geometry workflow that converts clause-level rules in ordinances into auditable Policy Spatial Footprints (PSFs) with explicit boundaries, timing markers, and intensity tiers, and we measure exposure in network time on road\u2013rail graphs. Using 1.10 million arm\u2019s-length parcel transactions from five Yangtze River Delta cities (2012\u20132024) and a catalog of 64 policies across regulatory, transport, and industrial/functional families, we estimate dynamic capitalization under staggered roll-outs while separating direct footprint effects from adjacency diffusion. Direct exposures are associated with policy-relevant uplifts that build over several years and then stabilize; spillovers attenuate within a few minutes of network travel time. Effects are systematically larger in thicker markets and where pre-policy regulatory headroom is greater. The PSF framework yields estimator-consistent maps with provenance and uncertainty tiers, providing a transparent basis for land-value-capture scheduling and equity-aware carve-outs."
+  },
+  {
+    "paper_id": "1b3b55d0d400412e089100eb8f42976216cde3c8",
+    "title": "Effect of tobacco sales bans on retail sales in Beverly Hills and Manhattan Beach, California, USA: a synthetic difference-in-differences analysis",
+    "year": 2025,
+    "author_ids": [
+      "14921129",
+      "2335651997",
+      "2275566841",
+      "1435046084",
+      "2272704816"
+    ],
+    "venue": "Tobacco Control",
+    "citation_count": 0,
+    "abstract": "Background On 1 January 2021, Beverly Hills and Manhattan Beach, California, became the first cities in the USA to ban tobacco product sales. We evaluated the effects of these policies on the sale of tobacco products and non-tobacco products by store in each city and its neighbouring area. Methods We used custom NielsenIQ retail scanner data by product and store to estimate actual and counterfactual sales trends for a set of convenience, grocery and drug stores in Beverly Hills and Manhattan Beach and their border areas using synthetic difference-in-differences models. Tobacco product unit sales were estimated overall and by tobacco product category. We also estimated changes in dollar sales of total non-tobacco products to evaluate broader economic impacts. Results Tobacco sales in included stores ceased within 3\u2009months of the policy going into effect in Beverly Hills and nearly ceased by December 2021 in Manhattan Beach. A shift in cross-border shopping was detected for cigars only. Non-tobacco product sales did not significantly change in either city or the border area. Conclusion The tobacco sales bans in Beverly Hills and Manhattan Beach nearly eliminated local tobacco sales in the included stores, without prompting substantial cross-border shopping. Stability of non-tobacco product sales for included stores suggests these policies did not adversely affect local retail economies. These results suggest the viability of tobacco sales bans as an effective tobacco control strategy."
+  },
+  {
+    "paper_id": "b11714e43584c68398256e73df13ec027239c41b",
+    "title": "Nuclear phase-out: Can we catch up on CO2 emissions?",
+    "year": 2025,
+    "author_ids": [
+      "2346404206",
+      "8554157",
+      "107884057"
+    ],
+    "venue": "PLoS ONE",
+    "citation_count": 0,
+    "abstract": "Nuclear energy is classified as a low-carbon energy source by institutions such as the European Union, due to its negligible direct carbon dioxide (CO2) emissions. Nevertheless, following major nuclear incidents such as Fukushima, several countries have implemented nuclear phase-out programs driven by safety concerns. This has raised critical questions about whether the reduction in nuclear capacity would be compensated for by an increase in renewable energy or by a return to fossil fuel-based generation. In this paper, we analyze the trajectory of CO2 emissions from fossil fuel energy sources (specifically coal, oil, and gas) in Germany after the launch of its nuclear phase-out in 2010. Using a synthetic control method, we find that although emissions from fossil sources declined overall in the country, the reduction was weaker in Germany after the phase-out, due to an increased reliance on fossil fuels, particularly coal. However, over a thirteen-year period, the gap in fossil-related CO2 emissions between Germany and its synthetic control group progressively narrows until 2023, when it disappeared. These findings suggest that the nuclear phase-out contributed to higher pollution from fossil fuel energy in the short term, but we find that this effect was gradually mitigated by a stronger growth of renewables in Germany during the 2011\u20132023 period."
+  },
+  {
+    "paper_id": "f65aaf5e20fc5a412a674b3ff40695464ac79504",
+    "title": "Should the UK have joined the Euro while in the EU? New evidence using the synthetic control and synthetic difference-in-differences methods",
+    "year": 2025,
+    "author_ids": [
+      "92617401",
+      "1471263999"
+    ],
+    "venue": "Economia Politica",
+    "citation_count": 0,
+    "abstract": null
+  }
+]

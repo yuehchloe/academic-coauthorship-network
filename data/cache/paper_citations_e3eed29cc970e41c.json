@@ -1,0 +1,515 @@
+[
+  {
+    "paper_id": "64212bf26eb431ee3f8c19c92a4eff5a880d7deb",
+    "title": "Pricing in the shadows of inattention: An information-theoretic model of prosumer inattention in residential solar tariff",
+    "year": 2025,
+    "author_ids": [
+      "2382542034",
+      "2107992099"
+    ],
+    "venue": "Electricity Journal",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "45835447abe26794df9da0911c1d4101c0b49386",
+    "title": "The Economics of Attention",
+    "year": 2025,
+    "author_ids": [
+      "2270411613",
+      "51432971"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 11,
+    "abstract": "Attention is an important resource in the modern economy and plays an increasingly prominent role in economic analysis. We summarize research on attention from both psychology and economics with a particular emphasis on its capacity to explain documented violations of classical economic theory. We also identify promising new directions for research, including attention-based utility, the recent proliferation of attentional externalities introduced by digital technology, the potential impact of artificial intelligence on the economics of attention, and the significant role that boredom, curiosity, and other motivational states play in determining how people allocate attention. (JEL C45, D83, D91, I20)"
+  },
+  {
+    "paper_id": "baa3aa51fe9650b0d31ad23fd906657e68427ae3",
+    "title": "Detecting Signatures of Criticality Using Divergence Rate",
+    "year": 2025,
+    "author_ids": [
+      "2150195689",
+      "2356329410",
+      "2358939001"
+    ],
+    "venue": "Entropy",
+    "citation_count": 1,
+    "abstract": "Oftentimes in a complex system it is observed that as a control parameter is varied, there are certain intervals during which the system undergoes dramatic change. In biology especially, these signatures of criticality are thought to be connected with efficient computation and information processing. Guided by the classical theory of rate\u2013distortion (RD) from information theory, we propose a measure for detecting and characterizing such phenomena from data. When applied to RD problems, the measure correctly identifies exact critical trade-off parameters emerging from the theory and allows for the discovery of new conjectures in the field. Other application domains include efficient sensory coding, machine learning generalization, and natural language. Our findings give support to the hypothesis that critical behavior is a signature of optimal processing."
+  },
+  {
+    "paper_id": "b956d66b62f584f7a554e5d4df37b1894e651368",
+    "title": "Diffuse Bunching with Frictions: Theory and Estimation",
+    "year": 2024,
+    "author_ids": [
+      "67221452",
+      "1505985084",
+      "145866448",
+      "46227173"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study the performance of the bunching-based elasticity estimator in the presence of frictions. We show that a broad class of frictions\u2014including search costs, inattention, and lumpy adjustment\u2014can be closely approximated by a parsimonious model in which taxpayers choose between sparse opportunities drawn from a Poisson process. The model features the standard elasticity of taxable income and a single additional \u201clumpiness parameter,\u201d which can be jointly estimated using maximum likelihood. This model predicts key patterns that are inconsistent with the conventional bunching estimator model, including diffuse bunching around kinks and notches in the tax schedule and positive mass above tax notches. Simulations demonstrate that in the presence of frictions, the conventional estimator is biased, underestimating the true elasticity by as much as 50 percent and producing 95 percent confidence intervals that usually exclude the true parameter. We apply our estimation method to administrative tax data on small businesses in South Africa, recovering moderate elasticities at higher incomes and large elasticities at low incomes. We find evidence that firms treat the bottom kink as if it were a notch, and firms with paid tax practitioners exhibit sharper bunching, driven primarily by a lower lumpiness parameter rather than by a different income elasticity. *We wish to acknowledge the National Treasury of South Africa for providing us with access to anonymized tax administrative data. We thank Analytics at Wharton, the Penn Wharton Budget Model, and the Wharton Dean\u2019s Research Fund for funding support. The views expressed in this paper are our own, and do not necessarily reflect the views of the National Treasury of South Africa. We are grateful to Wian Boonzaaier, Jacob Mortenson, Alex Rees-Jones, Joel Slemrod, Jakob S\u00f8gaard, David Thesmar, Andrew Whitten, Eric Zwick, and conference and seminar participants at Economic Research South Africa (ERSA), the European Bank for Reconstruction and Development, Imperial College, LAGV 2021, LMU Munich, CREST, the Toulouse School of Economics, the Wharton Applied Economics Workshop, and the South African Revenue Services for helpful comments and to Afras Sial and Laila Voss for excellent research assistance. All errors are our own. This paper subsumes and replaces the working paper titled \u201cDo Firms Have a Preference for Paying Exactly Zero Tax?\u201d \u2020Anagol: Wharton School, University of Pennsylvania. Email: anagol@wharton.upenn.edu. Davids: School of Economics, University of Cape Town. Email: allan.davids@uct.ac.za. Lockwood: Wharton School, University of Pennsylvania and NBER. Email: ben.lockwood@wharton.upenn.edu. Ramadorai: Imperial College London and CEPR. Email: t.ramadorai@imperial.ac.uk"
+  },
+  {
+    "paper_id": "0dbff87f426ef8750855f6e4a09a05faf9f2b38b",
+    "title": "Dynamic discrete choice under rational inattention",
+    "year": 2023,
+    "author_ids": [
+      "2140832",
+      "152558690"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "95d35a33c86e5b83e325eb3db09482e54a4df01c",
+    "title": "Strategic mistakes",
+    "year": 2023,
+    "author_ids": [
+      "1726112402",
+      "36346609"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 4,
+    "abstract": "To study the equilibrium implications of imperfect optimization, we introduce a model of costly control in continuum-player games in which agents interact via an aggregate of the actions of others. We find primitive conditions such that equilibria exist, are unique, are efficient, and feature monotone comparative statics for action distributions, aggregates, and the size of agents\u2019 mistakes. We use our results to provide robust equilibrium predictions in a class of generalized beauty contests, which we apply to study the implications of imperfect optimization for financial speculation, price-setting, and the business cycle. We contrast our model with the mutual information model (Sims, 2003), which in the same games can produce non-unique predictions and nonmonotone comparative statics. \u2217MIT Department of Economics, 50 Memorial Drive, Cambridge, MA 02142. Email: jpflynn@mit.edu. \u2020MIT Department of Economics, 50 Memorial Drive, Cambridge, MA 02142. Email: ksastry@mit.edu. An earlier version of this paper was entitled \u201cStrategic Mistakes in Large Games.\u201d We thank Daron Acemoglu, George-Marios Angeletos, O\u011fuzhan \u00c7elebi, Roberto Corrao, Drew Fudenberg, Chen Lian, Nicolas Minudri, Stephen Morris, George Nikolakoudis, Chris Sims, Alp Simsek, John Sturm, Iv\u00e1n Werning, Alexander Wolitzky and participants in the MIT Macro Lunch, MIT Theory Lunch, MIT Behavioral Economics Lunch, and MIT Sloan Finance Lunch for helpful comments. First posted version: July 29, 2020."
+  },
+  {
+    "paper_id": "acbd8e658e699a7a57f42cc18d433aa578eddd49",
+    "title": "Subsidizing startups under imperfect information",
+    "year": 2023,
+    "author_ids": [
+      "122783731",
+      "98268032"
+    ],
+    "venue": "Journal of Monetary Economics",
+    "citation_count": 2,
+    "abstract": "We study the early stages of firm creation under imperfect information. Because startups make errorprone decisions due to rational inattention, the model generates both inefficient entry and labor misallocation. We show that information frictions alter the effects of lump-sum transfers to startups: the total employment gain is amplified due to an unintended increase in inefficient entry, most entrants hire fewer workers, and misallocation goes up. The transfer makes low-size, previously dominated actions profitable, affecting the entire endogenous learning problem and making even productive startups lean toward more conservative hiring. We show that this novel information channel works against well-known mechanisms (for example, financial frictions) and also dampens the effects of alternative policies such as wage subsidies."
+  },
+  {
+    "paper_id": "17370d7acc848c8b8e58110eea3fb74001d504e5",
+    "title": "State-Dependent Attention and Pricing Decisions",
+    "year": 2023,
+    "author_ids": [
+      "98268032"
+    ],
+    "venue": "American Economic Journal: Macroeconomics",
+    "citation_count": 6,
+    "abstract": "This paper studies price-setting decisions under rational inattention. Prices are set by tracking an unobserved target whose distribution is also unknown. Information acquisition is dynamic and fully flexible since, given information acquired previously, price setters choose the amount of information they collect as well as how they want to learn about both the outcome and its distribution. We show that by allowing for imperfect information to be the unique source of rigidity, the model can reconcile stylized facts in the microeconomic evidence on price setting while simultaneously being consistent with empirical results on state-dependent attention. (JEL D21, D82, D83, E32, L11, L25)"
+  },
+  {
+    "paper_id": "f5964291801e4fb9c57c0f9c8963e29db1a91bb4",
+    "title": "Rational inattention in the frequency domain",
+    "year": 2023,
+    "author_ids": [
+      "65752045"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3c958ad2a600952a0a667dc7ca060be1c29913d4",
+    "title": "Rationally Inattentive Behaviour with A Priori Knowledge",
+    "year": 2022,
+    "author_ids": [
+      "2162805835",
+      "2097957929",
+      "14869491",
+      "73135245",
+      "2194127437"
+    ],
+    "venue": "Journal of Interdisciplinary Economics",
+    "citation_count": 0,
+    "abstract": "Purpose: To contribute to the discussion on the importance of the sense of fairness in the decision-making process according to the theory of rational inattention. Design: The study is based on an experiment where economically educated respondents state and justify the price at which they are willing to provide and accept help in an emergency. Findings: Most of the respondents are willing to provide and accept help. For the assistance provided, most would demand a significantly lower price than the maximum economic return defined by the known value of the commercial service. The respondents were repeatedly willing to pass on the pricing decision to the counterparty. Practical Implications: This behaviour in decision-making processes represents non-inclusion of a sufficient a priori knowledge as a determining factor in the selection of variants, which is a limitation in the cognitively limited modelling of economic subjects. Originality/Value: The results are based on the original experiment as an empirical basis and it is valuable because of the lack of experimental research in this domain. Limitations include the relatively small sample of respondents and, in terms of generalising the results, that they were students at a university of economics. JEL Codes: D01, D11, D12, D14"
+  },
+  {
+    "paper_id": "e911eba251ed823d7bb4a2870bf43d05b1e6754d",
+    "title": "Rational Inattention, Menu Costs, and Multi-Product Firms: Micro Evidence and Aggregate Implications",
+    "year": 2022,
+    "author_ids": [
+      "121587814"
+    ],
+    "venue": "Journal of Monetary Economics",
+    "citation_count": 16,
+    "abstract": "Using a New Zealand firm-level survey, I show that firms producing more goods have both better information about inflation and more frequent but smaller price changes. To explain these empirical findings, I develop a general equilibrium menu cost model with rationally inattentive multi-product firms. I show that the interaction of nominal and informational rigidities leads to a new selection effect: price adjusters are better informed than non-adjusters. This selection endogenously generates a leptokurtic distribution of desired price changes, which amplifies monetary non-neutrality. Compared to a one-product baseline, the real effects of monetary shocks are 12% smaller in a two-product model. JEL Classification: E31, E32, E37, E52, E70"
+  },
+  {
+    "paper_id": "69010ea4e33535b27d3d3dea54a85ec5cf79b486",
+    "title": "Optimal attention and heterogeneous precautionary saving behavior",
+    "year": 2021,
+    "author_ids": [
+      "1739137720"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "1ef81f51f2aad826ef65e92b49acc854f0cc964d",
+    "title": "Geometric Methods for Finite Rational Inattention",
+    "year": 2021,
+    "author_ids": [
+      "103042863",
+      "2412374867",
+      "2137499682"
+    ],
+    "venue": "Working paper (Federal Reserve Bank of Philadelphia)",
+    "citation_count": 3,
+    "abstract": "We present a geometric approach to the finite Rational Inattention (RI) model, recasting it as a convex optimization problem with reduced dimensionality that is well suited to numerical methods. We provide an algorithm that outperforms existing RI computation techniques in terms of both speed and accuracy in both static and dynamic RI problems. We further introduce methods to quantify the impact of numerical inaccuracy on the model's outcomes and to produce robust predictions regarding the most frequently implemented actions."
+  },
+  {
+    "paper_id": "357c40b6f1713a12c85052d9ebbfb50019141d9d",
+    "title": "A note on pessimism in education and its economic consequences",
+    "year": 2021,
+    "author_ids": [
+      "49964713"
+    ],
+    "venue": "Journal of Economic Inequality",
+    "citation_count": 1,
+    "abstract": "Investigating interaction of the lumpy nature of educational investments and informational frictions on returns to and costs of education, I show that pessimistic beliefs can be self-confirmed in equilibrium. Among some of its consequences, I argue that the commonly pursued research methods may not always identify the true underlying skill distributions."
+  },
+  {
+    "paper_id": "5605f82471df89e934b93f635012777607f369f5",
+    "title": "Rational Inattention: A Review",
+    "year": 2021,
+    "author_ids": [
+      "144511442",
+      "2299631",
+      "51041922"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 256,
+    "abstract": "We review the recent literature on rational inattention, identify the main theoretical mechanisms, and explain how it helps us understand a variety of phenomena across fields of economics. The theory of rational inattention assumes that agents cannot process all available information, but they can choose which exact pieces of information to attend to. Several important results in economics have been built around imperfect information. Nowadays, many more forms of information than ever before are available due to new technologies, and yet we are able to digest little of it. Which form of imperfect information we possess and act upon is thus largely determined by which information we choose to pay attention to. These choices are driven by current economic conditions and imply behavior that features numerous empirically supported departures from standard models. Combining these insights about human limitations with the optimizing approach of neoclassical economics yields a new, generally applicable model. (JEL D83, D91, E71)"
+  },
+  {
+    "paper_id": "311ffa752a607235a7ea2c048273d81c2ed24393",
+    "title": "Inflation: Drivers and Dynamics 2020 Conference Summary",
+    "year": 2021,
+    "author_ids": [
+      "66634952",
+      "143847568",
+      "119484618",
+      "51323193",
+      "1736669299",
+      "100753578",
+      "2081029156",
+      "2281355373",
+      "117831107",
+      "2037338138",
+      "1387891778",
+      "97852363"
+    ],
+    "venue": "Federal Reserve Bank of Cleveland. Economic Commentary",
+    "citation_count": 0,
+    "abstract": "To provide insights into the processes that drive inflationary dynamics, the Federal Reserve Bank of Cleveland holds an annual conference on the topic of inflation: the Inflation: Drivers and Dynamics series. The 2020 installment of the conference was held on May 21-22, 2020. This Commentary summarizes the papers at the conference, which broadly fell into four categories: (1) empirical Phillips curves, (2) networks and Phillips curves, (3) expectations formation, and (4) price-setting behavior and inflation."
+  },
+  {
+    "paper_id": "6a443554c16ac434921e13b767c577858678d0ed",
+    "title": "What Matters in Households\u2019 Inflation Expectations?",
+    "year": 2020,
+    "author_ids": [
+      "51323193",
+      "145280904",
+      "51901164"
+    ],
+    "venue": "Federal Reserve Bank of Boston Research Department Working Papers",
+    "citation_count": 41,
+    "abstract": "We provide evidence that households discretize their inflation expectations so that what matters for durable consumption decisions is the broad inflation regime they expect. Using survey data, we document that a large share of the adjustment in the average inflation expectation comes from the change in the share of households expecting stable prices; these households also consume relatively less than the ones expecting positive inflation. In contrast, variations of expectations across households expecting a positive inflation rate are associated with much smaller differences in individual durable consumption choices. We illustrate how this mitigates the expectation channel of monetary policy."
+  },
+  {
+    "paper_id": "c5a5e470832808a52ee3ea62d5264ef1114eb565",
+    "title": "A welfare criterion with endogenous welfare weights for belief disagreement models",
+    "year": 2020,
+    "author_ids": [
+      "2145155790",
+      "2968689"
+    ],
+    "venue": "Journal of Economic Behavior and Organization",
+    "citation_count": 1,
+    "abstract": "While belief disagreement models have played an important role in explaining bubbles, over-trading, and speculation, measuring social welfare in those models has been a challenge. This is because the social planner may not know the objective probabilities or whose subjective beliefs to elect under belief disagreements. We propose a novel welfare criterion that endogenously determines sensible welfare weights based on competitive equilibrium allocation as a benchmark. Applying it to several models with heterogeneous beliefs, we show how regulation in moderation, rather than tight control of the market, can be optimal even in the presence of heterogeneous beliefs."
+  },
+  {
+    "paper_id": "286ee5ecbcdbab27cc3d920ff1d15f642bbd909d",
+    "title": "A Survey on Entropy and Economic Behaviour",
+    "year": 2020,
+    "author_ids": [
+      "3243854",
+      "2842333"
+    ],
+    "venue": "Entropy",
+    "citation_count": 10,
+    "abstract": "Entropy plays a significant role in the study of games and economic behaviour in several ways. A decision maker faced with an n-fold repetition of a decision-making problem needs to apply strategies that become increasingly complex as n increases. When several players are involved in selecting strategies in interactive games, bounds on the memories and cognitive capacities of the players can affect possible outcomes. A player who can recall only the last k periods of history is said to have bounded recall of capacity k. We present here a brief survey of results of games played by players with different bounded recall capacities, in particular those indicating surprisingly strong relations between memory and entropy in the study of the min-max values of repeated games with bounded recall. In addition, we consider uses of entropy in measuring the value of information of noisy signal structures, also known as experiments. These are represented by stochastic matrices, with the rows representing states of the world and the columns possible signals. The classic ordering of experiments, due to David Blackwell and based on decision-making criteria, is a partial ordering, which has led to attempts to extend this ordering to a total ordering. If a decision maker has a prior distribution over the states, receipt of a signal yields a posterior. The difference between the entropy of a prior and the expected entropy of the set of possible posteriors has been proposed as a natural extension of the Blackwell ordering. We survey this alongside the theory of rational inattention, which posits that, since individuals have limited attention, they do not always follow every single piece of economic news in planning their economic behaviour. By modelling attention limits as finite channel capacity in the sense of Shannon, economists have developed a theory that explains a range of observed economic behavioural phenomena well."
+  },
+  {
+    "paper_id": "4d56bcfe81369a8e29a8fa0bdb6778be0645a0ee",
+    "title": "Rational Inattention via Ignorance Equivalence",
+    "year": 2020,
+    "author_ids": [
+      "103042863",
+      "2412374867",
+      "122257073"
+    ],
+    "venue": "Working paper (Federal Reserve Bank of Philadelphia)",
+    "citation_count": 3,
+    "abstract": "We present a novel approach to finite Rational Inattention (RI) models based on the ignorance equivalent, a fictitious action with state-dependent payoffs that effectively summarizes the optimal learning and conditional choices. The ignorance equivalent allows us to recast the RI problem as a standard expected utility maximization over an augmented choice set called the learning-proof menu, yielding new insights regarding the behavioral implications of RI, in particular as new actions are added to the menu. Our geometric approach is also well suited to numerical methods, outperforming existing techniques both in terms of speed and accuracy, and offering robust predictions on the most frequently implemented actions."
+  },
+  {
+    "paper_id": "246b4b77fa717ff03129fce90c073e56800912cc",
+    "title": "Quantum Prices",
+    "year": 2020,
+    "author_ids": [
+      "2064175143",
+      "66760261"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "cd414286e3a5abfb0fc222ded29948161224a128",
+    "title": "Optimality of Debt under Flexible Information Acquisition",
+    "year": 2019,
+    "author_ids": [
+      "2150425522"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 70,
+    "abstract": "\n This article studies a security design problem featuring flexible information acquisition. To raise liquidity, a seller issues a security backed by her asset in place at the price she proposes to a buyer. Before deciding whether to accept the offer, the buyer can acquire costly information about the underlying asset. This case differs from the existing literature on security design, in that the buyer has the full flexibility of choosing not only the amount of resources to spend in information acquisition, but also how to allocate them, depending on the shape of the security. Debt is shown to be the unique optimal security for the seller, as its payoff is the least sensitive to the value of its underlying asset. This minimizes the buyer\u2019s incentive to acquire information and mitigates the resulting adverse selection. I do not assume monotonicity of the feasible securities nor impose various distributional assumptions on information structures. Instead, I identify conditions for general information costs that support the results."
+  },
+  {
+    "paper_id": "1297aa8751170d3982ba1f960b84206287ae4fb8",
+    "title": "A Rational Inattention Unemployment Trap",
+    "year": 2019,
+    "author_ids": [
+      "2263681",
+      "150910266"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We show that introducing rational inattention into a model with uninsurable unemployment risk can generate multiple steady states, when the same model with full information has a unique steady state. The model features heterogeneity and persistence in household labour market expectations, consistent with survey evidence. In a heterogeneous agent New Keynesian model, we find that rational inattention to the future hiring rate generates a high employment steady state with moderate inflation, and an unemployment trap with very low (but positive) inflation and a low job hiring rate."
+  },
+  {
+    "paper_id": "946ccbd045af9ae8170302dce3aed7948b5c781b",
+    "title": "Rational Inattention, Optimal Consideration Sets, and Stochastic Choice",
+    "year": 2018,
+    "author_ids": [
+      "1846683",
+      "40117979",
+      "145115849"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 197,
+    "abstract": "We unite two basic approaches to modelling limited attention in choice by showing that the rational inattention model implies the formation of consideration sets\u2014only a subset of the available alternatives will be considered for choice. We provide necessary and sufficient conditions for rationally inattentive behaviour which allow the identification of consideration sets. In simple settings, chosen options are those that are best on a stand-alone basis. In richer settings, the consideration set can only be identified holistically. In addition to payoffs, prior beliefs impact consideration sets. Linear inequalities identify all priors consistent with each possible consideration set."
+  },
+  {
+    "paper_id": "7ebf5eb25d6687bde0ee3354288f9095733ec078",
+    "title": "A Scaling Law From Discrete to Continuous Solutions of Channel Capacity Problems in the Low-Noise Limit",
+    "year": 2017,
+    "author_ids": [
+      "8147700",
+      "2575158"
+    ],
+    "venue": "Journal of statistical physics",
+    "citation_count": 13,
+    "abstract": "An analog communication channel typically achieves its full capacity when the distribution of inputs is discrete, composed of just K symbols, such as voltage levels or wavelengths. As the effective noise level goes to zero, for example by sending the same message multiple times, it is known that optimal codes become continuous. Here we derive a scaling law for the optimal number of symbols in this limit, finding a novel rational scaling exponent. The number of symbols in the optimal code grows as logK\u223cI4/3\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\log K\\sim I^{4/3}$$\\end{document}, where the channel capacity I increases with decreasing noise. The same scaling applies to other problems equivalent to maximizing channel capacity over a continuous distribution."
+  },
+  {
+    "paper_id": "b44c279cf96918127670a34e460491494917a8bc",
+    "title": "Maximizing the information learned from finite data selects a simple model",
+    "year": 2017,
+    "author_ids": [
+      "3792235",
+      "2408841",
+      "8147700",
+      "2575158"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 54,
+    "abstract": "Significance Most physical theories are effective theories, descriptions at the scale visible to our experiments which ignore microscopic details. Seeking general ways to motivate such theories, we find an information theory perspective: If we select the model which can learn as much information as possible from the data, then we are naturally led to a simpler model, by a path independent of concerns about overfitting. This is encoded as a Bayesian prior which is nonzero only on a subspace of the original parameter space. We differ from earlier prior selection work by not considering an infinite quantity of data. Having finite data is always a limit on the resolution of an experiment, and in our framework this selects how complicated a theory is appropriate. We use the language of uninformative Bayesian prior choice to study the selection of appropriately simple effective models. We advocate for the prior which maximizes the mutual information between parameters and predictions, learning as much as possible from limited data. When many parameters are poorly constrained by the available data, we find that this prior puts weight only on boundaries of the parameter space. Thus, it selects a lower-dimensional effective theory in a principled way, ignoring irrelevant parameter directions. In the limit where there are sufficient data to tightly constrain any number of parameters, this reduces to the Jeffreys prior. However, we argue that this limit is pathological when applied to the hyperribbon parameter manifolds generic in science, because it leads to dramatic dependence on effects invisible to experiment."
+  },
+  {
+    "paper_id": "47db33b4edc1dbeca55f180de7c2960789a6bbc3",
+    "title": "Bringing Rational Inattention to the Market for Lemons",
+    "year": 2024,
+    "author_ids": [
+      "2296181474"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "632660852f08161c600d60f8ec46da7eb65ecc5d",
+    "title": "Study on the Mean Variance Portfolio Model Based on Rational Negligence",
+    "year": 2024,
+    "author_ids": [
+      "2320683144"
+    ],
+    "venue": "Finance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c0de1791c2b68f17404c68251ec3ff5b1292f728",
+    "title": "Limited Consideration in the Investment Fund Choice",
+    "year": 2023,
+    "author_ids": [
+      "2180722717"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "This study characterizes the household\u2019s choice of investment fund as a multiple step procedure. Using two structural econometric models, I estimate potential investor characteristics that drive the decision process. While the first step includes choosing whether to invest in a fund or not, i.e. it models the extensive margin, the second step models the intensive margin, depending on the choice of the econometric model. In the first step, the probability of becoming a fund investor rises with the level of education, financial literacy and wealth, but falls with age and indebtedness. In the second step, the investment size increases with wealth and age but decreases with financial literacy. Further, I model the choice between different types of investment funds as extensions of the Random Utility Model (RUM) representing full consideration and the Limited Consideration Model. In this way, I am able to estimate and compare resulting models. I reject full consideration in favor of limited consideration behavior. Using a novel framework for investment fund choice, I estimate average monetary losses affected by limited consideration. In contrast to previous research that uses only the full consideration framework, I find that all households across the wealth distribution face significant losses. However, conditional on wealth, households with a lower level of education or financial literacy face larger losses. In addition, by combining results from multiple steps of the investment decision, I calculate the elasticity of marginal utility of investing in variables such as financial literacy. JEL codes: D83, G11, G23, G41, G53"
+  },
+  {
+    "paper_id": "d0aad0dd97c0102660d57272061bb22ce3ce19e6",
+    "title": "The Inner Beauty of Firms: Internal Organization in Industry Equilibrium",
+    "year": 2023,
+    "author_ids": [
+      "2123584786"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f43f5d1e20f87bdad69f06ed5330a010861372ff",
+    "title": "Optimally Coarse Contracts",
+    "year": 2023,
+    "author_ids": [
+      "119159863",
+      "1726112402",
+      "2258288753"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study when a principal\u2019s difficulty in describing payoff-relevant outcomes leads contracts to be optimally incomplete. Our setting is a general principal-agent model in which agents\u2019 actions are partially contractible and the principal can choose the extent of contractibility at a cost. We first characterize implementable and optimal incomplete contracts for any fixed extent of contractibility. We next show that, if costs of contractibility satisfy a generalized notion of having a strictly positive marginal cost, then contracts are optimally coarse: they specify finitely many outcomes out of a continuum of possibilities. This provides a general foundation for incomplete contracts: even with arbitrarily small costs of contractibility, optimal contracts leave almost all outcomes unspecified. We apply these results in a standard nonlinear pricing setting to study when and why optimal price schedules have coarse tiers. In additional applications, we rationalize coarse product tiers in further assignment problems that feature menu costs, privacy concerns, and quality certification. \u2217MIT Department of Economics, 50 Memorial Drive, Cambridge, MA, 02142. Email: rcorrao@mit.edu. \u2020Yale University Department of Economics, 30 Hillhouse Avenue, New Haven, CT, 06511. Email: joel.flynn@yale.edu. \u2021Princeton University Department of Economics, Julis Romo Rabinowitz Building, Princeton, NJ, 08544, Email: ksastry@princeton.edu. We are grateful to Daron Acemoglu, Alessandro Bonatti, O\u011fuzhan \u00c7elebi, Daniel Chen, Piotr Dworczak, Drew Fudenberg, Robert Gibbons, Zi Yang Kang, Giacomo Lanzani, Stephen Morris, Ellen Muir, Jean Tirole, Jonathan Weinstein, Alexander Wolitzky, and Kai Hao Yang."
+  },
+  {
+    "paper_id": "4353348f82e70495beb835a1412f863524a32678",
+    "title": "The Inner Beauty of Firms",
+    "year": 2022,
+    "author_ids": [
+      "2123584786"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "506776252fc752bc33dab1d16b041cb27337f7c0",
+    "title": "Choosing what to pay attention to",
+    "year": 2022,
+    "author_ids": [
+      "80845765"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 1,
+    "abstract": "This paper studies static rational inattention problems with multiple actions and multiple shocks. We solve for the optimal signals chosen by agents and provide tools to interpret information processing. By relaxing restrictive assumptions previously used to gain tractability, we allow agents more latitude to choose what to pay attention to. Our applications examine the pricing problem of a monopolist who sells in multiple markets and the portfolio problem of an investor who can invest in multiple assets. The more general models that our methods allow us to solve yield new results. We show conditions under which the multimarket monopolist would optimally choose a uniform pricing strategy, and we show how optimal information processing by rationally inattentive investors can be interpreted as learning about the Sharpe ratio of a diversified portfolio."
+  },
+  {
+    "paper_id": "3b38797936975da9500060fa7a6136316f68758b",
+    "title": "Robust Rationally Inattentive Discrete Choice",
+    "year": 2022,
+    "author_ids": [
+      "1796633",
+      "2140832",
+      "152558690"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "673394063f0fdfc33aaf799875241ab3b5fd86cc",
+    "title": "The (Un)identification of Continuous-Action Rational Inattention Decision Models",
+    "year": 2021,
+    "author_ids": [
+      "2155888742"
+    ],
+    "venue": "Advances in Economics and Business",
+    "citation_count": 0,
+    "abstract": "In this paper, we discuss some properties of optimal consideration set in binary state continuous-action rational inattention decision problems. First, we show that it is the form of the utility function that determines the form of posterior distribution, i.e. whether it is a binary distribution or a triple or quadruple distribution, etc. Besides, we will also show that the posterior distribution may not be resulted after information acquisition in some circumstances. Second, we show that the optimal consideration set is essentially the optimal action strategies. Therefore, without further conditions, the rational inattention decision model is unidentifiable. Third, in order to identify the rational inattention decision model, we introduce another condition to the model. The discrete actions after information acquisition that satisfy the endogenously-determined probability (optimal action strategies) should satisfy the properties of probabilities, and therefore the discrete actions should also follow an exogenous probability distribution. This idea is tested by an example with quadratic utility function. Through this example, we find that under this condition, the optimal consideration set can be identified. The elements in the optimal consideration set, or equivalently the discrete signals after information acquisition, exhibit a curve or curves."
+  },
+  {
+    "paper_id": "7098584538115b682a5d0c64c5c84478f32bf2ba",
+    "title": "Unemployment Duration with Rationally Inattentive",
+    "year": 2021,
+    "author_ids": [
+      "114638406"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "fc7c62712aa2fc77185887f048b71dd5e0024be2",
+    "title": "Online Appendix to: \u201cThe Normality Assumption in Coordination Games with Flexible Information Acquisition\u201d",
+    "year": 2021,
+    "author_ids": [
+      "36372330"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9e43b3460d4d888817f11c18136312583f260e64",
+    "title": "The Rationally Inattentive Manager",
+    "year": 2020,
+    "author_ids": [
+      "2155888742"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We analyze the ordering decisions of a manager who acquires demand information to make inventory decisions. Human beings' cognitive ability in information acquisition is imperfect by nature. We adopt the rational inattention theory to model the information acquisition activity. By reformulating the rational inattention decision problem, we find that rational inattention theory resembles the free energy principle (Friston 2009, 2010) that is used to model brain activities. Therefore, rational inattention theory gets a neurocognitive foundation. We obtain closed-form solutions of the optimal action strategies, which is a discrete distribution although the states are continuous. The process of resulting the optimal action strategies shows that the essence of the process, as a neurocognitive activity, is to think until nothing to think. The optimal action strategies themselves show that an effective thinking is hard to obtain unless think one more step. We also study the impact on decisions once the primitive information is contaminated. If the primitive information is contaminated by, for example, data sampling errors, the acquired information will be eclipsed by the contamination and exhibit certain features that mistaken the ordering decisions by acquiring information if the primitive information were clean. The specific forms of the well-known one-to-one correspondence between action and signal are also restricted by the contamination. We propose an empirical approach to identify the optimal ordering quantities, and the approach works only if the information contamination is separated from the estimation of the unconditional optimal ordering strategies."
+  },
+  {
+    "paper_id": "d112df2c44d4e9f70848752dc85824caadafbcb9",
+    "title": "Optimality of Debt under Flexible Information Acquisition",
+    "year": 2020,
+    "author_ids": [
+      "2150425522"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "055cc3caa6268c79c280b37913f80d51c32360cf",
+    "title": "Rational Inattention and the Ignorance Equivalent \u2217 PRELIMINARY AND INCOMPLETE",
+    "year": 2019,
+    "author_ids": [
+      "103042863",
+      "2412374867",
+      "122257073"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1670f67944ff74c5cb9c63f8166e5cde919ce707",
+    "title": "Rational Inattention-driven dispersion with volatility shocks\u2217",
+    "year": 2018,
+    "author_ids": [
+      "98268032"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "60c16843ea492b5b7dc04322be676d4ffca90490",
+    "title": "Rational Inattention : A Disciplined Behavioral Model",
+    "year": 2018,
+    "author_ids": [
+      "144511442",
+      "2299631",
+      "51041922"
+    ],
+    "venue": null,
+    "citation_count": 43,
+    "abstract": null
+  }
+]

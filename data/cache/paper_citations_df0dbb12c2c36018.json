@@ -1,0 +1,773 @@
+[
+  {
+    "paper_id": "1d394803ceeff7f2a773ffbdaf5b39431fbfdf5f",
+    "title": "Sorting and Staying: Economics PhDs and Their Hiring and Separation From More Teaching-Oriented Universities",
+    "year": 2025,
+    "author_ids": [
+      "50563738",
+      "35255366"
+    ],
+    "venue": "The American Economist",
+    "citation_count": 1,
+    "abstract": "Hiring new faculty members is a time-consuming and arduous process, especially for smaller, teaching-oriented schools with limited resources. Access to information on graduate programs and candidates that are more likely to yield successful hires would allow these programs to allocate scarce resources more efficiently. We examine economists\u2019 paths from graduate schools to these teaching-oriented schools. We use a dataset of over 650 economics PhD placements from 2003\u20132022 at schools that do not have a PhD program in economics to better understand hiring at these schools. We find that new assistant professors in teaching-oriented economics departments are hired from economics PhD-granting institutions with a mean U.S. News & World Report ranking of around 45. In addition, there is a positive relationship between the rank of the hiring department and the PhD-granting program. We show that top-ranked graduate programs in economics sent a smaller proportion of their graduates to teaching-oriented institutions and that the average rank of the graduate school of new PhD hires has declined over time, likely due to competition from industry. We show that hires from top seven schools are more likely to leave their position and less likely to stay at national universities relative to peers hired from lower-ranked PhD programs."
+  },
+  {
+    "paper_id": "577fadf35671b607320a6d9712152124b39519d7",
+    "title": "Effects of chief economists in financial institutions on capital market development",
+    "year": 2025,
+    "author_ids": [
+      "2201302811",
+      "2362540771",
+      "2297675865",
+      "2337529103",
+      "2112634716"
+    ],
+    "venue": "International Review of Financial Analysis",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1a035b9ae6630d76ac13e806132a6478c48ac14f",
+    "title": "Grocery Stockouts and Seller Performance in Amazon's Marketplaces",
+    "year": 2025,
+    "author_ids": [
+      "122899590",
+      "2295037747",
+      "37763850"
+    ],
+    "venue": "Agribusiness",
+    "citation_count": 0,
+    "abstract": "This study examines the relationship between grocery stockouts and sales performance on Amazon's marketplaces in five countries\u2014Canada, France, Germany, the United Kingdom, and the United States. Using a dataset that comprises more than 290,000 distinct grocery products, we find that Amazon has higher sales and lower stockout rates than its third\u2010party sellers. Our analysis also reveals strong negative correlations between stockout rates and sales performance across all countries. Specifically, when products are unavailable for a 90\u2010day period, average sales rankings across all seller types are 14%\u201367% higher, indicating lower sales performance. The correlation between stockouts and sales rankings appears stronger for Amazon's own products compared to those sold by third\u2010party sellers. These results highlight how grocery inventory availability relates to sales performance across different seller types in Amazon's e\u2010commerce ecosystem, with implications for both platform operators and third\u2010party sellers."
+  },
+  {
+    "paper_id": "9b1a5dc845f7a8fa2246ce8ce36f6f431752497f",
+    "title": "Randomization Inference in Two-Sided Market Experiments",
+    "year": 2025,
+    "author_ids": [
+      "2121187577",
+      "51898435",
+      "1776973"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Randomized experiments are increasingly employed in two-sided markets, such as buyer--seller platforms, to evaluate the effects of marketplace interventions. These experiments must reflect the underlying two-sided market structure in their design and can therefore be challenging to analyze. In this paper, we develop a randomization inference framework for outcomes from two-sided experiments, with a focus on testing and inference for two-sided spillover effects. Our approach is finite-sample valid under sharp null hypotheses. Regarding weak null hypotheses, we find that the commonly used Neyman-style studentization does not universally ensure asymptotic validity, and we document how it depends on the specific formulation of the null. We then propose a two-way variance estimator for studentization that restores asymptotic validity. We further propose methods to improve testing power by exploiting the two-sided structure of the problem, which we validate empirically. We demonstrate our methods through a series of simulation studies and an applied example from a network experiment in micro-lending."
+  },
+  {
+    "paper_id": "e5b7b79e6924516f02cf3edde77c461e01e07141",
+    "title": "Platforming economics: tech economics, market design, and the transformation of markets",
+    "year": 2025,
+    "author_ids": [
+      "1405450719"
+    ],
+    "venue": "Journal of Economic Methodology",
+    "citation_count": 0,
+    "abstract": "ABSTRACT Economic methodologists join economists in crediting market designers for taking a pragmatic approach toward improving markets for the common good. Accordingly, the new wave of market design, designated \u2018tech economics,\u2019 now accepts responsibility for pursuing efficiency, as well as a myriad of other policy goals. Yet, ambiguity surrounds the targets they hold out for intervention and therefore the justifications they have offered for the continued deployment of their designs. By scrutinizing the theoretical and practical features of these designers\u2019 \u2018markets,\u2019 this paper finds that market designers have offered to assist platforms in extending their domains of governance. While this stance has opened up multitudes of design opportunities, the attendant conceptual shift raises questions not only about the activities undertaken by specific tech economists, but more generally about the plausibility of the economist\u2019s professed stance to improve markets for the benefit of all."
+  },
+  {
+    "paper_id": "37a3e3936e40b014a09a174a16435860071d3d4a",
+    "title": "Noisy signals: Does rating volatility depend on the length of the consumption span?",
+    "year": 2024,
+    "author_ids": [
+      "1405403949",
+      "2094431115"
+    ],
+    "venue": "Economic Modelling",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "7c735dc34b3b92c0217f2fb9bd5f72360efaf2aa",
+    "title": "Strategic Wage Posting, Market Power, and Mismatch",
+    "year": 2024,
+    "author_ids": [
+      "119115360"
+    ],
+    "venue": "Journal of Labor Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "70d71568f385a5535693a351e0c41ae81b3d7a25",
+    "title": "The impact of fraud on reputation systems",
+    "year": 2024,
+    "author_ids": [
+      "40117582",
+      "3020008"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "a076fcee4cc25634675bc502e3abc97b204d1646",
+    "title": "Mennyire innovat\u00edvak a Big Tech v\u00e1llalatok?",
+    "year": 2024,
+    "author_ids": [
+      "118045892"
+    ],
+    "venue": "K\u00f6zgazdas\u00e1gi Szemle",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "40e6f9bcc784ada47b8ad11961c3e1772d5a75f2",
+    "title": "Externalities and complementarities in platforms and ecosystems: From structural solutions to endogenous failures",
+    "year": 2024,
+    "author_ids": [
+      "2262423",
+      "50875536",
+      "30623655"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 146,
+    "abstract": "Platforms and ecosystems provide structures for constellations of economic actors to engage and interact as they seek to create and capture value. We consider how the constructs of platforms and ecosystems relate and explore why they have become more ubiquitous by focusing on the nature of their value-add. We propose that they emerge as a response to distinct market failures, which we identify, and we explain which specific externalities they help overcome. We also identify post-hoc endogenous functional and distributional failures that platforms and ecosystems, in turn, generate. We discuss implications for theory and practice."
+  },
+  {
+    "paper_id": "04624337d13dc3cdb10882eb09a87a595edd9675",
+    "title": "RETRACTED ARTICLE: Examining the Impact of Digital Economy on Agricultural Trade Efficiency in RCEP Region: A Perspective Based on Spatial Spillover Effects",
+    "year": 2023,
+    "author_ids": [
+      "2311774686",
+      "119315086"
+    ],
+    "venue": "Journal of the Knowledge Economy",
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "8eaf7e1ff49658676af88cef9815ac7aa29cb454",
+    "title": "Generation Next: Experimentation with AI",
+    "year": 2023,
+    "author_ids": [
+      "2242187430",
+      "120413851",
+      "2412027343"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 18,
+    "abstract": "We investigate the potential for Large Language Models (LLMs) to enhance scientific practice within experimentation by identifying key areas, directions, and implications. First, we discuss how these models can improve experimental design, including improving the elicitation wording, coding experiments, and producing documentation. Second, we delve into the use of LLMs in experiment implementation, with an emphasis on bolstering causal inference through creating consistent experiences, improving instruction comprehension, and real-time monitoring of participant engagement. Third, we underscore the role of LLMs in analyzing experimental data, encompassing tasks like pre-processing, data cleaning"
+  },
+  {
+    "paper_id": "cae8e6f3a3a42dc6c3165b66f9b721117f4f35fc",
+    "title": "Market entry as a marketplace owner: when and why should you sell on your marketplace?",
+    "year": 2023,
+    "author_ids": [
+      "2058860773"
+    ],
+    "venue": "Journal of Business Economics",
+    "citation_count": 2,
+    "abstract": "The new Digital Market Act (DMA) of the European Union imposes stricter rules on gatekeeper platforms. While this affects only a few very large platforms, the discussion surrounding the implementation of the DMA offers valuable insights into the strategic behaviors of those gatekeeper platforms. A gatekeeper platform, for example, may enter its platform as a supplier, which may hurt existing third-party suppliers and restrict fair competition on the platform. This paper flips the academic discussion on whether marketplace owners should be allowed to sell on their marketplaces. It illustrates why this behavior is profitable for gatekeepers and how marketplace owners can apply this knowledge to improve their business models. The paper identifies five situations in which becoming a supplier in one\u2019s marketplace can be profitable, but it also proposes alternative solutions to entering the market."
+  },
+  {
+    "paper_id": "0e6d586818f4a59fc26fbe7444123f9a5da63b7b",
+    "title": "Behavioral Economics and Technology Innovation: Using Choice Architecture to Build and Scale Products",
+    "year": 2023,
+    "author_ids": [
+      "2223264889"
+    ],
+    "venue": "Proceedings of the International Conference on Business Excellence",
+    "citation_count": 2,
+    "abstract": "Abstract With technology being a part of our everyday lives, there has never been a more critical time to dive deeper and understand what drives us to choose specific products. The effectiveness with which technology companies use behavioral economics principles, such as choice architecture, in product development can drive better outcomes both for the organisation and the customer. The use of behavioral economics has become increasingly popular in. recent years. By leveraging insights from behavioral economics, technology companies can create products that better align with users\u2019 needs and preferences, and that are more likely to be adopted over time. This article critically reviews existing and emerging academic research, addressing three key areas: how behavioral economics appeared and its growth in the last five decades, behavioral economics in practice through the use of Choice Architecture, and how behavioral insights are currently applied in the design of technology products. In the present study, I have undertaken a review of existing literature and research studies by analysing and synthesising key points. The review was conducted by analysing and reading existing literature on the topic, including peer-reviewed journal articles, books and industry reports. Overall, this visionary paper provides a contribution to the field of technology product development, highlighting potential strategies of using behavioral economics to better design, build and scale products."
+  },
+  {
+    "paper_id": "1833dc94be926f52c5f09a1ce10bf202bb67c054",
+    "title": "\u0425\u0410\u0420\u0410\u041a\u0422\u0415\u0420\u0418\u0421\u0422\u0418\u041a\u0418 \u0420\u042b\u041d\u041a\u041e\u0412 \u0421\u041e\u0417\u0414\u0410\u041d\u0418\u042f \u0418\u041d\u041d\u041e\u0412\u0410\u0426\u0418\u041e\u041d\u041d\u041e\u0419 \u041f\u0420\u041e\u0414\u0423\u041a\u0426\u0418\u0418 \u0418 \u0418\u0425 \u0412\u041b\u0418\u042f\u041d\u0418\u0415 \u041d\u0410 \u041c\u0415\u0425\u0410\u041d\u0418\u0417\u041c\u042b \u0412\u0417\u0410\u0418\u041c\u041e\u0414\u0415\u0419\u0421\u0422\u0412\u0418\u042f \u0421\u0423\u0411\u042a\u0415\u041a\u0422\u041e\u0412 \u0418\u041d\u041d\u041e\u0412\u0410\u0426\u0418\u041e\u041d\u041d\u041e\u0419 \u0418\u041d\u0424\u0420\u0410\u0421\u0422\u0420\u0423\u041a\u0422\u0423\u0420\u042b",
+    "year": 2023,
+    "author_ids": [
+      "2072116883",
+      "2312953940",
+      "2312953350"
+    ],
+    "venue": "\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u0438 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e",
+    "citation_count": 0,
+    "abstract": "The article presents the results of a study of the main characteristics of modern markets for the production and sale of innovative products (services, technologies). They made it possible to identify new organizational and economic mechanisms of interaction between the subjects of the innovation infrastructure. As a methodological tool, authors used the main provisions of the theories of interconnections and value chains, cooperation and competition, as well as the Henderson-Clark innovation model. Authors carried out the analysis of the main characteristics of existing and new markets for the production and sale of innovative products (services, technologies). Based on the research, authors concluded that at present there is no universal organizational and economic mechanism for the interaction of subjects of innovation infrastructure in the markets for the production and sale of innovative products (services, technologies). For the successful development of innovation activity, usage of a specific mechanism is subject to a comprehensive justification from the standpoint of each subject of the innovation infrastructure.\n \u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0440\u044b\u043d\u043a\u043e\u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u0438 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438 (\u0443\u0441\u043b\u0443\u0433, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439). \u041e\u043d\u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u043b\u0438 \u0432\u044b\u044f\u0432\u0438\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u043e-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u044b \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b. \u0412 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043c\u0435\u0442\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0442\u0435\u043e\u0440\u0438\u0439 \u043c\u0435\u0436\u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0439 \u0438 \u0446\u0435\u043f\u043e\u0447\u0435\u043a \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043d\u043e\u0439 \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u0438, \u043a\u043e\u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0438 \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0446\u0438\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u043e\u0434\u0435\u043b\u044c \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u0439 \u0425\u0435\u043d\u0434\u0435\u0440\u0441\u043e\u043d\u0430-\u041a\u043b\u0430\u0440\u043a\u0430. \u041f\u0440\u043e\u0432\u0435\u0434\u0435\u043d \u0430\u043d\u0430\u043b\u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0445 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0438 \u043d\u043e\u0432\u044b\u0445 \u0440\u044b\u043d\u043a\u043e\u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u0438 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438 (\u0443\u0441\u043b\u0443\u0433, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439). \u041d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043d\u044b\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439\u0431\u044b\u043b \u0441\u0434\u0435\u043b\u0430\u043d \u0432\u044b\u0432\u043e\u0434 \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u043d\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u043e\u043d\u043d\u043e-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u0430 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u043e\u0432 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b \u043d\u0430 \u0440\u044b\u043d\u043a\u0430\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0430 \u0438 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438 (\u0443\u0441\u043b\u0443\u0433, \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439). \u0414\u043b\u044f \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0433\u043e \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c\u0430 \u043f\u043e\u0434\u043b\u0435\u0436\u0438\u0442 \u0432\u0441\u0435\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0435\u043c\u0443 \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044e \u0441 \u043f\u043e\u0437\u0438\u0446\u0438\u0439 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0441\u0443\u0431\u044a\u0435\u043a\u0442\u0430 \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0438\u043d\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u044b."
+  },
+  {
+    "paper_id": "dc19ec1cde9eb89100d30db148ea9b6c6d52d07e",
+    "title": "The Limits of Centralized Pricing in Online Marketplaces and the Value of User Control",
+    "year": 2023,
+    "author_ids": [
+      "4752758",
+      "1890199",
+      "1782551"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 16,
+    "abstract": "We report experimental and quasi-experimental evidence from a \u201csharing economy\u201d marketplace that transitioned from decentralized to centralized pricing. Centralized pricing increased the utilization of providers\u2019 assets, resulting in higher revenues but also higher transaction costs. Providers who were barred from accessing the price system made nonprice adjustments, including reducing the availability of their assets, canceling booked transactions, and exiting the market. Providers who retained partial pricing control reacted substantially less but experienced similar revenue increases. We highlight the challenges of implementing centralized pricing and assessing its welfare effects. We show that partial control can mitigate these challenges, allowing providers to express their private and heterogeneous preferences while maintaining the benefits of centralization. This paper was accepted by Gabriel Weintraub, revenue management and market analytics. Funding: S. Jagabathula was funded in part by the Division of Civil, Mechanical, and Manufacturing Innovation [Grant 1454310]. Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4789 ."
+  },
+  {
+    "paper_id": "09b71ba93064601a9cf1f02bc46cee48e1c257dd",
+    "title": "Causal Machine Learning and its use for public policy",
+    "year": 2023,
+    "author_ids": [
+      "144190739"
+    ],
+    "venue": "Swiss Journal of Economics and Statistics",
+    "citation_count": 27,
+    "abstract": "In recent years, microeconometrics experienced the \u2018credibility revolution\u2019, culminating in the 2021 Nobel prices for David Card, Josh Angrist, and Guido Imbens. This \u2018revolution\u2019 in how to do empirical work led to more reliable empirical knowledge of the causal effects of certain public policies. In parallel, computer science, and to some extent also statistics, developed powerful (so-called Machine Learning) algorithms that are very successful in prediction tasks. The new literature on Causal Machine Learning unites these developments by using algorithms originating in Machine Learning for improved causal analysis. In this non-technical overview, I review some of these approaches. Subsequently, I use an empirical example from the field of active labour market programme evaluation to showcase how Causal Machine Learning can be applied to improve the usefulness of such studies. I conclude with some considerations about shortcomings and possible future developments of these methods as well as wider implications for teaching and empirical studies."
+  },
+  {
+    "paper_id": "618d55b07c0832a8cd1feb6444f0924f64bde553",
+    "title": "Diversity and Equity in Labor Market Outcomes for Economists",
+    "year": 2023,
+    "author_ids": [
+      "41221389",
+      "51428225",
+      "66609259"
+    ],
+    "venue": "Journal of Economics Race and Policy",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "762055677631ac354f86c008e77d97a6d61764c9",
+    "title": "The influence of customer involvement and engagement on co-creation of services, satisfaction, and loyalty: The case of Software as a Service",
+    "year": 2023,
+    "author_ids": [
+      "2256560887",
+      "115579635"
+    ],
+    "venue": "Innovative Marketing",
+    "citation_count": 6,
+    "abstract": "Software as a digital product has been shown to improve companies\u2019 performance and efficiency. One product that is now at the core of many businesses is Software as a Service (SaaS). By utilizing cloud computing platforms, SaaS is a method of providing applications as a service. SaaS applications have unique characteristics that can be customized to meet customers\u2019 needs. Hence, SaaS has become suitable for companies of all types and sizes, including small- and medium-sized enterprises. The purpose of this study is to examine the effect of customer involvement on the development of SaaS applications and the impact of customer engagement on the co-creation of services, satisfaction, and loyalty, with the co-creation level used as a moderating variable. Data were collected from responses to an online questionnaire by 282 users of a SaaS application in Indonesia who were the decision-makers of the selected SaaS provider. The data were then analyzed using structural equation modeling. The results show that customer involvement in developing SaaS applications significantly positively affects the co-creation of services, satisfaction, and loyalty (t-value &gt; 1.645). Moreover, the level of co-creation was proven to strengthen the impact of customer involvement on the co-creation of services with an interaction Standardize Loading Factor (SLF) path of 1.36. Hence, the findings indicate that higher customer involvement promotes collaborative activities with service providers, and the optimum level of co-creation raises customer satisfaction."
+  },
+  {
+    "paper_id": "5cede22be5392baf8f671285086ec88408125a58",
+    "title": "Modification of the Value Management of International Corporate Structures in the Conditions of the Digital Economy",
+    "year": 2023,
+    "author_ids": [
+      "2256898840",
+      "2133153699",
+      "120737872"
+    ],
+    "venue": "European Journal of Management Issues",
+    "citation_count": 12,
+    "abstract": "Purpose of the research. Investigate formats for managing the value of international corporate structures, taking into account the formation of digital assets, and develop recommendations for introducing precise modifications to the management of the value of international corporations in the digital economy. \nDesign/Method/Plan of the reseach. Systematic, synergistic, conceptual and methodological approaches are used, involving the use of the method of analysis and synthesis, modeling, formalization, methods of statistical and economic analysis, modeling, expert support and evaluation. \nResults of the research. The formation of a new external environment of corporations - the \"digital environment\" - is substantiated as a space for the manifestation of competitive advantages of the digital transformation of the economy, which is characterized by a clarification of the influence of digitalization on the activities of international corporate structures. The factors of increasing the cost in the digital environment are identified, being based on the developed modified approach, which takes into account both the change of the previously known cost factors in the digital environment and the emergence of new, previously unformulated cost factors, which allow to create a scenario of the economic activity of the corporation in the digital environment, to establish the dependence of the selected factors cost and will divide the factors acting in the formation of the digital environment, and the factors that manifest themselves directly in the digital economy. The concept of cost management of the corporation has been developed, in terms of assessing the new external corporate environment, taking into account the influence of digital factors, identifying new cost levers, taking into account radical changes in technological processes, including recommendations on the adaptation of new digital cost management tools, which allows assessing the digital component of the growth of modern markets and takes into account both the creation and destruction of value under the influence of the digital economy. \nThe theoretical significance of the research. The role of the digital economy in relation to the models and tools of corporate governance has been determined. The points of contact and interaction of corporate strategies and the process of business digitalization based on the effective management of the value of the corporation have been studied. \nThe practical significance of the research. The results and recommendations of the study can be implemented in long-term programs for the digitalization of international corporate governance practices and digital support for the development or adaptation of corporate strategies in order to implement the complex potential of the corporation. \nOriginality/Value/Scientific novelty of the research. The specificity of the implementation of digital economy tools in the organizational formats of the activities of international corporate structures has been studied. Modified models for improving corporate value management based on blockchain technologies and digital cost control as part of a corporate strategy have been proposed. \nProspects for further research. The obtained results of the research can be used in the context of the development of national and branch programs for digitalization of corporate management and the implementation of digital technologies in the model of corporatization of enterprises and organizations of various forms of ownership. \nArticle type. Theoretical. \nJEL Classification: F23, L19, O33"
+  },
+  {
+    "paper_id": "c8d8eef4cf6d4ec56a4587b5feff7a8b90a78557",
+    "title": "Addressing human behavior in conservation design: Learning from program applications",
+    "year": 2023,
+    "author_ids": [
+      "1435508579",
+      "7835901",
+      "89775077"
+    ],
+    "venue": "Biological Conservation",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "83edc550b15965cb3e64e6038935f303fb360678",
+    "title": "Rate This Transaction: Coordinating Mappings in Market Feedback Systems",
+    "year": 2023,
+    "author_ids": [
+      "3073122",
+      "146064899",
+      "23204247"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 0,
+    "abstract": "Reputation feedback systems assign feedback scores to traders with the aim of separating them according to reliability. There is now a substantial amount of literature on what these mechanisms do well and not so well. Conspicuously absent is a theoretical framework to guide thinking on improving these systems. Here we construct a prototype market, stylized and conceptual in nature, but also suitable for laboratory testing. We use the prototype to examine competing approaches to eliciting feedback from traders. Using entropy to benchmark informativeness, we show that the informativeness of feedback elicitation approaches depends on the ability to solve a coordination problem such that traders use a common mapping to turn experiences into ratings. In theory, different approaches can be about equally informative although the map to coordinate on is more ambiguous in some cases. We then test the approaches in the laboratory. The resulting data find that the most informative feedback is associated with the elicitation methods where the solution to the coordination problem is least ambiguous. This paper was accepted by Yan Chen, behavioral economics and decision analysis. Funding: Financial support from the Deutsche Forschungsgemeinschaft (German Research Foundation) through the Research Unit \u201cDesign & Behavior\u201d [FOR 1371] is gratefully acknowledged. The authors thank the Dutch national e-infrastructure for support of the SURF Cooperative. Supplemental Material: The data files and online appendices are available at https://doi.org/10.1287/mnsc.2023.4694 ."
+  },
+  {
+    "paper_id": "75db7b2fc51b2762d9a6fbfc063489d76b9af009",
+    "title": "Brand Building to Deter Entry and Its Impact on Brand Value",
+    "year": 2023,
+    "author_ids": [
+      "2277456376",
+      "74868994"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 2,
+    "abstract": "Brand valuation methods traditionally focus on the value a brand generates via its ability to enhance demand and, accordingly, profitability. However, this paper explores how a brand can generate value for a firm through the ability to deter entry of new competitors. In this respect, we distinguish between a brand\u2019s direct effect on demand and its strategic effect on the behavior of rival firms. We investigate this within the context of the U.S. stacked chips category using a dynamic model that endogenizes brand building and entry decisions. We find that up to 63% of a brand\u2019s value can be derived from its ability to deter entry. Furthermore, we find that a brand is most valuable when the cost of entry that potential entrants face is moderate: neither too high nor too low. This paper was accepted by Matt Shum, marketing. Supplemental Material: The data files and online appendix are available at https://doi.org/10.1287/mnsc.2022.4608 ."
+  },
+  {
+    "paper_id": "0393c6a8e3b033faac17ba9a713a7d8f2d757008",
+    "title": "A science and education platform for intellectual support of breakthrough teams in the energy sector",
+    "year": 2022,
+    "author_ids": [
+      "2125718496",
+      "144206645"
+    ],
+    "venue": "International Journal of Energy Production and Management",
+    "citation_count": 0,
+    "abstract": "Making a breakthrough in the energy industry is a particularly laborious cross-disciplinary challenge due to the extreme complexity of production systems and the necessity to ensure the compatibility of a huge number of technologies and industrial and managerial systems of various nature. This makes it highly relevant to provide knowledge-intensive support for teams that implement projects aimed at breakthrough transformations. This article describes a specialized science and education platform that is being rolled out by the authors at a number of major energy companies in Russia and at Ural Federal University. The platform has features of a communications platform that brings together science, education, and energy companies, and of a digital ecosystem that serves as a framework for customized services for stakeholders. The platform uses an operation mechanism that is designed to ensure the reproduction of knowledge that is in line with corresponding trends and changes emerging in the global, national, and industrial contexts, and promptly converts it into learning content and a project agenda for breakthrough teams. An original methodology for the training of breakthrough teams and arguments for the appropriateness of using a platform-based approach in order to increase intellectual capital in the energy industry constitute the scientific novelty of the article. This article has a practical value to it as it demonstrates the scaling capability of the elements of the conceptual model, of its operation mechanism, and the best practices of using a science and education platform as the organizational basis for breakthrough projects in the energy sector."
+  },
+  {
+    "paper_id": "ad174dd15153b2a7dfee628c0f3e300bdebeb967",
+    "title": "Bottlenecks for Evidence Adoption.",
+    "year": 2022,
+    "author_ids": [
+      "3311594",
+      "2119155649",
+      "12033171"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 19,
+    "abstract": "Governments increasingly use RCTs to test innovations, yet we know little about how they incorporate results into policy-making. We study 30 U.S. cities that ran 73 RCTs with a national Nudge Unit. Cities adopt a nudge treatment into their communications in 27% of the cases. We find that the strength of the evidence and key city features do not strongly predict adoption; instead, the largest predictor is whether the RCT was implemented using pre-existing communication, as opposed to new communication. We identify organizational inertia as a leading explanation: changes to pre-existing infrastructure are more naturally folded into subsequent processes."
+  },
+  {
+    "paper_id": "046ad9ee01a7d6123d986f0813e26e6340ebd480",
+    "title": "The role of data for AI startup growth",
+    "year": 2022,
+    "author_ids": [
+      "1951483",
+      "1393239973",
+      "1393239966",
+      "2093183"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 9,
+    "abstract": ","
+  },
+  {
+    "paper_id": "dc6aadb84c36038d7cd64cc5525a1b22407b5134",
+    "title": "A SOCIAL WELFARE ESTIMATION OF RIDE-SHARING IN CHINA: EVIDENCE FROM TRANSACTION DATA ANALYSIS OF A LARGE ONLINE PLATFORM",
+    "year": 2022,
+    "author_ids": [
+      "153688255",
+      "118844897",
+      "2542442"
+    ],
+    "venue": "Technological and Economic Development of Economy",
+    "citation_count": 6,
+    "abstract": "This paper estimates the social welfare effect of China\u2019s largest online ride-sharing platform. Under the plausible assumption that consumers would change from traditional transportation to online ride-sharing when the marginal benefit of saved time outgrows the additional cost, we calculate the distribution of implied wage rate of passengers. We then use the passenger wage rate to calculate the social welfare generated by the decrease in waiting time and the reduction of waiting uncertainty brought about by the ride-sharing platform. Our estimate suggests that the ride-sharing platform created a total of 130.5 billion Yuan of social welfare in the three years between 2016 and 2018, and the consumer surplus and producer surplus created by an average transaction are 5.4 Yuan and 2.5 Yuan, respectively. The robustness test finds that our results were insensitive to the assumed risk aversion coefficient in the model, the subsample number used for each city, and the inclusion of nonlinear terms in the model. Alternative hypotheses, such as learning effect, seem unable to explain our result."
+  },
+  {
+    "paper_id": "d39f25be6311a0809daeea1314e137c7dc6693e4",
+    "title": "The Role of Technological Platforms in the Innovative Development of Industrial Enterprises",
+    "year": 2022,
+    "author_ids": [
+      "71449480"
+    ],
+    "venue": "International Conference on E-Education, E-Business, E-Management, and E-Learning",
+    "citation_count": 0,
+    "abstract": "The article presents a calculation of the economic efficiency of steel trading for sellers on online platforms. A preliminary definition of the technological platform is considered. The main characteristics and advantages for sellers and buyers are listed. The effect of innovation, which is inherent in the metallurgical industry, is indicated. The steel industry is now in the era of digitalization. The demands for more efficient and sustainable production processes are constantly growing. There is a need to facilitate the unhindered flow of financial resources, increase the ability of financial services to the real economy, improve institutional mechanisms and introduce innovations in financial products and services directly for the real economy. An important factor is the promotion of innovation and development of the industry, providing users with additional opportunities and services, as well as the sharing of resources and mutually beneficial cooperation."
+  },
+  {
+    "paper_id": "884b7a5aadffd5358b613325449d098fa34127aa",
+    "title": "Using Python and Google Colab to teach undergraduate microeconomic theory",
+    "year": 2021,
+    "author_ids": [
+      "14133345"
+    ],
+    "venue": "International Review of Economic Education",
+    "citation_count": 32,
+    "abstract": null
+  },
+  {
+    "paper_id": "6b482e09a1212fe36dd067b7738c1f4ac4895f51",
+    "title": "Application of Multivariate Time Series Cluster Analysis to Regional Socioeconomic Indicators of Municipalities",
+    "year": 2021,
+    "author_ids": [
+      "73345033",
+      "2872489",
+      "3466565",
+      "40372168"
+    ],
+    "venue": "Real Estate Management and Valuation",
+    "citation_count": 6,
+    "abstract": "Abstract The socio-economic development of municipalities is defined by a set of indicators in a period of interest and can be analyzed as a multivariate time series. It is important to know which municipalities have similar socio-economic development trends when recommendations for policy makers are provided or datasets for real estate and insurance price evaluations are expanded. Usually, key indicators are derived from expert experience, however this publication implements a statistical approach to identify key trends. Unsupervised machine learning was performed by employing K-means clusterization and principal component analysis for a dataset of multivariate time series. After 100 runs, the result with minimal summing error was analyzed as the final clusterization. The dataset represented various socio-economic indicators in municipalities of Lithuania in the period from 2006 to 2018. The significant differences were noticed for the indicators of municipalities in the cluster which contained the 4 largest cities of Lithuania, and another one containing 3 districts of the 3 largest cities. A robust approach is proposed in this article, when identifying socio-economic differences between regions where real estate is allocated. For example, the evaluated distance matrix can be used for adjustment coefficients when applying the comparative method for real estate valuation."
+  },
+  {
+    "paper_id": "3ef3cc213355fe07c59d89990ec99c9565df728b",
+    "title": "Causal Machine Learning and Business Decision Making",
+    "year": 2021,
+    "author_ids": [
+      "1741264303",
+      "39736726",
+      "2128392621"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 20,
+    "abstract": "Causal knowledge is critical for strategic and organizational decision-making. By contrast, standard machine learning approaches remain purely correlational and prediction-based, rendering them unsuitable for addressing a wide variety of managerial decision problems. Taking a mixed-methods approach, which relies on multiple sources, including semi-structured interviews with data scientists and senior decision-makers, as well as quantitative survey data, this study argues that causality is a critical boundary condition for the application of machine learning in a business analytical context. It highlights the crucial role of theory in causal inference and offers a new perspective on human-machine interaction for data-augmented decision making."
+  },
+  {
+    "paper_id": "058ce71b5f48378c5aada067a8e9851dc0156db4",
+    "title": "Big Tech, Big Data, And Competition Policy: Favoring Dynamic Over Static Competition",
+    "year": 2021,
+    "author_ids": [
+      "49289570",
+      "2691228"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 76,
+    "abstract": "This paper gives a fresh account of competition in the digital economy. Our understanding is that usual static monopoly narratives paint with too broad a brush. We suggest that some leading firms in the digital economy have strong dynamic capabilities, and they are not durable monopolists. A few strategic errors by management and they are deeply impaired. We derive the theoretical implications of this, and outline what\u2019s required to advance a deeper understanding of the digital economy. We look at policy and provide a normative formulation of the competitive process, highlighting dynamic competition and distinguishing it from static competition. We consider the economics of big data and big data management and explore how strong dynamic capabilities are necessary for Big Tech companies to get ahead and stay ahead. We explore different types of economic rent, suggest a modified welfare standard for competition policy, and formulate preliminary tests and predictors to measure dynamic competition."
+  },
+  {
+    "paper_id": "182f1b80e010899e69f3cd5b79c8406a971aa002",
+    "title": "Measuring aggregate housing wealth: New insights from machine learning \u2606",
+    "year": 2021,
+    "author_ids": [
+      "52453019",
+      "48049597",
+      "17505790",
+      "2118147948",
+      "114702398"
+    ],
+    "venue": "Journal of Housing Economics",
+    "citation_count": 13,
+    "abstract": "Abstract We construct a new measure of aggregate housing wealth for the U.S. based on (1) home-value estimates derived from machine learning algorithms applied to detailed information on property characteristics and recent transaction prices, and (2) Census housing unit counts. According to our new measure, the timing and amplitude of the recent house-price cycle differs materially but plausibly from commonly-used measures, which are based on survey data or repeat-sales price indexes. Thus, our methodology generates estimates that should be of considerable value to researchers and policymakers interested in the dynamics of aggregate housing wealth."
+  },
+  {
+    "paper_id": "44d96ee4d5bb6c81f7f0017cf6772051aac67fe3",
+    "title": "The strategic decentralization of recruiting",
+    "year": 2021,
+    "author_ids": [
+      "2118048154",
+      "119115360",
+      "2108194160"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 4,
+    "abstract": "We propose a model of strategic delegation in professional labor markets with heterogeneous workers. A big firm, competing with fringe firms, decides whether to exercise its market power to suppress wages. Alternatively, it may choose to delegate hiring to agents (divisions), thereby committing to bid more fiercely for workers. This reduces the incentive for fringe firms of going toe-to-toe with the big firm. In equilibrium, the big firm chooses to delegate unless (a) it is too large, (b) not productive enough, or (c) too productive. While a more productive big firm delegates more often, the optimal number of agents it delegates to decreases in the big firm's productivity. The presence of big firms does not substantially lower social welfare, unless its size exceeds the tipping point beyond which it chooses not to delegate. The introduction of a minimum wage in a professional labor market induces the big firm to delegate more aggressively, increasing match quality. Thus, social welfare may increase despite a drop in employment."
+  },
+  {
+    "paper_id": "eb0a0e4db9b5a503d4364ec17664c947b6c375d5",
+    "title": "Ecosystems and competition law in theory and practice",
+    "year": 2021,
+    "author_ids": [
+      "2262423",
+      "69053543"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 31,
+    "abstract": "One of the most profound changes in the industrial landscape in the last decade has been the growth of business ecosystems- groups of connected firms, drawing on (digital) platforms which leverage their complementors and lock-in their customers, exploiting the \u201cbottlenecks\u201d that emerge in new industry architectures. This have created new asymmetries of power, where the \u201cfield\u201d of competition is not the relevant product market, as is usually the case in competition law, but rather the ecosystem of various complementary products and associated complementor firms. These dynamics raise novel concerns over competition. After examining the foundational elements of the ecosystem concept, we review how ecosystems are addressed within the current scope of competition law, and identify the gap in the existing framework of conventional competition law. We then move to a critical review of current efforts and proposals in the EU for providing regulatory remedies for ex ante and ex post resolution of problems, focusing on the current (2020) proposals of the Digital Market Act on ex ante regulation, with its particular focus on \u201cgatekeepers.\u201d We also review recent regulatory initiatives in European countries that focus on ex post regulation, and on the role of business models and ecosystem architectures in regulation, before providing a deep dive into proposed Greek legislation that explicitly focuses on ecosystem regulation. We conclude with our observations on the challenges in instituting and implementing a regulatory framework for ecosystems, drawing on research and our own engagement in the regulatory process."
+  },
+  {
+    "paper_id": "4bbea4595f3bb66bd868e3db1825bf6167b73a48",
+    "title": "Bridging the state-of-the-art and the state-of-the-practice of SaaS pricing: A multivocal literature review",
+    "year": 2021,
+    "author_ids": [
+      "3410860",
+      "1726281"
+    ],
+    "venue": "Information and Software Technology",
+    "citation_count": 13,
+    "abstract": "Abstract Context Pricing is an essential element of software business strategy and tactics. Informed pricing decision-making requires the involvement of different stakeholders and comprehensive data analysis. Achieving both appears to be challenging, and pricing remains one of the most under-managed processes in the software business. Simultaneously, a coherent SaaS pricing body of knowledge and verified solutions to assist SaaS providers while designing and implementing pricing are missing. Objective There is a lack of integration among different research areas focused on SaaS pricing and, more importantly, between academia and industry. The primary aim of this paper is to clarify this misconception by classifying, thematically analyzing, and putting in correspondent academic state-of-the-art and industrial state-of-the-practice of SaaS pricing. Method A multivocal literature review (MLR) approach was used for the study, exploring both \u201cwhite\u201d literature as well as \u201cgrey\u201d literature. The body of literature of 387 bibliography items was collected using a formal protocol. Of these, 57 were white literature items, and 330 were grey. A multistage content analysis process was implemented to classify the rich literature body across multiple dimensions with further mapping, synthesis, and reporting. Results A taxonomy of pricing-related concepts was created. It classifies SaaS pricing aspects, affecting factors, and challenges facing SaaS providers. The findings and interpretations are summarized to emphasize the major research themes and practical challenges of SaaS pricing practices\u2019 transformation and provide further research guidelines in this area. Conclusion SaaS pricing is a maturing and prominent area of research that requires further investigation. The conducted MLR formed a clear picture of SaaS pricing research and practice and identified different SaaS pricing aspects and affecting factors. The study will enable both scholars and practitioners to assess the current state-of-the-art in research and practice."
+  },
+  {
+    "paper_id": "f3a6fd2720ebf6eba05d8177ed6ec19950a7048d",
+    "title": "Information about average evaluations spurs cooperation: An experiment on noisy reputation systems",
+    "year": 2020,
+    "author_ids": [
+      "2942358",
+      "3020008"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": "Abstract Reputation systems are an important part of many markets and online platforms. One central design choice that market designers face pertains to how much feedback to collect, and how to aggregate it. To explore this matter, we vary the design of reputation systems in the lab to evaluate how aggregation choices affect (i) evaluation behavior, (ii) expectations and (iii) rates of cooperation. We find that aggregation matters, even when disaggregated information is also available. Results show that with average evaluations, incentives for reputation building are stronger, evaluations are \u201cmore extreme\u201d, expectations are more optimistic, and contributions are about 50% higher."
+  },
+  {
+    "paper_id": "49661a9562a25cadfc03b8f95e4cfc0e08f4b44d",
+    "title": "A Case of Information Technology Value Competency Left Behind? A Scoping Review",
+    "year": 2020,
+    "author_ids": [
+      "1994485128",
+      "143717706"
+    ],
+    "venue": "2020 IEEE International IOT, Electronics and Mechatronics Conference (IEMTRONICS)",
+    "citation_count": 1,
+    "abstract": "With Decision Support Systems (DSS) being critical in the delivery of value throughout the business, specialized IT practitioners are required to be fully enabled with a business value competency to ensure this value is efficiently harnessed. In this research we seek to map the current state of IT business value research through a scoping review to understand the state of business value competency of IT practitioners. Although more than 258 articles in leading IT journals have value as the subject matter, the problem is that over the past 20 years only 14 research articles have had the subject of competency in IT with a focus placed on the value of IT. Analysis is mapped to a value co-creation process framework derived from a thematic analysis of the reviewed sources. This research contributes by highlighting current opportunities in IT value competency research and proposes a value co-creation process and the skillful performance that is required of IT practitioners to better meet the value expectations of business stakeholders."
+  },
+  {
+    "paper_id": "c86bff401fa05cf667776ffca9feb1dc8b4ee830",
+    "title": "Owning, Using, and Renting: Some Simple Economics of the \"Sharing Economy\"",
+    "year": 2020,
+    "author_ids": [
+      "4752758",
+      "2350867296",
+      "2266060139"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 178,
+    "abstract": "New Internet-based \u201csharing-economy\u201d markets enable consumer-owners to rent out their durable goods to nonowners. We model such markets and explore their equilibria both in the short run, in which ownership decisions are fixed, and in the long run, in which ownership decisions can be changed. We find that sharing-economy markets always expand consumption and increase surplus, but may increase or decrease ownership. Regardless, ownership is decoupled from individual preferences in the long run, as the rental rates and the purchase prices of goods become equal. If there are costs of bringing unused capacity to the market, they are partially passed through, creating a bias toward ownership. To test our theoretical work empirically, we conduct a survey of consumers, finding broad support for our modeling assumptions. The survey also allows us to offer a partial decomposition of the bring-to-market costs, based on attributes that make a good more or less amenable to being shared. This paper was accepted by Joshua Gans, business strategy."
+  },
+  {
+    "paper_id": "6aedc4092b6565d8f1b387282cc027da2952dda4",
+    "title": "Development of a Market Trend Evaluation System for Policy Making",
+    "year": 2020,
+    "author_ids": [
+      "73345033",
+      "40372168",
+      "2872489",
+      "72549067",
+      "103914284"
+    ],
+    "venue": "Journal of Competitiveness",
+    "citation_count": 4,
+    "abstract": "The previous economic crisis has increased the attention of government to focus their activities more on economic stability. The development of government subsidies requires an analytically based analysis, one which would identify problematic areas of regional development more precisely. However, to monitor market changes in a highly dynamic market is time consuming and inefficient. Without proper market monitoring, the level of competitiveness within regions might decrease in the long run. Thus, the goal of the article is to establish the framework of a market trend monitoring system. To achieve this goal, the research methodology consists of a scientific literature analysis, an analysis of available data infrastructure for market trend analysis, and a statistical analysis together with a machine learning approach. The authors of the publication propose a market monitoring framework which would provide an infrastructure for evidencebased policy recommendations for government institutes and might provide guidelines of how to increase their competitiveness. A case study of real estate data and macroeconomic indicators of Lithuania was conducted, during which a clustering algorithm was applied to identify groups in Lithuania. The 60 municipalities of Lithuania were grouped into 4 clusters in terms of noteworthy relationships between industrial development and population size. In 3 of the clusters, the relationship of industrial growth and population was direct. In cluster 4, however, the relationship was opposite, a result which requires a further analysis of infrastructure and industrial sectors to provide more precise policy recommendations. The theoretical contribution and findings from the case study provides grounding to develop the market monitoring system."
+  },
+  {
+    "paper_id": "1a59161e80699b383903a99e19ac4954e8b8e0a7",
+    "title": "GDPR and the Importance of Data to AI Startups",
+    "year": 2020,
+    "author_ids": [
+      "1951483",
+      "1393239973",
+      "1393239966",
+      "2093183"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 33,
+    "abstract": "What is the impact of the European Union\u2019s General Data Protection Regime (\u201cGDPR\u201d) and data regulation on AI startups? How important is data to AI product development? We study these questions using unique survey data of commercial AI startups. AI startups rely on data for their product development. Given the scale and scope of their business models, these startups are particularly susceptible to policy changes impacting data collection, storage and use. We find that training data and frequent model refreshes are particularly important for AI startups that rely on neural nets and ensemble learning algorithms. We also find that firms with customers in Europe are significantly more likely to create a new position to handle GDPR-related issues or to reallocate firm resources due to GDPR."
+  },
+  {
+    "paper_id": "51c58a6504a2ff83326888f0b38045be30680639",
+    "title": "Social scientists\u2019 testimony before Congress in the United States between 1946-2016, trends from a new dataset",
+    "year": 2020,
+    "author_ids": [
+      "49650780",
+      "20761496",
+      "2108260017",
+      "48424395"
+    ],
+    "venue": "PLoS ONE",
+    "citation_count": 8,
+    "abstract": "Congressional hearings are a venue in which social scientists present their views and analyses before lawmakers in the United States, however quantitative data on their representation has been lacking. We present new, publicly available, data on the rates at which anthropologists, economists, political scientists, psychologists, and sociologists appeared before United States congressional hearings from 1946 through 2016. We show that social scientists were present at some 10,347 hearings and testified 15,506 times. Economists testify before the US Congress far more often than other social scientists, and constitute a larger proportion of the social scientists testifying in industry and government positions. We find that social scientists\u2019 testimony is increasingly on behalf of think tanks; political scientists, in particular, have gained much more representation through think tanks. Sociology, and psychology\u2019s representation before Congress has declined considerably beginning in the 1980s. Anthropologists were the least represented. These findings show that academics are representing a more diverse set of organizations, but economists continue to be far more represented than other disciplines before the US Congress."
+  },
+  {
+    "paper_id": "ca95337184cf3f3866c97a06764186f57260abcb",
+    "title": "Universities as peculiar organizations",
+    "year": 2020,
+    "author_ids": [
+      "2067616277",
+      "48535187"
+    ],
+    "venue": null,
+    "citation_count": 22,
+    "abstract": null
+  },
+  {
+    "paper_id": "92726cb01e0c220fd9338d01b1cb687ab7bd9f8e",
+    "title": "Technological Innovation and Discrimination in Household Finance",
+    "year": 2020,
+    "author_ids": [
+      "2259293375",
+      "2248074320"
+    ],
+    "venue": "Finance and Economics Discussion Series",
+    "citation_count": 1,
+    "abstract": "Technology has changed how discrimination manifests itself in financial services. Replacing human discretion with algorithms in decision-making roles reduces taste-based discrimination, and new modeling techniques have expanded access to financial services to households who were previously excluded from these markets. However, algorithms can exhibit bias from human involvement in the development process, and their opacity and complexity can facilitate statistical discrimination inconsistent with antidiscrimination laws in several aspects of financial services provision, including advertising, pricing, and credit-risk assessment. In this chapter, we provide a new amalgamation and analysis of these developments, identifying five gateways whereby technology induces discrimination to creep into financial services. We also consider how these technological changes in finance intersect with existing discrimination and data privacy laws, leading to our contribution of four frontlines of regulation. Our analysis concludes that the net effect of innovation in technological finance on discrimination is ambiguous and depends on the future choices made by policymakers, the courts, and firms."
+  },
+  {
+    "paper_id": "09a9a8eae00bfdc184e4426b6b541e8e067465c1",
+    "title": "Understanding the Great Recession Using Machine Learning Algorithms",
+    "year": 2020,
+    "author_ids": [
+      "2087473377",
+      "2161814"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": "Nyman and Ormerod (2017) show that the machine learning technique of random forests has the potential to give early warning of recessions. Applying the approach to a small set of financial variables and replicating as far as possible a genuine ex ante forecasting situation, over the period since 1990 the accuracy of the four-step ahead predictions is distinctly superior to those actually made by the professional forecasters. Here we extend the analysis by examining the contributions made to the Great Recession of the late 2000s by each of the explanatory variables. We disaggregate private sector debt into its household and non-financial corporate components. We find that both household and non-financial corporate debt were key determinants of the Great Recession. We find a considerable degree of non-linearity in the explanatory models. In contrast, the public sector debt to GDP ratio appears to have made very little contribution. It did rise sharply during the Great Recession, but this was as a consequence of the sharp fall in economic activity rather than it being a cause. We obtain similar results for both the United States and the United Kingdom."
+  },
+  {
+    "paper_id": "500efb2a326414fc9f22c49e0ac625b2d82ff74b",
+    "title": "Inefficiencies in Digital Advertising Markets",
+    "year": 2019,
+    "author_ids": [
+      "2129882",
+      "3304887",
+      "1967788",
+      "2710281",
+      "1758999",
+      "1923153"
+    ],
+    "venue": "Journal of Marketing",
+    "citation_count": 137,
+    "abstract": "Digital advertising markets are growing and attracting increased scrutiny. This article explores four market inefficiencies that remain poorly understood: ad effect measurement, frictions between and within advertising channel members, ad blocking, and ad fraud. Although these topics are not unique to digital advertising, each manifests in unique ways in markets for digital ads. The authors identify relevant findings in the academic literature, recent developments in practice, and promising topics for future research."
+  },
+  {
+    "paper_id": "283f8c1cb8271272e513421956e61df42f11109f",
+    "title": "The \u201cUbernomics\u201d of ridesourcing: the myths and the reality",
+    "year": 2019,
+    "author_ids": [
+      "67088857"
+    ],
+    "venue": null,
+    "citation_count": 22,
+    "abstract": "ABSTRACT This paper looks at the economics of ridesourcing (or app-based ride-hailing) with a particular focus on the US. It brings together the rather dispersed literature on the subject focusing on the economic characteristics of the underlying industry and sets this within the broader context of transportation economics. In particular, it sorts out the realities of ridesourcing from some of myths that were perpetrated in its early days and, in many cases, still persist. It considers some of the empirical evidence that has emerged regarding the key parameters that determine the way Uber and the like operate, and the welfare implications of this, together with comments on some of the regulatory reactions to the new transportation platform. It concludes by suggesting some ways in which recent developments in economic could move forward our understanding of the industry as technologies and markets change."
+  },
+  {
+    "paper_id": "4e74480a61790307b6d36f9832ccc624c58afa6a",
+    "title": "Towards a SaaS Pricing Cookbook: A Multi-vocal Literature Review",
+    "year": 2019,
+    "author_ids": [
+      "3410860",
+      "1726281"
+    ],
+    "venue": "International Conference on Software Business",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "015900755d810e74a5363bc4d498718e1cb4977b",
+    "title": "Empirical Bayes Mean Estimation With Nonparametric Errors Via Order Statistic Regression on Replicated Data",
+    "year": 2019,
+    "author_ids": [
+      "5945772",
+      "143809619",
+      "36293462",
+      "2726238"
+    ],
+    "venue": null,
+    "citation_count": 20,
+    "abstract": "Abstract We study empirical Bayes estimation of the effect sizes of N units from K noisy observations on each unit. We show that it is possible to achieve near-Bayes optimal mean squared error, without any assumptions or knowledge about the effect size distribution or the noise. The noise distribution can be heteroscedastic and vary arbitrarily from unit to unit. Our proposal, which we call Aurora, leverages the replication inherent in the K observations per unit and recasts the effect size estimation problem as a general regression problem. Aurora with linear regression provably matches the performance of a wide array of estimators including the sample mean, the trimmed mean, the sample median, as well as James-Stein shrunk versions thereof. Aurora automates effect size estimation for Internet-scale datasets, as we demonstrate on data from a large technology firm."
+  },
+  {
+    "paper_id": "eade7e7291ccef45c6ae7c1f1c0ff7f314cd2859",
+    "title": "Analysis of innovation development factors of the Russian economy",
+    "year": 2019,
+    "author_ids": [
+      "2054808897",
+      "39451229",
+      "31594564",
+      "74970590",
+      "151459961"
+    ],
+    "venue": "Proceedings of the 2019 International SPBPU Scientific Conference on Innovations in Digital Economy",
+    "citation_count": 0,
+    "abstract": "The subject of the research is the innovative factors of development of the Russian economy. The aim of the study is to determine the role of factors of innovative development in the Russian economy. The study is based on a systematic approach using statistical analysis methods. In the process of analysis of the methodological provisions of innovative development numerous problems were identified: the complexity of the implementation of the contract for innovation; public funds reduce the lack of capital, but increase the corruption component; the effectiveness of R&D costs is determined by not always affordable education; competition reduces incentives for innovation by reducing monopoly rents, etc. But the need to increase productivity and the prospects for monopolization of individual markets, including through the \"targeted licensing\" of technologies, contribute to the upward trend of innovative development of both individual firms (corporations) and countries as a whole. The analysis of the factors of innovative development of the Russian economy includes the assessment of the dynamics of gross domestic expenditure on R&D, including the expenses of organizations on R&D by sources of financing and sectors of activity. The results of the analysis of the dynamics of R&D expenditures showed stable growth in the public sector and entrepreneurship. The Russian public sector for the development of entrepreneurship in multiples supports the cost of R&D of commercial enterprises. The results of the comparison of Russian GERD with Germany, Japan, the USA and China show the inability of the Russian public sector, commercial enterprises and the government to manage the costs of R&D. The assessment of the factors of innovative development of the Russian economy revealed a significant state impact on the cost structure of R&D. It is revealed that the further innovative development of the Russian economy is not possible without reducing the influence of the public sector and the growth of external technologies and investments, through the intensification of trade with China."
+  },
+  {
+    "paper_id": "4ae64f48e7ab8bda7c1eb6776c2c92b6c8ffab8d",
+    "title": "The Digital Entrepreneurial Ecosystem\u2014a critique and reconfiguration",
+    "year": 2019,
+    "author_ids": [
+      "153908738"
+    ],
+    "venue": "Small Business Economics",
+    "citation_count": 211,
+    "abstract": null
+  },
+  {
+    "paper_id": "b00c59724de732bad0469149e613c0966b11bacd",
+    "title": "Experimenting in Equilibrium",
+    "year": 2019,
+    "author_ids": [
+      "3160667",
+      "1793696"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 73,
+    "abstract": "Classical approaches to experimental design assume that intervening on one unit does not affect other units. There are many important settings, however, where this noninterference assumption does not hold, as when running experiments on supply-side incentives on a ride-sharing platform or subsidies in an energy marketplace. In this paper, we introduce a new approach to experimental design in large-scale stochastic systems with considerable cross-unit interference, under an assumption that the interference is structured enough that it can be captured via mean-field modeling. Our approach enables us to accurately estimate the effect of small changes to system parameters by combining unobtrusive randomization with lightweight modeling, all while remaining in equilibrium. We can then use these estimates to optimize the system by gradient descent. Concretely, we focus on the problem of a platform that seeks to optimize supply-side payments [Formula: see text] in a centralized marketplace where different suppliers interact via their effects on the overall supply-demand equilibrium, and we show that our approach enables the platform to optimize [Formula: see text] in large systems using vanishingly small perturbations. This paper was accepted by Hamid Nazerzadeh, big data analytics."
+  },
+  {
+    "paper_id": "5899e4985618460fd7415869ac7a74786d4a37ba",
+    "title": "The Dozen Things Experimental Economists Should Do (More of)",
+    "year": 2019,
+    "author_ids": [
+      "117340556",
+      "2397446548",
+      "2290299609",
+      "2290299609"
+    ],
+    "venue": "Southern Economic Journal",
+    "citation_count": 88,
+    "abstract": "What was once broadly viewed as an impossibility\u2014learning from experimental data in economics\u2014has now become commonplace. Governmental bodies, think tanks, and corporations around the world employ teams of experimental researchers to answer their most pressing questions. For their part, in the past two decades academics have begun to more actively partner with organizations to generate data via field experimentation. Although this revolution in evidence\u2010based approaches has served to deepen the economic science, recently a credibility crisis has caused even the most ardent experimental proponents to pause. This study takes a step back from the burgeoning experimental literature and introduces 12 actions that might help to alleviate this credibility crisis and raise experimental economics to an even higher level. In this way, we view our \u201c12 action wish list\u201d as discussion points to enrich the field."
+  },
+  {
+    "paper_id": "91245899101d9630aa3daffdbcd93908f44a0624",
+    "title": "Racial Discrimination in the Sharing Economy: Evidence from a Field Experiment",
+    "year": 2017,
+    "author_ids": [
+      "2411538396",
+      "2342599",
+      "2331655647"
+    ],
+    "venue": null,
+    "citation_count": 898,
+    "abstract": "In an experiment on Airbnb, we find that applications from guests with distinctively African American names are 16 percent less likely to be accepted relative to identical guests with distinctively white names. Discrimination occurs among landlords of all sizes, including small landlords sharing the property and larger landlords with multiple properties. It is most pronounced among hosts who have never had an African American guest, suggesting only a subset of hosts discriminate. While rental markets have achieved significant reductions in discrimination in recent decades, our results suggest that Airbnb's current design choices facilitate discrimination and raise the possibility of erasing some of these civil rights gains."
+  },
+  {
+    "paper_id": "9ac3212659d0ae400e2fadb001e3d8fc730fb585",
+    "title": "of Management Issues",
+    "year": 2023,
+    "author_ids": [
+      "2288659993",
+      "2288651043",
+      "120737872",
+      "2347819398",
+      "2288650349",
+      "2288650347"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "6eaa216104603eda052636351065794dbb5c82f9",
+    "title": "Regulating platforms and ecosystems: an introduction",
+    "year": 2021,
+    "author_ids": [
+      "2262423",
+      "69053543"
+    ],
+    "venue": null,
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "ce298f9a7f18f010319af47b09c0f4d2fc67c819",
+    "title": "Digitization of the emerging economy: An exploratory and explanatory case study",
+    "year": 2020,
+    "author_ids": [
+      "145476207"
+    ],
+    "venue": "Journal of Governance and Regulation",
+    "citation_count": 20,
+    "abstract": "Digitization has transformed societies and economies throughout the world. This exploratory and explanatory research has been performed in the context of digitization of Bangladesh economy. The research question is whether the transformation of Bangladesh towards the digital economy can act effectively and efficiently for the benefits of the society and the economy. Quantitative and qualitative analysis was conducted. Sixteen hypotheses were tested based on the Chi-square test. The time period of the study was from April 1, 2019, to December 31, 2019. The Chi-square test findings were significant for the following null hypotheses: Internet of Thinking will not bring benefits of the human beings; robots are not needed for industries; big data cannot be used for the business intelligence; artificial intelligence (AI) is not effective; bitcoin transactions should not be allowed; the banking sector is not relatively digitalized; chatbots do not need to be used in banks; drones cannot be used for commercial purpose; robots cannot be used for education purpose; farmers must not learn to yield wirelessly. Another six null hypotheses were rejected. Fear of losing employment was the key obstruction to execute the 4th Industrial Revolution (4IR) in the country as revealed from the study. Proper information and communication technology (ICT) based education, preparation and knowledge were required. Good governance and regulation should be established with the help of digitization in Bangladesh. The study is suggested to answer the research question, if the benefit from transforming the society to the digital economy may outweigh negative impacts and turn threats into opportunities, reduce demand for labor and disguised unemployment and narrow down the scope of creating new employment opportunities in the country. The potential unlocking system in the global market is feasible through ensuring digitization of Bangladesh society."
+  },
+  {
+    "paper_id": "251d5e22e0854cb32b85d38d70e8ec35ef1e0893",
+    "title": "Finance and Economics Discussion Series Divisions of Research & Statistics and Monetary Affairs Federal Reserve Board, Washington, D.C. Technological Innovation and Discrimination in Household Finance",
+    "year": 2020,
+    "author_ids": [
+      "2259293375",
+      "2240977072",
+      "2421434926",
+      "2259293375",
+      "2240977072",
+      "2344599172",
+      "49061799",
+      "2071143960",
+      "2069197804",
+      "122762885",
+      "2053364275",
+      "2411547075",
+      "2421434837",
+      "29789366",
+      "6248047"
+    ],
+    "venue": null,
+    "citation_count": 22,
+    "abstract": null
+  },
+  {
+    "paper_id": "a9fc42e2d43974a7c971c531b32487a80c0e9db4",
+    "title": "GCEP Final Technical Report: Machine Learning, Renewable Energy, and Electricity Markets",
+    "year": 2019,
+    "author_ids": [
+      "3160667"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cff2ca5bc6ccc48f765b220c08f66f8131968f0e",
+    "title": "\u30b5\u30c6\u30e9\u30a4\u30c8\u30fb\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d7\u300e\u201c\u884c\u52d5\u7d4c\u6e08\u5b66\u306f\u5b9f\u52d9\u306b\u6d3b\u7528\u3067\u304d\u308b\u201d\u3068\u306f\u3069\u3046\u3044\u3046\u3053\u3068\u304b?\u300f",
+    "year": 2018,
+    "author_ids": [
+      "121197714",
+      "1506583050",
+      "1483625070",
+      "1506587803"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

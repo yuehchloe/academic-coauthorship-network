@@ -1,0 +1,366 @@
+[
+  {
+    "paper_id": "fbd03058f21fc4eef7020a2f0b1d7f120c6dd5d7",
+    "title": "Robust product design and pricing",
+    "year": 2025,
+    "author_ids": [
+      "2394516895",
+      "1799220"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6fdd5afe82c6d3c0b1c17b3f11ce64131a83d1a6",
+    "title": "Second-degree Price Discrimination: Theoretical Analysis, Experiment Design, and Empirical Estimation",
+    "year": 2025,
+    "author_ids": [
+      "2991568",
+      "2293747420",
+      "2353953131",
+      "2372245995"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We build on theoretical results from the mechanism design literature to analyze empirical models of second-degree price discrimination (2PD). We show that for a random-coefficients discrete choice (\"BLP\") model to be suitable for studying 2PD, it must capture the covariance between two key random effects: (i) the\"baseline\"willingness to pay (affecting all product versions), and (ii) the perceived differentiation between versions. We then develop an experimental design that, among other features, identifies this covariance under common data constraints in 2PD environments. We implement this experiment in the field in collaboration with an international airline. Estimating the theoretically motivated empirical model on the experimental data, we demonstrate its applicability to 2PD decisions. We also show that test statistics from our design can enable qualitative inference on optimal 2PD policy even before estimating a demand model. Our methodology applies broadly across second-degree price discrimination settings."
+  },
+  {
+    "paper_id": "9e2d84ac907da15735ff6939bf69379f23f336d5",
+    "title": "Robust Analysis of Auction Equilibria",
+    "year": 2023,
+    "author_ids": [
+      "2346641",
+      "2357334",
+      "2410580"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "Equilibria in auctions can be very difficult to analyze, beyond the symmetric environments where revenue equivalence renders the analysis straightforward. This paper takes a robust approach to evaluating the equilibria of auctions. Rather than identify the equilibria of an auction under specific environmental conditions, it considers worst-case analysis, where an auction is evaluated according to the worst environment and worst equilibrium in that environment. It identifies a non-equilibrium property of auctions that governs whether or not their worst-case equilibria are good for welfare and revenue. This property is easy to analyze, can be refined from data, and composes across markets where multiple auctions are run simultaneously."
+  },
+  {
+    "paper_id": "12e6d47fd0016efacb2e72b41734d5009add03db",
+    "title": "Revenue Comparisons of Auctions with Ambiguity Averse Sellers",
+    "year": 2022,
+    "author_ids": [
+      "2111168057",
+      "3154051"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study the revenue comparison problem of auctions when the seller has a maxmin expected utility preference. The seller holds a set of priors around some reference belief, interpreted as an approximating model of the true probability law or the focal point distribution. We develop a methodology for comparing the revenue performances of auctions: the seller prefers auction X to auction Y if their transfer functions satisfy a weak form of the single-crossing condition. Intuitively, this condition means that a bidder's payment is more negatively associated with the competitor's type in X than in Y. Applying this methodology, we show that when the reference belief is independent and identically distributed (IID) and the bidders are ambiguity neutral, (i) the first-price auction outperforms the second-price and all-pay auctions, and (ii) the second-price and all-pay auctions outperform the war of attrition. Our methodology yields results opposite to those of the Linkage Principle."
+  },
+  {
+    "paper_id": "94b9c661ccd4c5d968bc9ebcbbd9f8874bf54925",
+    "title": "Robustly Optimal Auction Design under Mean Constraints",
+    "year": 2022,
+    "author_ids": [
+      "1417824157"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 13,
+    "abstract": "We study a seller who sells a single good to multiple bidders with uncertainty over the joint distribution of bidders' valuations, as well as bidders' higher-order beliefs about their opponents. The seller only knows the (possibly asymmetric) means of the marginal distributions of each bidder's valuation and the range. An adversarial nature chooses the worst-case distribution within this ambiguity set along with the worst-case information structure. We find that a second-price auction with a symmetric, random reserve price obtains the optimal revenue guarantee within a broad class of mechanisms we refer to as competitive mechanisms, which include standard auction formats such as the first-price auction. The optimal mechanism possesses two notable characteristics. First, the mechanism treats all bidders identically even in the presence of ex-ante asymmetries. Second, when bidders have identical means and the number of bidders n grows large, the seller's optimal reserve price converges in probability to a non-binding reserve price and the revenue guarantee converges to the mean at rate O(1/n)."
+  },
+  {
+    "paper_id": "59ee561d7ad99070053f2a16cf33098b55d7d87c",
+    "title": "Distributional Robustness: From Pricing to Auctions",
+    "year": 2022,
+    "author_ids": [
+      "1404849603",
+      "1404997778"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 13,
+    "abstract": "We study robust mechanism design for revenue maximization when selling a single item in an auction, assuming that only the mean of the value distribution and an upper bound on the bidders' valuations for the item are known. Robust mechanism design is a rising alternative to Bayesian mechanism design, which yields designs that do not rely on assumptions like full distributional knowledge, but rather only partial knowledge of the distributions. We seek a mechanism that maximizes revenue over the worst-case distribution compatible with the known parameters. Such a mechanism arises as an equilibrium of a zero-sum game between the seller and an adversary who chooses the distribution, and so can be referred to as the max-min mechanism. Carrasco et al. [2018] derive the max-min pricing when the seller faces a single bidder for the item. We go from max-min pricing to max-min auctions by studying the canonical setting of two i.i.d. bidders, and show the max-min mechanism is the second-price auction with a randomized reserve. We derive a closed-form solution for the distribution over reserve prices, as well as the worst-case value distribution, for which there is simple economic intuition. We also derive a closed-form solution for the max-min reserve price distribution for any number of bidders, and we show that unlike the case of two bidders, a second-price auction with a randomized reserve cannot be an equilibrium for more than two bidders. Our technique for solving the zero-sum game is quite different than that of Carrasco et al. -- we focus on a reduced zero-sum game, where the seller can only choose a distribution for a second-price auction with a randomized reserve price (rather than any mechanism). We then analyze a discretized version of the setting to find conditions an equilibrium would satisfy. By refining the discretization grid, we are able to achieve differential equations, and solving them yields closed-form non-discretized distributions. The resulting distributions for the seller and the adversary are later shown to be an equilibrium for the reduced zero-sum game. For the two-bidder case, we expand our result to an equilibrium of the original zero-sum game, where the seller is not limited to second price auctions with reserve. The full version of the paper is available at https://arxiv.org/abs/2205.09008."
+  },
+  {
+    "paper_id": "126e8168d26cdfe0c0c8e3f471aec2e75afc829e",
+    "title": "Antitrust Limits on Patent Settlements: A New Approach*",
+    "year": 2022,
+    "author_ids": [
+      "101785178",
+      "145793771"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "3e1be47710b58f22e22e1d9026b6d3e7c6074c9a",
+    "title": "Auctions with flexible information acquisition",
+    "year": 2022,
+    "author_ids": [
+      "2110017838",
+      "2052892212"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "66cca7ec856c16e45c583fbe40aa246f5c85dd3b",
+    "title": "Robust Private Supply of a Public Good",
+    "year": 2022,
+    "author_ids": [
+      "2145114119"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We study the mechanism design problem of selling a public good to a group of agents by a principal in the correlated private value environment. We assume the principal only knows the expectations of the agents\u2019 values, but knows neither the marginal distribution nor the correlation structure. The principal evaluates a mechanism by the worst-case expected revenue over joint distributions that are consistent with the known expectations. We characterize maxmin public good mechanisms among dominantstrategy incentive compatible and ex-post individually rational mechanisms for the two-agent case and for a special N -agent (N > 2) case."
+  },
+  {
+    "paper_id": "51e11112f606653d927308ab2a0a6c92b7d39141",
+    "title": "Correlation-robust auction design",
+    "year": 2021,
+    "author_ids": [
+      "2153233134",
+      "33117806"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 36,
+    "abstract": "We study the design of auctions when the auctioneer has limited statistical information about the joint distribution of the bidders\u2019 valuations. More specifically, we consider an auctioneer who has an estimate of the marginal distribution of a generic bidder\u2019s valuation but does not have reliable information about the correlation structure. We analyze the performance of mechanisms in terms of the revenue guarantee, that is, the greatest lower bound of revenue across all joint distributions that are consistent with the marginals. A simple auction format, the second-price auction with no reserve price, is shown to be asymptotically optimal, as the number of bidders goes to infinity. For markets with a finite number of bidders, we (1) solve for the robustly optimal reserve price that generates the highest revenue guarantee among all second-price auctions with deterministic reserve prices, and (2) show that a second-price auction with a random reserve price generates the highest revenue guarantee among all standard dominant-strategy mechanisms."
+  },
+  {
+    "paper_id": "31379e76e02f112ef84e75b761c779f16e9e1727",
+    "title": "Discovering Auctions: Contributions of Paul Milgrom and Robert Wilson*",
+    "year": 2021,
+    "author_ids": [
+      "1799601",
+      "3278308",
+      "1794750",
+      "153280673",
+      "3435272"
+    ],
+    "venue": "The Scandinavian Journal of Economics",
+    "citation_count": 13,
+    "abstract": "The 2020 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel was awarded to Paul R. Milgrom and Robert B. Wilson for \u201cimprovements to auction theory and inventions of new auction formats\u201d. In this survey article, we review the contributions of the laureates, emphasizing the subtle interplay between deep theoretical questions and practical design challenges that resulted in one of the most successful fields of economics."
+  },
+  {
+    "paper_id": "a611bfe8f3eac45e2ab317f54d2c472bb2ae8f8c",
+    "title": "Random Double Auction: A Robust Bilateral Trading Mechanism",
+    "year": 2021,
+    "author_ids": [
+      "2145114119"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 4,
+    "abstract": "I construct a novel random double auction as a robust bilateral trading mechanism for a profit-maximizing intermediary who facilitates trade between a buyer and a seller. It works as follows. The intermediary publicly commits to charging a fixed commission fee and randomly drawing a spread from a uniform distribution. Then the buyer submits a bid price and the seller submits an ask price simultaneously. If the difference between the bid price and the ask price is greater than the realized spread, then the asset is transacted at the midpoint price, and each pays the intermediary half of the fixed commission fee. Otherwise, no trade takes place, and no one pays or receives anything. I show that the random double auction maximizes the worst-case expected profit across all dominant-strategy incentive compatible and ex-post individually rational mechanisms for the symmetric case. I also construct a robust trading mechanism with similar properties for the asymmetric case."
+  },
+  {
+    "paper_id": "c3f8bd2eff77a5b3b1186ce5daab49572eeeafc2",
+    "title": "Correlation-Robust Optimal Auctions",
+    "year": 2021,
+    "author_ids": [
+      "2145114119"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "I study the design of auctions in which the auctioneer is assumed to have information only about the marginal distribution of a generic bidder\u2019s valuation, but does not know the correlation structure of the joint distribution of bidders\u2019 valuations. I assume that a generic bidder\u2019s valuation is bounded and \u00af v is the maximum valuation of a generic bidder. The performance of a mechanism is evaluated in the worst case over the uncertainty of joint distributions that are consistent with the marginal distribution. For the two-bidder case, the second-price auction with the uniformly distributed random reserve maximizes the worst-case expected revenue across all dominant-strategy mechanisms under certain regularity conditions. For the N -bidder ( N \u2265 3 ) case, the second-price auction with the \u00af v \u2212 scaled Beta ( 1 N \u2212 1 , 1) distributed random reserve maximizes the worst-case expected revenue across standard (a bidder whose bid is not the highest will never be allocated) dominant-strategy mechanisms under certain regularity conditions. When the probability mass condition (part of the regularity conditions) does not hold, the second-price auction with the s \u2217 \u2212 scaled Beta ( 1 N \u2212 1 , 1) distributed random reserve maximizes the worst-case expected revenue across standard dominant-strategy mechanisms, where s \u2217 \u2208 (0 , \u00af v ) ."
+  },
+  {
+    "paper_id": "997a4de664d97506085c35da17705a105e7b3fbb",
+    "title": "Robustly-Optimal Mechanism for Selling Multiple Goods",
+    "year": 2021,
+    "author_ids": [
+      "143947522",
+      "8384764"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 22,
+    "abstract": "We study robustly-optimal mechanisms for selling multiple items. The seller maximizes revenue against a worst-case distribution of a buyer's valuations within a set of distributions, called an \"ambiguity\" set. We identify the exact forms of robustly-optimal selling mechanisms and the worst-case distributions when the ambiguity set satisfies a variety of moment conditions on the values of subsets of goods. We also identify general properties of the ambiguity set that lead to the robust optimality of partial bundling which includes separate sales and pure bundling as special cases."
+  },
+  {
+    "paper_id": "adfc27e7d737ebe80498c81585bdb353a6d2b7db",
+    "title": "Auctions of Homogeneous Goods: A Case for Pay-as-Bid",
+    "year": 2021,
+    "author_ids": [
+      "3414776",
+      "2057897443"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 19,
+    "abstract": "The pay-as-bid auction is a prominent format for selling homogenous goods such as treasury securities and commodities. We analyze the optimal design of pay-as-bid auctions allowing for asymmetric information. We show that supply transparency and full disclosure are optimal in pay-as-bid, though not necessarily in uniform-price (the main alternative auction format). Pay-as-bid is revenue dominant and might be welfare dominant. Under assumptions commonly imposed in empirical work, the two formats are revenue and welfare equivalent."
+  },
+  {
+    "paper_id": "2c3dbf71f4d8392ef1e998b0a79d4a5059bd2d79",
+    "title": "Optimal Auction Design With Common Values: An Informationally Robust Approach",
+    "year": 2020,
+    "author_ids": [
+      "32074566",
+      "37684940"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 86,
+    "abstract": "A profit\u2010maximizing seller has a single unit of a good to sell. The bidders have a pure common value that is drawn from a distribution that is commonly known. The seller does not know the bidders' beliefs about the value and thinks that beliefs are designed adversarially by Nature to minimize profit. We construct a \n strong maxmin solution to this joint mechanism design and information design problem, consisting of a mechanism, an information structure, and an equilibrium, such that neither the seller nor Nature can move profit in their respective preferred directions, even if the deviator can select the new equilibrium. The mechanism and information structure solve a family of maxmin mechanism design and minmax information design problems, regardless of how an equilibrium is selected. The maxmin mechanism takes the form of a \n proportional auction: each bidder submits a one\u2010dimensional bid, the aggregate allocation and aggregate payment depend on the aggregate bid, and individual allocations and payments are proportional to bids. We report a number of additional properties of the maxmin mechanisms, including what happens as the number of bidders grows large and robustness with respect to the prior over the value.\n"
+  },
+  {
+    "paper_id": "060ce89b146cd4897207a3a2860a0bf896f0e516",
+    "title": "Robust Reserve Pricing in Auctions Under Mean Constraints",
+    "year": 2019,
+    "author_ids": [
+      "1417824157"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 8,
+    "abstract": "We study a seller who sets a reserve price in a second price auction with uncertainty over the joint distribution of bidders' valuations. The seller only knows the mean of the marginal distribution of each bidder's valuation and the range, and an adversarial nature chooses the worst-case distribution within this ambiguity set. We use a dual characterization to solve for this distribution. We find that the seller's optimal reserve price tends to be low and converges to zero in probability as the number of bidders increases."
+  },
+  {
+    "paper_id": "a8b07c73520a8483c0e4c1b55b8ef90ebe300a7c",
+    "title": "First-price auctions with general information structures: a short introduction",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "SeCO Workshops",
+    "citation_count": 3,
+    "abstract": "We explore the impact of private information in sealed-bid first-price auctions. For a given symmetric and arbitrarily correlated prior distribution over values, we characterize the impact that the structure of private information has on bidding behavior, and the sharing of surplus between the seller and the bidder. Our results provide lower bounds and upper bounds for bids and revenues across all information structures. Our work has implications for the identification of value distributions from data on winning bids and for the informationally robust comparison of alternative bidding mechanisms."
+  },
+  {
+    "paper_id": "88143a32618e630bf845c0a8830c92cbd8146f20",
+    "title": "Countering the winner's curse: Optimal auction design in a common value model",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 18,
+    "abstract": "We characterize revenue maximizing mechanisms in a common value environment where the value of the object is equal to the highest of the bidders' independent signals. If the revenue maximizing solution is to sell the object with probability 1, then an optimal mechanism is simply a posted price, namely, the highest price such that every type of every bidder is willing to buy the object. If the object is optimally sold with probability less than 1, then optimal mechanisms skew the allocation toward bidders with lower signals. The resulting allocation induces a \u201cwinner's blessing,\u201d whereby the expected value conditional on winning is higher than the unconditional expectation. By contrast, standard auctions that allocate to the bidder with the highest signal (e.g., the first\u2010price, second\u2010price, or English auctions) deliver lower revenue because of the winner's curse generated by the allocation. Our qualitative results extend to more general common value environments with a strong winner's curse."
+  },
+  {
+    "paper_id": "dd0e8a7bec3913bafe8002fcd270686eac0150fe",
+    "title": "Credible Mechanisms",
+    "year": 2018,
+    "author_ids": [
+      "153280673",
+      "3278308"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 37,
+    "abstract": "Consider an extensive-form mechanism, run by an auctioneer who communicates sequentially and privately with agents. Suppose the auctioneer can make any deviation that no single agent can detect. We study the mechanisms such that it is incentive-compatible for the auctioneer not to deviate - the credible mechanisms. Consider the optimal auctions in which only winners make transfers. The first-price auction is the unique credible static mechanism. The ascending auction is the unique credible strategy-proof mechanism."
+  },
+  {
+    "paper_id": "76f6bd54a072fb10779a8a237d3688c10f04f7c4",
+    "title": "Robust voting under uncertainty",
+    "year": 2017,
+    "author_ids": [
+      "46904519",
+      "1759074",
+      "2871176"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 1,
+    "abstract": "This paper proposes normative consequentialist criteria for voting rules under Knightian uncertainty about individual preferences to characterize a weighted majority rule (WMR). The criteria stress the significance of responsiveness, i.e., the probability that the social outcome coincides with the realized individual preferences. A voting rule is said to be robust if, for any probability distribution of preferences, responsiveness of at least one individual is greater than one-half. Our main result establishes that a voting rule is robust if and only if it is a WMR without ties. This characterization of a WMR avoiding the worst possible outcomes complements the well-known characterization of a WMR achieving the optimal outcomes, i.e., efficiency regarding responsiveness."
+  },
+  {
+    "paper_id": "dfa540153a5206cc9f2fbcff4506e5738e9977cf",
+    "title": "Worst\u2010case equilibria in first\u2010price auctions",
+    "year": 2024,
+    "author_ids": [
+      "118989316",
+      "115887841"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 2,
+    "abstract": "The usual analysis of bidding in first\u2010price auctions assumes that bidders know the distribution of valuations. We analyze first\u2010price auctions in which bidders do not know the precise distribution of their competitors' valuations, but only the mean of the distribution. We propose a novel equilibrium solution concept based on worst\u2010case reasoning. We find an essentially unique and efficient worst\u2010case equilibrium of the first\u2010price auction that has appealing properties from both the bidders' and the seller's point of view."
+  },
+  {
+    "paper_id": "9684ac721b2f3b98292c4cf008309f6c7f546e4a",
+    "title": "Contests with sequential entry and incomplete information",
+    "year": 2024,
+    "author_ids": [
+      "120593319",
+      "48889258",
+      "2226511102",
+      "2109451212",
+      "66240512",
+      "1400424387",
+      "2304144601",
+      "115023992",
+      "34565429",
+      "2106703480",
+      "116209915",
+      "2588024",
+      "94337061",
+      "48265485",
+      "144096720",
+      "1403000931",
+      "2531320",
+      "95405290",
+      "40555384",
+      "122827636",
+      "2226499091",
+      "35924832",
+      "1390869682",
+      "2632926",
+      "2155659474"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 3,
+    "abstract": "This paper provides a general study of a contest modeled as a multiplayer incomplete\u2010information, all\u2010pay auction with sequential entry. The contest consists of multiple periods. Players arrive and exert efforts sequentially to compete for a prize. They observe the efforts made by their earlier opponents, but not those of their contemporaneous or future rivals. We establish the existence and uniqueness of a symmetric perfect Bayesian equilibrium (PBE) and fully characterize the equilibrium. Based on the equilibrium result, we show that a later mover always secures a larger ex ante expected payoff. Further, we endogenize the timing of moves and show that all players choose to move in the last period in the unique equilibrium that survives iterated elimination of strictly dominated strategies (IESDS)."
+  },
+  {
+    "paper_id": "9fe19da6c14a020db5baca62070cace8c13fc749",
+    "title": "On the Structure of Informationally Robust Optimal Mechanisms",
+    "year": 2024,
+    "author_ids": [
+      "2281765125",
+      "2281770010"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 6,
+    "abstract": "We study the design of optimal mechanisms when the designer is uncertain both about the form of information held by the agents and also about which equilibrium will be played. The \n guarantee of a mechanism is its worst performance across all information structures and equilibria. The \n potential of an information structure is its best performance across all mechanisms and equilibria. We formulate a pair of linear programs, one of which is a lower bound on the maximum guarantee across all mechanisms, and the other of which is an upper bound on the minimum potential across all information structures. In applications to public expenditure, bilateral trade, and optimal auctions, we use the bounding programs to characterize guarantee\u2010maximizing mechanisms and potential\u2010minimizing information structures and show that the max guarantee is equal to the min potential.\n"
+  },
+  {
+    "paper_id": "440200688a2912b60a6646f109bb361e466175b5",
+    "title": "Simplifying Auction Designs via Market Feedback\u2217",
+    "year": 2022,
+    "author_ids": [
+      "2115432982"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4a24552d7a6240af1c5d0d2ef8ad92891a66e971",
+    "title": "Robust Bilateral Trade Mechanisms with Known Expectations",
+    "year": 2021,
+    "author_ids": [
+      "2145114119"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "278ade754861be4a635e1c96ccc3000466b5fc27",
+    "title": "On the Structure of Informationally Robust Optimal Auctions*",
+    "year": 2021,
+    "author_ids": [
+      "32074566",
+      "37684940"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "4896de2cd83ac39a5205f0bdafb6d24b445536f8",
+    "title": "Selling Impressions: Efficiency vs. Competition",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  }
+]

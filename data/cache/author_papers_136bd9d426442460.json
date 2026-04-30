@@ -1,0 +1,464 @@
+[
+  {
+    "paper_id": "b48a777e736f108b9953e4f9700bb39023a4388c",
+    "title": "Monitoring Teams",
+    "year": 2024,
+    "author_ids": [
+      "10668957",
+      "144977804",
+      "145561454"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 18,
+    "abstract": "A principal incentivizes a group of agents to work by choosing a monitoring structure and a scheme of performance-contingent rewards. The monitoring structure partitions the set of agents into monitoring teams, each delivering a signal of joint performance. We show that unlike under partial implementation, the principal always exhausts her monitoring capacity to optimally implement work as a unique outcome. Optimal monitoring teams are homogeneous between them: equally sized and with agents allocated in an anti-assortative fashion. Higher-effort-cost agents receive lower rents, and they tend to be monitored more closely than lower-effort-cost agents when the principal\u2019s allocation is constrained. (JEL D82, D86, M54)"
+  },
+  {
+    "paper_id": "11f3622446bac02d929d011d1c8effd3dadb10da",
+    "title": "Gainers and Losers in Priority Services",
+    "year": 2023,
+    "author_ids": [
+      "3010350",
+      "145561454"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 3,
+    "abstract": "We analyze the implications of priority service (PS) on customers\u2019 welfare. In monopoly markets, PS can often decrease consumer surplus and can even yield a loss of welfare to all consumers. This happens despite its efficiency gains, as monopolists levy in revenue more than the total efficiency gains. PS can increase consumer surplus if it expands the consumption coverage\u2014that is, if it introduces new customers who would not purchase the service otherwise. In duopoly markets, the price competition over PS can be severely eroded. Under homogeneity, firms act as if they were monopolists serving half of the market."
+  },
+  {
+    "paper_id": "181b68050e7d2846e59aa4fe3aa020e2a11e9216",
+    "title": "Keep an Eye on Your Employees, But Not Two: An Experimental Study of Online Monitoring, Performance, and Effort",
+    "year": 2023,
+    "author_ids": [
+      "119169369",
+      "145561454",
+      "2212943692"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "51e1e01996998e96cacaf4f9088eb43b63557e8c",
+    "title": "Comments on \u201cContracting for sex in the Pacific War\u201d by Mark Ramseyer",
+    "year": 2023,
+    "author_ids": [
+      "145561454"
+    ],
+    "venue": "International Review of Law and Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "80d79dc671214114a31c12108059dfc0d097427e",
+    "title": "Strategic Commitment to Forgo Information: Evidence from the Lab",
+    "year": 2023,
+    "author_ids": [
+      "2088439481",
+      "119169369",
+      "145561454"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "88860393d76f80eab8a6d76bbdf488a165394c35",
+    "title": "Optimal Information Disclosure in Classic Auctions",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 26,
+    "abstract": "We characterize the revenue-maximizing information structure in the second-price auction. The seller faces a trade-off: more information improves the efficiency of the allocation but creates higher information rents for bidders. The information disclosure policy that maximizes the revenue of the seller is to fully reveal low values (where competition is high) but to pool high values (where competition is low). The size of the pool is determined by a critical quantile that is independent of the distribution of values and only dependent on the number of bidders. We discuss how this policy provides a rationale for conflation in digital advertising. (JEL D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "b96758033864e91945ac3a09d48184b6834fa23d",
+    "title": "Citizens United and Individual Sovereignty: A Fresh Perspective",
+    "year": 2022,
+    "author_ids": [
+      "117934568",
+      "145561454"
+    ],
+    "venue": "International Review of Law and Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "fa9d488d75c9cdd9382e678d01e33130ca61dd59",
+    "title": "The Benefits of Coarse Preferences",
+    "year": 2022,
+    "author_ids": [
+      "71608575",
+      "1798906",
+      "145561454"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "We study the strategic advantages of coarsening one's utility by clustering nearby payoffs together (i.e., classifying them the same way). Our solution concept, coarse-utility equilibrium (CUE) requires that (1) each player maximizes her coarse utility, given the opponent's strategy, and (2) the classifications form best replies to one another. We characterize CUEs in various games. In particular, we show that there is a qualitative difference between CUEs in which only one of the players clusters payoffs, and those in which all players cluster their payoffs, and that the latter type induce players to treat co-players better than in Nash equilibria in the large class of games with monotone externalities."
+  },
+  {
+    "paper_id": "474381ca680e4e5112db23d71a8ed9a23ddefcaf",
+    "title": "Meaning and Gender Differences",
+    "year": 2021,
+    "author_ids": [
+      "2088438134",
+      "119169369",
+      "145561454"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 7,
+    "abstract": "Abstract This study utilizes the crowdfunding setting, and examines gender differences with regard to the perceived meaning of donations. The crowdfunding mechanism creates a singular reciprocal interaction where motivations can be examined and compared. We show that women's perceived meaning is more sensitive to the existence of gift rewards than that of men. When the gift incentive is nonexistent, women attribute a greater sense of meaning to their contribution, whereas this effect is largely absent or even reversed in men. Our findings have far-reaching implications in all aspects of donor retention strategies. Specifically, our findings indicate that women are more aligned with the Kantian doctrine of rejecting self-interest considerations of altruistic behavior than men."
+  },
+  {
+    "paper_id": "4896de2cd83ac39a5205f0bdafb6d24b445536f8",
+    "title": "Selling Impressions: Efficiency vs. Competition",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "5f32a3c13a92921cc53a53fb86109a8b6dd1fb46",
+    "title": "Intranasal oxytocin, testosterone reactivity, and human competitiveness.",
+    "year": 2021,
+    "author_ids": [
+      "2075246895",
+      "145561454",
+      "5253307",
+      "1766561"
+    ],
+    "venue": "Psychoneuroendocrinology",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "702344c6e18131bc00ef4a1f05a8b35d288607a8",
+    "title": "Shared Liability and Excessive Care",
+    "year": 2021,
+    "author_ids": [
+      "117039556",
+      "118767457",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "7cebdafde3cef1453b39f84b5d505c2b0fcae0d8",
+    "title": "On Stars and Galaxies: Optimal Mechanisms to Utilize Social Influence in Networks",
+    "year": 2021,
+    "author_ids": [
+      "2063476",
+      "145561454"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "16fdfa43c0452fee6b87fd243181387dabce154c",
+    "title": "Optimal Collaterals in Multi-Enterprise Investment Networks",
+    "year": 2020,
+    "author_ids": [
+      "1774251",
+      "7239133",
+      "145561454"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 6,
+    "abstract": "We study a market of investments on networks, where each agent (vertex) can invest in any enterprise linked to her, and at the same time, raise capital for her firm\u2019s enterprise from other agents she is linked to. Failing to raise sufficient capital results with the firm defaulting, being unable to invest in others. Our main objective is to examine the role of collateral contracts in handling the strategic risk that can propagate to a systemic risk throughout the network in a cascade of defaults. We take a mechanism-design approach and solve for the optimal scheme of collateral contracts that capital raisers offer their investors. These contracts aim at sustaining the efficient level of investment as a unique Nash equilibrium, while minimizing the total collateral. Our main results contrast the network environment with its non-network counterpart (where the sets of investors and capital raisers are disjoint). We show that for acyclic investment networks, the network environment does not necessitate any additional collaterals, and systemic risk can be fully handled by optimal bilateral collateral contracts between capital raisers and their investors. This is, unfortunately, not the case for cyclic investment networks. We show that bilateral contracting will not suffice to resolve systemic risk, and the market will need an external entity to design a global collateral scheme for all capital raisers. Furthermore, the minimum total collateral that will sustain the efficient level of investment as a unique equilibrium may be arbitrarily higher, even in simple cyclic investment networks, compared with the corresponding non-network environment. Additionally, we prove computational-complexity results, both for a single enterprise and for networks."
+  },
+  {
+    "paper_id": "2961940dc92c908489cfe6703667112a4fb97b40",
+    "title": "An optimal mechanism charging for priority in a queue",
+    "year": 2020,
+    "author_ids": [
+      "1735115",
+      "145561454"
+    ],
+    "venue": "Operations Research Letters",
+    "citation_count": 6,
+    "abstract": "We derive a revenue-maximizing scheme that charges customers who are homogeneous with respect to their waiting cost parameter for a random fee in order to become premium customers. This scheme incentivizes all customers to purchase priority, each at his/her drawn price. We also design a revenue-maximizing scheme for the case where customers are heterogeneous with respect to their waiting cost parameter. Now lower cost parameter customers are encouraged to join the premium class at a low price: Given that, those with high cost parameter would be willing to pay even more for this privilege."
+  },
+  {
+    "paper_id": "66c4fae82071754de38d4e79b544c93ad394bd87",
+    "title": "Rule Rationality: Evidence from the Lab",
+    "year": 2020,
+    "author_ids": [
+      "2088439481",
+      "119169369",
+      "145561454"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "69037a86a593db52b27f4cc20fedab520b48bf27",
+    "title": "Out-of-pocket vs. out-of-investment in financial advisory fees: Evidence from the lab",
+    "year": 2020,
+    "author_ids": [
+      "119169369",
+      "14483101",
+      "145561454"
+    ],
+    "venue": "Journal of Economic Psychology",
+    "citation_count": 15,
+    "abstract": "Abstract The implications of the method of payment to financial advisors on the behavior of individuals are of interest to economists and regulators around the globe. This paper uses an experimental approach to compare two common alternative forms of payment. The first is \u201cout-of-pocket\u201d (an upfront payment from a checking account), and the second is \u201cout-of-investment\u201d (a deferred payment from an investment portfolio account). We document that for the same financial advice, the subjects in the first treatment were willing to pay on average 25 per cent less than the subjects in the second treatment \u2013 payment following an investment outcome knowledge, where the payment was framed in terms of gains. We introduce an additional out-of-pocket payment structure where the actual payment is deferred until after the subject discovers the outcome of the investment. Thus, the design can be broken down into two distinct possible effects, an out-of-pocket vs. out-of-investment framing effect and a pre-outcome vs. post-outcome timing effect. We find that the timing effect is the key element: across out-of-pocket payment structures, the subjects were willing to pay significantly less in the pre-outcome treatment than their counterparts were in the post-outcome treatment. Our results highlight the difference between post-service and pre-service payments in a broader context, and provide an explanation for why allowing late payment, after the service has been performed and its outcome revealed, may increase the ex-ante willingness to pay for the service."
+  },
+  {
+    "paper_id": "8bf53211b5324fd9aecdf60be822e421c8a5462c",
+    "title": "Unintended consequences of minimum annuity laws: An experimental study",
+    "year": 2020,
+    "author_ids": [
+      "143820629",
+      "14483101",
+      "145561454"
+    ],
+    "venue": "Journal of Economic Behavior and Organization",
+    "citation_count": 26,
+    "abstract": "Abstract The need to ensure that people have adequate savings for retirement has prompted debate among regulators and academics. Certain countries have implemented or are considering implementing mandatory minimum annuity laws (e.g., Singapore and Israel), whereas others have repealed or are considering repealing such legislation (e.g., the U.K.). We investigate the introduction as well as the repeal of a regulatory change\u2014specifically, a mandatory minimum annuity rule\u2014using a laboratory experiment and two surveys. Our results indicate that imposing a mandatory minimum may create an anchoring effect to the threshold level. Furthermore, our results suggest that the mandatory requirement may have unintended consequences: Such laws may fail to provide an increase in the demand for annuities and may even reduce it for certain individuals. The outcome is sensitive to the relation between the level of the mandatory minimum and anticipated consumption (i.e., future financial need). Moreover, we provide novel evidence about the consequences of a repeal of mandatory minimum annuity laws and suggest that it may not restore the demand for annuities to the pre-law level."
+  },
+  {
+    "paper_id": "a9d1d084ff367ce15eddf5256531cd649487a780",
+    "title": "AN AXIOMATIC APPROACH TO SENSORS' TRUST MEASUREMENTS",
+    "year": 2020,
+    "author_ids": [
+      "121639535",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b4b293febf5038cd8fb3077c49fbcb71fb13adb5",
+    "title": "Raising Capital from Heterogeneous Investors",
+    "year": 2020,
+    "author_ids": [
+      "10668957",
+      "144977804",
+      "145561454"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 59,
+    "abstract": "A firm raises capital from multiple investors to fund a project. The project succeeds only if the capital raised exceeds a stochastic threshold, and the firm offers payments contingent on success. We study the firm\u2019s optimal unique-implementation scheme, namely the scheme that guarantees the firm the maximum payoff. This scheme treats investors differently based on size. We show that if the distribution of the investment threshold is log-concave, larger investors receive higher net returns than smaller investors. Moreover, higher dispersion in investor size increases the firm\u2019s payoff. Our analysis highlights strategic risk as an important potential driver of inequality. (JEL D21, D86, G24, G32)"
+  },
+  {
+    "paper_id": "5cc35901bcb327e9e2ec70dac047f8ccea70f664",
+    "title": "Sex-specific effects of intranasal oxytocin on intergroup competition",
+    "year": 2019,
+    "author_ids": [
+      "1766561",
+      "2075246895",
+      "145561454",
+      "5253307"
+    ],
+    "venue": "Psychoneuroendocrinology",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "748b19bc2dd692c67ad90e371c9eb5daffa46e95",
+    "title": "Biased-Belief EquilibriumThe authors are very grateful to the anonymous referees for very helpful comments and suggestions.",
+    "year": 2019,
+    "author_ids": [
+      "1798906",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c762a7378228837a774ede475778b8115ca340e3",
+    "title": "Examples of Games with Strategic Complements 3 Table 4 : A Game in which ( a , a ) is not a Monotone Weak BBE Outcome",
+    "year": 2019,
+    "author_ids": [
+      "1798906",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cd148a784c098122f3cd3f43b8d10db01fae5fea",
+    "title": "Biased-Belief Equilibrium \u2217",
+    "year": 2019,
+    "author_ids": [
+      "1798906",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 25,
+    "abstract": null
+  },
+  {
+    "paper_id": "2fcea63015c4758eb524cdf6c2ce9a83b2547fb3",
+    "title": "Series 2018 / 021 Raising Capital from Heterogeneous Investors",
+    "year": 2018,
+    "author_ids": [
+      "10668957",
+      "144977804",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "7ce1c959166e5324491b8919bcd98c79a4e98b08",
+    "title": "Mental Equilibrium and Strategic Emotions",
+    "year": 2017,
+    "author_ids": [
+      "145561454",
+      "1399284664",
+      "1399284683"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 27,
+    "abstract": null
+  },
+  {
+    "paper_id": "a1e7ee820f4b65df65b3c32ba63548136dc0a926",
+    "title": "Corporate Crime and Plea Bargains",
+    "year": 2017,
+    "author_ids": [
+      "117934568",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "b5b37147524e66f7620d1de723d35164512d0f70",
+    "title": "Flow auctions",
+    "year": 2017,
+    "author_ids": [
+      "144977804",
+      "33989212",
+      "145561454"
+    ],
+    "venue": "International Journal of Game Theory",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "dfb20c102f886541af5f3bad7c62427c867e1f47",
+    "title": "Individuality and Entanglement by Herbert Gintis, Princeton University Press, 2016",
+    "year": 2017,
+    "author_ids": [
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "368bc467bb26750416dbcc0e54183a9f1a043785",
+    "title": "To Cheat or Not To Cheat: Tryptophan Hydroxylase 2 SNP Variants Contribute to Dishonest Behavior",
+    "year": 2016,
+    "author_ids": [
+      "46417058",
+      "71831406",
+      "145561454",
+      "82116510",
+      "3254454",
+      "2592009"
+    ],
+    "venue": "Frontiers in Behavioral Neuroscience",
+    "citation_count": 8,
+    "abstract": "Although, lying (bear false witness) is explicitly prohibited in the Decalogue and a focus of interest in philosophy and theology, more recently the behavioral and neural mechanisms of deception are gaining increasing attention from diverse fields especially economics, psychology, and neuroscience. Despite the considerable role of heredity in explaining individual differences in deceptive behavior, few studies have investigated which specific genes contribute to the heterogeneity of lying behavior across individuals. Also, little is known concerning which specific neurotransmitter pathways underlie deception. Toward addressing these two key questions, we implemented a neurogenetic strategy and modeled deception by an incentivized die-under-cup task in a laboratory setting. The results of this exploratory study provide provisional evidence that SNP variants across the tryptophan hydroxylase 2 (TPH2) gene, that encodes the rate-limiting enzyme in the biosynthesis of brain serotonin, contribute to individual differences in deceptive behavior."
+  },
+  {
+    "paper_id": "691aa080334ec6c522c0d98baaeaebbc33172d29",
+    "title": "In Wrong Anticipation - Miscalibrated Beliefs between Germans, Israelis, and Palestinians",
+    "year": 2016,
+    "author_ids": [
+      "26615438",
+      "1398968901",
+      "3804302",
+      "145561454"
+    ],
+    "venue": "PLoS ONE",
+    "citation_count": 20,
+    "abstract": "The reconcilability of actions and beliefs in inter-country relationships, either in business or politics, is of vital importance as incorrect beliefs on foreigners\u2019 behavior can have serious implications. We study a typical inter-country interaction by means of a controlled laboratory investment game experiment in Germany, Israel and Palestine involving 400 student participants in total. An investor has to take a risky decision in a foreign country that involves transferring money to an investee/allocator. We found a notable constellation of calibrated and un-calibrated beliefs. Within each country, transfer standards exist, which investees correctly anticipate within their country. However, across countries these standards differ. By attributing the standard of their own environment to the other countries investees are remarkably bad in predicting foreign investors\u2019 behavior. The tendency to ignore this potential difference can be a source of misinterpreting motives in cross-country interaction. Foreigners might perceive behavior as unfavorable or favorable differentiation, even though\u2014unknown to them\u2014investors actually treat fellow-country people and foreigners alike."
+  },
+  {
+    "paper_id": "8964238d597d65304238a6af77318c878267e0fe",
+    "title": "Corporate Bill of Rights",
+    "year": 2016,
+    "author_ids": [
+      "117934568",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9c10523799a3695bd27255f7142c7034dfb9c153",
+    "title": "RULE RATIONALITY: RULE RATIONALITY",
+    "year": 2016,
+    "author_ids": [
+      "1798906",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 23,
+    "abstract": null
+  },
+  {
+    "paper_id": "be3eab17aee29613b9449e0045d5c8280f292776",
+    "title": "Flow auctions",
+    "year": 2016,
+    "author_ids": [
+      "144977804",
+      "33989212",
+      "145561454"
+    ],
+    "venue": "International Journal of Game Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "87096f74fc94901247f97728f11adf05a6ac9d2c",
+    "title": "Formal versus Informal Monitoring in Teams",
+    "year": 2015,
+    "author_ids": [
+      "3010350",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "b65db74980e9ee993f80b6a3b52013d24617f70d",
+    "title": "Call for Papers: Special Issue of the German Economic Review in Honor of Reinhard Selten\u2019s 85th birthday. Special Issue Editors",
+    "year": 2015,
+    "author_ids": [
+      "2317979",
+      "145561454",
+      "1402624156"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

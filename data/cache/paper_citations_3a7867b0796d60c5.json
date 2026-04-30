@@ -1,0 +1,203 @@
+[
+  {
+    "paper_id": "a99dab1bd22f8e2c967cbc62c70fdfda108d7531",
+    "title": "Imperfect Competition in Financial Markets: Recent Developments",
+    "year": 2025,
+    "author_ids": [
+      "12225148",
+      "23469082"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 2,
+    "abstract": "This article reviews the theory of imperfectly competitive financial markets, with special attention to recent contributions and rapidly growing areas of research. We highlight the methodological advances that have led to a unified analytic framework for static, dynamic, centralized, and decentralized markets. Accounting for imperfect competition has not only reshaped our understanding of financial market data but also underscored the importance of market structure, motivated novel policy tools and objectives, and opened new avenues for market design. We identify areas where new models and techniques could enable further progress on equilibrium and market design analyses for markets with large players. (JEL D43, D47, D53, G10)"
+  },
+  {
+    "paper_id": "529ad520aef77476bc845ff42a6bddf1a3017593",
+    "title": "Competition in schedules with cursed traders",
+    "year": 2024,
+    "author_ids": [
+      "1741547754",
+      "2091051949"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "9bf36d3c9b7d22f961fdcf0258856a0573a261f2",
+    "title": "Strategic Informed Trading and the Value of Private Information",
+    "year": 2024,
+    "author_ids": [
+      "2803553",
+      "49704220"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We consider a market of risky financial assets whose participants are an informed trader, a representative uninformed trader, and noisy liquidity providers. We prove the existence of a market-clearing equilibrium when the insider internalizes her power to impact prices, but the uninformed trader takes prices as given. Compared to the associated competitive economy, in equilibrium the insider strategically reveals a noisier signal, and prices are less reactive to publicly available information. Additionally, and in direct contrast to the related literature, in equilibrium the insider's indirect utility monotonically increases in the signal precision. Therefore, the insider is motivated not only to obtain, but also to refine, her signal. Lastly, we show that compared to the competitive economy, the insider's internalization of price impact is utility improving for the uninformed trader, but somewhat surprisingly may be utility decreasing for the insider herself. This utility reduction occurs provided the insider is sufficiently risk averse compared to the uninformed trader, and provided the signal is of sufficiently low quality."
+  },
+  {
+    "paper_id": "ca05aea6291bfda4dc3e97c6514f91d3376ad329",
+    "title": "Slope Takers in Anonymous Markets",
+    "year": 2023,
+    "author_ids": [
+      "28243691",
+      "3076627"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 1,
+    "abstract": "We present a learning-based selection argument for Linear Bayesian Nash equilibrium in a Walrasian auction. Endowments vary stochastically; traders model residual supply as linear, estimate its slope from past trade data, and periodically update these estimates. In the standard setting with quadratic preferences, we show that this learning process converges to the unique LBN. Anonymity and statistical learning therefore support this commonly used equilibrium selection rule. (JEL D43, D44, D83)"
+  },
+  {
+    "paper_id": "07db0e1e4e1ff543eab1ffce0c2449d2895bcb2a",
+    "title": "Information, market power and welfare",
+    "year": 2023,
+    "author_ids": [
+      "1834397",
+      "46221214"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "0d087f913f154b5feb485d65afa92ec4f11d3e09",
+    "title": "Informationally Efficient Climate Policy: Designing Markets to Measure and Price Externalities",
+    "year": 2022,
+    "author_ids": [
+      "14333547"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "I study how policymakers can access and act on the information about climate change damages that is dispersed throughout the economy. I propose a new dynamic deposit-refund instrument (called \u201ccarbon shares\u201d) that I show can: i) efficiently price emissions conditional on information, ii) efficiently incentivize removal of past emissions conditional on information, and iii) efficiently aggregate dispersed information about the social cost of emissions. Conventional emission taxes generally succeed at only the first of these objectives. Rather than projecting damages in all future periods and all possible states of the world in order to calculate the optimal tax, the regulator here estimates damages as they are realized and empowers markets to perform price discovery about future damages."
+  },
+  {
+    "paper_id": "fd621cdda4b32181f2cad00a309e89d0cd1577cd",
+    "title": "Information Design in Concave Games",
+    "year": 2022,
+    "author_ids": [
+      "144622420",
+      "46412716"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 5,
+    "abstract": "We study information design in games with a continuum of actions such that the payoff of each player is concave in his action. A designer chooses an information structure--a joint distribution of a state and a private signal of each player. The information structure induces a Bayesian game and is evaluated according to the expected designer's payoff under the equilibrium play. We develop a method that allows to find an optimal information structure, one that cannot be outperformed by any other information structure, however complex. To do so, we exploit the property that each player's incentive is summarized by his marginal payoff. We show that an information structure is optimal whenever the induced strategies can be implemented by an incentive contract in a principal-agent problem that incorporates the players' marginal payoffs. We use this result to establish the optimality of Gaussian information structures in the settings with quadratic payoffs and a multivariate normally-distributed state. We analyze the details of optimal structures in a differentiated Bertrand competition and in a prediction game. The full paper is available at: https://arxiv.org/pdf/2202.10883.pdf"
+  },
+  {
+    "paper_id": "c1578435c0302a4ebfcaa2b7f4a4de30825c2be8",
+    "title": "On ESG Investing: Heterogeneous Preferences, Information, and Asset Prices",
+    "year": 2022,
+    "author_ids": [
+      "3073437",
+      "69924862",
+      "2121272005",
+      "6623395"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 63,
+    "abstract": "We study how environmental, social and governance (ESG) investing reshapes information aggregation by prices. We develop a rational expectations equilibrium model in which traditional and green investors are informed about financial and ESG risks but have different preferences over them. Because of the preference heterogeneity, traditional and green investors trade in the opposite directions based on the same information. We show that the equilibrium price may not be uniquely determined. An increase in the fraction of green investors and an improvement in the ESG information quality can reduce price informativeness about the financial payoff and raise the cost of capital."
+  },
+  {
+    "paper_id": "dda444488bcf56ed2456f2890ab12780e5b97ae3",
+    "title": "Information acquisition with heterogeneous valuations",
+    "year": 2021,
+    "author_ids": [
+      "46221214"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 9,
+    "abstract": "Abstract We study the market for a risky asset with uncertain heterogeneous valuations. Agents seek to learn about their own valuation by acquiring private information and making inferences from the equilibrium price. As agents of one type gather more information, they pull the price closer to their valuation and further away from the valuations of other types. Thus they exert a negative learning externality on other types. This in turn implies that a lower cost of information for one type induces all agents to acquire more information. Private information production is typically not socially optimal. In the case of two types who differ in their cost of information, we can always find a Pareto improvement that entails an increase in the aggregate amount of information, with a higher proportion produced by the low-cost type."
+  },
+  {
+    "paper_id": "328eb2ec2aca51dd2e559797532d75202459a5aa",
+    "title": "Feasible Joint Posterior Beliefs",
+    "year": 2020,
+    "author_ids": [
+      "2661139",
+      "2830102",
+      "2948341",
+      "1740329"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 33,
+    "abstract": "We study the set of possible joint posterior belief distributions of a group of agents who share a common prior regarding a binary state and who observe some information structure. For two agents, we introduce a quantitative version of Aumann\u2019s agreement theorem and show that it is equivalent to a characterization of feasible distributions from a 1995 work by Dawid and colleagues. For any number of agents, we characterize feasible distributions in terms of a \u201cno-trade\u201d condition. We use these characterizations to study information structures with independent posteriors. We also study persuasion problems with multiple receivers, exploring the extreme feasible distributions."
+  },
+  {
+    "paper_id": "96af9fa94d557644a0a8bd917c8e7442c6e4c6cb",
+    "title": "Empirical Framework for Cournot Oligopoly with Private Information",
+    "year": 2019,
+    "author_ids": [
+      "2452558",
+      "97540062"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 9,
+    "abstract": "We propose an empirical framework for asymmetric Cournot oligopoly with private information about variable costs. First, considering a linear demand for a homogeneous product with a random intercept, we characterize the Bayesian Cournot\u2013Nash equilibrium. Then we establish the identification of the joint distribution of demand and firm\u2010specific cost distributions. Following the identification steps, we propose a likelihood\u2010based estimation method and apply it to the global market for crude oil and quantify the welfare effect of private information. We also consider extensions of the model to include product differentiation, conduct parameters, nonlinear demand, or selective\u00a0entry."
+  },
+  {
+    "paper_id": "ea928426f0c0e4676c477aad74284c372850c772",
+    "title": "Market power and welfare in asymmetric divisible good auctions",
+    "year": 2016,
+    "author_ids": [
+      "51233053",
+      "144834442"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 9,
+    "abstract": "We analyze a divisible good uniform\u2010price auction that features two groups, each with a finite number of identical bidders, who compete in demand schedules. In the linear\u2010quadratic\u2010normal framework, this paper presents conditions under which the unique equilibrium in linear demands exists and derives novel comparative statics results that highlight the interaction between payoff and information parameters with asymmetric groups. We find that the strategic complementarity in the slopes of traders' demands is reinforced by inference effects from prices, and we display the role of payoff and information asymmetries in explaining deadweight losses. Furthermore, price impact and the deadweight loss need not move together, and market integration may reduce welfare. The results are consistent with the available empirical evidence."
+  },
+  {
+    "paper_id": "1421d749713ea33e0bfb30253875386dac3f4d45",
+    "title": "Product Varieties, Private Costs and Price Competition",
+    "year": 2025,
+    "author_ids": [
+      "37373542",
+      "2377212773"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "03ee2efd3e843f8844d93e2396f8db0ac1dd5d28",
+    "title": "Slope-Takers in Anonymous Markets \u2217",
+    "year": 2022,
+    "author_ids": [
+      "28243691",
+      "3076627",
+      "2249875373",
+      "32567563",
+      "2276864996",
+      "2258539070",
+      "2288607214"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9cac416c710ca72125570a3b0e8f571744436c45",
+    "title": "Equilibrium Theory of Financial Markets: Recent Developments",
+    "year": 2020,
+    "author_ids": [
+      "2275849434",
+      "23469082"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 18,
+    "abstract": "This article reviews the theory of imperfectly competitive financial markets with special attention to recent contributions and rapidly growing new areas of research. We survey the literature on advances that have led to a common analytic framework for static, dynamic, centralized, and decentralized markets. This allows us to highlight the results that arise when traders have price impact (but not in competitive markets) and, separately, those that arise with market fragmentation. JEL Classification: D47, D53, G11, G12"
+  },
+  {
+    "paper_id": "7fb1161788de32e6028547f2b0e94e213d7a74fb",
+    "title": "T H ] 2 2 D ec 2 02 0 Feasible Joint Posterior Beliefs",
+    "year": 2020,
+    "author_ids": [
+      "2661139",
+      "2830102",
+      "2948341",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

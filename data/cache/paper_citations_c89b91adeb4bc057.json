@@ -1,0 +1,533 @@
+[
+  {
+    "paper_id": "c2041e195a81d115f6114c1bea33f3a489d925ea",
+    "title": "Valuing Influence with Social Learning",
+    "year": 2025,
+    "author_ids": [
+      "2306168646",
+      "2304062409",
+      "2109897",
+      "48985010"
+    ],
+    "venue": "Manufacturing &amp; Service Operations Management",
+    "citation_count": 1,
+    "abstract": "Problem definition: Influencer marketing has become a prevalent strategy to promote products through social media. This paper examines the value of influencer marketing when followers not only learn from the influencer\u2019s signal but can also engage in social learning by observing peers\u2019 purchase behaviors and reviews. Methodology/results: We adopt an information design framework to analyze how a firm should value an influencer based on two key dimensions: the accuracy of the influencer\u2019s past recommendations (informativeness) and the extent to which followers rely exclusively on the influencer versus learning from peers (charisma). Managerial implications: Our model uncovers insights about the interaction between information design and social learning. First, the naive intuition that the influencer is less valuable with social learning does not always hold. The influencer holds greater value under the social learning context when customers have a moderate intention to buy as her endorsement reinforces customer convictions, making them resilient against later negative feedback from other followers. Second, when the firm can strategically select an influencer, the optimal information structure is biased toward the positive signals: always endorse good products (true-positive rate of one) but sometimes endorse bad products (nonzero false-positive rate). Third, the optimal influencer when social learning exists has a lower false-positive rate than the one without social learning, meaning that when there exists subsequent social learning, it becomes even more important to have an influencer whose positive endorsement is trustworthy. In other words, the optimal influencer should be able to reveal more information with social learning than without social learning.\n Funding: This work was supported by the National Science Foundation [Grant 2208189].\n Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2025.0348 ."
+  },
+  {
+    "paper_id": "ea96afa5f647b5e23b2b4ecefccf692358464de1",
+    "title": "Applying a panel network formation model to limited partnership matching in the private capital market",
+    "year": 2025,
+    "author_ids": [
+      "2150679372",
+      "2349743688"
+    ],
+    "venue": "Social Network Analysis and Mining",
+    "citation_count": 0,
+    "abstract": "In private capital investment, limited partners (LPs) and general partners (GPs) frequently encounter the challenge of finding suitable counterparts amid limited information, a process often hindered by market inefficiencies. This article addresses this issue by exploring the micro-level mechanisms that shape private capital networks, employing temporal exponential random graph models. Our findings uncover activity and popularity effects, persistence mechanisms, and homophily in preferences concerning region, strategy, and industry. These factors jointly shape the dynamically evolving network structure across asset classes and the hybrid network with all asset classes, revealing a shared network formation process. This article offers practical insights into the matching problem within the private capital market."
+  },
+  {
+    "paper_id": "5439b90f5bc00fafc088b294cee22d218c7a8a2e",
+    "title": "A concavity in the value of information",
+    "year": 2025,
+    "author_ids": [
+      "19246218"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "91f85ddb5103079cc2fd696ac51a63165f027f92",
+    "title": "Posterior-Separable Costs and Menu Preferences",
+    "year": 2025,
+    "author_ids": [
+      "2391963005",
+      "2266842201"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We consider an agent with a rationally inattentive preference over menus of acts, as in de Oliveira et al (2017). We show that two axioms, Independence of Irrelevant Alternatives and Ignorance Equivalence, are necessary and sufficient for this agent to have a posterior-separable cost satisfying a mild smoothness condition, called joint-directional differentiability. Viewing the decision-maker's problem as a Bayesian persuasion problem, we also show that these axioms are necessary and sufficient for solvability by a unique hyperplane. When the cost function remains invariant for different priors, we show that these axioms imply uniformly posterior separable costs that are differentiable."
+  },
+  {
+    "paper_id": "e53082cf4f0295838242dae1317767cbf3e9ce0e",
+    "title": "Selection Procedures in Competitive Admission",
+    "year": 2025,
+    "author_ids": [
+      "2384764977"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Two identical firms compete to attract and hire from a pool of candidates of unknown productivity. Firms simultaneously post a selection procedure which consists of a test and an acceptance probability for each test outcome. After observing the firms'selection procedures, each candidate can apply to one of them. Firms can vary both the accuracy (Lehmann, 1988) and difficulty (Hancart, 2024) of their test. The firms face two key considerations when choosing their selection procedure: the statistical properties of their test and the selection into the procedure by the candidates. I show that there is a unique symmetric equilibrium where the test is maximally accurate but minimally difficult. Intuitively, competition leads to maximal but misguided learning: firms end up having precise knowledge that is not payoff relevant. I also consider the cases where firms face capacity constraints, have the possibility of making a wage offer and the existence of asymmetric equilibria where one firm is more selective than another."
+  },
+  {
+    "paper_id": "d2d912d5b1a5ca7cdedd9acacc52806c25e47747",
+    "title": "Low-Carbon Economic Dispatch of Integrated Energy Systems Using Optimistic Actor-Critic Deep Reinforcement Learning",
+    "year": 2025,
+    "author_ids": [
+      "2292109418",
+      "2307484690",
+      "2311848752",
+      "2417976476",
+      "2301792648",
+      "2315061376"
+    ],
+    "venue": "2025 Third International Conference on Cyber-Energy Systems and Intelligent Energy (ICCSIE)",
+    "citation_count": 0,
+    "abstract": "This paper addresses the low-carbon economic dispatch of integrated energy systems (IES) under high renewable penetration. We propose two novel IES frameworks: 1) A hydrogen-integrated IES (HIES) featuring an electricity-gas hybrid hydrogen production model with carbon capture and comprehensive utilization; 2) A low-carbon park IES incorporating multi-type flexible resources. To handle renewable uncertainties, we develop an Optimistic Actor-Critic (OAC) deep reinforcement learning algorithm with enhanced exploration efficiency. Case studies demonstrate ${1 4. 2} {\\%}$ cost reduction and ${2 1. 4} {\\%}$ carbon emission decrease compared to conventional models. The OAC algorithm accelerates convergence by ${3 2 \\%}$ over Soft Actor-Critic while maintaining superior online optimization capability."
+  },
+  {
+    "paper_id": "4646387c98c29d30004d2e6d3e7ffee9ab971cdf",
+    "title": "Persuasion through information cost design",
+    "year": 2025,
+    "author_ids": [
+      "2354577784"
+    ],
+    "venue": "Economic Modelling",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0a92fdcaa2a3e8ef45ab89cc9a0a74d76c2852d8",
+    "title": "Convex Cost of Information via Statistical Divergence",
+    "year": 2025,
+    "author_ids": [
+      "2378705644",
+      "2306692502"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper characterizes convex information costs using an axiomatic approach. We employ mixture convexity and sub-additivity, which capture the idea that producing\"balanced\"outputs is less costly than producing ``extreme''ones. Our analysis leads to a novel class of cost functions that can be expressed in terms of R\\'enyi divergences between signal distributions across states. This representation allows for deviations from the standard posterior-separable cost, thereby accommodating recent experimental evidence. We also characterize two simpler special cases, which can be written as either the maximum or a convex transformation of posterior-separable costs."
+  },
+  {
+    "paper_id": "6b935e1db965c5840ec0ea3a6101cdb53757e8cc",
+    "title": "Information Acquisition and Product Differentiation Perception",
+    "year": 2025,
+    "author_ids": [
+      "2827106",
+      "2325724695",
+      "2324955899"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 0,
+    "abstract": "We consider the equilibrium interplay between sellers' price competition and consumers' perception of product differentiation. We analyze a situation where, before trading, consumers acquire information at a cost about their preferences between sellers' differentiated products. The incentive for information acquisition depends on the average value of products, the objective product differentiation, and their beliefs about sellers' prices. The acquired information shapes consumers' perceived product differentiation and sellers' equilibrium prices. We characterize the unique symmetric equilibrium and study comparative statics with respect to consumer information acquisition cost and sensitivity to product differentiation. (JEL D43, D82, D83)"
+  },
+  {
+    "paper_id": "78173b19bd4da883d1864f84b9dd5c85e61a1f5a",
+    "title": "When and what to learn in a changing world",
+    "year": 2025,
+    "author_ids": [
+      "2119530939"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "The world is constantly changing, yet decision makers do not continuously update their worldview. When should one acquire new information and what should they learn? This paper develops a tractable framework to study the tradeoff between the timing and content of information acquisition. A decision maker sequentially choose times at which to acquire information (entailing a fixed cost) and what to learn (entailing a variable cost) about a changing state. I characterize optimal policies, using an appropriate Bellman equation that decomposes the problem into a static optimal information acquisition problem and an optimal stopping problem. Optimal information acquisition must eventually either stop or settle into a simple cycle in which information is acquired at regular intervals (when uncertainty reaches specific thresholds) and updates lead to two possible outcomes, captured by two target posterior beliefs. The convergence result enables the study of properties of long run optimal information acquisition. Optimal policies may exhibit path dependency in the form of \"learning traps\". The world becoming more volatile has generically ambiguous effects on the frequency of information acquisition. In the limit as fixed costs vanish, the agent optimally either waits or acquires infinitesimal amounts of information so as to confirm the current belief until rare news prompts a jump to an alternative belief; in the long run, the agent's belief jumps between two possible beliefs (and actions). In an application to a portfolio problem, optimal behavior exhibits continuous rebalancing towards diversification, punctuated by periodic shifts to more extreme allocations. With asymmetry between a safe and a risky action, optimal information acquisition can generate distortions between good and bad news, typically leading to better quality but more frequent updating for information which suggests undertaking risky actions. Link to full paper: https://cesarbarilla.com/files/Barilla_When-And-What.pdf"
+  },
+  {
+    "paper_id": "b65b46b879527b9d1f98ce46dbae41c05cfd2439",
+    "title": "Finding Out Who You Are: A Self-exploration View of Education",
+    "year": 2025,
+    "author_ids": [
+      "2115520077"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "I study the optimal design of information in education. Students in my model have different priors about their talents and update their beliefs after receiving noisy signals about themselves. I show that the socially optimal signal structure depends only on the average priors of the participating students. In particular, an optimal structure encourages a career in which the average participant has a comparative advantage. In an extended model with human capital accumulation, optimal education targets the participants who respond most sensitively to information."
+  },
+  {
+    "paper_id": "afc580b71e0f6586bc1aa54671f75bbda6db2202",
+    "title": "Economic Drivers in Sustainable Innovation: The Impact of Cost and Process Selection on New Product Design",
+    "year": 2025,
+    "author_ids": [
+      "2355323089",
+      "72426574"
+    ],
+    "venue": "International Journal of Economics Development Research (IJEDR)",
+    "citation_count": 0,
+    "abstract": "This study examines the effect of cost information and process selection on total costs in sustainable new product design. This study uses an experimental design with the research objective to evaluate how these two variables contribute to cost efficiency and greener product innovation. To achieve this goal, students of the Accounting Study Program from the Faculty of Economics and Business, Universitas Muhammadiyah Yogyakarta as a substitute for professional designers in the development of new products were asked to fill out a questionnaire to evaluate their design choices, consider the sustainability aspects, and identify the challenges they faced during the process. The interaction effect was also assessed to review the correlation effect of these factors on sustainable product design, with the results showing that the interaction effect of the two variables has a significant impact on the total cost, supporting the hypothesis that the combination of these two factors is important in creating cost efficiency in sustainable product development"
+  },
+  {
+    "paper_id": "33dda669828d983e4694d0fc460cf5a80a3290c9",
+    "title": "Flexible Learning via Noise Reduction",
+    "year": 2025,
+    "author_ids": [
+      "2352101479",
+      "2352104041"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We develop a novel framework for costly information acquisition in which a decision-maker learns about an unobserved state by choosing a signal distribution, with the cost of information determined by the distribution of noise in the signal. We show that a natural set of axioms admits a unique integral representation of the cost function, and we establish the uniform dominance principle: there always exists an optimal experiment that generates signals with uniform noise. The uniform dominance principle allows us to reduce the infinite-dimensional optimization problem of finding an optimal information structure to finding a single parameter that measures the level of noise. We show that an optimal experiment exists under natural conditions, and we characterize it using generalized first-order conditions that accommodate non-smooth payoff functions and decision rules. Finally, we demonstrate the tractability of our framework in a bilateral trade setting in which a buyer learns about product quality."
+  },
+  {
+    "paper_id": "9d7b2a8c5c4343231d6758b711197c0b92379ea2",
+    "title": "Robust inattentive discrete choice",
+    "year": 2025,
+    "author_ids": [
+      "2318596224",
+      "2316823611",
+      "2327041043"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 0,
+    "abstract": "Significance When people make decisions they often have a large volume of information at their disposal. Faced with this challenge, in practice they focus their attention on a more limited amount of salient information. To assess what information should be exploited in decision-making, we extend a modeling approach that is called \u201crational inattention.\u201d This approach assumes that the decision maker has a subjective prior that is used in determining how to direct attention across the vast set of information at the decision-maker\u2019s disposal. The resulting solution can be highly sensitive, however, to the choice of the prior. We relax this assumption and allow the decision-maker to confront subjective uncertainty when taking discrete actions, thereby making the decisions more robust."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "a09bf8b70845ee82c35d4ce79aa79a1f81fd04e0",
+    "title": "First Best Implementation With Costly Information Acquisition",
+    "year": 2025,
+    "author_ids": [
+      "46954217",
+      "46412716"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "We study mechanism design with flexible but costly information acquisition. There is one principal and four or more agents, who share a common prior belief over a set of payoff\u2010relevant states. The principal proposes a mechanism to the agents, each of whom can then acquire information about the state by privately designing a signal device. As long as it is costless for each agent to acquire a signal that is independent of the state, there exists a mechanism that allows the principal to implement any social choice rule at zero information acquisition cost for the agents."
+  },
+  {
+    "paper_id": "d20e297eb10a33eaab12c40b6508b5386be9fdf6",
+    "title": "Foundation and identification of multi-attribute Shannon entropy",
+    "year": 2025,
+    "author_ids": [
+      "1411228442"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f2788c59e894f8b47034a9beec42a70908019527",
+    "title": "Optimal Allocation of Energy Storage Considering Information-energy Cost with High Renewable Penetrations",
+    "year": 2024,
+    "author_ids": [
+      "2279033448",
+      "2361890101",
+      "2212042459",
+      "2204278510",
+      "2110607213"
+    ],
+    "venue": "2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)",
+    "citation_count": 0,
+    "abstract": "Although conventional energy storage optimization has been widely researched, it focuses more on addressing the challenges posed by the high penetration of renewable energy sources (RES) through storage capacity allocation only without considering information. Furthermore, it cannot effectively balance the trade-off between energy and information costs. Therefore, this paper proposes an information-energy perspective on the optimal allocation of energy storage. Firstly, an information-energy optimal allocation method based on entropy for energy storage is proposed. Secondly, a novel cost model evaluating the interaction between information and energy is introduced, which can leverage a larger capacity cost with a smaller information cost. Furthermore, the proposed model enhances the balance between system flexibility and cost-efficiency with high renewable penetrations."
+  },
+  {
+    "paper_id": "029dbdd297bd76770f91020b7abc86ff8457f24b",
+    "title": "Does reducing communication barriers promote diversity?",
+    "year": 2024,
+    "author_ids": [
+      "2069777167",
+      "2275690096"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "0adeeba8cae2d2a13193f1ee12d29a6d2007c3ac",
+    "title": "Rational inattention in games: experimental evidence",
+    "year": 2024,
+    "author_ids": [
+      "2281824911",
+      "2268660788"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 2,
+    "abstract": "To investigate whether attention responds rationally to strategic incentives, we experimentally implement a buyer-seller game in which a fully informed seller makes a take-it-or-leave-it offer to a buyer who faces cognitive costs to process information about the offer\u2019s value. We isolate the impact of seller strategies on buyer attention by exogenously varying the seller\u2019s outside option, which leads sellers to price high more often. We find that buyers respond by making fewer mistakes conditional on value, which suggests that buyers exert higher attentional effort in response to the increased strategic incentives for paying attention. We show that a standard model of rational inattention based on Shannon mutual information cannot fully explain this change in buyer behavior. However, we identify another class of rational inattention models consistent with this behavioral pattern."
+  },
+  {
+    "paper_id": "0811810ac0fa0d606fb3d90ae0b23a9bde13cc0e",
+    "title": "Revealed Invariant Preference",
+    "year": 2024,
+    "author_ids": [
+      "2137105762",
+      "2292257150"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We consider the problem of rationalizing choice data by a preference satisfying an arbitrary collection of invariance axioms. Examples of such axioms include quasilinearity, homotheticity, independence-type axioms for mixture spaces, constant relative/absolute risk and ambiguity aversion axioms, stationarity for dated rewards or consumption streams, separability, and many others. We provide necessary and sufficient conditions for invariant rationalizability via a novel approach which relies on tools from the theoretical computer science literature on automated theorem proving. We also establish a generalization of the Dushnik-Miller theorem, which we use to give a complete description of the out-of-sample predictions generated by the data under any such collection of axioms."
+  },
+  {
+    "paper_id": "05b52b949a290fa504fa1baf9cc555d37ece4629",
+    "title": "Persuading an inattentive and privately informed receiver",
+    "year": 2024,
+    "author_ids": [
+      "2410894952"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "This paper studies the persuasion of a receiver who accesses information only if she exerts costly attention effort. A sender designs an experiment to persuade the receiver to take a specific action. The experiment affects the receiver's attention effort, that is, the probability that she updates her beliefs. Persuasion has two margins: an extensive (effort) and an intensive (action). The receiver's utility exhibits a supermodularity property in information and effort. By leveraging this property, we establish an equivalence between experiments and persuasion mechanisms \\`a la Kolotilin et al.~(2017). In applications, the sender's optimal strategy involves censoring favorable states."
+  },
+  {
+    "paper_id": "ff822850864eab4d2fa1d61e197823a648b95c43",
+    "title": "Procuring Unverifiable Information",
+    "year": 2024,
+    "author_ids": [
+      "2109948787",
+      "2692810",
+      "3076427"
+    ],
+    "venue": "Mathematics of Operations Research",
+    "citation_count": 3,
+    "abstract": "We study settings where information in the form of Bayesian signals is acquired by an expert on behalf of a principal. Information acquisition is costly for the expert and crucially not verifiable by the principal. The expert is compensated by the principal with a menu of state-contingent payments. We provide a full characterization of the set of all menus that implement (respectively, strictly implement) each signal. Moreover, we provide a closed-form characterization for the expected cost for the cheapest such menu, which we call proxy cost of the signal. Surprisingly, in general, the proxy cost is neither increasing in the Blackwell order nor posterior separable, even when the expert\u2019s cost function is posterior separable itself. Subsequently, we study the full-agency problem (by introducing a downstream decision), thus endogenizing the signal. We show that there is always an optimal signal that can be strictly implemented, meaning that it is without loss of generality to exogenously restrict attention to strict implementation. As a result, similarly to Bayesian persuasion, the complexity of the principal\u2019s optimal signal is bounded by the cardinality of the state space. Finally, we present some applications of interest. Funding: Financial support by the Wallander-Hedelius Foundation [Grants P2016-0072:1 and P20-0035 (to S. Sharma and M. Voorneveld)] is gratefully acknowledged."
+  },
+  {
+    "paper_id": "3172933d61e4e6561b10e64d5e37ae5d1cc9b324",
+    "title": "A microcosting approach for planning and implementing community-based mental health prevention programs: what does it cost?",
+    "year": 2024,
+    "author_ids": [
+      "2302522866",
+      "2302387565",
+      "2302382087",
+      "5071177",
+      "2302384069"
+    ],
+    "venue": "Health Economics Review",
+    "citation_count": 2,
+    "abstract": "Background Estimating program costs when planning community-based mental health programs can be burdensome. Our aim was to retrospectively document the cost for the first year of planning and implementing Healthy Minds Healthy Communities (HMHC), a mental health promotion and prevention multi-level intervention initiative. This Program is among the first to use the Community Initiated Care (CIC) model in the US and is aimed at building community resilience and the capacity for communities to provide mental health support, particularly among those disproportionately impacted by COVID-19. Our objective is to share our methods for costing a program targeting 10 zip codes that are ethnically and linguistically diverse and provide an example for estimating the cost of a mental health prevention and promotion programs consisting of multiple evidence-based interventions. Methods We used a semi-structured interview process to collect cost data through the first year of program planning, start-up and initial implementation from key staff. We calculated costs for each activity, grouped them by major project categories, and identified the cost drivers of each category. We further validated cost estimates through extensive literature review. The cost analysis was done from the provider\u2019s perspective, which included the implementing agency and its community partners. We delineated costs that were in-kind contributions to the program by other agency, and community partners. Sensitivity analyses were conducted to estimate uncertainty around parameters. Results For the first year of the development and implementation of the program, (funded through program and in-kind) is estimated at $1,382,669 (2022 US$). The costs for the three main activity domains for this project are: project management $135,822, community engagement $364,216 and design and execution $756,934. Overall, the cost drivers for the first year of this intervention were: hiring and onboarding staff, in-person community building/learning sessions, communications and marketing, and intervention delivery. Conclusion Implementation of community-based mental health promotion and prevention programs, when utilizing a participatory approach, requires a significant amount of upfront investment in program planning and development. A large proportion of this investment tends to be human capital input. Developing partnerships is a successful strategy for defraying costs."
+  },
+  {
+    "paper_id": "26ff756ecd7bb8c90dfe43403a02c92e02c4fce2",
+    "title": "Optimal Refund Mechanism with Consumer Learning",
+    "year": 2024,
+    "author_ids": [
+      "2297847878"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper studies the optimal refund mechanism when an uninformed buyer can privately acquire information about his valuation of a product over time. We consider a class of refund mechanisms based on stochastic return policies: if the buyer requests a return, the seller will issue a (partial) refund while allowing the buyer to keep the product with some probability. Such return policies can affect the buyer's learning process and thereby influence the return rate. Nevertheless, we show that the optimal refund mechanism is deterministic and takes a simple form: either the seller offers a sufficiently low price and disallows returns to deter buyer learning, or she offers a sufficiently high price with free returns to implement maximal buyer learning. The form of the optimal refund mechanism is non-monotone in the buyer's prior belief regarding his valuation."
+  },
+  {
+    "paper_id": "bfe9c1b46aa9293ab0f04e325869d0db5aac7045",
+    "title": "Increasing returns and the efficient acquisition of information",
+    "year": 2024,
+    "author_ids": [
+      "2298136469"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6de0351dafe7d326330a79262a46cbecdcf48af5",
+    "title": "The Irrelevance of Fee Structures for Certification",
+    "year": 2024,
+    "author_ids": [
+      "96471571",
+      "2531320"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 2,
+    "abstract": "In models of certification, possible restrictions on the nature of the fee structures are commonly analyzed. We show that they are irrelevant for the certifier\u2019s ability to maximize profits and trade efficiency. Our results establish that certification schemes involve two substitutable dimensions\u2014the fee structure and the disclosure rule. In the context of a canonical unit good certification setup, these dimensions act as perfect substitutes for achieving trade efficiency and (monotone) distributions of rents; adjustments in the disclosure dimension can fully mitigate restrictions in the fee dimension, but these changes do affect market transparency. (JEL D82, D83, G24, G28)"
+  },
+  {
+    "paper_id": "4a5f06153d25aab6ebee2f08f12b4abc1c8ceed6",
+    "title": "Costly Persuasion by a Partially Informed Sender",
+    "year": 2024,
+    "author_ids": [
+      "9402059"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I study a model of costly Bayesian persuasion by a privately and partially informed sender who conducts a public experiment. The cost of running an experiment is the expected reduction of a weighted log-likelihood ratio function of the sender's belief. This is microfounded by a Wald sequential sampling problem where good news and bad news cost differently. I focus on equilibria satisfying the D1 criterion. The equilibrium outcome depends crucially on the relative costs of drawing good and bad news in the experiment. If good news is not too costly compared to bad news, there exists a unique separating equilibrium, and the receiver learns more information thanks to sender private information. If good news is sufficiently costlier than bad news, the single-crossing property fails. There may exist pooling and partial pooling equilibria, and in some equilibria, the receiver learns less information compared to a benchmark with an uninformed sender."
+  },
+  {
+    "paper_id": "25a969b795633d4abdf9cb50ed8c512fb29249bd",
+    "title": "Learning about a changing state",
+    "year": 2024,
+    "author_ids": [
+      "2052439504"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "A long-lived Bayesian agent observes costly signals of a time-varying state. He chooses the signals'precisions sequentially, balancing their costs and marginal informativeness. I compare the optimal myopic and forward-looking precisions when the state follows a Brownian motion. I also compare the myopic precisions induced by other Gaussian processes."
+  },
+  {
+    "paper_id": "24e5a20acd79a846c07d11d374449d0f109d92d3",
+    "title": "New Characterization of Blackwell's Order for Subsets of Information Structures",
+    "year": 2024,
+    "author_ids": [
+      "1412972729",
+      "102893678"
+    ],
+    "venue": "Economics Letters",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "e3c9d9b35921b2764fbeb6845e2d1bdd8758dd80",
+    "title": "Price of information in games of chance: A statistical physics approach",
+    "year": 2023,
+    "author_ids": [
+      "2040280664",
+      "51004300",
+      "2774142"
+    ],
+    "venue": "Physical Review Research",
+    "citation_count": 3,
+    "abstract": "Information in the form of data, which can be stored and transferred between users, can be viewed as an intangible commodity, which can be traded in exchange for money. Determining the fair price at which a string of data should be traded is an important and open problem in many settings. In this work we develop a statistical physics framework that allows one to determine analytically the fair price of information exchanged between players in a game of chance. For definiteness, we consider a game where N players bet on the binary outcome of a stochastic process and share the entry fees pot if successful. We assume that one player holds information about past outcomes of the game, which they may either use exclusively to improve their betting strategy or offer to sell to another player. We find a sharp transition as the number of players N is tuned across a critical value, between a phase where the transaction is always profitable for the seller and one where it may not be. In both phases, different regimes are possible, depending on the \u201cquality\u201d of information being put up for sale: we observe symbiotic regimes, where both parties collude effectively to rig the game in their favor, competitive regimes, where the transaction is unappealing to the data holder as it overly favors a competitor for scarce resources, and even prey-predator regimes, where an exploitative data holder could be giving away bad-quality data to undercut a competitor. Our analytical framework can be generalized to more complex settings and constitutes a flexible tool to address the rich and timely problem of pricing information in games of chance."
+  },
+  {
+    "paper_id": "147b3c2baaecf50a2f0f639abd281e10f3250a9c",
+    "title": "Rational inattention with multiple attributes",
+    "year": 2023,
+    "author_ids": [
+      "1411228442"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "0dbff87f426ef8750855f6e4a09a05faf9f2b38b",
+    "title": "Dynamic discrete choice under rational inattention",
+    "year": 2023,
+    "author_ids": [
+      "2140832",
+      "152558690"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "95d35a33c86e5b83e325eb3db09482e54a4df01c",
+    "title": "Strategic mistakes",
+    "year": 2023,
+    "author_ids": [
+      "1726112402",
+      "36346609"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 4,
+    "abstract": "To study the equilibrium implications of imperfect optimization, we introduce a model of costly control in continuum-player games in which agents interact via an aggregate of the actions of others. We find primitive conditions such that equilibria exist, are unique, are efficient, and feature monotone comparative statics for action distributions, aggregates, and the size of agents\u2019 mistakes. We use our results to provide robust equilibrium predictions in a class of generalized beauty contests, which we apply to study the implications of imperfect optimization for financial speculation, price-setting, and the business cycle. We contrast our model with the mutual information model (Sims, 2003), which in the same games can produce non-unique predictions and nonmonotone comparative statics. \u2217MIT Department of Economics, 50 Memorial Drive, Cambridge, MA 02142. Email: jpflynn@mit.edu. \u2020MIT Department of Economics, 50 Memorial Drive, Cambridge, MA 02142. Email: ksastry@mit.edu. An earlier version of this paper was entitled \u201cStrategic Mistakes in Large Games.\u201d We thank Daron Acemoglu, George-Marios Angeletos, O\u011fuzhan \u00c7elebi, Roberto Corrao, Drew Fudenberg, Chen Lian, Nicolas Minudri, Stephen Morris, George Nikolakoudis, Chris Sims, Alp Simsek, John Sturm, Iv\u00e1n Werning, Alexander Wolitzky and participants in the MIT Macro Lunch, MIT Theory Lunch, MIT Behavioral Economics Lunch, and MIT Sloan Finance Lunch for helpful comments. First posted version: July 29, 2020."
+  },
+  {
+    "paper_id": "3496585189062c7f8b32163ee4be074045e16f85",
+    "title": "Signaling with Commitment",
+    "year": 2023,
+    "author_ids": [
+      "3441820",
+      "2255644"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study the canonical signaling game, endowing the sender with commitment power: before learning the state, sender designs a strategy, which maps the state into a probability distribution over actions. We provide a geometric characterization of the sender's attainable payoffs, described by the topological join of the graphs of the interim payoff functions associated with different sender actions. We then incorporate payoff irrelevant messages into the game, characterizing the attainable payoffs when sender commits to (i) both messages and actions, and (ii) only messages. By studying the tradeoffs between these model variations, we highlight the power of commitment to actions. We apply our results to the design of adjudication procedures and rating systems."
+  },
+  {
+    "paper_id": "f85940f4a5404a59b987baeca4461a4f93e7a014",
+    "title": "Redeeming Falsifiability?",
+    "year": 2023,
+    "author_ids": [
+      "19246218",
+      "2119017704"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We revisit Popper's falsifiability criterion. A tester hires a potential expert to produce a theory, offering payments contingent on the observed performance of the theory. In our model, instead of knowing the true data-generating process, the expert knows the state-of-the-art belief over data-generating processes. A non-expert does not. We argue that if the expert can, moreover, acquire additional information to refine this knowledge, falsifiability does have the power to distinguish between experts and non-experts and to identify valuable theories, capitalizing on experts'ability to acquire and refine knowledge."
+  },
+  {
+    "paper_id": "a558bddeee3f844e7bb04491a480e9a2b9006365",
+    "title": "Tax Knowledge and Tax Manipulation: A Unifying Model",
+    "year": 2022,
+    "author_ids": [
+      "38758789",
+      "65798328"
+    ],
+    "venue": "Journal of Political Economy Microeconomics",
+    "citation_count": 11,
+    "abstract": "We provide a unified analysis of taxation and taxpayer education when individuals misunderstand complex tax systems. The analysis is independent of whether income is earned legitimately, or by avoiding or evading taxes. In this sense, learning about tax minimization strategies is similar to learning about the tax code. The government balances a trade-off: a better understanding of the tax system allows taxpayers to optimize more effectively, but affects government revenue. Optimal taxpayer education and optimal redistribution are characterized ex post by aggregate sufficient statistics that do not require information about how biases or behavioral responses vary across the decision margins."
+  },
+  {
+    "paper_id": "1115ebb1984bf1055da4898d3d5d915d4e2b2811",
+    "title": "Content Filtering with Inattentive Information Consumers",
+    "year": 2022,
+    "author_ids": [
+      "104758413",
+      "1769841",
+      "33911030",
+      "1754163",
+      "1694393",
+      "3421984"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 0,
+    "abstract": "We develop a model of content filtering as a game between the filter and the content consumer, where the latter incurs information costs for examining the content. Motivating examples include censoring misinformation, spam/phish filtering, and recommender systems acting on a stream of content. When the attacker is exogenous, we show that improving the filter\u2019s quality is weakly Pareto improving, but has no impact on equilibrium payoffs until the filter becomes sufficiently accurate. Further, if the filter does not internalize the consumer\u2019s information costs, its lack of commitment power may render it useless and lead to inefficient outcomes. When the attacker is also strategic, improvements in filter quality may decrease equilibrium payoffs."
+  },
+  {
+    "paper_id": "aded44d10aca6fbf409cbfa770cbe4a656cd155f",
+    "title": "Buying Opinions",
+    "year": 2022,
+    "author_ids": [
+      "19246218",
+      "2119017704"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "A principal hires an agent to acquire soft information about an unknown state. Even though neither how the agent learns nor what the agent discovers are contractible, we show the principal is unconstrained as to what information the agent can be induced to acquire and report honestly. When the agent is risk neutral, and a) is not asked to learn too much, b) can acquire information sufficiently cheaply, or c) can face sufficiently large penalties, the principal can attain the first-best outcome. We discuss the effect of risk aversion (on the part of the agent) and characterize the second-best contracts."
+  },
+  {
+    "paper_id": "7779649b27a0c0c836136723a1d962d36481be86",
+    "title": "Information Acquisition with Uncertain Signal Structure",
+    "year": 2025,
+    "author_ids": [
+      "2380891970"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "93f546d753c3d8732327f4e57aa172bc30e99df6",
+    "title": "Dynamic Monitoring Design",
+    "year": 2023,
+    "author_ids": [
+      "40960999"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "This paper introduces flexible endogenous monitoring into dynamic moral hazard. A principal can commit to not only an employment plan but also the monitoring technology to incentivize dynamic effort from an agent. Optimal monitoring follows a Poisson process that produces rare informative signals, and the optimal employment plan features decreasing turnover. To incentivize persistent effort, the Poisson monitoring takes the form of \u201cbad news\u201d that leads to immediate termination. Monitoring is non-stationary: the bad news becomes more precise and less frequent. When persistent effort is not required, optimal incentive provision features a trial period of non-stationary monitoring, and a combination of Poisson bad news that leads to termination and Poisson good news that leads to tenure."
+  },
+  {
+    "paper_id": "2bdd1915e406e5ec87f80582cd34ae78ed501d6c",
+    "title": "Unrestricted information acquisition",
+    "year": 2023,
+    "author_ids": [
+      "104372400"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 21,
+    "abstract": "In many strategic environments, information acquisition is a central component of the game that is played. Being uncertain about a payoff\u2010relevant state, a player in a game has a twofold incentive to acquire information: learning the state and learning what others know. We develop a model of information acquisition in games that accounts for players' incentive to learn what others know. In applications to rational inattention and global games, we prove the power of this incentive. When information acquisition is \u201cindependent,\u201d that is, players can acquire information only about the state, severe coordination problems emerge among rationally inattentive players. When information acquisition is \u201cunrestricted,\u201d that is, players can acquire information about the state and each other's information in a flexible way, we show that rational inattention admits a sharp logit characterization and we provide a new rationale for selecting risk dominant equilibria in coordination games."
+  },
+  {
+    "paper_id": "2719e1633e7ed2b64f1b092605b056eae2336264",
+    "title": "Attention and Regret",
+    "year": 2023,
+    "author_ids": [
+      "2275695104"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e0a08be96e4a0e7f069b40a7813728e21f20631c",
+    "title": "Random Choice and Differentiation",
+    "year": 2023,
+    "author_ids": [
+      "2172171000",
+      "102717102"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  }
+]

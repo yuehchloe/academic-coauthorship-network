@@ -1,0 +1,376 @@
+[
+  {
+    "paper_id": "eb935067552cdc79e42549aeda6c737d21a504a5",
+    "title": "Beyond lotka-volterra: A game-theoretic exploration of two-dimensional airline competition",
+    "year": 2025,
+    "author_ids": [
+      "32276290",
+      "2078791151",
+      "2328718191",
+      "2269047184"
+    ],
+    "venue": "Transportation Research Part A: Policy and Practice",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "aeb8530e4f4c335ed324d963f5262bd288f80931",
+    "title": "Grievance shocks and coordination in protest",
+    "year": 2024,
+    "author_ids": [
+      "86916142",
+      "2122705125",
+      "2295212791"
+    ],
+    "venue": "American Journal of Political Science",
+    "citation_count": 1,
+    "abstract": "When grievance shocks have heavy tails, large sudden increases in grievances coordinate behavior far more effectively into protests than a sequence of small grievance shocks that generate the same final distribution of grievances in society. That is, society as a whole behaves like the legendary boiling frog, even though each individual does not. An implication is a strong form of path\u2010dependence in collective action. To assess a society's potential for protest, it is not enough to know the current distribution of antiregime sentiments; we also need to know how they came about: suddenly or gradually. The theory also provides a rationale for the classic J\u2010curve theory of revolution. We provide a quantitative analysis of the relationship between grievance shocks and protests in Chile in 2014\u20132019. Consistent with the theory, results suggest that, even after controlling for grievance levels, large grievance shocks increased the number of\u00a0protests."
+  },
+  {
+    "paper_id": "af01a90711936e7c13f4ea04ed0be1a331c2d724",
+    "title": "The Value of Context: Human versus Black Box Evaluators",
+    "year": 2024,
+    "author_ids": [
+      "2377061274",
+      "2342504339"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "Predictions about people are increasingly automated using black-box algorithms. How should individuals compare evaluation by algorithms (e.g., medical diagnosis by a machine learning algorithm) with more traditional evaluation by human experts (e.g., medical diagnosis by a doctor)?"
+  },
+  {
+    "paper_id": "0d12039820cf9721720aa82a0d74b0dc916c9d73",
+    "title": "Macroeconomic tail risk, currency crises and the inter\u2010war gold standard",
+    "year": 2023,
+    "author_ids": [
+      "2161601748",
+      "2291663445"
+    ],
+    "venue": "Canadian Journal of Economics/Revue canadienne d'\u00e9conomique",
+    "citation_count": 0,
+    "abstract": "We introduce macroeconomic tail risk into the canonical global game model of currency crises. The exchange rate peg is attacked if fundamentals reach a critical threshold, or if there is a sufficiently large public shock. Large shocks generate doubt amongst investors about both the state of the world and about what others know, giving rise to multiple equilibria. We find a non\u2010monotonic relationship between tail risk and the probability of (a fundamentals\u2010based) crisis and show how this effect depends on the magnitude and direction of public shocks. We consider the implications of policy intervention and identify conditions under which active intervention produces doubt about the level of fundamentals and, hence, how others will respond. Our analysis clarifies how financial contagion in Europe precipitated the sterling crisis of 1931."
+  },
+  {
+    "paper_id": "f2a4235bb5c41dc266c0fb5e61a7b300edf479c3",
+    "title": "It's Not Always the Leader's Fault: How Informed Followers Can Undermine Efficient Leadership",
+    "year": 2023,
+    "author_ids": [
+      "151504125",
+      "2063036724"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "Coordination facilitation and efficient decision-making are two essential components of successful leadership. In this paper, we take an informational approach and investigate how followers' information impacts coordination and efficient leadership in a model featuring a leader and a team of followers. We show that efficiency is achieved as the unique rationalizable outcome of the game when followers possess sufficiently imprecise information. In contrast, if followers have accurate information, the leader may fail to coordinate them toward the desired outcome or even take an inefficient action herself. We discuss the implications of the results for the role of leaders in the context of financial fragility and crises."
+  },
+  {
+    "paper_id": "f6840025c3e0be7ea66b904a4c06e4a4719066dc",
+    "title": "Exit Spirals in Coupled Networked Markets",
+    "year": 2023,
+    "author_ids": [
+      "39001287",
+      "47252985",
+      "144791375"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 2,
+    "abstract": "When are Coupled Networked Markets Prone to Sudden Collapse? Many important financial instruments are traded in large networked markets, whose fragility played a role in the Great Financial Crisis. In \u201cExit Spirals in Coupled Networked Markets,\u201d Aymanns, Georg, and Golub study strategic market participation to show that fragility is exacerbated when several networked markets are coupled, so that activity in one market facilitates participation in others. Such coupling occurs, for example, when participants use relationships in one market to borrow funds to trade in others. The authors ask when market participation is prone to sudden collapse in an exit spiral. They explain when such exit spirals emerge and find that market coupling is a pervasive cause of fragility, creating exit spirals even between networks that are individually robust. The fragility of coupled markets can be mitigated if one of two coupled markets becomes centralized or if links become more correlated across markets."
+  },
+  {
+    "paper_id": "7fa5a2e87940a1a979c41cd7795f15c892076e44",
+    "title": "Electoral Integrity, the Concession of Power, and the Disciplining Role of Protests",
+    "year": 2023,
+    "author_ids": [
+      "2161601748",
+      "31804715"
+    ],
+    "venue": "Journal of Conflict Resolution",
+    "citation_count": 2,
+    "abstract": "Coordination on mass protest plays an important disciplining role in ensuring compliance with electoral rules, with elections serving as a public signal of the incumbent\u2019s popularity. But the link between the informativeness of the election and the enforceability of electoral rules hinges crucially on the veracity of the electoral process. We model how doubt about electoral integrity influences compliance with electoral rules. Our analysis explains why electoral rules in advanced democracies are less resilient, and incumbents less willing to step aside, than suggested by the standard model of electoral turnover. We clarify how incumbent behaviour responds to changes in the cost of protest, and external overtures that make stepping down more attractive. Our findings contribute to the debate on the role of equilibrium multiplicity in models of mass uprisings."
+  },
+  {
+    "paper_id": "250be8dd27737a614a8902c0219324e63512c7be",
+    "title": "Dynamics of Polarization: Affective Partisanship and Policy Divergence",
+    "year": 2022,
+    "author_ids": [
+      "3256600",
+      "120670672"
+    ],
+    "venue": "British Journal of Political Science",
+    "citation_count": 3,
+    "abstract": "Abstract We explore the dynamics of affective partisanship and policy divergence in a behavioral voting model. Voters are adaptive and influenced by partisan affect, while political parties are rational and office motivated. We show that the affective partisanship of the electorate and the divergence of party platforms can be mutually reinforcing, thus providing an explanation for the observed co-movement of affective and elite polarization in recent decades. Whether the induced behavioral path exhibits low polarization or high polarization depends on the salience of group identity and the number of moderate voters. Thus, shocks to those factors, perhaps due to such events as economic crises or war, can lead to the polarization or depolarization of the electorate and of the elite."
+  },
+  {
+    "paper_id": "0fc239d2b801182446cd979694b9f1099ad218d5",
+    "title": "The Signaling Role of Leaders in Global Games",
+    "year": 2022,
+    "author_ids": [
+      "151504125",
+      "2063036724"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "How important are leaders' actions in facilitating coordination? In this paper, we investigate their signaling role in a global games framework. A perfectly informed leader and a team of followers face a coordination problem. Despite the endogenous information generated by the leader's action, we provide a necessary and sufficient condition that makes the monotone equilibrium strategy profile uniquely $\\Delta$-rationalizable and hence guarantees equilibrium uniqueness. Moreover, the unique equilibrium is fully efficient. This result remains valid when the leader observes a noisy signal about the true state except full efficiency may not be obtained. We discuss the implications of our results for a broad class of phenomena such as adoption of green technology, currency attacks and revolutions."
+  },
+  {
+    "paper_id": "19240d17eb443ace2b869dead2ef5ad56791fc71",
+    "title": "Has the acceleration of privatization become inevitable in Bahrain?",
+    "year": 2022,
+    "author_ids": [
+      "96986219"
+    ],
+    "venue": "Thunderbird International Business Review",
+    "citation_count": 2,
+    "abstract": "Bahrain remains the most vulnerable Gulf country due to its limited savings and sharp rise in debt levels, leaving it exposed to high financing risks. The financial crisis has been deepened by the economic double blow of the decline in oil prices and the effects resulting from the outbreak of the coronavirus pandemic. Bahrain has decreased subsidies and increased taxes on many products. Those measures seem, however, insufficient to mitigate the negative impacts on the economy. This paper presents a model based on a comparison between fast privatization and gradual privatization strategies undertaken in some Bahraini economic sectors. It shows that the contribution of privatization to economic restructuring is only as effective as the commitment of the government to maintain a high pace of privatization. This condition can provide needed revenues, and can particularly foster private investments and initiatives. Therefore, it may represent an appropriate context to elevate Bahrain out of the present equilibrium characterized by slow privatization and government dominance on the economy."
+  },
+  {
+    "paper_id": "a6d38254702fb2776bc7e4d0b9c4c3ce435cca57",
+    "title": "Understanding expectational coordination as a major intellectual challenge: The \u201ceductive\u201d guide line",
+    "year": 2021,
+    "author_ids": [
+      "2899754"
+    ],
+    "venue": "Revue d' Economie politique",
+    "citation_count": 1,
+    "abstract": "The paper puts emphasis on the so-called \u201ceductive\u201d approach for a critical assessment of the Rational Expectations hypothesis. Section 2 makes an intuitive unformal presentation, aimed at comparing the approach and the results of \u201ceductive\u201d learning and \u201dreal time\u201d learning in two polar models, (a two period partial equilibrium model and a simple Real Business Cycle mode). A segment of theoretical literature, taking an eductive view of stability in the fields of finance, trade, general equilibrium, short term or long term macroeconomics\u2026.is reviewed in Section 3."
+  },
+  {
+    "paper_id": "9044ebf64b82cf8b6c3b46f71ae212d7b154655a",
+    "title": "The value of a coordination game",
+    "year": 2021,
+    "author_ids": [
+      "2681882",
+      "2993890",
+      "1829594"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 8,
+    "abstract": "The value of a game is the payoff a player can expect (ex ante) from playing the game. Understanding how the value changes with economic primitives is critical for policy design and welfare. However, for games with multiple equilibria, the value is difficult to determine. We therefore develop a new theory of the value of coordination games. The theory delivers testable comparative statics on the value and delivers novel insights relevant to policy design. For example, policies that shift behavior in the desired direction can make everyone worse off, and policies that increase everyone's payoffs can reduce welfare."
+  },
+  {
+    "paper_id": "7df8866840e1d21e5b750262b6fc0968227290b2",
+    "title": "Social Connectedness and Local Contagion",
+    "year": 2021,
+    "author_ids": [
+      "145002828",
+      "2966325",
+      "34739117"
+    ],
+    "venue": null,
+    "citation_count": 31,
+    "abstract": "\n We study a coordination game among agents in a network. The agents choose whether to take action (e.g. adopting a new technology) in an uncertain environment that yields increasing value in the actions of neighbours. We develop an algorithm that fully partitions the network into communities (coordination sets) within which agents have the same propensity to adopt. Our main finding is that a novel measure of network connectedness, which we term \u201csocial connectedness,\u201d determines the propensity to adopt for each agent. Social connectedness captures both the number of links each agent has within her community (interconnectedness) as well as the number of links she has with members of other communities who have a higher propensity to adopt (embeddedness). There is a single coordination set if and only if the network is balanced\u2014that is, the average degree of each subnetwork is no larger than the average degree of the network. Finally, we demonstrate that contagion is localized within coordination sets, such that a shock to an agent uniformly affects this agent and all members of her coordination set but has no impact on the other agents in the network."
+  },
+  {
+    "paper_id": "a2ca0f4cb9f40278a6e78d80e7099a3a09b96911",
+    "title": "Non-monotone social learning",
+    "year": 2021,
+    "author_ids": [
+      "39767557"
+    ],
+    "venue": "Journal of Economic Behavior and Organization",
+    "citation_count": 3,
+    "abstract": "Abstract We revisit the canonical binary-state model of social learning to investigate the possibility of non-monotone learning: ceteris paribus, with some predecessor(s) switching to actions that reveal greater confidence in one state of the world, agents nevertheless become more confident in the other. A necessary and sufficient condition for non-monotone learning is provided in an illustrative setting where agents are either uninformed or partially informed by binary private signals. In a general setting with continuous private signals, we obtain a sufficient condition for non-monotone learning that does not rely on the shape of the underlying information structures apart from a couple of simple boundary requirements. As a result, a social learning process that completes eventually can be well approximated in a way such that non-monotone learning and anti-imitation are bound to happen."
+  },
+  {
+    "paper_id": "731ab4b6ebff30285bb6a0ffb2ccda32d8b61bb1",
+    "title": "Informational Herding, Optimal Experimentation, and Contrarianism",
+    "year": 2021,
+    "author_ids": [
+      "2794891",
+      "143903944",
+      "145464146"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 40,
+    "abstract": "\n In the standard herding model, privately informed individuals sequentially see prior actions and then act. An identical action herd eventually starts and public beliefs tend to \u201ccascade sets\u201d where social learning stops. What behaviour is socially efficient when actions ignore informational externalities? We characterize the outcome that maximizes the discounted sum of utilities. Our four key findings are: (1) cascade sets shrink but do not vanish, and herding should occur but less readily as greater weight is attached to posterity. (2) An optimal mechanism rewards individuals mimicked by their successor. (3) Cascades cannot start after period one under a signal log-concavity condition. (4) Given this condition, efficient behaviour is contrarian, leaning against the myopically more popular actions in every period. We make two technical contributions: as value functions with learning are not smooth, we use monotone comparative statics under uncertainty to deduce optimal dynamic behaviour. We also adapt dynamic pivot mechanisms to Bayesian learning."
+  },
+  {
+    "paper_id": "550f5180cfb0848d31232da723c32b57f2e90649",
+    "title": "Background Risk and Small-Stakes Risk Aversion",
+    "year": 2020,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 11,
+    "abstract": "Building on Pomatto, Strack, and Tamuz (2020), we identify a tight condition for when background risk can induce first-order stochastic dominance. Using this condition, we show that under plausible levels of background risk, no theory of choice under risk can simultaneously satisfy the following three economic postulates: (i) decision-makers are risk averse over small gambles, (ii) their preferences respect stochastic dominance, and (iii) they account for background risk. This impossibility result applies to expected utility theory, prospect theory, rank-dependent utility, and many other models. (JEL D81, D91)"
+  },
+  {
+    "paper_id": "01bb2a845d99d34fdaa52de71f54e197e740fc5d",
+    "title": "A Theory of Strategic Uncertainty and Cultural Diversity",
+    "year": 2020,
+    "author_ids": [
+      "2681882",
+      "1829594"
+    ],
+    "venue": null,
+    "citation_count": 33,
+    "abstract": "This paper presents a novel mechanism through which culture can affect behavior. Cultural diversity matters because it influences the degree of strategic uncertainty that players face. We model this by building on research in psychology on perspective taking. The model delivers comparative statics that are broadly consistent with experimental evidence and that are difficult to obtain with existing methods. In addition, it can account for a variety of disparate evidence, including why inefficient social customs persist in some societies but not in others and why exclusively targeting incentives may not help with resolving collective action problems. \u2217A version of this paper has been circulated under the title \u201cChallenging Conformity: A Case for Diversity.\u201d Part of the material incorporated here was previously in a paper entitled \u201cA belief-based theory of homophily\u201d by the same authors (Kets and Sandroni, 2015). We are grateful to the Associate Editor and three anonymous referees for excellent suggestions. We thank Larbi Alaoui, Vincent Crawford, Yan Chen, Vessela Daskalova, Wouter Dessein, Matthew Jackson, Wouter Kager, Rachel Kranton, Bart Lipman, George Mailath, Niko Matouschek, Rosemarie Nagel, Santiago Oliveros, Scott Page, Antonio Penta, Nicola Persico, Debraj Ray, Nick Robalino, Yuval Salant, Larry Samuelson, Paul Seabright, Rajiv Sethi, Eran Shmaya, Andy Skrzypacz, Jakub Steiner, Colin Stewart, Jeroen Swinkels, Tymon Tatur, Yiqing Xing, and numerous seminar audiences and conference participants for helpful comments and stimulating discussions. \u2020Department of Economics, University of Oxford. E-mail: willemien.kets@economics.ox.ac.uk. \u2021Kellogg School of Management, Northwestern University. E-mail: sandroni@kellogg.northwestern.edu"
+  },
+  {
+    "paper_id": "c385a4cd2399aff3144e35535abd9ed9be671495",
+    "title": "A/B Testing with Fat Tails",
+    "year": 2020,
+    "author_ids": [
+      "2287030407",
+      "2353052688",
+      "143936738",
+      "2287040074",
+      "2608841"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 106,
+    "abstract": "We propose a new framework for optimal experimentation, which we term the \u201cA/B testing problem.\u201d Our model departs from the existing literature by allowing for fat tails. Our key insight is that the optimal strategy depends on whether most gains accrue from typical innovations or from rare, unpredictable large successes. If the tails of the unobserved distribution of innovation quality are not too fat, the standard approach of using a few high-powered \u201cbig\u201d experiments is optimal. However, if the distribution is very fat tailed, a \u201clean\u201d strategy of trying more ideas, each with possibly smaller sample sizes, is preferred. Our theoretical results, along with an empirical analysis of Microsoft Bing\u2019s EXP platform, suggest that simple changes to business practices could increase innovation productivity."
+  },
+  {
+    "paper_id": "1f7461f25c644f14e183979fe1f2b8b5a4c66bd1",
+    "title": "Markov Distributional Equilibrium Dynamics in Games with Complementarities and No Aggregate Risk",
+    "year": 2020,
+    "author_ids": [
+      "103093773",
+      "2072452485",
+      "2963975",
+      "119196746"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 10,
+    "abstract": "We present a new approach to studying equilibrium dynamics in a class of stochastic games with a continuum of players with private types and strategic complementarities. We introduce a suitable equilibrium concept, called \n Markov Stationary Nash Distributional Equilibrium (MSNDE), prove its existence, and determine comparative statics of equilibrium paths and the steady\u2010state invariant distributions to which they converge. Finally, we provide numerous applications of our results including: dynamic models of growth with status concerns, social distance, and paternalistic bequests with endogenous preferences for consumption.\n"
+  },
+  {
+    "paper_id": "e113a3d48cbec9a824a07f4c56cc4c955b74e5a9",
+    "title": "Inside the Mind of a Stock Market Crash",
+    "year": 2020,
+    "author_ids": [
+      "69847461",
+      "13295641",
+      "51486091",
+      "118788843"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 62,
+    "abstract": "We analyze how investor expectations about economic growth and stock returns changed during the February-March 2020 stock market crash induced by the COVID-19 pandemic, as well as during the subsequent partial stock market recovery. We surveyed retail investors who are clients of Vanguard at three points in time: (i) on February 11-12, around the all-time stock market high, (ii) on March 11-12, after the stock market had collapsed by over 20\\%, and (iii) on April 16-17, after the market had rallied 25\\% from its lowest point. Following the crash, the average investor turned more pessimistic about the short-run performance of both the stock market and the real economy. Investors also perceived higher probabilities of both further extreme stock market declines and large declines in short-run real economic activity. In contrast, investor expectations about long-run (10-year) economic and stock market outcomes remained largely unchanged, and, if anything, improved. Disagreement among investors about economic and stock market outcomes also increased substantially following the stock market crash, with the disagreement persisting through the partial market recovery. Those respondents who were the most optimistic in February saw the largest decline in expectations, and sold the most equity. Those respondents who were the most pessimistic in February largely left their portfolios unchanged during and after the crash."
+  },
+  {
+    "paper_id": "1c3d27dbb75a0dfd69c8714484ea0210019cc471",
+    "title": "Heterogeneous Consumers, Credit Rationing, and Tax-Benefit Policies",
+    "year": 2019,
+    "author_ids": [
+      "119074021",
+      "144012745"
+    ],
+    "venue": "The Economist",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "a777e4737976d9348ace016d54298c877cfa19a1",
+    "title": "Skewed Wealth Distributions: Theory and Empirics",
+    "year": 2018,
+    "author_ids": [
+      "2177391",
+      "2648128"
+    ],
+    "venue": "Journal of Economic Literature",
+    "citation_count": 258,
+    "abstract": "Invariably, across a cross-section of countries and time periods, wealth distributions are skewed to the right displaying thick upper tails, that is, large and slowly declining top wealth shares. In this survey, we categorize the theoretical studies on the distribution of wealth in terms of the underlying economic mechanisms generating skewness and thick tails. Further, we show how these mechanisms can be micro-founded by the consumption\u2013savings decisions of rational agents in specific economic and demographic environments. Finally we map the large empirical work on the wealth distribution to its theoretical underpinnings. (JEL C46, D14, D31, E21, J31)"
+  },
+  {
+    "paper_id": "5e9b7a1a5e460c73349734260510f95fd43ab305",
+    "title": "Stochastic Dominance under Independent Noise",
+    "year": 2018,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 36,
+    "abstract": "Stochastic dominance is a crucial tool for the analysis of choice under risk. It is typically analyzed as a property of two gambles that are taken in isolation. We study how additional independent sources of risk (e.g., uninsurable labor risk, house price risk) can affect the ordering of gambles. We show that, perhaps surprisingly, background risk can be strong enough to render lotteries that are ranked by their expectation ranked in terms of first-order stochastic dominance. We extend our results to second-order stochastic dominance and show how they lead to a novel and elementary axiomatization of mean-variance preferences."
+  },
+  {
+    "paper_id": "49a80b8ab4becd4c08c2a4fcf86b2cdeda1d2a09",
+    "title": "Par for the Course: Public Information and Stable Coin Runs",
+    "year": 2023,
+    "author_ids": [
+      "2242906772",
+      "119396654",
+      "2161601748"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "d7fbbbed7569593acb61a3da56a3a3c346e6bb0b",
+    "title": "MISCOORDINATION, POLITICS AND POPULISM",
+    "year": 2022,
+    "author_ids": [
+      "2161601748",
+      "31804715"
+    ],
+    "venue": "National Institute Economic Review",
+    "citation_count": 0,
+    "abstract": "Abstract We present two models that shed light on two issues in the political economy of populism: incumbents who refuse to give up office following a democratic election; and politicians gambling with major policy shifts when their consequences are uncertain. In the democratic transition of power, common knowledge about the veracity of the election process enables citizens to threaten incumbents with protests if they attempt to retain their seats in power. If doubt over electoral integrity prevails, office-seeking incumbents sometimes reject electoral rules. In considering policy gambles, politicians supply policy shifts in response to voters and elites vying for a greater share of economic output. When the mapping from policy to outcomes is uncertain, voters opt for policy gambles, even though these are detrimental to their ex ante welfare, to redress the division of output. These models underscore the importance of institutions that address the source of each coordination failure."
+  },
+  {
+    "paper_id": "14937f1e7cde22caf02ae1e2154ea685035e5493",
+    "title": "Self-fulfilling Beliefs , Terms-of-Trade Dynamics , and Economic Welfare *",
+    "year": 2022,
+    "author_ids": [
+      "1518260171"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e9042829530023093d60842f7deab9bc51012fa5",
+    "title": "Non-Monotone Social Learning \u2217",
+    "year": 2021,
+    "author_ids": [
+      "39767557"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "36e891e126a0d64f02ce2a1acc79820cade9f144",
+    "title": "Informational Channels of Financial Contagion",
+    "year": 2020,
+    "author_ids": [
+      "40366665"
+    ],
+    "venue": null,
+    "citation_count": 41,
+    "abstract": "Two main classes of channels are studied as informational sources of financial contagion. One is a fundamental channel that is based on real and financial links between economies, and the second is a social learning channel that arises when agents base their decisions on noisy observations about the actions of others in foreign markets. Using global games, I present a two\u2010country model of financial contagion in which both channels can operate and I test its predictions experimentally. The experimental results show that subjects do not extract information optimally, which leads to two systematic biases that affect these channels directly. Base\u2010rate neglect leads subjects to underweight their prior, and thus weakens the fundamental channel. An overreaction bias strengthens the social learning channel, since subjects rely on information about the behavior of others, even when this information is irrelevant. These results have significant welfare effects rooted in the specific way in which these biases alter behavior."
+  },
+  {
+    "paper_id": "f18122a78568a7c7a61da19b42f8077261ca9a6f",
+    "title": "Illiquidity Spirals in Coupled Over-the-Counter Markets",
+    "year": 2018,
+    "author_ids": [
+      "39001287",
+      "103996857",
+      "2411647894",
+      "2409263537"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "009925843f89cca6ac714053a0c22a750b2e717f",
+    "title": "Illiquidity Spirals in Coupled Over-the-Counter Markets*",
+    "year": 2017,
+    "author_ids": [
+      "39001287",
+      "2418012256"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

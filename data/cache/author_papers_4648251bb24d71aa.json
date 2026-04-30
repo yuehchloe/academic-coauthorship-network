@@ -1,0 +1,280 @@
+[
+  {
+    "paper_id": "fe1aab370bada1032b9a68d66bea1f88793d38a9",
+    "title": "Respiratory effects of prone position in COVID-19 acute respiratory distress syndrome differ according to the recruitment-to-inflation ratio: a prospective observational study",
+    "year": 2024,
+    "author_ids": [
+      "2106439490",
+      "1557387590",
+      "2321523464",
+      "2210916122",
+      "2308458331",
+      "2213960591",
+      "2321523550",
+      "2321523830",
+      "143846917",
+      "2265502169",
+      "2311669039",
+      "2210915798",
+      "1591733457",
+      "144995226",
+      "2321522383",
+      "145972877",
+      "2290010362",
+      "2252337359"
+    ],
+    "venue": "Annals of Intensive Care",
+    "citation_count": 3,
+    "abstract": "Improvements in oxygenation and lung mechanics with prone position (PP) in patients with acute respiratory distress syndrome (ARDS) are inconstant. The objectives of the study were (i) to identify baseline variables, including the recruitment-to-inflation ratio (R/I), associated with a positive response to PP in terms of oxygenation (improvement of the ratio of arterial oxygen partial pressure over the inspired oxygen fraction (PaO2/FiO2)\u2009\u2265\u200920 mmHg) and lung mechanics; (ii) to evaluate whether the response to the previous PP session is associated with the response to the next session. In this prospective, observational, single-center study in patients who underwent PP for ARDS due to COVID-19, respiratory variables were assessed just before PP and at the end of the session. Respiratory variables included mechanical ventilation settings and respiratory mechanics variables, including R/I, an estimate of the potential for lung recruitment compared to lung overinflation. In 50 patients, 201 PP sessions lasting 19\u2009\u00b1\u20093 h were evaluated. Neuromuscular blockades were used in 116 (58%) sessions. The PaO2/FiO2 ratio increased from 109\u2009\u00b1\u200931 mmHg to 165\u2009\u00b1\u200965 mmHg, with an increase\u2009\u2265\u200920 mmHg in 142 (71%) sessions. In a mixed effect logistic regression, only pre-PP PaO2/FiO2 (OR 1.12 (95% CI [1.01\u20131.24])/every decrease of 10 mmHg, p\u2009=\u20090.034) in a first model and improvement in oxygenation at the previous PP session (OR 3.69 (95% CI [1.27\u201310.72]), p\u2009=\u20090.017) in a second model were associated with an improvement in oxygenation with PP. The R/I ratio (n\u2009=\u2009156 sessions) was 0.53 (0.30\u20130.76), separating lower- and higher-recruiters. Whereas PaO2/FiO2 improved to the same level in both subgroups, driving pressure and respiratory system compliance improved only in higher-recruiters (from 14\u2009\u00b1\u20094 to 12\u2009\u00b1\u20094 cmH2O, p\u2009=\u20090.027, and from 34\u2009\u00b1\u200911 to 38\u2009\u00b1\u200913 mL/cmH2O, respectively, p\u2009=\u20090.014). A lower PaO2/FiO2 at baseline and a positive O2-response at the previous PP session are associated with a PP-induced improvement in oxygenation. In higher-recruiters, lung mechanics improved along with oxygenation. Benefits of PP could thus be greater in these patients."
+  },
+  {
+    "paper_id": "57dc884e99b600a45f52d75e3bb752486f326756",
+    "title": "Moral Hazard and Efficiency in a Frictional Market",
+    "year": 2023,
+    "author_ids": [
+      "144995226",
+      "2744391"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 2,
+    "abstract": "Principals seek to trade with homogeneous agents by posting incentive contracts, which direct their search. Search and moral hazard interact in equilibrium. If using transfers to compensate agents failing to contract, the equilibrium allocation is always constrained-welfare-optimal in contrast to the one-to-one principal-agent problem. Search frictions thus correct that inefficiency because search requires internalizing the utility of agents. Incentives are weaker than in bilateral contracting, and agents enjoy more efficient risk sharing. With a constraint on transfers the allocation may become inefficient; principal competition results in overinsurance of the agents, too little effort in equilibrium, and excessive entry by principals. (JEL D82, D83, D86)"
+  },
+  {
+    "paper_id": "7dc0a30e9ec9e45a9e030eb0b0c7168c0c28acf8",
+    "title": "Electricity consumption, ethnic origin and religion",
+    "year": 2022,
+    "author_ids": [
+      "40373108",
+      "50881389",
+      "144995226"
+    ],
+    "venue": "Energy Economics",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "43a0a43d6cb55702dd93d64e6e7848510866292e",
+    "title": "Identifying consumption profiles and implicit cross-subsidies under fixed-rate electricity tariffs",
+    "year": 2021,
+    "author_ids": [
+      "40373108",
+      "50881389",
+      "144995226"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "Wholesale electricity prices can rapidly change in real-time, yet households usually face fixed-price electricity tariffs. Therefore, households that predominantly use energy when wholesale prices are low implicitly cross-subsidize households whose energy use is more weighted to high-price periods. We develop a decomposition method that maps substation data on electricity use to demographic data, identifying the household characteristics associated with this cross-subsidization in Victoria, Australia. We find that households in areas with low house prices and high levels of renters and elderly residents are the net funders of this implicit subsidy. These households currently have the lowest average energy cost for retailers to service, and may be the greatest immediate beneficiaries if real-time retail tariffs are made available to them. Finally, we present evidence that cross-subsidy magnitudes have been growing in recent years, coincident with rapid solar generator penetration."
+  },
+  {
+    "paper_id": "0683c85091899a2381d2a007f8d39922951db9b8",
+    "title": "SYSTEM SERVICES RULE CHANGES",
+    "year": 2020,
+    "author_ids": [
+      "144995226",
+      "2286345848"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "646f398be7cee2253a7b239ad6844743b7bc76ea",
+    "title": "Scale effects in dynamic contracting",
+    "year": 2020,
+    "author_ids": [
+      "2173009940",
+      "1403263314",
+      "144995226"
+    ],
+    "venue": "Mathematics and Financial Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "9532dadf9cade8c4bc4ac57a103ad6c856ce8d85",
+    "title": "Research Online Research Online Investing in skill and searching for coworkers: endogenous participation in Investing in skill and searching for coworkers: endogenous participation in a matching market a matching market",
+    "year": 2020,
+    "author_ids": [
+      "3065170",
+      "2068839491",
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "873829c5ae849024a28553143d0a9926018add7f",
+    "title": "The redenomimation process and its risks in the context of monetary unions",
+    "year": 2019,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "dba149fd16409b4b8043d6657031da7702f69e95",
+    "title": "Incentive Contracts and Efficiency in a Frictional Market",
+    "year": 2019,
+    "author_ids": [
+      "2744391",
+      "144995226"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "f9e45d111b4191a7764b3d83e567ae7032450dc0",
+    "title": "Dynamic Contracting Under Soft Information",
+    "year": 2019,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1a4d03800aff6a0851dbadffaf43654a9bd878a0",
+    "title": "Bidding for incentive contracts",
+    "year": 2018,
+    "author_ids": [
+      "2744391",
+      "144995226"
+    ],
+    "venue": "Journal of Mathematical Economics",
+    "citation_count": 1,
+    "abstract": "Abstract Principals seek to enter into a productive relationship with agents by posting mechanisms in a market with competitive search. A mechanism includes an incentive contract if the meeting is bilateral, and an ex post bidding process, in which agents make contract offers, if several agents meet the same principal. In equilibrium, the bidding process induces a lottery over two contracts. The main result is that the equilibrium allocation is not constrained welfare optimal, precisely because of this contracting risk. This stands in contrast to known results. Hence the optimality of such ex post bidding mechanism is sensitive to the extensive form, as well as to risk aversion. Correcting the allocation is possible, but may be heavy-handed."
+  },
+  {
+    "paper_id": "edaa5edb133b6e64ee2f97a5bcbea87a0499446c",
+    "title": "An Economic Analysis of the National Electricity Market",
+    "year": 2018,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9926bf2768e3bf6987d4155b5a7fa815b752ff1a",
+    "title": "Scale effects in dynamic contracting",
+    "year": 2017,
+    "author_ids": [
+      "1403263314",
+      "144995226"
+    ],
+    "venue": "Mathematics and Financial Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "32254fc5d6305ee1568207f1060401bcc89461fe",
+    "title": "Participation in moral hazard problems",
+    "year": 2016,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "9fa08f7cecf746ebaa79ec75bd6aadad5efb84ae",
+    "title": "A Revelation Mechanism for Soft Information under Moral Hazard: A Revelation Mechanism",
+    "year": 2016,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "f8f1b8338889f0fece23d9793e71fa1f38a92d6d",
+    "title": "Two-sided competition with vertical differentiation",
+    "year": 2016,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": "JOURNAL OF ECONOMICS",
+    "citation_count": 26,
+    "abstract": null
+  },
+  {
+    "paper_id": "fff67b333025f421633f216fc89954b2bacfda54",
+    "title": "Investing in skill and searching for coworkers: endogenous participation in a matching market",
+    "year": 2016,
+    "author_ids": [
+      "3065170",
+      "144995226",
+      "1741313965"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "285adc663d7ba784239b1dcb49700f0931ad2189",
+    "title": "Risky utilities",
+    "year": 2015,
+    "author_ids": [
+      "2095325",
+      "144995226"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "28b1972a07995130c0fde55496d5a06dca3bd1f2",
+    "title": "Leverage and Risk Taking",
+    "year": 2015,
+    "author_ids": [
+      "1403263314",
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "87de473409fdbc0ba88dffbf60714ad0e02ab952",
+    "title": "Introduction We study optimal contracts and the efficiency of equilibrium allocations in an economy with moral hazard and matching frictions in a competitive search model",
+    "year": 2015,
+    "author_ids": [
+      "2744391",
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9db647fb0f3bf4733632463c92caf5163d3e5c79",
+    "title": "Competitive Search Equilibrium and Moral Hazard",
+    "year": 2015,
+    "author_ids": [
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a1d280b15c6cf8434e5cc07ba01197bcdb7883e5",
+    "title": "Leverage and speculation Preliminary and incomplete",
+    "year": 2015,
+    "author_ids": [
+      "114768383",
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

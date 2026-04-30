@@ -1,0 +1,1071 @@
+[
+  {
+    "paper_id": "c2c70f3d2b32d323bf653db99863bfcb5cca5fc8",
+    "title": "Optimal Security Design for Risk-Averse Investors",
+    "year": 2025,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616",
+      "50495997"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 5,
+    "abstract": "We use the tools of mechanism design combined with the theory of risk measures to analyze how a cash-constrained owner of an asset with known, stochastic returns raises capital from a population of investors who differ in their risk aversion and budget constraints. The issuer partitions the asset\u2019s cash flow into several asset-backed securities, one for each type of investor. The optimal partition conforms to the commonly observed practice of tranching into senior debt, junior debt, and equity. Tranching arises endogenously due to the differences in risk appetites among agents and in the budget constraints they face. (JEL D81, D82, G12, G41, G51)"
+  },
+  {
+    "paper_id": "48f4be2005963221151e3e84e0a15574cedd0fb4",
+    "title": "Privacy Preserving Signals",
+    "year": 2023,
+    "author_ids": [
+      "2450616",
+      "40190320"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 10,
+    "abstract": "A signal is \n privacy\u2010preserving with respect to a collection of \n privacy sets if the posterior probability assigned to every privacy set remains unchanged conditional on any signal realization. We characterize the privacy\u2010preserving signals for arbitrary state space and arbitrary privacy sets. A signal is privacy\u2010preserving if and only if it is a garbling of a \n reordered quantile signal. Furthermore, distributions of posterior means induced by privacy\u2010preserving signals are exactly mean\u2010preserving contractions of that induced by the \n quantile signal. We discuss the economic implications of our characterization for statistical discrimination, the revelation of sensitive information in auctions and price discrimination.\n"
+  },
+  {
+    "paper_id": "8b67f5e84c6c4bc1f526facd9011093d1cec4314",
+    "title": "Pathwise concentration bounds for Bayesian beliefs",
+    "year": 2023,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 8,
+    "abstract": "We show that Bayesian posteriors concentrate on the outcome distributions that approximately minimize the Kullback\u2013Leibler divergence from the empirical distribution, uniformly over sample paths, even when the prior does not have full support. This generalizes Diaconis and Freedman's (1990) uniform convergence result to, e.g., priors that have finite support, are constrained by independence assumptions, or have a parametric form that cannot match some probability distributions. The concentration result lets us provide a rate of convergence for Berk's (1966) result on the limiting behavior of posterior beliefs when the prior is misspecified. We provide a bound on approximation errors in \u201canticipated\u2010utility\u201d models, and extend our analysis to outcomes that are perceived to follow a Markov process."
+  },
+  {
+    "paper_id": "b0c3af03f3bd6a6bca203c3a898e0590f36632a3",
+    "title": "Misinterpreting Yourself",
+    "year": 2023,
+    "author_ids": [
+      "3072093",
+      "4184039",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "b93514b92bd0072bcab4e2f59ad9f7614e76ffd0",
+    "title": "Optimal Insurance: Dual Utility, Random Losses and Adverse Selection",
+    "year": 2023,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616",
+      "50495997"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 20,
+    "abstract": "We study a generalization of the classical monopoly insurance problem under adverse selection (see Stiglitz 1977) where we allow for a random distribution of losses, possibly correlated with the agent\u2019s risk parameter that is private information. Our model explains patterns of observed customer behavior and predicts insurance contracts most often observed in practice: these consist of menus of several deductible-premium pairs or menus of insurance with coverage limits\u2013premium pairs. A main departure from the classical insurance literature is obtained here by endowing the agents with risk-averse preferences that can be represented by a dual utility functional (Yaari 1987). (JEL D81, D82, D86, D91, G22)"
+  },
+  {
+    "paper_id": "e691da074bce167293fd5cb9c105d557e49316e7",
+    "title": "Taxing Externalities Without Hurting the Poor",
+    "year": 2023,
+    "author_ids": [
+      "7242417",
+      "2450616"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 14,
+    "abstract": "When consumption of a good causes externalities, market outcomes may be inefficient. Economists have long recognized this and suggested as a remedy a \"Pigouvian tax\" equal to the monetary equivalent of the harm done to others. Despite their intuitive appeal, Pigouvian taxes are rarely seen in practice. Conversely, public discourse often involves regulations such as consumption caps or even prohibition of the activity, which economists consider \"non-market\" solutions. Can natural preferences of the planner justify this?"
+  },
+  {
+    "paper_id": "01316fd66f450b9fab38c739907f336962c017ac",
+    "title": "Long-Run Implications of Selective Memory\u2217",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "294761420a735a91cf9a71b2f7d5d2dcd3959fab",
+    "title": "Optimal Dynamic Control of an Epidemic \u2217",
+    "year": 2022,
+    "author_ids": [
+      "2071673190",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "3510c4389771419861f81d06675bb676bd4e3d22",
+    "title": "Selective Memory Equilibrium \u2217",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "89a940e885f5935870537a4fff9e0339da92f0d2",
+    "title": "Equity in Dynamic Matching: Extreme Waitlist Policies",
+    "year": 2022,
+    "author_ids": [
+      "3139725",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "Waitlist policies are commonly used to allocate scarce resources such as houses and organs. These policies attempt to ensure fairness toward agents who wait longer by assigning them priority points ( `a la \ufb01rst-come \ufb01rst-served). We show that such point systems can lead to severe inequality across the agents\u2019 assignment probabilities, unless they use randomization. In our large-market model, we prove that deterministic point systems lead to a more unequal allocation than any other rule that respects earlier arrivals , an axiom that institutes fairness toward agents with longer waits. Among the policies abiding by this axiom, we show that service in random order leads to the most equal assignment probabilities."
+  },
+  {
+    "paper_id": "9424bd198d7f599b24f6179963f33e1d484ac57d",
+    "title": "Learning Through Imitation: An Experiment",
+    "year": 2022,
+    "author_ids": [
+      "3230803",
+      "1405028339",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We compare how well agents aggregate information in two repeated social learning environments. In the first setting agents have access to a public data set. In the second they have access to the same data, and also to the past actions of others. Despite the fact that actions contain no additional payoff relevant information, and despite potential herd behavior, free riding and information overload issues, observing and imitating the actions of others leads agents to take the optimal action more often in the second setting. We also investigate the effect of group size, as well as a setting in which agents observe private data and others\u2019 actions. \u2217This work was presented at Princeton University, MiddExLab virtual seminar, Chicago Harris, UCSB, NYU, University of Michigan, Osaka University, Texas A&M, Stanford University, CREST, University of Hamburg, University of Maryland, Caltech, Essex University, NYU Abu Dhabi, University of Southamptons, Kansas University, Shanghai Jiao Tong University, and GAMES 2020. We thank the participants of these seminars and conferences and Carlo Cusumano for their helpful comments. \u2020Caltech. Email: magranov@hss.caltech.edu. Experiments were funded by the grant received from the Ronald and Maxine Linde Institute of Economic and Management Sciences at Caltech. \u2021Caltech. Email: glmoctezuma@caltech.edu. \u00a7Yale University. Email: philipp.strack@yale.edu. \u00b6Caltech. Email: tamuz@caltech.edu. Omer Tamuz was supported by a grant from the Simons Foundation (#419427), a Sloan fellowship, a BSF award (#2018397) and a National Science Foundation CAREER award (DMS-1944153)."
+  },
+  {
+    "paper_id": "04dd64519ab6d4478f7d1e38517aeda7286dae59",
+    "title": "SUPPLEMENT TO \u201cFROM BLACKWELL DOMINANCE IN LARGE SAMPLES TO RE\u0301NYI DIVERGENCES AND BACK AGAIN\u201d",
+    "year": 2021,
+    "author_ids": [
+      "2101339055",
+      "88742112",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "1583c6cb016308fb9753d959a59d6e786201c822",
+    "title": "Convergence in models of misspecified learning",
+    "year": 2021,
+    "author_ids": [
+      "3072093",
+      "4184039",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 18,
+    "abstract": "We establish convergence of beliefs and actions in a class of one-dimensional learning settings in which the agent\u2019s model is misspecified, she chooses actions endogenously, and the actions affect how she misinterprets information. Our stochastic-approximation-based methods rely on two crucial features: that the state and action spaces are continuous, and that the agent\u2019s posterior admits a one-dimensional summary statistic. Through a basic model with a normal\u2013 normal updating structure and a generalization in which the agent\u2019s misinterpretation of information can depend on her current beliefs in a flexible way, we show that these features are compatible with a number of specifications of how exactly the agent updates. Applications of our framework include learning by a person who has an incorrect model of a technology she uses or is overconfident about herself, learning by a representative agent who may misunderstand macroeconomic outcomes, and learning by a firm that has an incorrect parametric model of demand."
+  },
+  {
+    "paper_id": "1b09b619d97a5e5ff44b34c9a95cf5873e258568",
+    "title": "Optimal Disclosure of Information to a Privately Informed Receiver",
+    "year": 2021,
+    "author_ids": [
+      "3237848",
+      "2450616"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 14,
+    "abstract": "We study information design problems where the designer controls information about a state and the receiver is privately informed about his preferences. The receiver's action set is general and his preferences depend linearly on the state. We show that to optimally screen the receiver, the designer can use a menu of \"laminar partitional\" signals. These signals partition the states such that the same message is sent in each partition element and the convex hulls of any two partition elements are either nested or have an empty intersection. Furthermore, each state is either perfectly revealed or lies in an interval in which at most n+2 different messages are sent, where n is the number of receiver types. In the finite action case an optimal menu can be obtained by solving a finite-dimensional convex program. Along the way we shed light on the solutions of optimization problems over distributions subject to a mean-preserving contraction constraint and additional constraints which might be of independent interest."
+  },
+  {
+    "paper_id": "3c2175f13a4460c2761a859ec3d037e10db64eba",
+    "title": "Learning in Repeated Interactions on Networks",
+    "year": 2021,
+    "author_ids": [
+      "2118270708",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 9,
+    "abstract": "We study how long-lived, rational, exponentially discounting agents learn in a social network. In every period, each agent observes the past actions of his neighbors, receives a private signal, and chooses an action with the objective of matching the state. Since agents behave strategically, and since their actions depend on higher order beliefs, it is difficult to characterize equilibrium behavior. Nevertheless, we show that regardless of the size and shape of the network, and the patience of the agents, the equilibrium speed of learning is bounded from above by a constant that only depends on the private signal distribution. The full paper is available at https://arxiv.org/abs/2112.14265."
+  },
+  {
+    "paper_id": "3ff2d27e97cb6510b44019f1031b787221000228",
+    "title": "Optimal disclosure of information to privately informed agents",
+    "year": 2021,
+    "author_ids": [
+      "3237848",
+      "2450616"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 20,
+    "abstract": "We study information design with multiple privately informed agents who interact in a game. Each agent's utility is linear in a real\u2010valued state. We show that there always exists an optimal mechanism that is laminar partitional and bound its \u201ccomplexity.\u201d For each type profile, such a mechanism partitions the state space and recommends the same action profile within a partition element. Furthermore, the convex hulls of any two partition elements are such that either one contains the other or they have an empty intersection. We highlight the value of screening: the ratio of the optimal and the best payoff without screening can be equal to the number of types. Along the way, we shed light on the solutions to optimization problems over distributions subject to a mean\u2010preserving contraction constraint and additional side\u2010constraints, which might be of independent interest."
+  },
+  {
+    "paper_id": "600e5501f9f9be064cd2abfcb7fda16544802853",
+    "title": "OPTIMAL AUCTIONS: NON-EXPECTED UTILITY AND CONSTANT RISK AVERSION",
+    "year": 2021,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616",
+      "50495997"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "7c696d38384332fda155a53db24c264b9a0b6082",
+    "title": "Dynamic Preference \u201cReversals\u201d and Time Inconsistency",
+    "year": 2021,
+    "author_ids": [
+      "2450616",
+      "145946385"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 12,
+    "abstract": "We study the possibility of identifying time-inconsistent preferences in empirical designs where preferences are elicited in advance at time 0 and then again at time 1, after the agent receives additional information. For single-peaked preferences, time consistency is rejected only when the time-1 ranking between a pair of alternatives is always the reverse of the time-0 ranking. We establish variations and generalizations of this result. Since such stark reversals are rarely observed, choice-revision designs require stronger identification assumptions than perhaps previously appreciated. But we show that time inconsistency is identifiable in environments where preferences over alternatives can be \u201cpriced out.\u201d (JEL D11, D15, D83, D86)"
+  },
+  {
+    "paper_id": "b2b22afec3e026fdcb7cdd67bf8e110f041b24ed",
+    "title": "Monotone Additive Statistics\u2217",
+    "year": 2021,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "bb984edcdac91daabe5a2804dc24a21677850f51",
+    "title": "Monotone Additive Statistics",
+    "year": 2021,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 18,
+    "abstract": "The expectation is an example of a descriptive statistic that is monotone with respect to stochastic dominance, and additive for sums of independent random variables. We provide a complete characterization of such statistics, and explore a number of applications to models of individual and group decision-making. These include a representation of stationary, monotone time preferences, extending the work of Fishburn and Rubinstein (1982) to time lotteries, as well as a characterization of risk-averse preferences over monetary gambles that are invariant to mean-zero background risks. The full paper is available at https://arxiv.org/abs/2102.00618."
+  },
+  {
+    "paper_id": "ce12c0602a030ec970333fd5740515dd4202abf9",
+    "title": "Limited Self-Knowledge and Survey Response Behavior",
+    "year": 2021,
+    "author_ids": [
+      "1953018",
+      "1394215051",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "IZA DP No. 14526 JULY 2021 Limited Self-Knowledge and Survey Response Behavior We study response behavior in surveys and show how the explanatory power of self-reports can be improved. First, we develop a choice model of survey response behavior under the assumption that the respondent has imperfect self-knowledge about her individual characteristics. In panel data, the model predicts that the variance in responses for different characteristics increases in self-knowledge and that the variance for a given characteristic over time is non-monotonic in self-knowledge. Importantly, the ratio of these variances identifies an individual\u2019s level of self-knowledge, i.e., the latter can be inferred from observed response patterns. Second, we develop a consistent and unbiased estimator for self-knowledge based on the model. Third, we run an experiment to test the model\u2019s main predictions in a context where the researcher knows the true underlying characteristics. The data confirm the model\u2019s predictions as well as the estimator\u2019s validity. Finally, we turn to a large panel data set, estimate individual levels of self-knowledge, and show that accounting for differences in self-knowledge significantly increases the explanatory power of regression models. Using a median split in self-knowledge and regressing risky behaviors on selfreported risk attitudes, we find that the R can be multiple times larger for abovethan below-median subjects. Similarly, gender differences in risk attitudes are considerably larger when restricting samples to subjects with high self-knowledge. These examples illustrate how using the estimator may improve inference from survey data. JEL Classification: C83, D83, C91, D91, J24"
+  },
+  {
+    "paper_id": "d8340dfaf39222715756940434dcc7129f131ea3",
+    "title": "LIMIT POINTS OF ENDOGENOUS MISSPECIFIED LEARNING DREW FUDENBERG Department of Economics, MIT",
+    "year": 2021,
+    "author_ids": [
+      "104124540",
+      "2450616",
+      "2783939"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "2fdcfd29b7df821a995cf76adad721f737c0b16d",
+    "title": "Limit Points of Endogenous Misspecified Learning",
+    "year": 2020,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 50,
+    "abstract": "We study how an agent learns from endogenous data when their prior belief is misspecified. We show that only \n uniform Berk\u2013Nash equilibria can be long\u2010run outcomes, and that all \n uniformly strict Berk\u2013Nash equilibria have an arbitrarily high probability of being the long\u2010run outcome for some initial beliefs. When the agent believes the outcome distribution is exogenous, every uniformly strict Berk\u2013Nash equilibrium has positive probability of being the long\u2010run outcome for any initial belief. We generalize these results to settings where the agent observes a signal before acting.\n"
+  },
+  {
+    "paper_id": "4dc37b4fb05f52aac04c847a8fb8a778841475d6",
+    "title": "Bitcoin: An Axiomatic Approach and an Impossibility Theorem",
+    "year": 2020,
+    "author_ids": [
+      "2438125",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 58,
+    "abstract": "Bitcoin's main innovation lies in allowing a decentralized system that relies on anonymous, profit-driven miners who can freely join the system. We formalize these properties in three axioms: anonymity of miners, no incentives for miners to consolidate, and no incentive to assuming multiple fake identities. This novel axiomatic formalization allows us to characterize what other protocols are feasible: every protocol with these properties must have the same reward scheme as Bitcoin. This implies an impossibility result for risk-averse miners. Furthermore, any protocol either gives up on some degree of decentralization or its reward scheme is equivalent to Bitcoin's."
+  },
+  {
+    "paper_id": "550f5180cfb0848d31232da723c32b57f2e90649",
+    "title": "Background Risk and Small-Stakes Risk Aversion",
+    "year": 2020,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 11,
+    "abstract": "Building on Pomatto, Strack, and Tamuz (2020), we identify a tight condition for when background risk can induce first-order stochastic dominance. Using this condition, we show that under plausible levels of background risk, no theory of choice under risk can simultaneously satisfy the following three economic postulates: (i) decision-makers are risk averse over small gambles, (ii) their preferences respect stochastic dominance, and (iii) they account for background risk. This impossibility result applies to expected utility theory, prospect theory, rank-dependent utility, and many other models. (JEL D81, D91)"
+  },
+  {
+    "paper_id": "bb0793eec5c3fe6d6a9a9d9335d256ec747367ec",
+    "title": "A Theory of Auctions with Endogenous Valuations",
+    "year": 2020,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616",
+      "50495997"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 37,
+    "abstract": "We derive the symmetric, revenue-maximizing allocation of several units among agents who take costly actions that influence their values. The problem is equivalent to a reduced-form model where agents have nonexpected utility. The uniform-price auction and the discriminatory pay-your-bid auction with reserve prices that react to both demand and supply constitute symmetric, optimal mechanisms. We also identify a condition under which the overall optimal mechanism is indeed symmetric and illustrate the structure of the optimal asymmetric mechanism when the condition fails. The main tool in our analysis is an integral inequality based on Fan and Lorentz (1954)."
+  },
+  {
+    "paper_id": "d84007eb83e1906186c40c088357ee51f1e160f6",
+    "title": "Turning Up the Heat: The Discouraging Effect of Competition in Contests",
+    "year": 2020,
+    "author_ids": [
+      "1739135910",
+      "2752253",
+      "2450616"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 60,
+    "abstract": "We study contests in which contestants are homogeneous and have convex effort costs. Increasing contest competitiveness, by making prizes more unequal, scaling up the competition, or adding new contestants, always discourages effort. These results have significant implications: although often criticized as evidence of laxity or cronyism, muting competition (e.g., adopting softer grading curves or less high-powered promotion systems) can both reduce inequality and increase output. Holding promotion contests at the division level rather than the firm level can boost employees\u2019 effort. Our results are also consistent with personnel policies that feature egalitarian pay systems and dismissal of worst-performing employees."
+  },
+  {
+    "paper_id": "e0413894f0f95c7ce330193be03441df73c334a9",
+    "title": "Optimal Control of an Epidemic through Social Distancing",
+    "year": 2020,
+    "author_ids": [
+      "144424583",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 75,
+    "abstract": "We analyze how to optimally engage in social distancing (SD) in order to minimize the spread of an infectious disease. We identify conditions under which the optimal policy is single-peaked, i.e., first engages in increasingly more social distancing and subsequently decreases its intensity. We show that the optimal policy might delay measures that decrease the transmission rate substantially to create \"herd-immunity\" and that engaging in social distancing sub-optimally early can increase the number of fatalities. Finally, we find that optimal social distancing can be an effective measure in substantially reducing the death rate of a disease."
+  },
+  {
+    "paper_id": "fdb865bc5a253c53c0bb4d7b8293b644497c62af",
+    "title": "Extreme Points and Majorization: Economic Applications",
+    "year": 2020,
+    "author_ids": [
+      "34732812",
+      "2277670372",
+      "2277670372",
+      "2450616"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 115,
+    "abstract": "We characterize the set of extreme points of monotonic functions that are either majorized by a given function \n f or themselves majorize \n f and show that these extreme points play a crucial role in many economic design problems. Our main results show that each extreme point is uniquely characterized by a countable collection of intervals. Outside these intervals the extreme point equals the original function \n f and inside the function is constant. Further consistency conditions need to be satisfied pinning down the value of an extreme point in each interval where it is constant. We apply these insights to a varied set of economic problems: equivalence and optimality of mechanisms for auctions and (matching) contests, Bayesian persuasion, optimal delegation, and decision making under uncertainty.\n"
+  },
+  {
+    "paper_id": "099c3d3048ae0c26a6f28350b60a99f9e6eb8fb4",
+    "title": "Progressive Participation",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "A single seller faces a sequence of buyers with unit demand. The buyers are forward\u2010looking and long\u2010lived. Each buyer has private information about his arrival time \n and valuation where the latter evolves according to a geometric Brownian motion. Any incentive\u2010compatible mechanism has to induce truth\u2010telling about the arrival time and the evolution of the valuation.\n \n We establish that the optimal stationary allocation policy can be implemented by a simple posted price. The truth\u2010telling constraint regarding the arrival time can be represented as an optimal stopping problem that determines the first time at which the buyer participates in the mechanism. The optimal mechanism thus induces progressive participation by each buyer: he either participates immediately or at a future random time."
+  },
+  {
+    "paper_id": "152282d63e9b3cc919b11bf670a01783bdb5274c",
+    "title": "PR ] 2 0 M ay 2 01 9 Stochastic Dominance Under Independent Noise \u2217",
+    "year": 2019,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1d01de30744da465986295b6051b3fcbf8410b36",
+    "title": "The cost of information",
+    "year": 2019,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 55,
+    "abstract": null
+  },
+  {
+    "paper_id": "2b6daae562fa76ecfa14c039e56a1d9773cf120e",
+    "title": "Laws of large numbers for stochastic orders",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "2f93145b17b46104281df7caed92916f20c91363",
+    "title": "Bitcoin: An Impossibility Theorem for Proof-of-Work Based Protocols",
+    "year": 2019,
+    "author_ids": [
+      "2438125",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 13,
+    "abstract": "Bitcoin's main innovation lies in allowing a decentralized system that relies on anonymous, profit driven miners who can freely join the system. We formalize these properties in three axioms: anonymity of miners, no incentives for miners to consolidate, and no incentive to assuming multiple fake identities. This novel axiomatic formalization allows us to characterize which other protocols are feasible: Every protocol with these properties must have the same reward scheme as Bitcoin. This implies an impossibility result for risk-averse miners: no protocol satisfies the aforementioned constraints simultaneously without giving miners a strict incentive to merge. Furthermore, any protocol either gives up on some degree of decentralization or its reward scheme is equivalent to Bitcoin's."
+  },
+  {
+    "paper_id": "36f6435c330e18c040ca2b17f4026d4aca36840b",
+    "title": "Replication data for: Speed, Accuracy, and the Optimal Timing of Choices",
+    "year": 2019,
+    "author_ids": [
+      "2783939",
+      "2450616",
+      "3101667"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5d307005b487e5282f0ebf39a95b2b3efbae2bb9",
+    "title": "From Blackwell Dominance in Large Samples to R\u00e9nyi Divergences and Back Again",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 38,
+    "abstract": "We study repeated independent Blackwell experiments; standard examples include drawing multiple samples from a population, or performing a measurement in different locations. In the baseline setting of a binary state of nature, we compare experiments in terms of their informativeness in large samples. Addressing a question due to Blackwell (1951), we show that generically an experiment is more informative than another in large samples if and only if it has higher R\u00e9nyi divergences.\n We apply our analysis to the problem of measuring the degree of dissimilarity between distributions by means of divergences. A useful property of R\u00e9nyi divergences is their additivity with respect to product distributions. Our characterization of Blackwell dominance in large samples implies that every additive divergence that satisfies the data processing inequality is an integral of R\u00e9nyi divergences."
+  },
+  {
+    "paper_id": "951ce3dcad62ef6074ef858663e0e019713c78a5",
+    "title": "Blackwell dominance in large samples",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We study repeated independent Blackwell experiments; standard examples include drawing multiple samples from a population, or performing a measurement in different locations. In the baseline setting of a binary state of nature, we compare experiments in terms of their informativeness in large samples. Addressing a question due to Blackwell (1951) we show that generically, an experiment is more informative than another in large samples if and only if it has higher Renyi divergences. As an application, we show that every additive divergence is an integral of Renyi divergences."
+  },
+  {
+    "paper_id": "b89985676970196a4c0eefc5a518c65018047ff8",
+    "title": "Rational Groupthink",
+    "year": 2019,
+    "author_ids": [
+      "32380198",
+      "1688109",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 36,
+    "abstract": "\n We study how long-lived rational agents learn from repeatedly observing a private signal and each others\u2019 actions. With normal signals, a group of any size learns more slowly than just four agents who directly observe each others\u2019 private signals in each period. Similar results apply to general signal structures. We identify rational groupthink\u2014in which agents ignore their private signals and choose the same action for long periods of time\u2014as the cause of this failure of information aggregation."
+  },
+  {
+    "paper_id": "c66eb7e1ada6eefa3043c2d5909bae8e03046e9f",
+    "title": "Overconfidence and Prejudice",
+    "year": 2019,
+    "author_ids": [
+      "3072093",
+      "1388003137",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 19,
+    "abstract": "We explore conclusions a person draws from observing society when he allows for the possibility that individuals' outcomes are affected by group-level discrimination. Injecting a single non-classical assumption, that the agent is overconfident about himself, we explain key observed patterns in social beliefs, and make a number of additional predictions. First, the agent believes in discrimination against any group he is in more than an outsider does, capturing widely observed self-centered views of discrimination. Second, the more group memberships the agent shares with an individual, the more positively he evaluates the individual. This explains one of the most basic facts about social judgments, in-group bias, as well as \"legitimizing myths\" that justify an arbitrary social hierarchy through the perceived superiority of the privileged group. Third, biases are sensitive to how the agent divides society into groups when evaluating outcomes. This provides a reason why some ethnically charged questions should not be asked, as well as a potential channel for why nation-building policies might be effective. Fourth, giving the agent more accurate information about himself increases all his biases. Fifth, the agent is prone to substitute biases, implying that the introduction of a new outsider group to focus on creates biases against the new group but lowers biases vis a vis other groups. Sixth, there is a tendency for the agent to agree more with those in the same groups. As a microfoundation for our model, we provide an explanation for why an overconfident agent might allow for potential discrimination in evaluating outcomes, even when he initially did not conceive of this possibility."
+  },
+  {
+    "paper_id": "e95cd7adb91b90c44eac02814e156ed2fc973810",
+    "title": "Too Proud to Stop: Regret in Dynamic Decisions",
+    "year": 2019,
+    "author_ids": [
+      "103143315",
+      "2450616"
+    ],
+    "venue": "Journal of the European Economic Association",
+    "citation_count": 32,
+    "abstract": "\n Regret and its anticipation affect a wide range of decisions. Job-seekers reject offers while waiting for an offer to match their best past offer; investors hold on to badly performing stocks; and managers throw good money after bad projects. We analyze behavior of a decision maker with regret preferences in a dynamic context and show that regret agents have a disposition to gamble until they receive a payoff matching the best past offer. Results from a lab experiment confirm that many subjects exhibit such behavior and are reluctant to stop below the past peak."
+  },
+  {
+    "paper_id": "ef48a7cb1a73aacadd4dfed02f5a26a4031fdf81",
+    "title": "Testing the drift-diffusion model",
+    "year": 2019,
+    "author_ids": [
+      "2783939",
+      "3646527",
+      "2450616",
+      "3101667"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 60,
+    "abstract": "Significance The drift-diffusion model (DDM) has been widely used in psychology and neuroeconomics to explain observed patterns of choices and response times. This paper provides an identification and characterization theorems for this model: We show that the parameters are uniquely pinned down and determine which datasets are consistent with some form of DDM. We then develop a statistical test of the model based on finite datasets using spline estimation. These results establish the empirical content of the model and provide a way for researchers to see when it is applicable. The drift-diffusion model (DDM) is a model of sequential sampling with diffusion signals, where the decision maker accumulates evidence until the process hits either an upper or lower stopping boundary and then stops and chooses the alternative that corresponds to that boundary. In perceptual tasks, the drift of the process is related to which choice is objectively correct, whereas in consumption tasks, the drift is related to the relative appeal of the alternatives. The simplest version of the DDM assumes that the stopping boundaries are constant over time. More recently, a number of papers have used nonconstant boundaries to better fit the data. This paper provides a statistical test for DDMs with general, nonconstant boundaries. As a by-product, we show that the drift and the boundary are uniquely identified. We use our condition to nonparametrically estimate the drift and the boundary and construct a test statistic based on finite samples."
+  },
+  {
+    "paper_id": "f0f6b42265feb5dd4200fdadf7529246e9a95ffc",
+    "title": "Statistical experiments form a general framework for modeling information : Given a",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f420722a3900b3468d13dba7c306edac9311267f",
+    "title": "The Wald Problem and the Relation of Sequential Sampling and Ex-Ante Information Costs",
+    "year": 2019,
+    "author_ids": [
+      "48218339",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 45,
+    "abstract": null
+  },
+  {
+    "paper_id": "ff5c896b2f51b1dbfe0a62be2b7f48b3c2799397",
+    "title": "Identifying Present-Bias from the Timing of Choices",
+    "year": 2019,
+    "author_ids": [
+      "3072093",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 22,
+    "abstract": "Timing decisions are common: when to file your taxes, finish a referee report, or complete a task at work. We ask whether time preferences can be inferred when \\textsl{only} task completion is observed. To answer this question, we analyze the following model: each period a decision maker faces the choice whether to complete the task today or to postpone it to later. Cost and benefits of task completion cannot be directly observed by the analyst, but the analyst knows that net benefits are drawn independently between periods from a time-invariant distribution and that the agent has time-separable utility. Furthermore, we suppose the analyst can observe the agent's exact stopping probability. We establish that for any agent with quasi-hyperbolic $\\beta,\\delta$-preferences and given level of partial naivete $\\hat{\\beta}$, the probability of completing the task conditional on not having done it earlier increases towards the deadline. And conversely, for any given preference parameters $\\beta,\\delta$ and (weakly increasing) profile of task completion probability, there exists a stationary payoff distribution that rationalizes her behavior as long as the agent is either sophisticated or fully naive. An immediate corollary being that, without parametric assumptions, it is impossible to rule out time-consistency even when imposing an a priori assumption on the permissible long-run discount factor. We also provide an exact partial identification result when the analyst can, in addition to the stopping probability, observe the agent's continuation value."
+  },
+  {
+    "paper_id": "06375f9ba76514f4e98af078d3bcabf813f1b179",
+    "title": "Matching in Dynamic Imbalanced Markets",
+    "year": 2018,
+    "author_ids": [
+      "1717971",
+      "3139725",
+      "2450616"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 24,
+    "abstract": "\n We study dynamic matching in exchange markets with easy- and hard-to-match agents. A greedy policy, which attempts to match agents upon arrival, ignores the positive externality that waiting agents provide by facilitating future matchings. We prove that the trade-off between a \u201cthicker\u201d market and faster matching vanishes in large markets; the greedy policy leads to shorter waiting times and more agents matched than any other policy. We empirically confirm these findings in data from the National Kidney Registry. Greedy matching achieves as many transplants as commonly-used policies (1.8% more than monthly batching), and shorter waiting times (16 days faster than monthly batching)."
+  },
+  {
+    "paper_id": "5e9b7a1a5e460c73349734260510f95fd43ab305",
+    "title": "Stochastic Dominance under Independent Noise",
+    "year": 2018,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 36,
+    "abstract": "Stochastic dominance is a crucial tool for the analysis of choice under risk. It is typically analyzed as a property of two gambles that are taken in isolation. We study how additional independent sources of risk (e.g., uninsurable labor risk, house price risk) can affect the ordering of gambles. We show that, perhaps surprisingly, background risk can be strong enough to render lotteries that are ranked by their expectation ranked in terms of first-order stochastic dominance. We extend our results to second-order stochastic dominance and show how they lead to a novel and elementary axiomatization of mean-variance preferences."
+  },
+  {
+    "paper_id": "8809dd69c0a0ae4ab91ded0502a0a5af278c365b",
+    "title": "The Cost of Information: The Case of Constant Marginal Costs",
+    "year": 2018,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 51,
+    "abstract": "We develop an axiomatic theory of information acquisition that captures the idea of constant marginal costs in information production: the cost of generating two independent signals is the sum of their costs, and generating a signal with probability half costs half its original cost. Together with Blackwell monotonicity and a continuity condition, these axioms determine the cost of a signal up to a vector of parameters. These parameters have a clear economic interpretation and determine the difficulty of distinguishing states. (JEL D82, D83)"
+  },
+  {
+    "paper_id": "89163f9338909b0c0e692e80f973720f3808a43c",
+    "title": "PR ] 3 S ep 2 01 8 Stochastic Dominance Under Independent Noise \u2217",
+    "year": 2018,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8d92a50facaab8201338c06d835a2245250debba",
+    "title": "Unrealistic Expectations and Misguided Learning",
+    "year": 2018,
+    "author_ids": [
+      "3072093",
+      "4184039",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 123,
+    "abstract": null
+  },
+  {
+    "paper_id": "93bd8e66ab99c2eef06a63ea10bee175831d00f6",
+    "title": "Speed, Accuracy, and the Optimal Timing of Choices",
+    "year": 2018,
+    "author_ids": [
+      "2783939",
+      "2450616",
+      "3101667"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 174,
+    "abstract": "We model the joint distribution of choice probabilities and decision times in binary decisions as the solution to a problem of optimal sequential sampling, where the agent is uncertain of the utility of each action and pays a constant cost per unit time for gathering information. We show that choices are more likely to be correct when the agent chooses to decide quickly, provided the agent\u2019s prior beliefs are correct. This better matches the observed correlation between decision time and choice probability than does the classical drift-diffusion model (DDM), where the agent knows the utility difference between the choices. (JEL C41, D11, D12, D83)"
+  },
+  {
+    "paper_id": "c72e43e9690ba3377584940434aac035952e884f",
+    "title": "Revenue-Maximizing Mechanisms with Strategic Customers and Unknown, Markovian Demand",
+    "year": 2018,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 32,
+    "abstract": null
+  },
+  {
+    "paper_id": "ce899735cdbe6f4a9383c3f78ed405b039c0a8c8",
+    "title": "Dicke Quantum Spin and Photon Glass in Optical Cavities: Non-equilibrium theory and experimental signatures",
+    "year": 2018,
+    "author_ids": [
+      "11620328",
+      "2450616",
+      "144420785",
+      "49182013"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "00cbf97acce36bcc4fa6f743108e6c0ddf834dff",
+    "title": "Information Games and Robust Trading Mechanisms",
+    "year": 2017,
+    "author_ids": [
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6623da0a4fa916f50823729587d87be2d4e51ca0",
+    "title": "Appendix to Stochastic Choice and Optimal Sequential Sampling",
+    "year": 2017,
+    "author_ids": [
+      "2783939",
+      "2450616",
+      "3101667"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "73907dcc18d88eed55e79ea7cfb8e5d7651a7bad",
+    "title": "Active learning with a misspecified prior",
+    "year": 2017,
+    "author_ids": [
+      "13354101",
+      "2450616",
+      "2783939"
+    ],
+    "venue": null,
+    "citation_count": 61,
+    "abstract": "We study learning and information acquisition by a Bayesian agent whose prior belief is misspecified in the sense that it assigns probability zero to the true state of the world. At each instant, the agent takes an action and observes the corresponding payoff, which is the sum of a fixed but unknown function of the action and an additive error term. We provide a complete characterization of asymptotic actions and beliefs when the agent's subjective state space is a doubleton. A simple example with three actions shows that in a misspecified environment a myopic agent's beliefs converge while a sufficiently patient agent's beliefs do not. This illustrates a novel interaction between misspecification and the agent's subjective discount rate."
+  },
+  {
+    "paper_id": "8f2c28d5af58c5c0c020e4acb94a1ef043dd6146",
+    "title": "Expectation-based loss aversion and strategic interaction",
+    "year": 2017,
+    "author_ids": [
+      "8517020",
+      "2027688097",
+      "9101796",
+      "2450616"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 29,
+    "abstract": null
+  },
+  {
+    "paper_id": "8f6251432d5a92c3675df082e2feb0238aa42231",
+    "title": "Information Acquisition and Robust Trading Mechanisms",
+    "year": 2017,
+    "author_ids": [
+      "49962196",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d90004fa922aeb9945b329854d6d86eaf0a6468c",
+    "title": "GROUPTHINK AND THE FAILURE OF INFORMATION AGGREGATION IN LARGE GROUPS",
+    "year": 2017,
+    "author_ids": [
+      "32380198",
+      "1688109",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "000e0ec94ce09d02dfa26e41c1febdd7637194d1",
+    "title": "Dual QED3 at \u201cNF = 1/2\u201d is an interacting CFT in the infrared",
+    "year": 2016,
+    "author_ids": [
+      "21813371",
+      "2058873874",
+      "2450616"
+    ],
+    "venue": "Journal of High Energy Physics",
+    "citation_count": 0,
+    "abstract": "We study the fate of weakly coupled dual QED3 in the infrared, that is, a single two-component Dirac fermion coupled to an emergent U(1) gauge field, but without Chern-Simons term. This theory has recently been proposed as a dual description of 2D surfaces of certain topological insulators. Using the renormalization group, we find that the interplay of gauge fluctuations with generated interactions in the four-fermi sector stabilizes an interacting conformal field theory (CFT) with finite four-fermi coupling in the infrared. The emergence of this CFT is due to cancellations in the \u03b2-function of the four-fermi coupling special to \u201cNF = 1/2\u201d. We also quantify how a possible \u201cstrong\u201d Dirac fermion duality between a free Dirac cone and dual QED3 would constrain the universal constants of the topological current correlator of the latter."
+  },
+  {
+    "paper_id": "01de293ccc380958188bb543724ec29ee83734f3",
+    "title": "Never, Ever Getting Started: On Prospect Theory Without Commitment",
+    "year": 2016,
+    "author_ids": [
+      "39266156",
+      "2450616"
+    ],
+    "venue": "Mathematical Finance",
+    "citation_count": 22,
+    "abstract": "\n Prospect theory is arguably the most prominent alternative to expected utility theory. We study the investment or gambling behavior of a prospect theory decision maker who is aware of his time\u2010inconsistency but lacks commitment. For the empirically relevant prospect theory specifications, we obtain the extreme prediction that such a decision maker never gambles or invests in the stock market\u2014even if expected gains are arbitrarily high. Our analysis illustrates some of the challenges in applying prospect theory to dynamic\u00a0settings."
+  },
+  {
+    "paper_id": "243a6f0b4a8ecaabfa6f0debadd29bb6c08eefe2",
+    "title": "RISK-TAKING IN CONTESTS THE IMPACT OF FUND-MANAGER COMPENSATION ON INVESTOR WELFARE",
+    "year": 2016,
+    "author_ids": [
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "424976c75ff1743f98a1c3a71903c0aa66bb9b31",
+    "title": "Dual QED3 at \u201cNF = 1/2\u201d is an interacting CFT in the infrared",
+    "year": 2016,
+    "author_ids": [
+      "21813371",
+      "2058873874",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": "A bstractWe study the fate of weakly coupled dual QED3 in the infrared, that is, a single two-component Dirac fermion coupled to an emergent U(1) gauge field, but without Chern-Simons term. This theory has recently been proposed as a dual description of 2D surfaces of certain topological insulators. Using the renormalization group, we find that the interplay of gauge fluctuations with generated interactions in the four-fermi sector stabilizes an interacting conformal field theory (CFT) with finite four-fermi coupling in the infrared. The emergence of this CFT is due to cancellations in the \u03b2-function of the four-fermi coupling special to \u201cNF = 1/2\u201d. We also quantify how a possible \u201cstrong\u201d Dirac fermion duality between a free Dirac cone and dual QED3 would constrain the universal constants of the topological current correlator of the latter."
+  },
+  {
+    "paper_id": "5e1259b9eb5a3ceb0a518a0629783a976de99f6d",
+    "title": "Active Learning with Misspecified Beliefs",
+    "year": 2016,
+    "author_ids": [
+      "2783939",
+      "13354101",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "5e9b48d40d5a99e5c0cb9978ca34784fb6853802",
+    "title": "Many-body quantum optics with decaying atomic spin states: ( \u03b3 , \u03ba ) Dicke model",
+    "year": 2016,
+    "author_ids": [
+      "102691416",
+      "11620328",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 33,
+    "abstract": "We provide a theory for quantum-optical realizations of the open Dicke model with internal, atomic spin states subject to spontaneous emission with rate $\\ensuremath{\\gamma}$. This introduces a second decay channel for excitations to irreversibly dissipate into the environment, in addition to the photon loss with rate $\\ensuremath{\\kappa}$, which is composed of individual atomic decay processes and a collective atomic decay mechanism. The strength of the latter is determined by the cavity geometry. We compute the mean-field nonequilibrium steady states for spin and photon observables in the long-time limit, $t\\ensuremath{\\rightarrow}\\ensuremath{\\infty}$. Although $\\ensuremath{\\gamma}$ does not conserve the total angular momentum of the spin array, we argue that our solution is exact in the thermodynamic limit for the number of atoms $N\\ensuremath{\\rightarrow}\\ensuremath{\\infty}$. In light of recent and upcoming experiments realizing superradiant phase transitions using internal atomic states with pinned atoms in optical lattices, our work lays the foundation for the pursuit of a new class of open quantum magnets coupled to quantum light."
+  },
+  {
+    "paper_id": "888cf9959fbe431977f50ce318ffe8548b9c84f3",
+    "title": "Quantum-optical magnets with competing short- and long-range interactions: Rydberg-dressed spin lattice in an optical cavity",
+    "year": 2016,
+    "author_ids": [
+      "102691416",
+      "11620328",
+      "15157801",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 23,
+    "abstract": "The fields of quantum simulation with cold atoms [1] and quantum optics [2] are currently being merged. In a set of recent pathbreaking experiments with atoms in optical cavities [3,4] lattice quantum many-body systems with both, a short-range interaction and a strong interaction potential of infinite range -mediated by a quantized optical light field- were realized. A theoretical modelling of these systems faces considerable complexity at the interface of: (i) spontaneous symmetry-breaking and emergent phases of interacting many-body systems with a large number of atoms $N\\rightarrow\\infty$, (ii) quantum optics and the dynamics of fluctuating light fields, and (iii) non-equilibrium physics of driven, open quantum systems. Here we propose what is possibly the simplest, quantum-optical magnet with competing short- and long-range interactions, in which all three elements can be analyzed comprehensively: a Rydberg-dressed spin lattice [5] coherently coupled to a single photon mode. Solving a set of coupled even-odd sublattice Master equations for atomic spin and photon mean-field amplitudes, we find three key results. (R1): Superradiance and a coherent photon field can coexist with spontaneously broken magnetic translation symmetry. The latter is induced by the short-range nearest-neighbor interaction from weakly admixed Rydberg levels. (R2): This broken even-odd sublattice symmetry leaves its imprint in the light via a novel peak in the cavity spectrum beyond the conventional polariton modes. (R3): The combined effect of atomic spontaneous emission, drive, and interactions can lead to phases with anomalous photon number oscillations. Extensions of our work include nano-photonic crystals coupled to interacting atoms and multi-mode photon dynamics in Rydberg systems."
+  },
+  {
+    "paper_id": "8ea03d904a2398f637d662563a59dd709cdc403f",
+    "title": "Erratum to: Stress tensor and current correlators of interacting conformal field theories in 2+1 dimensions: fermionic Dirac matter coupled to U(1) gauge field",
+    "year": 2016,
+    "author_ids": [
+      "2091755",
+      "2450616"
+    ],
+    "venue": "Journal of High Energy Physics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9c4154854edc25942561883881e21807e85d65a9",
+    "title": "Continuous Time Contests with Private Information",
+    "year": 2016,
+    "author_ids": [
+      "3298899",
+      "2450616"
+    ],
+    "venue": "Mathematics of Operations Research",
+    "citation_count": 33,
+    "abstract": null
+  },
+  {
+    "paper_id": "04b222fc7be3d324d636f3a001fd85c1df3970b3",
+    "title": "Efficient Dynamic Allocation with Strategic Arrivals",
+    "year": 2015,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "0bd76736fb2d02dbe0e562ab104d6d47860e9f7e",
+    "title": "Hyperscaling at the spin density wave quantum critical point in two-dimensional metals",
+    "year": 2015,
+    "author_ids": [
+      "2405988024",
+      "2450616",
+      "144420785"
+    ],
+    "venue": null,
+    "citation_count": 26,
+    "abstract": "The hyperscaling property implies that spatially isotropic critical quantum states in $d$ spatial dimensions have a specific heat which scales with temperature as $T^{d/z}$, and an optical conductivity which scales with frequency as $\\omega^{(d-2)/z}$ for $\\omega \\gg T$, where $z$ is the dynamic critical exponent. We examine the spin-density-wave critical fixed point of metals in $d=2$ found by Sur and Lee (Phys. Rev. B 91, 125136 (2015)) in an expansion in $\\epsilon = 3-d$. We find that the contributions of the \"hot spots\" on the Fermi surface to the optical conductivity and specific heat obey hyperscaling (up to logarithms), and agree with the results of the large $N$ analysis of the optical conductivity by Hartnoll et al. (Phys. Rev. B 84, 125115 (2011)). With a small bare velocity of the boson associated with the spin density wave order, there is an intermediate energy regime where hyperscaling is violated with $d \\rightarrow d_t$, where $d_t = 1$ is the number of dimensions transverse to the Fermi surface. We also present a Boltzmann equation analysis which indicates that the hot spot contribution to the DC conductivity has the same scaling as the optical conductivity, with $T$ replacing $\\omega$."
+  },
+  {
+    "paper_id": "1492e50d6071a5b9a033909cb936086344a2b037",
+    "title": "Stochastic Choice and Optimal Sequential Sampling",
+    "year": 2015,
+    "author_ids": [
+      "2783939",
+      "2450616",
+      "3101667"
+    ],
+    "venue": null,
+    "citation_count": 55,
+    "abstract": "We model the joint distribution of choice probabilities and decision times in binary choice tasks as the solution to a problem of optimal sequential sampling, where the agent is uncertain of the utility of each action and pays a constant cost per unit time for gathering information. In the resulting optimal policy, the agent's choices are more likely to be correct when the agent chooses to decide quickly, provided that the agent's prior beliefs are correct. For this reason it better matches the observed correlation between decision time and choice probability than does the classical drift-diffusion model, where the agent is uncertain which of two actions is best but knows the utility difference between them."
+  },
+  {
+    "paper_id": "1ea5bceb6c533b5e99952a659e03d21ec20cea8a",
+    "title": "Optimal stopping with private information",
+    "year": 2015,
+    "author_ids": [
+      "144424583",
+      "2450616"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 50,
+    "abstract": null
+  },
+  {
+    "paper_id": "213443c075f65e12e68b53a5a06a5b2994f5d46d",
+    "title": "Erratum to: Stress tensor and current correlators of interacting conformal field theories in 2+1 dimensions: fermionic Dirac matter coupled to U(1) gauge field",
+    "year": 2015,
+    "author_ids": [
+      "2091755",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "We compute the central charge C\n T\n and universal conductivity C\n J\n of N\n F\n fermions coupled to a U (1) gauge field up to next-to-leading order in the 1/N\n F\n expansion. We discuss implications of these precision computations as a diagnostic for response and entanglement properties of interacting conformal field theories for strongly correlated condensed matter phases and conformal quantum electrodynamics in 2 + 1 dimensions."
+  },
+  {
+    "paper_id": "28509d39bab3df05ad0e474d5febec39d4ec1115",
+    "title": "Stress tensor and current correlators of interacting conformal field theories in 2+1 dimensions: fermionic Dirac matter coupled to U(1) gauge field",
+    "year": 2015,
+    "author_ids": [
+      "2091755",
+      "2450616"
+    ],
+    "venue": "Journal of High Energy Physics",
+    "citation_count": 0,
+    "abstract": "We compute the central charge CT and universal conductivity CJ of NF fermions coupled to a U (1) gauge field up to next-to-leading order in the 1/NF expansion. We discuss implications of these precision computations as a diagnostic for response and entanglement properties of interacting conformal field theories for strongly correlated condensed matter phases and conformal quantum electrodynamics in 2 + 1 dimensions."
+  },
+  {
+    "paper_id": "4b01abda8acb255a150ca9859d6ef146e1110deb",
+    "title": "Until the Bitter End: On Prospect Theory in a Dynamic Context",
+    "year": 2015,
+    "author_ids": [
+      "39266156",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 88,
+    "abstract": null
+  },
+  {
+    "paper_id": "4b918681b3cee7d8ffd8d52aee3256347897dd6e",
+    "title": "Strategic experimentation with private payoffs",
+    "year": 2015,
+    "author_ids": [
+      "3072093",
+      "145194676",
+      "2450616"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 65,
+    "abstract": null
+  },
+  {
+    "paper_id": "53cf275955cd57c38cf042e71988ecf016e2b371",
+    "title": "Universality in antiferromagnetic strange metals",
+    "year": 2015,
+    "author_ids": [
+      "31664812",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": "We propose a theory of metals at the spin-density wave quantum critical point in spatial dimension $d=2$. We provide a first estimate of the full set of critical exponents (dynamical exponent $z=2.13$, correlation length $\\nu =1.02$, spin susceptibility $\\gamma = 0.96$, electronic non-Fermi liquid $\\eta^f_\\tau = 0.53$, spin-wave Landau damping $\\eta^b_\\tau = 1.06$), which determine the universal power-laws in thermodynamics and response functions in the quantum-critical regime relevant for experiments in heavy-fermion systems and iron pnictides. We present approximate numerical and analytical solutions of Polchinski-Wetterich type flow equations with soft frequency regulators for an effective action of electrons coupled to spin-wave bosons. Performing the renormalization group in frequency -instead of momentum- space allows to track changes of the Fermi surface shape and to capture Landau damping during the flow. The technique is easily generalizable from models retaining only patches of the Fermi surface to full, compact Fermi surfaces."
+  },
+  {
+    "paper_id": "80dc941fc529e70d9580df062c4d27d1b8d8b463",
+    "title": "FFLO strange metal and quantum criticality in two dimensions: theory and experimental evidence in organic superconductors",
+    "year": 2015,
+    "author_ids": [
+      "145573426",
+      "4856036",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "a31b5f6a4000a54af29a01552b911638ac2d9b10",
+    "title": "Randomization Beats Second Price as a Prior-Independent Auction",
+    "year": 2015,
+    "author_ids": [
+      "143694822",
+      "1754163",
+      "1694393",
+      "2450616"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 68,
+    "abstract": "Designing revenue optimal auctions for selling an item to $n$ symmetric bidders is a fundamental problem in mechanism design. Myerson (1981) shows that the second price auction with an appropriate reserve price is optimal when bidders' values are drawn i.i.d. from a known regular distribution. A cornerstone in the prior-independent revenue maximization literature is a result by Bulow and Klemperer (1996) showing that the second price auction without a reserve achieves (n-1)/n of the optimal revenue in the worst case. We construct a randomized mechanism that strictly outperforms the second price auction in this setting. Our mechanism inflates the second highest bid with a probability that varies with $n$. For two bidders we improve the performance guarantee from 0.5 to 0.512 of the optimal revenue. We also resolve a question in the design of revenue optimal mechanisms that have access to a single sample from an unknown distribution. We show that a randomized mechanism strictly outperforms all deterministic mechanisms in terms of worst case guarantee."
+  },
+  {
+    "paper_id": "bf4bbd7d99580eaeaa8fc81e3d65d0902b02ff57",
+    "title": "Inverse Optimal Stopping",
+    "year": 2015,
+    "author_ids": [
+      "144424583",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "d1e1edad444d1bbd61a4cc80f6c8b3058509bda8",
+    "title": "WHEN MORE INFORMATION REDUCES THE SPEED OF LEARNING",
+    "year": 2015,
+    "author_ids": [
+      "32380198",
+      "1688109",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "e10e2e55ca206d5604b7fa2d1a89752fb0ac89c2",
+    "title": "Dynamic revenue maximization: A continuous time approach",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "2450616"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 47,
+    "abstract": null
+  },
+  {
+    "paper_id": "e60434886b71ea37e5d45f96377bc14adbd5f60e",
+    "title": "FFLO strange metal and quantum criticality in two dimensions: theory and application to organic superconductors",
+    "year": 2015,
+    "author_ids": [
+      "145573426",
+      "4856036",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 19,
+    "abstract": "Increasing the spin imbalance in superconductors can spatially modulate the gap by forming Cooper pairs with finite momentum. For large imbalances compared to the Fermi energy, the inhomogeneous FFLO superconductor ultimately becomes a normal metal. There is mounting experimental evidence for this scenario in 2D organic superconductors in large in-plane magnetic fields; this is complemented by ongoing efforts to realize this scenario in coupled tubes of atomic Fermi gases with spin imbalance. Yet, a theory for the phase transition from a metal to an FFLO superconductor has not been developed so far and the universality class has remained unknown. Here we propose and analyze a spin imbalance driven quantum critical point between a 2D metal and an FFLO phase in anisotropic electron systems. We derive the effective action for electrons and bosonic FFLO pairs at this quantum phase transition. Using this action, we predict non-Fermi liquid behavior and the absence of quasi-particles at a discrete set of hot spots on the Fermi surfaces. This results in strange power-laws in thermodynamics and response functions, which are testable with existing experimental set-ups on 2D organic superconductors and may also serve as signatures of the elusive FFLO phase itself. The proposed universality class is distinct from previously known quantum critical metals and, because its critical fluctuations appear already in the pairing channel, a promising candidate for naked metallic quantum criticality over extended temperature ranges."
+  },
+  {
+    "paper_id": "e8e958cc5397e7546e7a7289f856ebec8269de8e",
+    "title": "(Almost) naked quantum criticality with non-Fermi liquid behavior at the onset of inhomogeneous Larkin-Ovchinikov superfluidity in two dimensions",
+    "year": 2015,
+    "author_ids": [
+      "2450616",
+      "145573426"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

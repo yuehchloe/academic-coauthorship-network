@@ -1,0 +1,312 @@
+[
+  {
+    "paper_id": "1b44b5381a54728db0e99855451f36e28de9bce4",
+    "title": "Deep Reinforcement Learning for Equilibrium Computation in Multistage Auctions and Contests",
+    "year": 2025,
+    "author_ids": [
+      "2191523022",
+      "2291179317",
+      "2268408747"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 2,
+    "abstract": "We compute equilibrium strategies in multistage games with continuous signal and action spaces as they are widely used in the management sciences and economics. Examples include sequential sales via auctions, multistage elimination contests, and Stackelberg competitions. In sequential auctions, analysts performing equilibrium analysis are required to derive not just single bids but bid functions for all possible signals or values that a bidder might have in multiple stages. Because of the continuity of the signal and action spaces, these bid functions come from an infinite dimensional space. Although such models are fundamental to game theory and its applications, equilibrium strategies are rarely known. The resulting system of nonlinear differential equations is considered intractable for all but elementary models. This has been limiting progress in game theory and is a barrier to its adoption in the field. We show that deep reinforcement learning and self-play can learn equilibrium bidding strategies for various multistage games. Verifying an equilibrium in such games is challenging because of the continuous signal and action spaces. We introduce a verification algorithm and prove that the error of this verifier decreases when considering Lipschitz continuous strategies with increasing levels of discretization and sample sizes. Leveraging the novel verification algorithm, we find equilibrium in models that have not yet been explored analytically and new asymmetric equilibrium bid functions for established models of sequential auctions.\n This paper was accepted by David Simchi-Levi, revenue management and market analytics.\n Funding: This work was supported by the Deutsche Forschungsgemeinschaft [Grant BI 1057/9]. Additionally, this project has received funding from the European Research Council under the European Union\u2019s Horizon Europe research and innovation programme [Grant Agreement 101198689].\n Supplemental Material: The online appendices and data files are available at https://doi.org/10.1287/mnsc.2024.06771 ."
+  },
+  {
+    "paper_id": "fdc2d12e1d66d0b53434b3cfb8187d1bc36a6fcc",
+    "title": "Differentiable Economics: Strategic Behavior, Mechanisms, and Machine Learning",
+    "year": 2025,
+    "author_ids": [
+      "2303486480",
+      "2241604320"
+    ],
+    "venue": "Communications of the ACM",
+    "citation_count": 1,
+    "abstract": "Economics studies the behavior of individuals and firms in making decisions regarding the allocation of scarce resources and the interactions among these agents. Game theory had a substantial impact on economic modeling because it allows us to model the outcome of such economic interaction while taking the incentives of individual agents into account. Mechanism design does the same when designing the rules of economic institutions. Unfortunately, these economic models have turned out to be computationally hard to solve. For example, finding equilibrium in some incomplete-information models of markets with continuous valuation and action spaces are hard in PP, and designing a revenue-maximizing multi-item auction is #P-hard. This computational complexity poses a fundamental barrier in modeling economic systems but is worst-case and considers non-generic instances. Differentiable economics describes a new approach to solving these central problems in the economic sciences. It uses learning algorithms to find or approximate solutions to equilibrium computation or economic design problems. In particular, neural networks and learning algorithms such as Stochastic Gradient Descent have been shown to be very effective. Machine learning has led to breakthroughs in many sciences, and it also holds the potential to fundamentally alter how we analyze and design economic systems. A new approach to solving central problems in the economic sciences uses learning algorithms to find or approximate solutions to equilibrium computation or economic design problems."
+  },
+  {
+    "paper_id": "40f9d4dbf5cdc44c3568ca0e440caeea1017a603",
+    "title": "Endogenous Clustering and Analogy-Based Expectation Equilibrium",
+    "year": 2025,
+    "author_ids": [
+      "2242735786",
+      "2226545652"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 2,
+    "abstract": "\n Normal-form two-player games are categorized by players into K analogy classes so as to minimize the prediction error about the behavior of the opponent. This results in Clustered Analogy-Based Expectation Equilibria in which strategies are analogy-based expectation equilibria given the analogy partitions and analogy partitions minimize the prediction errors given the strategies. We distinguish between environments with self-repelling analogy partitions in which some mixing over partitions is required and environments with self-attractive partitions in which several analogy partitions can arise, thereby suggesting new channels of belief heterogeneity and equilibrium multiplicity. Various economic applications are discussed."
+  },
+  {
+    "paper_id": "728556434135ff26c0763572bf2c0ce673063b49",
+    "title": "Satisficing Equilibrium",
+    "year": 2024,
+    "author_ids": [
+      "3011997",
+      "1776433"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "We propose a solution concept\u2014satisficing equilibrium\u2014in which each agent i does not necessarily optimize but selects one of their top ki actions in response to the actions of others. Our concept accounts for bounded rationality, which may vary across agents. We illustrate our solution concept in a number of games from the literature. We show that non-trivial satisficing equilibria may fail to exist. However, we introduce the class of approximate potential games where their existence is guaranteed and, moreover, we show that satisficing equilibrium in which all but one agent best-respond and the remaining agent plays at least a second-best action exist in asymptotically almost all games. We provide positive foundations analogous to Nash equilibrium and show that a simple dynamic converges to satisficing equilibrium in almost all large games. Moreover, we characterize satisficing equilibrium via decision theoretic axioms. Finally, we turn to the testable implications of satisficing equilibrium."
+  },
+  {
+    "paper_id": "418c123d81a56f48b06f442e73e981c740616b71",
+    "title": "Reputation in the Shadow of Exit",
+    "year": 2024,
+    "author_ids": [
+      "2332717436"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I study reputation formation in repeated games where player actions endogenously determine the probability the game permanently ends. Permanent exit can render reputation useless even to a patient long-lived player whose actions are perfectly monitored, in stark contrast to canonical commitment payoff theorems. However, I identify tight conditions for the long-run player to attain their Stackelberg payoff in all Markov equilibrium. Along the way, I highlight the role of Markov strategies in pinning down the value of reputation formation. I apply my results to give conditional commitment foundations for the infinite chain-store game. I also analyze repeated global games with exit, and obtain new predictions about regime survival."
+  },
+  {
+    "paper_id": "2c2a5c468d24143d7f31383a837b9168be5a5021",
+    "title": "Information flows and memory in games",
+    "year": 2024,
+    "author_ids": [
+      "2388982",
+      "2295008128"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 11,
+    "abstract": ","
+  },
+  {
+    "paper_id": "fe335c72d81c960e443da0f90a340a91b488cbd9",
+    "title": "Information Compression in Dynamic Information Disclosure Games",
+    "year": 2024,
+    "author_ids": [
+      "3422433",
+      "2292196381"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 0,
+    "abstract": "We consider a two-player dynamic information design problem for a game played between a principal and a receiver on top of a Markovian system controlled by the receiver\u2019s actions. The principal strategically obtains and shares some information about the underlying system with the receiver in order to influence their actions, and agents\u2019 instantaneous rewards depend only on the system state and receiver actions. In our game, both players have long-term objectives, and the principal sequentially commits to their strategies instead of at the beginning-at every turn the principal can choose randomized experiments to observe the system partially. The principal can share details about the experiments to the receiver. In our analysis the truthful disclosure rule is assumed-the principal is required to truthfully announce each experiment detail and result to the receiver immediately after the result is revealed. Based on the received information, when its their turn the receiver takes an action which influences the state of the underlying system. Using a constructive backward inductive procedure, we show that there exists a Perfect Bayesian Equilibrium in this game where both agents play Canonical Belief Based (CBB) strategies using a compressed version of their information, rather than their full information, to choose experiments (for the principal) or actions (for the receiver)."
+  },
+  {
+    "paper_id": "7eb0d0e1b1440303e3517f4661df7c5e8dc2e6b7",
+    "title": "Bayesian games with nested information",
+    "year": 2024,
+    "author_ids": [
+      "7429231",
+      "2262541926",
+      "1688209"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 0,
+    "abstract": "A Bayesian game is said to have nested information if the players are ordered and each player knows the types of all players that follow her in that order. We prove that all multiplayer Bayesian games with finite action spaces, bounded payoffs, Polish type spaces, and nested information admit a Bayesian equilibrium."
+  },
+  {
+    "paper_id": "4eab6a18c1bc4adee8985912932fcd49ef3b90ac",
+    "title": "The folk theorem for the prisoner's dilemma with endogenous private monitoring",
+    "year": 2023,
+    "author_ids": [
+      "2238714592",
+      "1396529779"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 2,
+    "abstract": ","
+  },
+  {
+    "paper_id": "52cb2ea39794dad484e878d8b1d7a858b0c917aa",
+    "title": "On the equivalence of information design by uninformed and informed principals",
+    "year": 2023,
+    "author_ids": [
+      "1720611"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 10,
+    "abstract": "We compare information design, or Bayesian persuasion, by an uninformed principal (who has no information about the state of the world when making her choice) and by an informed principal (who has private information and can condition her choice on that information). We show that, under the assumptions of monotone preferences of the principal and nondegenerate information structures, a Pareto undominated outcome is implementable by the uninformed principal if and only if it is implementable by the informed principal."
+  },
+  {
+    "paper_id": "1461fe43f99dad065d1cf592fd4fa87ef49c195f",
+    "title": "Sequential Cursed Equilibrium",
+    "year": 2022,
+    "author_ids": [
+      "46677094",
+      "3278308"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 4,
+    "abstract": "We propose an extensive-form solution concept, with players who neglect information from hypothetical events but make inferences from observed events. Our concept modifies cursed equilibrium (Eyster and Rabin 2005) and allows that players can be cursed about endogenous information. (JEL C73, D44, D71, D81, D83, D91)"
+  },
+  {
+    "paper_id": "a384d16361f03ead44cc4df59aa13bc62484a405",
+    "title": "Bargaining with Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "3124858"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 4,
+    "abstract": "Two players bargain over a single indivisible good and a transfer, with one-sided incomplete information about preferences. Both players can offer arbitrary mechanisms to determine the allocation. We show that there is a unique perfect Bayesian equilibrium outcome. In the equilibrium, one of the players proposes a menu that is optimal for the uninformed player among all menus, such that each type of the informed player receives at least her payoff under complete information. The optimal menu can be implemented with at most three allocations. Under a natural assumption on the uninformed player\u2019s beliefs, the optimal menu coincides with the Myerson\u2019s neutral solution to the bargaining problem in this environment. (JEL C78, D82, D83)"
+  },
+  {
+    "paper_id": "d0b365836818bccefca1bceb82ad0fa92cfe8778",
+    "title": "The Revelation Principle in Multistage Games",
+    "year": 2020,
+    "author_ids": [
+      "1836323",
+      "1818256"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 27,
+    "abstract": "\n The communication revelation principle (RP) of mechanism design states that any outcome that can be implemented using any communication system can also be implemented by an incentive-compatible direct mechanism. In multistage games, we show that in general the communication RP fails for the solution concept of sequential equilibrium (SE). However, it holds in important classes of games, including single-agent games, games with pure adverse selection, games with pure moral hazard, and a class of social learning games. For general multistage games, we establish that an outcome is implementable in SE if and only if it is implementable in a canonical Nash equilibrium in which players never take codominated actions. We also prove that the communication RP holds for the more permissive solution concept of conditional probability perfect Bayesian equilibrium."
+  },
+  {
+    "paper_id": "0c1f09c7b10f0af9ff71e3cc28bb368af395cc09",
+    "title": "Ultimatum Bargaining with Rational Inattention",
+    "year": 2020,
+    "author_ids": [
+      "114355951"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 39,
+    "abstract": "A seller bargains with a rationally inattentive buyer (Sims 2003) over a good of random quality. After observing quality, the seller makes a take-it-or-leave-it offer. The buyer pays attention to the seller\u2019s product and offer at a cost proportional to expected entropy reduction. Because attention is free off-path, multiple equilibria emerge, many of which are efficient. A trembling-hand-like refinement (Selten 1975) rules out efficiency, delivering complete disagreement when attention is expensive and a unique equilibrium with trade when attention is cheap. In this equilibrium, the buyer overpays for low-quality goods, underpays for high-quality goods, and earns a strictly positive payoff. (JEL C78, D82, D83, D86, L15)"
+  },
+  {
+    "paper_id": "29151513df05e5c8dababfcfdf3275e601823841",
+    "title": "Robustness of equilibria in games with many players.",
+    "year": 2019,
+    "author_ids": [
+      "1471878047",
+      "2048642896",
+      "2112376385",
+      "2108581927"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "76e2a64599ee0321ef05b3fb698c3d2ec56ab18d",
+    "title": "Ambiguity attitudes and self-confirming equilibrium in sequential games",
+    "year": 2019,
+    "author_ids": [
+      "2388982",
+      "22280256",
+      "104124540",
+      "1727045"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 26,
+    "abstract": "We consider a game with sequential moves played by agents who are randomly drawn from large populations and matched. We assume that, when players are uncertain about the strategy distributions of the opponents, preferences over actions at any information set admit a smooth-ambiguity representation in the sense of Klibanoff, Marinacci, and Mukerji (Econometrica, 2005). This may induce dynamically inconsis- tent preferences and calls for an appropriate defi nition of sequential best response. We take this into account in our analysis of self-con firming equilibrium (SCE) and rationalizable SCE in sequential games with feedback played by agents with non-neutral ambiguity attitudes. Battigalli, Cerreia-Vioglio, Maccheroni, and Marinacci (Amer. Econ. Rev., 2015) show that the set of SCEs of a simultaneous-move game with feedback expands as ambiguity aversion increases. We show by example that SCE in a sequential game is not equivalent to SCE applied to the strategic form of such game, and that the previous monotonicity result does not extend to general sequential games. Still, we provide sufficient conditions under which the monotonicity result holds for (rationalizable) SCE. Keywords: Sequential games with feedback, smooth ambiguity, self-confi rming equilibrium, rationalizable self-confi rming equilibrium."
+  },
+  {
+    "paper_id": "597259b039d0f125ce4602dda920e481ae1d66ef",
+    "title": "Modeling Strategic Behavior: A Graduate Introduction To Game Theory And Mechanism Design",
+    "year": 2018,
+    "author_ids": [
+      "2499951"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "755f6acd248b3ee5309eeafb4be1da7ec3c80328",
+    "title": "Dynamic games with (almost) perfect information",
+    "year": 2015,
+    "author_ids": [
+      "2153233134",
+      "2108581927"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 5,
+    "abstract": "This paper aims to solve two fundamental problems on finite\u2010 or infinite\u2010horizon dynamic games with complete information. Under some mild conditions, we prove the existence of subgame\u2010perfect equilibria and the upper hemicontinuity of equilibrium payoffs in general dynamic games with simultaneous moves (i.e., almost perfect information), which go beyond previous works in the sense that stagewise public randomization and the continuity requirement on the state variables are not needed. For alternating move (i.e., perfect\u2010information) dynamic games with uncertainty, we show the existence ofpure\u2010strategysubgame\u2010perfect equilibria as well as the upper hemicontinuity of equilibrium payoffs, extending the earlier results on perfect\u2010information deterministic dynamic games."
+  },
+  {
+    "paper_id": "9cdd802ab32e991c62c88074b31e1abb1766f802",
+    "title": "Sequentially Stable Outcomes",
+    "year": 2024,
+    "author_ids": [
+      "94748601"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 4,
+    "abstract": "This paper introduces and analyzes \n sequentially stable outcomes in extensive\u2010form games. An outcome \n \u03c9 is sequentially stable if, for any \n \u03b5\u2009>\u20090 and any small enough perturbation of the players' behavior, there is an \n \u03b5\u2010perturbation of the players' payoffs and a corresponding equilibrium with outcome close to \n \u03c9. Sequentially stable outcomes exist for all finite games and are outcomes of sequential equilibria. They are closely related to stable sets of equilibria and satisfy versions of forward induction, iterated strict equilibrium dominance, and invariance to simultaneous moves. In signaling games, sequentially stable outcomes pass the standard selection criteria, and when payoffs are generic, they coincide with outcomes of stable sets of equilibria.\n"
+  },
+  {
+    "paper_id": "c2ac579862f34fe72f60029165721ab2eb0ae0c3",
+    "title": "Calibrated Clustering and Analogy-Based Expectation Equilibrium *",
+    "year": 2023,
+    "author_ids": [
+      "1836067",
+      "2226545652"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "c2d23e427971bb6fb2fb34b92a0dbb8617fd3cd0",
+    "title": "Data Collection by an Informed Seller \u2217",
+    "year": 2022,
+    "author_ids": [
+      "98372127",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "63fec4fb086f643c7097a857e20671b944b77d08",
+    "title": "Social Learning in General Information Environments",
+    "year": 2020,
+    "author_ids": [
+      "7978306"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I study a social learning model in which agents make decisions sequentially and learn about an unknown payoff-relevant state through two sources \u2013 a signal about the state itself (a state-signal) and a signal about the actions taken by previous agents (an action-signal). Our objective is to provide general conditions on the action-signals that lead the agents to eventually behave as if they know the state, i.e., that lead to information aggregation. When the agents\u2019 action-signals are what I call weakly separating, it is shown that information aggregation occurs when the agents\u2019 state-signals are unboundedly informative in the sense of Smith and Sorensen (2000). This result provides a unifying criterion to evaluate when information aggregation occurs, and shows that it can occur even in very opaque environments. The theory is illustrated with applications to privacy protection on digital platforms, regulation of third-party information provision in social learning environments, and the design of social learning environments when agents suffer \u201csource amnesia\u201d. I also provide sufficient conditions for information aggregation when the state-signals are boundedly informative, and necessary conditions for information aggregation."
+  },
+  {
+    "paper_id": "ba4350210eb961b62d9b0046c4db198ddf4e4fa0",
+    "title": "Existence of Trembling hand perfect and sequential equilibrium in Stochastic Games",
+    "year": 2020,
+    "author_ids": [
+      "47517371"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "75e7363f833708bbc2b518c01f8e151ef503e24a",
+    "title": "Bargaining over Contingent Contracts Under Incomplete Information",
+    "year": 2019,
+    "author_ids": [
+      "1747466",
+      "39040466",
+      "3098101"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "We study bargaining over contingent contracts in problems where private information becomes public or verifiable when the time comes to implement the agreement. We suggest a simple, two-stage game that incorporates important aspects of bargaining. We characterize equilibria in which parties always reach agreement, and study their limits as bargaining frictions vanish. We show that under mild regularity conditions, all interim-efficient limits belong to Myerson (1984)\u2019s axiomatic solution. Furthermore, all limits must be interim-efficient if equilibria are required to be sequential. Results extend to other bargaining protocols."
+  },
+  {
+    "paper_id": "80aed536fb21742448a3ed3b1bb6ec1ab0cb2651",
+    "title": "Proposing New Equilibrium Concepts in Dynamic Games with Noisy Signals",
+    "year": 2019,
+    "author_ids": [
+      "143652223",
+      "47086162"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "749fa97971b411a8b5482f86ed5360060329e8ee",
+    "title": "Which to Sell First? Optimal Ordering of Heterogeneous Items in Sequential Auctions",
+    "year": 2018,
+    "author_ids": [
+      "4401166"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "paper_id": "ff822850864eab4d2fa1d61e197823a648b95c43",
+    "title": "Procuring Unverifiable Information",
+    "year": 2024,
+    "author_ids": [
+      "2109948787",
+      "2692810",
+      "3076427"
+    ],
+    "venue": "Mathematics of Operations Research",
+    "citation_count": 3,
+    "abstract": "We study settings where information in the form of Bayesian signals is acquired by an expert on behalf of a principal. Information acquisition is costly for the expert and crucially not verifiable by the principal. The expert is compensated by the principal with a menu of state-contingent payments. We provide a full characterization of the set of all menus that implement (respectively, strictly implement) each signal. Moreover, we provide a closed-form characterization for the expected cost for the cheapest such menu, which we call proxy cost of the signal. Surprisingly, in general, the proxy cost is neither increasing in the Blackwell order nor posterior separable, even when the expert\u2019s cost function is posterior separable itself. Subsequently, we study the full-agency problem (by introducing a downstream decision), thus endogenizing the signal. We show that there is always an optimal signal that can be strictly implemented, meaning that it is without loss of generality to exogenously restrict attention to strict implementation. As a result, similarly to Bayesian persuasion, the complexity of the principal\u2019s optimal signal is bounded by the cardinality of the state space. Finally, we present some applications of interest. Funding: Financial support by the Wallander-Hedelius Foundation [Grants P2016-0072:1 and P20-0035 (to S. Sharma and M. Voorneveld)] is gratefully acknowledged."
+  },
+  {
+    "paper_id": "daf79891362504e6c0eece9ffa973415ecb930b5",
+    "title": "Voter attention and electoral accountability",
+    "year": 2023,
+    "author_ids": [
+      "2220230799",
+      "40943908"
+    ],
+    "venue": "Journal of Public Economics",
+    "citation_count": 7,
+    "abstract": "What sorts of policy decisions do voters pay attention to, and why? And how does rational voter attention a\ufb00ect the behavior of incumbents? We extend the Canes-Wrone, Herron and Shotts (2001) model of electoral accountability to allow the voter to choose when to pay costly attention to learn the consequences of the incumbent\u2019s policy. When the voter\u2019s attention cost is \u201cintermediate,\u201d we \ufb01nd that she will generally pay more attention to an unpopular policy than a popular one. This may lead a moderately strong incumbent to \u201cplay it safe\u201d by categorically avoiding the unpopular policy to evade the voter\u2019s scrutiny, ultimately harming the voter\u2019s own welfare. We also \ufb01nd that rational voter attention can never induce \u201cfake leadership,\u201d i.e., a moderately weak incumbent choosing an unpopular policy precisely because it draws more scrutiny, hoping that the voter discovers an accidental policy success."
+  },
+  {
+    "paper_id": "67bbcc49dcd6fd15042d80bf5cae549b0854948c",
+    "title": "Rationally Inattentive Statistical Discrimination: Arrow Meets Phelps",
+    "year": 2022,
+    "author_ids": [
+      "2533555",
+      "49779582"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "When information acquisition is costly but flexible, a principal may rationally acquire information that favors ``majorities'' over ``minorities'' unless the latter are strictly more productive than the former. Majorities therefore face incentives to invest in becoming productive, whereas minorities are discouraged from such investments. The principal, in turn, focuses scarce attentional resources on majorities precisely because they are likely to invest. We give conditions under which the resulting discriminatory equilibrium is most preferred by the principal, despite that all groups are ex-ante identical. Our results add to the discussions of affirmative action, implicit bias, and occupational segregation and stereotypes."
+  },
+  {
+    "paper_id": "3fd2b22d73c5d24c645994d2791e9370c33e46b2",
+    "title": "The Status Quo and Belief Polarization of Inattentive Agents: Theory and Experiment",
+    "year": 2021,
+    "author_ids": [
+      "39743400",
+      "144949685",
+      "100614718"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 7,
+    "abstract": "We show that rational but inattentive agents can become polarized ex ante. We present how optimal information acquisition and subsequent belief formation depend crucially on the agent-specific status quo valuation. Beliefs can systematically\u2014in expectations over all possible signal realizations conditional on the state of the world\u2014update away from the realized truth, and even agents with the same initial beliefs might become polarized. We design a laboratory experiment to test the model\u2019s predictions. The results confirm our predictions about the mechanism (rational information acquisition) and its effect on beliefs (systematic polarization), and they provide general insights into demand for information. (JEL C92, D72, D83, D91)"
+  },
+  {
+    "paper_id": "4a316e48926550cc202f3d9bf2a956a1ed9704b9",
+    "title": "Electoral accountability and selection with personalized information aggregation",
+    "year": 2020,
+    "author_ids": [
+      "49779582",
+      "1740525845"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 6,
+    "abstract": "We study a model of electoral accountability and selection whereby heterogeneous voters aggregate incumbent politician's performance data into personalized signals through paying limited attention. Extreme voters' signals exhibit an own-party bias, which hampers their ability to discern the good and bad performances of the incumbent. While this effect alone would undermine electoral accountability and selection, there is a countervailing effect stemming from partisan disagreement, which makes the centrist voter more likely to be pivotal. In case the latter's unbiased signal is very informative about the incumbent's performance, the combined effect on electoral accountability and selection can actually be a positive one. For this reason, factors that carry a negative connotation in every political discourse -- such as increasing mass polarization and shrinking attention span -- have ambiguous accountability and selection effects in general. Correlating voters' signals, if done appropriately, unambiguously improves electoral accountability and selection and, hence, voter welfare."
+  },
+  {
+    "paper_id": "4a74de258c5ce9513f5d0c5531a0572c21cc0bee",
+    "title": "Voter Learning, Unidimensional Ideology, and Polarization",
+    "year": 2023,
+    "author_ids": [
+      "2275695104"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b722dc86458f3a4a88e89da54ac660d3e310b090",
+    "title": "It\u2019s Simple. Why stability is Bad for Voters? \u2217",
+    "year": 2022,
+    "author_ids": [
+      "1581519599"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "paper_id": "8ed95a11abd67d52095895aada705847b0fbe900",
+    "title": "Harnessing Information in Incentive Design",
+    "year": 2025,
+    "author_ids": [
+      "87884693",
+      "50693937",
+      "2243309465"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 1,
+    "abstract": "Incentive design deals with interaction between a principal and an agent where the former can shape the latter\u2019s utility through a policy commitment. It is well known that the principal faces an information rent when dealing with an agent that has informational advantage. In this work, we embark on a systematic study of the effect of information asymmetry in incentive design games. Specifically, we first demonstrate that it is in principal\u2019s interest to decrease this information asymmetry. To mitigate this uncertainty, we let the principal gather information either by letting the agent shape her belief (aka Information Design), or by paying to acquire it. Providing solutions to all these cases we show that while introduction of uncertainty increases the principal\u2019s cost, letting the agent shape its belief can be advantageous. We study information asymmetry and information acquisition in both matrix games and quadratic Gaussian game setups."
+  },
+  {
+    "paper_id": "4a161eecd951955b25d4383e59a766bc527f2d6e",
+    "title": "Multi-Dimensional Screening with Endogenous Information Disclosure",
+    "year": 2025,
+    "author_ids": [
+      "2258335110",
+      "2716214",
+      "2110389738"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study multi-product monopoly pricing where the seller jointly designs the selling mechanism and the information structure for the buyer to learn his values. Unlike the case with exogenous information, we show that when the seller controls information, even uniform pricing guarantees at least half of the optimal revenue. Moreover, for negatively affiliated or exchangeable value distributions, deterministic pricing is revenue-optimal. Our results highlight the power of information design in making pricing mechanisms approximately optimal in multi-dimensional settings."
+  },
+  {
+    "paper_id": "bd4ffa9108a1733de4d319430d7bb76cd70ad758",
+    "title": "Flexible Demand Manipulation",
+    "year": 2024,
+    "author_ids": [
+      "2267879255",
+      "2391228952"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We develop a simple framework to analyze how targeted persuasive advertising shapes market power and welfare. A designer flexibly manipulates the demand curve by influencing individual valuations at a cost. A monopolist prices against this manipulated demand curve. We fully characterize the form of optimal advertising plans under ex-ante and ex-post welfare measures. Flexibility per se is powerful, and can substantially harm or benefit consumers vis-a-vis uniform advertising. We discuss implications for regulation, intermediation, and the joint design of manipulation and information."
+  },
+  {
+    "paper_id": "435c095f46f04535300b1fef4f8241dc8db1b009",
+    "title": "Algorithmic Information Disclosure in Optimal Auctions",
+    "year": 2024,
+    "author_ids": [
+      "2258335110",
+      "2716214",
+      "2110389738"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "Classical auction theory typically focuses on models with exogenous signal structures, where all auction participants privately know their item valuations. However, practical scenarios often find buyers initially uninformed about their item values due to the lack of data on item quality or suitability. Instead, buyers rely on seller advertisements to learn their values. For instance, streaming services offer free trials to influence consumer perceptions before subscriptions, while real estate agencies provide property inspections for better buyer estimations. In these cases, sellers can jointly design their advertising strategies and auction mechanisms. This paper focus on a model by Bergemann and Pesendorfer [2007] for this joint design problem. Here, a seller with one item faces n heterogeneous buyers whose values are drawn from a commonly known product distribution. Initially, neither party knows exact buyer values. Sellers employ Blackwell experiments to help buyers privately and independently learn their values. Despite sellers designing these experiments, resulting signals are only privately observed by buyers, which aligns with advertising and private inspection applications. We show that in contrast to Myerson [1981] where the optimal auction with exogenous signals can be computed in polynomial time, the optimal joint design problem becomes NP-hard when the seller also has the ability to design the signal structures. Our main result is a polynomial-time approximation scheme (PTAS) for computing the optimal joint design with at most an \u03f5 multiplicative loss in expected revenue. Moreover, we show that in our joint design problem, the seller can significantly reduce the information rent of the agents by providing partial information, which ensures a revenue that is at least 1 - 1/e of the optimal welfare for all valuation distributions. A full version of this paper can be found at https://arxiv.org/abs/2403.08145."
+  },
+  {
+    "paper_id": "3d8771ef680f572c4a5bdc49475a2a383daa04d3",
+    "title": "Perfect robust implementation by private information design",
+    "year": 2024,
+    "author_ids": [
+      "2062210015"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "97b2fad4bc24a4e986f6cae363db2ddc90feb996",
+    "title": "Coarse Information Design",
+    "year": 2023,
+    "author_ids": [
+      "1753640660",
+      "37452006",
+      "2381942979"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We study an information design problem with continuous state and discrete signal space. Under convex and S-shaped value functions, the optimal information structure is interval-partitional and exhibits a dual expectations property: each induced signal is the conditional mean (taken under the prior density) of each interval; and each interval cutoff is the barycenter (taken under the value function curvature) of the interval formed by neighboring signals. This property enables an examination into which part of the state space is more finely partitioned. The analysis can be extended to general value functions and adapted to study coarse mechanism design."
+  },
+  {
+    "paper_id": "e44bac34eb249f7d691717e19acf6fc107de04e2",
+    "title": "Opaque Contracts",
+    "year": 2023,
+    "author_ids": [
+      "2059769656",
+      "121435111"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Firms have access to abundant data on market participants. They use these data to target contracts to agents with specific characteristics, and describe these contracts in opaque terms. In response to such practices, recent proposed regulations aim to increase transparency, especially in digital markets. In order to understand when opacity arises in contracting and the potential effects of proposed regulations, we study a moral hazard model in which a risk-neutral principal faces a continuum of weakly risk-averse agents. The agents differ in an observable characteristic that affects the payoff of the principal. In a described contract, the principal sorts the agents into groups, and to each group communicates a distribution of output-contingent payments. Within each group, the realized distribution of payments must be consistent with the communicated contract. A described contract is transparent if the principal communicates the realized contract to the agent ex-ante, and otherwise it is opaque. We provide a geometric characterization of the principal's optimal described contract as well as conditions under which the optimal described mechanism is transparent and opaque. We apply our results to the design and description of driver payment schemes on ride-hailing platforms."
+  },
+  {
+    "paper_id": "c4314d7d2e8b83c9c091c8261ea065d0f492d99a",
+    "title": "How Information Design Shapes Optimal Selling Mechanisms",
+    "year": 2024,
+    "author_ids": [
+      "2269069642"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "A monopolistic seller jointly designs allocation rules and (new) information about a pay-off relevant state to a buyer with private types. When the new information flips the ranking of willingness to pay across types, a screening menu of prices and threshold disclosures is optimal. Conversely, when its impact is marginal, bunching via a single posted price and threshold disclosure is (approximately) optimal. While information design expands the scope for random mechanisms to outperform their deterministic counterparts, its presence leads to an equivalence result regarding sequential versus. static screening."
+  },
+  {
+    "paper_id": "dbdd4f390bb2b51cf73c3f5c86dd98d20b006516",
+    "title": "When Are Single-Contract Menus Profit-Maximizing? *",
+    "year": 2023,
+    "author_ids": [
+      "117545006"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "f43f5d1e20f87bdad69f06ed5330a010861372ff",
+    "title": "Optimally Coarse Contracts",
+    "year": 2023,
+    "author_ids": [
+      "119159863",
+      "1726112402",
+      "2258288753"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study when a principal\u2019s difficulty in describing payoff-relevant outcomes leads contracts to be optimally incomplete. Our setting is a general principal-agent model in which agents\u2019 actions are partially contractible and the principal can choose the extent of contractibility at a cost. We first characterize implementable and optimal incomplete contracts for any fixed extent of contractibility. We next show that, if costs of contractibility satisfy a generalized notion of having a strictly positive marginal cost, then contracts are optimally coarse: they specify finitely many outcomes out of a continuum of possibilities. This provides a general foundation for incomplete contracts: even with arbitrarily small costs of contractibility, optimal contracts leave almost all outcomes unspecified. We apply these results in a standard nonlinear pricing setting to study when and why optimal price schedules have coarse tiers. In additional applications, we rationalize coarse product tiers in further assignment problems that feature menu costs, privacy concerns, and quality certification. \u2217MIT Department of Economics, 50 Memorial Drive, Cambridge, MA, 02142. Email: rcorrao@mit.edu. \u2020Yale University Department of Economics, 30 Hillhouse Avenue, New Haven, CT, 06511. Email: joel.flynn@yale.edu. \u2021Princeton University Department of Economics, Julis Romo Rabinowitz Building, Princeton, NJ, 08544, Email: ksastry@princeton.edu. We are grateful to Daron Acemoglu, Alessandro Bonatti, O\u011fuzhan \u00c7elebi, Daniel Chen, Piotr Dworczak, Drew Fudenberg, Robert Gibbons, Zi Yang Kang, Giacomo Lanzani, Stephen Morris, Ellen Muir, Jean Tirole, Jonathan Weinstein, Alexander Wolitzky, and Kai Hao Yang."
+  },
+  {
+    "paper_id": "0771eb5ecb3d9211dd51455ab418e420d63a98e9",
+    "title": "Dynamic Pricing and Learning with Bayesian Persuasion",
+    "year": 2023,
+    "author_ids": [
+      "2284763752",
+      "2345013195",
+      "2347875632"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 5,
+    "abstract": "We consider a novel dynamic pricing and learning setting where in addition to setting prices of products in sequential rounds, the seller also ex-ante commits to \u2018advertising schemes\u2019. That is, in the beginning of each round the seller can decide what kind of signal they will provide to the buyer about the product\u2019s quality upon realization. Using the popular Bayesian persuasion framework to model the effect of these signals on the buyers\u2019 valuation and purchase responses, we formulate the problem of \ufb01nding an optimal design of the advertising scheme along with a pricing scheme that maximizes the seller\u2019s expected revenue. Without any apriori knowledge of the buyers\u2019 demand function, our goal is to design an online algo-rithm that can use past purchase responses to adaptively learn the optimal pricing and advertising strategy. We study the regret of the algorithm when compared to the optimal clairvoyant price and advertising scheme. Our main result is a computationally ef\ufb01cient online algorithm that achieves an O ( T 2 / 3 ( m log T ) 1 / 3 ) regret bound when the valuation function is linear in the product quality. Here m is the cardinality of the discrete product quality domain and T is the time horizon. This result requires some natural monotonicity and Lipschitz assumptions on the valuation function, but no Lipschitz or smoothness assumption on the buyers\u2019 demand function. For constant m , our result matches the regret lower bound for dynamic pricing within logarithmic factors, which is a special case of our problem. We also obtain several improved results for the widely considered special case of additive valuations, including an \u02dc O"
+  }
+]

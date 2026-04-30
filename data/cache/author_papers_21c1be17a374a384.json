@@ -1,0 +1,398 @@
+[
+  {
+    "paper_id": "904aa58b7a351a03937468ae0b9141cfd2c467c1",
+    "title": "Menu Pricing of Large Language Models",
+    "year": 2025,
+    "author_ids": [
+      "2258718770",
+      "10689883",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 20,
+    "abstract": "We develop a framework for the optimal pricing and product design of LLMs in which a provider sells menus of token budgets to users who differ in their valuations across a continuum of tasks. Under a homogeneous production technology, we show that users'high-dimensional type profiles are summarized by a scalar index, reducing the seller's problem to one-dimensional screening. The optimal mechanism takes the form of committed-spend contracts: buyers pay for a budget that they allocate across token classes priced at marginal cost. We extend the analysis to environments with multiple differentiated models and to competition between a proprietary leader and an open-source fringe, showing that competitive pressure reshapes both the intensive and extensive margins of compute provision. Each element of our theory (token-budget menus, maximum- and minimum-spend plans, multi-model versioning, and linear API pricing) has a direct counterpart in the observed pricing practices of providers such as Anthropic, OpenAI, and GitHub."
+  },
+  {
+    "paper_id": "cfda486b80bf6c1ae1cc6383a5bc70a115fd44f2",
+    "title": "Bidding with Budgets: Data-Driven Bid Algorithms in Digital Advertising",
+    "year": 2025,
+    "author_ids": [
+      "2258718770",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 1,
+    "abstract": "In digital advertising, the allocation of sponsored search, sponsored product, or display advertisements is mediated by auctions. The generation of bids in these auctions for attention is increasingly supported by auto-bidding algorithms and platform-provided data. We analyze the equilibrium properties of a sequence of increasingly sophisticated auto-bidding algorithms. First, we consider the equilibrium bidding behavior of an individual advertiser who controls the auto-bidding algorithm through the choice of their budget. Second, we examine the interaction when all bidders use budget-controlled bidding algorithms. Finally, we derive the bidding algorithm that maximizes the platform\u2019s revenue while ensuring all advertisers continue to participate."
+  },
+  {
+    "paper_id": "03a269e76b2b38cf472d78fec47aeec3f7ac4a9f",
+    "title": "How do Digital Advertising Auctions Impact Product Prices?",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 7,
+    "abstract": "\n We present a model of digital advertising with three key features: (i) advertisers can reach consumers on and off a platform, (ii) additional data enhances the value of advertiser-consumer matches, and (iii) the allocation of advertisements follows an auction-like mechanism. We contrast data-augmented auctions, which leverage the platform\u2019s data advantage to improve match quality, with managed-campaign mechanisms that automate match formation and price-setting.\n The platform-optimal mechanism is a managed campaign that conditions the onplatform prices for sponsored products on the off-platform prices set by all advertisers. This mechanism yields the efficient on-platform allocation but inefficiently high off-platform product prices. It attains the vertical integration profit for the platform and the advertisers, and it increases off-platform product prices while decreasing consumer surplus, relative to data-augmented auctions."
+  },
+  {
+    "paper_id": "0784ca316782513427e792a22106abb899320e22",
+    "title": "Data Markets with Privacy-Conscious Consumers",
+    "year": 2023,
+    "author_ids": [
+      "90890409",
+      "10689883"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 5,
+    "abstract": "We study data linkages among heterogeneous firms and examine how they shape the outcome of privacy regulation. A single consumer interacts sequentially with two firms: one firm collects data on consumer behavior, and the other firm leverages the data to set a quality level and a price. Privacy-conscious consumers distort their purchases from a data-collecting firm to manipulate the data-using firm's beliefs. We identify conditions under which data linkages increase total firm profits. Therefore, if firms can trade consumer data efficiently, our setting provides a rationale for the existence of data markets even with privacy-conscious consumers."
+  },
+  {
+    "paper_id": "41470d18345a7a4664e7d4de687964e6c4f13b7d",
+    "title": "Managed Campaigns and Data-Augmented Auctions for Digital Advertising",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 5,
+    "abstract": "Digital advertising facilitates the matching of consumers and advertisers online. Large platforms leverage their extensive consumer data to offer access to qualified online shoppers, helping them find their preferred brands. In turn, advertisers join these platforms to target a wider range of potential consumers beyond their existing customer base."
+  },
+  {
+    "paper_id": "9a279c3c29aa72ee5bc47711091d209db01ea09c",
+    "title": "Data, Competition, and Digital Platforms",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 62,
+    "abstract": "A monopolist platform uses data to match heterogeneous consumers with multiproduct sellers. The consumers can purchase the products on the platform or search off the platform. The platform sells targeted ads to sellers that recommend their products to consumers and reveals information to consumers about their match values. The revenue-optimal mechanism is a managed advertising campaign that matches products and preferences efficiently. In equilibrium, sellers offer higher qualities at lower unit prices on than off platform. The platform exploits its information advantage to increase its bargaining power vis-\u00e0-vis the sellers. Finally, privacy-respecting data-governance rules can lead to welfare gains for consumers. (JEL D11, D42, D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "a9dfb411506319918248461ff70d805cdfcb510f",
+    "title": "Information Design with Elicitation and Strategic Coordination",
+    "year": 2023,
+    "author_ids": [
+      "10689883",
+      "1729606",
+      "2142860",
+      "100505940"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "We study linear-quadratic games of incomplete information with Gaussian uncertainty, where each player's payoff depends on a privately observed type and a common state. The designer observes the state, elicits types, and sells action recommendations. We characterize all implementable mechanisms with Gaussian joint distributions of actions and fundamentals, and identify the players-optimal, consumer-optimal, and revenue-maximizing designs. In games of strategic complements (substitutes), these optimal mechanisms maximally correlate (anticorrelate) players'actions. When type uncertainty is large, recommendations become deterministic linear functions of the state and reports, but remain only partially revealing."
+  },
+  {
+    "paper_id": "797c8a9b93e9b5dfc8b236c9d6d93d31b66251af",
+    "title": "Selling Information in Competitive Environments",
+    "year": 2022,
+    "author_ids": [
+      "10689883",
+      "1729606",
+      "2142860",
+      "100505940"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 17,
+    "abstract": "Data buyers compete in a game of incomplete information about which a single data seller owns some payoff-relevant information. The seller faces a joint information- and mechanism-design problem: deciding which information to sell, while eliciting the buyers' types and imposing payments. We derive the welfare- and revenue-optimal mechanisms for a class of games with binary actions and states. Our results highlight the critical properties of selling information in competitive environments: (i) the negative externalities arising from buyer competition increase the profitability of recommending the correct action to one buyer exclusively; (ii) for the buyers to follow the seller's recommendations, the degree of exclusivity must be limited; (iii) the buyers' obedience constraints also limit the distortions in the allocation of information introduced by a monopolist seller; (iv) as competition becomes fiercer, these limitations become more severe, weakening the impact of market power on the allocation of information."
+  },
+  {
+    "paper_id": "887f7645653d0b4fe2745d5aba84eb9aebbe9f0f",
+    "title": "More Competitive Search Through Regulation",
+    "year": 2021,
+    "author_ids": [
+      "3072093",
+      "10689883",
+      "144776615",
+      "2239703366",
+      "2081742584",
+      "2342599",
+      "116218366",
+      "40767371",
+      "1741150737",
+      "1703133",
+      "15793844",
+      "2252291293"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "Paul Heidhues, DICE, Heinrich-Heine University D\u00fcsseldorf Alessandro Bonatti, Massachusetts Institute of Technology L. Elisa Celis, Yale University Gregory S. Crawford, University of Zurich and Zalando SE David Dinielli, Yale University Michael Luca, Harvard University Tobias Salz, Massachusetts Institute of Technology Monika Schnitzer, Ludwig-Maximilians-University Munich Fiona M. Scott Morton, Yale University Michael Sinkinson, Yale University Jidong Zhou, Yale University"
+  },
+  {
+    "paper_id": "8b83864773c5c25a6fa5a2a397e535821b290f1b",
+    "title": "The Optimality of Upgrade Pricing",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "2059769656",
+      "144622420"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 6,
+    "abstract": "We consider a multiproduct monopoly pricing model. We provide sufficient conditions under which the optimal mechanism can be implemented via upgrade pricing -- a menu of product bundles that are nested in the strong set order. Our approach exploits duality methods to identify conditions on the distribution of consumer types under which (a) each product is purchased by the same set of buyers as under separate monopoly pricing (though the transfers can be different), and (b) these sets are nested. We exhibit two distinct sets of sufficient conditions. The first set of conditions is given by a weak version of monotonicity of types and virtual values, while maintaining a regularity assumption, i.e., that the product-by-product revenue curves are single-peaked. The second set of conditions establishes the optimality of upgrade pricing for type spaces with monotone marginal rates of substitution (MRS) -- the relative preference ratios for any two products are monotone across types. The monotone MRS condition allows us to relax the earlier regularity assumption. Under both sets of conditions, we fully characterize the product bundles and prices that form the optimal upgrade pricing menu. Finally, we show that, if the consumer's types are monotone, the seller can equivalently post a vector of single-item prices: upgrade pricing and separate pricing are equivalent."
+  },
+  {
+    "paper_id": "b76ad45130a7bf47e8457062ee7f917aa65ec8f4",
+    "title": "Data Linkages and Privacy Regulation\u2217",
+    "year": 2021,
+    "author_ids": [
+      "90890409",
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "b90860014eb8642da7792091e372fda5281be4d5",
+    "title": "Introduction to the Symposium on Contracts, Organizations, and Ownership",
+    "year": 2021,
+    "author_ids": [
+      "10689883",
+      "2067793480"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6b9149b1a14b3de512467a49b92e468ddc72ecd7",
+    "title": "Information Revelation and Privacy Protection",
+    "year": 2020,
+    "author_ids": [
+      "90890409",
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "72d3e7bcc14d06d8ffda1579603b9d9991d6be02",
+    "title": "Consumer Scores and Price Discrimination",
+    "year": 2019,
+    "author_ids": [
+      "10689883",
+      "52327882"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 90,
+    "abstract": "We study the implications of aggregating consumers\u2019 purchase histories into scores that proxy for unobserved willingness to pay. A long-lived consumer interacts with a sequence of firms. Each firm relies on the consumer\u2019s current score\u2013a linear aggregate of noisy purchase signals\u2014to learn about her preferences and to set prices. If the consumer is strategic, she reduces her demand to manipulate her score, which reduces the average equilibrium price. Firms in turn prefer scores that overweigh past signals relative to applying Bayes\u2019 rule with disaggregated data, as this mitigates the ratchet effect and maximizes the firms\u2019 ability to price discriminate. Consumers with high average willingness to pay benefit from data collection, because the gains from low average prices dominate the losses from price discrimination. Finally, hidden scores\u2014those only observed by the firms\u2014reduce demand sensitivity, increase average prices, and reduce consumer surplus, sometimes below the naive-consumer level."
+  },
+  {
+    "paper_id": "9a3fbf63640e05c10e7f52e1eae18ad7d9a95636",
+    "title": "Annual Review of Economics Markets for Information : An Introduction",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e001a3e7d937c9f6cc092f9267680740e5a8c153",
+    "title": "Supplementary Appendix to \u201cConsumer Scores and Price Discrimination\u201d",
+    "year": 2019,
+    "author_ids": [
+      "10689883",
+      "52327882"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f36d8f32f3a047e8ac52f96aed4e05ac7dbbf7a0",
+    "title": "The Economics of Social Data",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "83604817"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 164,
+    "abstract": "A data intermediary pays consumers for information about their preferences and sells the information so acquired to firms that use it to tailor their products and prices. The social dimension of the individual data---whereby an individual's data are predictive of the behavior of others---generates a data externality that reduces the intermediary's cost of acquiring information. We derive the intermediary's optimal data policy and show that it preserves the privacy of the consumers' identities while providing precise information about market demand to the firms. This enables the intermediary to capture the entire value of information as the number of consumers grows large."
+  },
+  {
+    "paper_id": "13ef852bea700a19db7aa3e646182662c6314654",
+    "title": "Consumer Scores and Market Segmentation \u2217",
+    "year": 2018,
+    "author_ids": [
+      "10689883",
+      "52327882"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f6a57fcc89457c0037f0121b408aa848acbd3e14",
+    "title": "Markets for Information: An Introduction",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 204,
+    "abstract": "We survey a recent and growing literature on markets for information. We offer a comprehensive view of information markets through an integrated model of consumers, information intermediaries, and firms. The model embeds a large set of applications ranging from sponsored-search advertising to credit scores to information sharing among competitors. We then zoom in to one of the critical elements in the markets for information: the design of the information. We distinguish between ex ante sales of information (the buyer acquires an information structure) and ex post sales (the buyer pays for specific realizations). We relate this distinction to the different products that brokers, advertisers, and publishers use to trade consumer information online. We discuss the endogenous limits to the trade of information that derive from the potential adverse use of information to the consumers. Finally, we discuss recommender systems and other information filtering systems that use artificial intelligence to predict ratings or preferences in markets for indirect information."
+  },
+  {
+    "paper_id": "fe96d7d921d81a8ed995b4de85b8216398352e32",
+    "title": "Discretized Model and Limit Demand Sensitivity 23 S 1 Omitted Proofs S 1 . 1 Section 4 : Equilibrium Analysis Theorem",
+    "year": 2018,
+    "author_ids": [
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1032908d444a6f8290e37b987c3586d213883d70",
+    "title": "Learning to disagree in a game of experimentation",
+    "year": 2017,
+    "author_ids": [
+      "10689883",
+      "145949712"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 35,
+    "abstract": null
+  },
+  {
+    "paper_id": "2d2adcd1fdd27662d1bf94c6446eda3073ff76ea",
+    "title": "How to design and price information for sale to others",
+    "year": 2017,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4d6393be8c434ca970957876687a7ca5fe746d44",
+    "title": "Ratings-Based Price Discrimination\u2217",
+    "year": 2017,
+    "author_ids": [
+      "10689883",
+      "52327882"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "4ffe4bd92f353dbdb2bff1390e271e89df52fa2c",
+    "title": "The Design and Price of Information Dirk Bergemann",
+    "year": 2017,
+    "author_ids": [
+      "10689883",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "6b3a94ac973b3fc1937598b5db6e6bdf41e01cb9",
+    "title": "The Career Effects of Scandal: Evidence from Scientific Retractions",
+    "year": 2017,
+    "author_ids": [
+      "3357178",
+      "10689883",
+      "37599505"
+    ],
+    "venue": null,
+    "citation_count": 122,
+    "abstract": "We investigate how the scientific community's perception of a scientist's prior work changes when one of his articles is retracted. Relative to non-retracted control authors, faculty members who experience a retraction see the citation rate to their earlier, non-retracted articles drop by 10% on average, consistent with the Bayesian intuition that the market inferred their work was mediocre all along. We then investigate whether the eminence of the retracted author and the cause of the retraction (fraud vs. mistake) shape the magnitude of the penalty. We find that eminent scientists are more harshly penalized than their less distinguished peers in the wake of a retraction, but only in cases involving fraud or misconduct. When the retraction event had its source in \u201chonest mistakes,\u201d we find no evidence of differential stigma between high- and low-status faculty members."
+  },
+  {
+    "paper_id": "818892f562b13c2eca7f837373a2b899b5ee5af3",
+    "title": "Career Concerns with Exponential Learning",
+    "year": 2017,
+    "author_ids": [
+      "10689883",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 54,
+    "abstract": "This paper analyzes the impact of market structure on career concerns. Effort increases the probability that a skilled agent achieves a one-time breakthrough. Wages are based on assessed ability and on expected output. For any wage, the agent works too little, too late. Under short-term contracts, effort and wages are single-peaked with seniority, due to the strategic substitutability of effort levels at different times. Both delay and underprovision of effort worsen if effort is observable. Commitment to wages by competing firms mitigates these inefficiencies. In that case, the optimal contract features piecewise constant wages and severance pay."
+  },
+  {
+    "paper_id": "cde684037d6ff58c01d1db8a16a30f0fd219acda",
+    "title": "The Design and Price of Information Citation Bergemann",
+    "year": 2017,
+    "author_ids": [
+      "2079909104",
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "3be5b769f771a141d5f35d066ac604bd6b2e6267",
+    "title": "Dynamic Oligopoly with Incomplete Information",
+    "year": 2016,
+    "author_ids": [
+      "10689883",
+      "52327882",
+      "32529755"
+    ],
+    "venue": null,
+    "citation_count": 47,
+    "abstract": "We consider learning and signalling in a dynamic Cournot oligopoly where firms have private information about their production costs and only observe the market price, which is subject to unobservable demand shocks. An equilibrium is Markov if play depends on the history only through the firms\u2019 beliefs about costs and calendar time. We characterize symmetric linear Markov equilibria as solutions to a boundary value problem. In every such equilibrium, given a long enough horizon, play converges to the static complete information outcome for the realized costs, but each firm only learns its competitors\u2019 average cost. The weights assigned to costs and beliefs under the equilibrium strategies are non-monotone over time. We explain this by decomposing incentives into signalling and learning, and discuss implications for prices, quantities, and welfare."
+  },
+  {
+    "paper_id": "5cb65078b5cf1b3ccd09b6284887204054ccc764",
+    "title": "Separation of Powers and New Public Spending",
+    "year": 2016,
+    "author_ids": [
+      "117917445",
+      "10689883"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "99bf74ef49769822f6d45d3a5aa6d681c01d6b48",
+    "title": "Designing and Pricing Information",
+    "year": 2015,
+    "author_ids": [
+      "2616138",
+      "10689883",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "bd07689b36c2f366a58d79678bb112bdc1522d51",
+    "title": "The Politics of Compromise",
+    "year": 2015,
+    "author_ids": [
+      "10689883",
+      "3388855"
+    ],
+    "venue": null,
+    "citation_count": 53,
+    "abstract": null
+  }
+]

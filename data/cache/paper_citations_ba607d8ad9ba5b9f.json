@@ -1,0 +1,55 @@
+[
+  {
+    "paper_id": "07c099b69f45bf8c84a6aa0f494b47e7565fae97",
+    "title": "Targeted Advertising Platforms: Data Sharing and Customer Poaching",
+    "year": 2025,
+    "author_ids": [
+      "103348632"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "E-commerce platforms are rolling out ambitious targeted advertising initiatives that rely on merchants sharing customer data with each other via the platform. Yet current platform designs fail to address participating merchants'concerns about customer poaching. This paper proposes a model of designing targeted advertising platforms that incentivizes merchants to voluntarily share customer data despite poaching concerns. I characterize the optimal mechanism that maximizes a weighted sum of platform's revenues, customer engagement and merchants'surplus. In sufficiently large platforms, the optimal mechanism can be implemented through the design of three markets: $i)$ selling market, where merchants can sell all their data at a posted price $p$, $ii)$ exchange market, where merchants share all their data in exchange for high click-through rate (CTR) ads, and $iii)$ buying market, where high-value merchants buy high CTR ads at the full price. The model is broad in scope with applications in other market design settings like the greenhouse gas credit markets and reallocating public resources, and points toward new directions in combinatorial market exchange designs."
+  },
+  {
+    "paper_id": "42327b890952c86bc4d9327e3504c3efd28d8d6c",
+    "title": "Buyer\u2010Optimal Platform Design",
+    "year": 2025,
+    "author_ids": [
+      "2299789686",
+      "3358575"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 3,
+    "abstract": "A platform matches a unit mass of sellers, each owning a single product of heterogeneous quality, to a unit mass of buyers with differing valuations for unit\u2010quality. After matching, sellers make take\u2010it\u2010or\u2010leave\u2010it price\u2010offers to buyers. Initially, valuations of buyers are only known to them and the platform, but sellers make inferences from the matching algorithm. The efficient matching is positive assortative, but buyer\u2010optimal matchings are stochastically negative assortative when there are few low\u2010value buyers (i.e., compared to lower\u2010quality sellers, high\u2010quality ones are matched to buyers with lower expected valuation). Although everyone trades, generating rents for the side lacking bargaining power results in inefficient\u00a0matching."
+  },
+  {
+    "paper_id": "cfda486b80bf6c1ae1cc6383a5bc70a115fd44f2",
+    "title": "Bidding with Budgets: Data-Driven Bid Algorithms in Digital Advertising",
+    "year": 2025,
+    "author_ids": [
+      "2258718770",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 1,
+    "abstract": "In digital advertising, the allocation of sponsored search, sponsored product, or display advertisements is mediated by auctions. The generation of bids in these auctions for attention is increasingly supported by auto-bidding algorithms and platform-provided data. We analyze the equilibrium properties of a sequence of increasingly sophisticated auto-bidding algorithms. First, we consider the equilibrium bidding behavior of an individual advertiser who controls the auto-bidding algorithm through the choice of their budget. Second, we examine the interaction when all bidders use budget-controlled bidding algorithms. Finally, we derive the bidding algorithm that maximizes the platform\u2019s revenue while ensuring all advertisers continue to participate."
+  },
+  {
+    "paper_id": "602f828b8aec0bf0415c6a20f51aabf35da2ba63",
+    "title": "Balancing Revenue and Privacy with Signaling Schemes in Online Ad Auctions",
+    "year": 2025,
+    "author_ids": [
+      "2347596600",
+      "2115385177",
+      "2313474861",
+      "2313457050",
+      "2313590399",
+      "2282536044",
+      "2327175192"
+    ],
+    "venue": "Web Search and Data Mining",
+    "citation_count": 1,
+    "abstract": "In online ad auctions, when an Internet user's certain actions trigger an auction, the auctioneer (the platform) usually sends the information about the user to help the buyers better estimate their valuations. However, by strategically revealing only partial information, we cannot only improve the revenue of the auction, but also help protect the privacy of the user. In this paper, we propose a privacy measure in the online ad auction setting, and seek to maximize a convex combination of revenue and privacy. We formulate the problem as a convex optimization program and derive structural results and properties of the program. We prove that any combination coefficient achieves a certain fraction of the optimal revenue gain and privacy gain, and that we can trade-off between revenue and privacy by simply tuning the combination coefficient. We also show that the gap between the optimal revenue and the revenue achieved by revealing no information can be bounded by a certain valuation discrepancy between the buyers. We also conduct extensive experiments (on both synthetic and real data) to show the effectiveness of our method."
+  }
+]

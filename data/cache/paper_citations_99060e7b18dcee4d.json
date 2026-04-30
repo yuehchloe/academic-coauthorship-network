@@ -1,0 +1,290 @@
+[
+  {
+    "paper_id": "4eb29ef7a164c139880bff7514d1b22311e3b3f3",
+    "title": "Complex pricing and consumer-side attention",
+    "year": 2025,
+    "author_ids": [
+      "2197250127",
+      "2275001515",
+      "2280685361"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a0368abbbaf1f1dc8710fdb5aafca868b73b4e71",
+    "title": "Airport city and downtown store competition and regulation under incomplete information",
+    "year": 2025,
+    "author_ids": [
+      "2254011508",
+      "2305121637",
+      "2238981961",
+      "2238920420"
+    ],
+    "venue": "Transportation Research Part B: Methodological",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "409746d14f04a5c15971f57826c61e75f6eb3493",
+    "title": "Financial Technology Adoption: Network Externalities of Cashless Payments in Mexico",
+    "year": 2024,
+    "author_ids": [
+      "2240703783"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 23,
+    "abstract": "Do coordination failures constrain financial technology adoption? Exploiting the Mexican government\u2019s rollout of 1 million debit cards to poor households from 2009 to 2012, I examine responses on both sides of the market and find important spillovers and distributional impacts. On the supply side, small retail firms adopted point-of-sale terminals to accept card payments. On the demand side, this led to a 21 percent increase in other consumers\u2019 card adoption. The supply-side technology adoption response had positive effects on both richer consumers and small retail firms: richer consumers shifted 13 percent of their supermarket consumption to small retailers, whose sales and profits increased. (JEL E42, L25, L81, O14, O33)"
+  },
+  {
+    "paper_id": "7b3ad52b9d792fe399373a0432199fad7287aa1e",
+    "title": "Competition and the Industrial Challenge for the Digital Age",
+    "year": 2023,
+    "author_ids": [
+      "2243333109"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 71,
+    "abstract": "Tech giants' dominance does not confront us with an unpalatable choice between laissez-faire and populist interventions. This article takes stock of available knowledge, considers desirable adaptations of regulation in the digital age, and draws some conclusions for policy reform."
+  },
+  {
+    "paper_id": "15b0b3da335a1d33800d565e7dbd142ade744d35",
+    "title": "Regulating Online Search in the EU: From the Android Case to the Digital Markets Act and Digital Services Act.",
+    "year": 2023,
+    "author_ids": [
+      "2302983",
+      "84428894"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "11f3622446bac02d929d011d1c8effd3dadb10da",
+    "title": "Gainers and Losers in Priority Services",
+    "year": 2023,
+    "author_ids": [
+      "3010350",
+      "145561454"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 3,
+    "abstract": "We analyze the implications of priority service (PS) on customers\u2019 welfare. In monopoly markets, PS can often decrease consumer surplus and can even yield a loss of welfare to all consumers. This happens despite its efficiency gains, as monopolists levy in revenue more than the total efficiency gains. PS can increase consumer surplus if it expands the consumption coverage\u2014that is, if it introduces new customers who would not purchase the service otherwise. In duopoly markets, the price competition over PS can be severely eroded. Under homogeneity, firms act as if they were monopolists serving half of the market."
+  },
+  {
+    "paper_id": "ad0f3ec9b8e13f5e22aa468310534c9aae7e0653",
+    "title": "Learning to Sell a Focal\u2010Ancillary Combination",
+    "year": 2022,
+    "author_ids": [
+      "48017300",
+      "2145438161",
+      "1829856"
+    ],
+    "venue": "Naval Research Logistics",
+    "citation_count": 0,
+    "abstract": "A number of products are sold in the following sequence: first, an essential focal product is presented, and if purchased, discretionary ancillary products are subsequently offered. Examples include airline flights followed by seat selection or insurance, hotel rooms followed by spa treatments, and electronics such as tablets paired with accessories like electronic pencils. The firm has to decide on a sale format\u2014whether to sell them in sequence, unbundled or together as a bundle\u2014and how to price them. Since the discretionary ancillary is considered by the customer only after the purchase of the focal product, the sale strategy chosen by the firm creates an information and learning dependency between the products: for instance, offering only a bundle would preclude learning customers' valuation for the focal and ancillary products individually. In this paper, we study learning strategies for such focal and ancillary item combinations under the following scenarios: (a) pure unbundling to all customers, (b) a personalized mechanism, where, depending on some observed features of the customers, the two products are presented and priced as a bundle or in sequence, and (c) the firm can change the selling strategy only once over the entire time horizon. We design pricing algorithms for all three scenarios assuming a demand distribution that depends on a linear function of customer features and show that their regrets are upper bounded by Od2TlogT$$ O\\left({d}^2\\sqrt{T}\\log T\\right) $$ , where d$$ d $$ denotes the dimension of the customer features and T$$ T $$ represents the time horizon. Furthermore, we conduct numerical experiments with both simulated and real\u2010world data to demonstrate the effectiveness of the proposed algorithms."
+  },
+  {
+    "paper_id": "6b3d151ba6e2a71199c8ae4c162f128e35d73867",
+    "title": "Welfare and fairness in free-to-play video games",
+    "year": 2022,
+    "author_ids": [
+      "1410965212"
+    ],
+    "venue": "Technological forecasting & social change",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "a0ce1fa2bb16566bb8a6d2d745e1750515a78c66",
+    "title": "Online Privacy and Market Structure: Theory and Evidence",
+    "year": 2022,
+    "author_ids": [
+      "2060090822",
+      "52188733"
+    ],
+    "venue": "Information Economics and Policy",
+    "citation_count": 28,
+    "abstract": "This paper investigates how privacy regulation affects the structure of online markets. We provide a simple theoretical model capturing the basic trade-off between the degree of privacy intrusion and the informativeness of advertising. We derive empirically testable hypotheses regarding a possibly asymmetric effect of privacy regulation on large and small firms using a diff-diff-diff model with heterogeneous treatment timing. Our theoretical model predicts that privacy regulation may affect predominantly large firms, even if - as our data confirms - these large firms tend to offer more privacy. Our empirical results show that, if any, only large firms were negatively affected, suggesting that privacy regulation might boost competition by leveling out the playing field for small firms."
+  },
+  {
+    "paper_id": "f2bf1c190d234160107e8db7b10f50599b921572",
+    "title": "The Pricing of Ancillary Goods When Selling on a Platform",
+    "year": 2022,
+    "author_ids": [
+      "46180471"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "c48cb0c76c101df90c25ccbda59320ac4dc9f98e",
+    "title": "Pricing strategies for bundled products considering consumers\u2019 green preference",
+    "year": 2022,
+    "author_ids": [
+      "2145803128",
+      "2157974925"
+    ],
+    "venue": "Journal of Cleaner Production",
+    "citation_count": 33,
+    "abstract": null
+  },
+  {
+    "paper_id": "8674f2c5cd57571b60d4d437315fe3ab4121f76c",
+    "title": "Assessment of the Impact of Social Responsibility on Poverty",
+    "year": 2021,
+    "author_ids": [
+      "137395634"
+    ],
+    "venue": "Sustainability",
+    "citation_count": 5,
+    "abstract": "Being one of the open social innovations of business entities, social responsibility is taking an important role in our society. It not only contributes to the improvement of the financial indicators of business entities, but also has a significant impact on the economic development of countries and the creation of well-being of the society members. The business contribution to environmental and social initiatives influences various economic processes and, at the same time, affects the level of poverty in countries. The purpose of this thesis is to review the concept of social responsibility and its content after the analysis of the scientific literature, and to assess the impact of social responsibility on poverty indicators after an empirical study. The assessment was performed by using the methods of analysis of the scientific literature, mathematical\u2013statistical analysis, comparative analysis, correlation analysis, as well as by studying the presented statistical data at the level of the three Baltic States \u2014 Lithuania, Latvia, and Estonia. The conducted research manifested a significant impact of the business units operating in the production sector on the employed people who are at the brink of poverty, by categorizing them by sex, age, and education. The research revealed the negative impact of the business social responsibility that is directed towards the environment field on the poverty rates of older age (65+) residents, due to the installation of new equipment and technologies. Additionally, business investments mostly affect people with secondary, and lower than secondary, education. The influence of the actual pollution amount in the production sector, to ensure the financial stability of the society, was observed. The research results are significant not only to the Baltic region, but to other economies that are seeking to reduce the poverty level in the country, by integrating the business social responsibility as well."
+  },
+  {
+    "paper_id": "46ae5dd952e6b6a96980928b449c37e0a612d51a",
+    "title": "Vertical Agreements and User Access",
+    "year": 2021,
+    "author_ids": [
+      "47252580",
+      "2286679859"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 10,
+    "abstract": "Platforms acting as sales channels for producers often charge users for access via a subscription fee or a markup on hardware. We compare two common forms of vertical pricing agreement that platforms use with sellers: per unit and proportional fees. In particular, we analyze the critical role that user access plays on prices, profits, and welfare under both forms of agreement. We characterize this role and show how it potentially overturns standard results saying that proportional fees lead to lower prices and higher profits. (JEL D21, D43, K21, L42, L86)"
+  },
+  {
+    "paper_id": "3a5e1a3527eacd9dbdb19156febb1166f13931b2",
+    "title": "Rivalry between airport ancillary and city-center supplies",
+    "year": 2020,
+    "author_ids": [
+      "78830624",
+      "2119077983"
+    ],
+    "venue": "Transportation Research Part E: Logistics and Transportation Review",
+    "citation_count": 8,
+    "abstract": "Abstract Passengers can buy souvenirs or rent a car at the airport or in the city-center. This paper develops a basic model with unit demands for airport ancillary and city-center demands to derive equilibrium pricing strategies of profit-maximizing airports and city-center companies and evaluates them from the social viewpoint. Passengers are myopic in the sense that only ticket prices matter for flight decisions or foresighted in the sense that non-aeronautical airport and city-center supplies matter for flight decisions, too. We find that the welfare evaluation of equilibrium airport pricing behavior can be independent of whether passengers are myopic or foresighted."
+  },
+  {
+    "paper_id": "f953810ad9709994a21174303e8e3d7d5ebaa536",
+    "title": "Competition in Markets for Ancillary Services? The Implications of Rising Distributed Generation",
+    "year": 2020,
+    "author_ids": [
+      "2773372",
+      "23143640"
+    ],
+    "venue": "Energy Journal",
+    "citation_count": 38,
+    "abstract": "Ancillary services are electricity products which include balancing energy, frequency regulation, voltage support, constraint management and reserves. Traditionally they have been procured by system operators from large conventional power plants, as by-products of the production of energy. This paper discusses the use of markets to procure ancillary services in the face of potentially higher demand for them, caused by rising amounts of intermittent renewable generation.We discuss: the nature of markets for ancillary services; what we really mean by ancillary services; how they are impacted by the rise of distributed generation; how they are currently procured; how they relate to the rest of the electricity system; the current state of evidence on ancillary services markets; whether these markets ever be as competitive as conventional wholesale energy markets, and offer some conclusions."
+  },
+  {
+    "paper_id": "4f6ff0d3e94e4826ed2a9286ae72fac164ef7f56",
+    "title": "Competition in Markets for Ancillary Services? The Implications of Rising Distributed Generation",
+    "year": 2020,
+    "author_ids": [
+      "2773372",
+      "23143640"
+    ],
+    "venue": "Energy Journal",
+    "citation_count": 6,
+    "abstract": "Ancillary services are electricity products which include balancing energy, frequency regulation, voltage support, constraint management and reserves. Traditionally they have been procured by system operators from large conventional power plants, as by-products of the production of energy. This paper discusses the use of markets to procure ancillary services in the face of potentially higher demand for them, caused by rising amounts of intermittent renewable generation. We discuss: the nature of markets for ancillary services; what we really mean by ancillary services; how they are impacted by the rise of distributed generation; how they are currently procured; how they relate to the rest of the electricity system; the current state of evidence on ancillary services markets; whether these markets ever be as competitive as conventional wholesale energy markets, and offer some conclusions."
+  },
+  {
+    "paper_id": "704b2810957b632ca577ed5b41f180b5236fc466",
+    "title": "Platform Competition, Vertical Differentiation, and Price Coherence",
+    "year": 2020,
+    "author_ids": [
+      "37701044",
+      "2108994150"
+    ],
+    "venue": "Journal law and economy",
+    "citation_count": 2,
+    "abstract": "This paper analyzes merchants\u2019 price coherence in two-sided markets with vertically differentiated platforms. When merchants are unable to charge different prices to consumers who purchase their products using different platforms, fee competition among platforms becomes more intense on both sides of the market. We show that with unrestricted prices, platforms compete for market share, while with price coherence, they compete for the entire sales of a merchant. As a consequence, price coherence can reduce total platform fees, increase consumer surplus, and raise total welfare. We also compare private and social incentives of a platform-merchant pair to impose price coherence, and we explore the effects of price coherence on investment incentives."
+  },
+  {
+    "paper_id": "8a14dbeb853edca5986f489983984093c54722f4",
+    "title": "Entry-deterring agency",
+    "year": 2020,
+    "author_ids": [
+      "66397191",
+      "97603145"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 7,
+    "abstract": "We provide a model in which an intermediary can choose between wholesale or agency. The possibility that buyers and sellers transact directly limits his market power and, thus, creates incentives for him to deter the emergence of bilateral exchanges. In equilibrium, the intermediary chooses agency and thereby pre-empts the emergence of a competing bilateral exchange if the matching technology of the competing exchange is sufficiently efficient. For symmetric Pareto distributions, whenever agency is chosen in equilibrium, consumer and social surplus decrease while listing and transaction prices tend to increase. The predictions of our model are broadly consistent with empirical evidence."
+  },
+  {
+    "paper_id": "12ef3a305a0c935aee9e2313bbf640c2663e88bc",
+    "title": "Shrouded transaction costs: must-take cards, discounts and surcharges",
+    "year": 2019,
+    "author_ids": [
+      "90276520",
+      "115528261",
+      "3056693"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 25,
+    "abstract": "Abstract The proliferation of new payment methods on the Internet rekindles the old and unsettled debate about merchants\u2019 incentive and ability to differentiate price according to payment choice. This paper develops an imperfect-information framework for the analysis of platform and social regulation of card surcharging and cash discounting. It makes three main contributions. First, it identifies the conditions under which concerns about missed sales induce merchants to perceive that they must take the card. Second, it derives a set of predictions about cash discounts, card surcharges and platform fees that shed light on existing evidence. Finally, it shows that the optimal regulation of surcharging is related to public policy toward merchant fees and substantially differs from current practice."
+  },
+  {
+    "paper_id": "ab97979f3b3d4cf4d865d22b059613051342bdd9",
+    "title": "Competition and industrial policy in the 21st century",
+    "year": 2024,
+    "author_ids": [
+      "2289142433"
+    ],
+    "venue": "Oxford Open Economics",
+    "citation_count": 9,
+    "abstract": "\n Large fixed costs and (direct and indirect) network externalities generate barriers to entry and high markups for winners in the digital industry. The potential for high prices, low innovation and abuses of dominant position as well as the contribution to rising inequality raise the question of how countries should regulate the industry. The tech giants\u2019 dominance does not confront us with an unpalatable choice between laissez-faire and populist interventions. The commentary explains economic stakes, considers desirable adaptations of regulation in the digital age and draws some conclusions for policy reform."
+  },
+  {
+    "paper_id": "7bfb417ed98c7d107232b1c8237f33e6f2c8927f",
+    "title": "Optional Intermediaries and Pricing Restraints",
+    "year": 2021,
+    "author_ids": [
+      "2370224770",
+      "133969953",
+      "2088455916"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "When a platform is an optional intermediary , should it require sellers to charge the same price to the platform\u2019s users as they charge their direct customers? If the platform does this, how will it a \ufb00 ect consumers\u2019 and overall welfare? In a model leveraging insight from the study of third-degree price discrimination, we show that an interesting markup-versus-volume tradeo \ufb00 governs the platform\u2019s choice. Moreover, a drawing-in e \ufb00 ect, geared towards low-valuation platform users, makes such a policy surprisingly appealing for consumers."
+  },
+  {
+    "paper_id": "6355cf530b5b084045bd12ccc6e1e3ed54d94c51",
+    "title": "Airport Regulation",
+    "year": 2021,
+    "author_ids": [
+      "78830624"
+    ],
+    "venue": "International Encyclopedia of Transportation",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "eb4ab95dcb655954262e0e051f20cfec266d13d6",
+    "title": "The (Un)intended Consequences of Refund Policies in Add-On Markets",
+    "year": 2019,
+    "author_ids": [
+      "153711194",
+      "46582059",
+      "32083166"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "37a31b0400b5853baeb6ff4abb2f6ede78fab608",
+    "title": "Financial Technology Adoption",
+    "year": 2019,
+    "author_ids": [
+      "50194201",
+      "1581028318"
+    ],
+    "venue": null,
+    "citation_count": 55,
+    "abstract": null
+  }
+]

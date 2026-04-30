@@ -1,0 +1,288 @@
+[
+  {
+    "paper_id": "5f5660a70f1be56c274a63d6e864849f9056ee01",
+    "title": "Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure",
+    "year": 2025,
+    "author_ids": [
+      "2131591971",
+      "2269762011",
+      "2269823515",
+      "2386879959"
+    ],
+    "venue": "Manufacturing &amp; Service Operations Management",
+    "citation_count": 0,
+    "abstract": "Problem Definition: This study examines a seller\u2019s joint information disclosure and pricing decisions when launching a new product with an easy-to-communicate objective attribute and a hard-to-describe subjective attribute. We analyze how consumer search cost, inventory level, and channel structure shape the seller\u2019s optimal information strategy. Results: For brick-and-mortar retailing, the seller should conceal (disclose) attribute information when the search cost is low (high). Interestingly, when the inventory level is high, the seller conceals information to retain the \u201cdiamond-in-the-rough\u201d consumers, aiming to match the abundant inventory with high demand. Conversely, when inventory is low, the seller discloses information to dissuade some consumers with low objective valuations from searching, thereby reducing demand and alleviating consumers\u2019 concerns about product availability. Thus, the seller strategically uses attribute information to balance search and stock. This result remains robust under extensions such as partial disclosure, atomic consumers, and efficient allocation. Moreover, intensified demand-side competition (e.g., a larger consumer base) can unexpectedly reduce the seller\u2019s revenue because of price markdown pressures to ease consumers\u2019 concerns about competition. In an omnichannel setting, where an online channel supplements physical retail, a high inventory level may reverse the optimal information policy. Managerial Implications: Our findings offer insights into how demand-side factors (e.g., search cost) and supply-side factors (e.g., inventory level and channel structure) shape optimal disclosure. We also reveal risks associated with demand-side competition.\n Funding: X. Fu acknowledges financial support from the University of New South Wales [UNSW Business School Dean\u2019s Research Fellowship]. P. Gao\u2019s research is supported by the National Natural Science Foundation of China [Grants 72522026, 72201234, 72192805], the Collaborative Research Funding Hong Kong [Grant C6032-21G], the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [Grant 2023B1212010001], and industry collaborators including Meituan and Fengyi Technology. Y.-J. Chen acknowledges financial support from the Hong Kong Research Grants Council [Grants 16501722, 16212821, and C6020-21GF].\n Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2023.0288 ."
+  },
+  {
+    "paper_id": "37454b953b0d5d510b9e0137e91e6091da6f7716",
+    "title": "Information structures in college admissions",
+    "year": 2025,
+    "author_ids": [
+      "2111847526",
+      "1661075885"
+    ],
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "97cb9ec99c59825733ad85a2d852bcf6510ea941",
+    "title": "Monopoly pricing with optimal information",
+    "year": 2025,
+    "author_ids": [
+      "2238714592",
+      "1396529779"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cfda486b80bf6c1ae1cc6383a5bc70a115fd44f2",
+    "title": "Bidding with Budgets: Data-Driven Bid Algorithms in Digital Advertising",
+    "year": 2025,
+    "author_ids": [
+      "2258718770",
+      "10689883",
+      "2214599570"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 1,
+    "abstract": "In digital advertising, the allocation of sponsored search, sponsored product, or display advertisements is mediated by auctions. The generation of bids in these auctions for attention is increasingly supported by auto-bidding algorithms and platform-provided data. We analyze the equilibrium properties of a sequence of increasingly sophisticated auto-bidding algorithms. First, we consider the equilibrium bidding behavior of an individual advertiser who controls the auto-bidding algorithm through the choice of their budget. Second, we examine the interaction when all bidders use budget-controlled bidding algorithms. Finally, we derive the bidding algorithm that maximizes the platform\u2019s revenue while ensuring all advertisers continue to participate."
+  },
+  {
+    "paper_id": "a0016ccef17690dedd5701f76ad7fa60d3775122",
+    "title": "Too Much Information? Investigating Information Disclosure in Auction Systems with LLM Simulations",
+    "year": 2025,
+    "author_ids": [
+      "2116011173"
+    ],
+    "venue": "CHI Extended Abstracts",
+    "citation_count": 2,
+    "abstract": "Online advertising relies on auction systems to allocate advertisement impressions efficiently and maximize revenue. A defining characteristic of these systems is information asymmetry: publishers (auctioneers) have access to detailed data, while bidders rely on limited signals. Understanding how information disclosure strategies shape bidder behavior and auction outcomes is essential for designing adaptive, user-centered advertising systems. This paper introduces InfoBid, a simulation framework powered by large language models (LLMs) to study the impact of information signaling in auction environments. This simulation framework enables researchers to analyze how information disclosure affects decision-making and system performance. By offering a flexible and extensible testbed, InfoBid advances Human-Computer Interaction (HCI) methodologies for studying multi-agent interactions, adaptive decision-making, and information sharing in complex digital marketplaces."
+  },
+  {
+    "paper_id": "b65b46b879527b9d1f98ce46dbae41c05cfd2439",
+    "title": "Finding Out Who You Are: A Self-exploration View of Education",
+    "year": 2025,
+    "author_ids": [
+      "2115520077"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "I study the optimal design of information in education. Students in my model have different priors about their talents and update their beliefs after receiving noisy signals about themselves. I show that the socially optimal signal structure depends only on the average priors of the participating students. In particular, an optimal structure encourages a career in which the average participant has a comparative advantage. In an extended model with human capital accumulation, optimal education targets the participants who respond most sensitively to information."
+  },
+  {
+    "paper_id": "02798233ca276f86575f112ed2d571a41f1e4108",
+    "title": "InfoBid: A Simulation Framework for Studying Information Disclosure in Auctions with Large Language Model-based Agents",
+    "year": 2025,
+    "author_ids": [
+      "2116011173"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "In online advertising systems, publishers often face a trade-off in information disclosure strategies: while disclosing more information can enhance efficiency by enabling optimal allocation of ad impressions, it may lose revenue potential by decreasing uncertainty among competing advertisers. Similar to other challenges in market design, understanding this trade-off is constrained by limited access to real-world data, leading researchers and practitioners to turn to simulation frameworks. The recent emergence of large language models (LLMs) offers a novel approach to simulations, providing human-like reasoning and adaptability without necessarily relying on explicit assumptions about agent behavior modeling. Despite their potential, existing frameworks have yet to integrate LLM-based agents for studying information asymmetry and signaling strategies, particularly in the context of auctions. To address this gap, we introduce InfoBid, a flexible simulation framework that leverages LLM agents to examine the effects of information disclosure strategies in multi-agent auction settings. Using GPT-4o, we implemented simulations of second-price auctions with diverse information schemas. The results reveal key insights into how signaling influences strategic behavior and auction outcomes, which align with both economic and social learning theories. Through InfoBid, we hope to foster the use of LLMs as proxies for human economic and social agents in empirical studies, enhancing our understanding of their capabilities and limitations. This work bridges the gap between theoretical market designs and practical applications, advancing research in market simulations, information design, and agent-based reasoning while offering a valuable tool for exploring the dynamics of digital economies."
+  },
+  {
+    "paper_id": "4a161eecd951955b25d4383e59a766bc527f2d6e",
+    "title": "Multi-Dimensional Screening with Endogenous Information Disclosure",
+    "year": 2025,
+    "author_ids": [
+      "2258335110",
+      "2716214",
+      "2110389738"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study multi-product monopoly pricing where the seller jointly designs the selling mechanism and the information structure for the buyer to learn his values. Unlike the case with exogenous information, we show that when the seller controls information, even uniform pricing guarantees at least half of the optimal revenue. Moreover, for negatively affiliated or exchangeable value distributions, deterministic pricing is revenue-optimal. Our results highlight the power of information design in making pricing mechanisms approximately optimal in multi-dimensional settings."
+  },
+  {
+    "paper_id": "80a6ba6d7fe59cd360eb2d6831e083ed4ab6172a",
+    "title": "Mimic martingales in sequential auctions",
+    "year": 2025,
+    "author_ids": [
+      "147624071",
+      "2624468"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "747ff47c316352f65e51b2704831d4fc58369545",
+    "title": "Raising Bidders' Awareness in Second-Price Auctions",
+    "year": 2024,
+    "author_ids": [
+      "2401999221",
+      "1955782"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 2,
+    "abstract": "When bidders bid on complex objects, they might be unaware of characteristics effecting their valuations. We assume that each buyer's valuation is a sum of independent random variables, one for each characteristic. When a bidder is unaware of a characteristic, he omits the random variable from the sum. We study the seller's decision to raise bidders'awareness of characteristics before a second-price auction with entry fees. Optimal entry fees capture an additional unawareness rent due to unaware bidders misperceiving their probability of winning and the price to be paid upon winning. When raising a bidder's individual awareness of a characteristic with positive expected value, the seller faces a trade-off between positive effects on the expected first order statistic and unawareness rents of remaining unaware bidders on one hand and the loss of the unawareness rent from the newly aware bidder on the other. We present characterization results on raising public awareness together with no versus full information. We discuss the winner's curse due to unawareness of characteristics."
+  },
+  {
+    "paper_id": "2a2e514bc4b005ae955d9b77740ce09d179936f0",
+    "title": "Optimal Fixed-Price Mechanism with Signaling",
+    "year": 2024,
+    "author_ids": [
+      "2160330061",
+      "2294833089"
+    ],
+    "venue": "International Conference on Distributed Artificial Intelligence",
+    "citation_count": 0,
+    "abstract": "Consider a trade market with one seller and multiple buyers. The seller aims to sell an indivisible item and maximize their revenue. This paper focuses on a simple and popular mechanism\u2013the fixed-price mechanism. Unlike the standard setting, we assume there is information asymmetry between buyers and the seller. Specifically, we allow the seller to design information before setting the fixed price, which implies that we study the mechanism design problem in a broader space. We call this mechanism the fixed-price signaling mechanism. We assume that buyers\u2019 valuation of the item depends on the quality of the item. The seller can privately observe the item\u2019s quality, whereas buyers only see its distribution. In this case, the seller can influence buyers\u2019 valuations by strategically disclosing information about the item\u2019s quality, thereby adjusting the fixed price. We consider two types of buyers with different levels of rationality: ex-post individual rational (IR) and ex-interim individual rational. We show that when the market has only one buyer, the optimal revenue generated by the fixed-price signaling mechanism is identical to that of the fixed-price mechanism, regardless of the level of rationality. Furthermore, when there are multiple buyers in the market and all of them are ex-post IR, we show that there is no fixed-price mechanism that is obedient for all buyers. However, if all buyers are ex-interim IR, we show that the seller can achieve full surplus extraction through information design, provided that the fixed price can depend on the signal."
+  },
+  {
+    "paper_id": "bd4ffa9108a1733de4d319430d7bb76cd70ad758",
+    "title": "Flexible Demand Manipulation",
+    "year": 2024,
+    "author_ids": [
+      "2267879255",
+      "2391228952"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We develop a simple framework to analyze how targeted persuasive advertising shapes market power and welfare. A designer flexibly manipulates the demand curve by influencing individual valuations at a cost. A monopolist prices against this manipulated demand curve. We fully characterize the form of optimal advertising plans under ex-ante and ex-post welfare measures. Flexibility per se is powerful, and can substantially harm or benefit consumers vis-a-vis uniform advertising. We discuss implications for regulation, intermediation, and the joint design of manipulation and information."
+  },
+  {
+    "paper_id": "c3b4d30b871fd6d7910a5e5a4eddb55712f66d46",
+    "title": "Competitive Markets for Personal Data",
+    "year": 2024,
+    "author_ids": [
+      "2773368",
+      "2360603168",
+      "12204338"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 4,
+    "abstract": "We study competitive data markets in which consumers own their personal data and can trade it with intermediaries, such as e-commerce platforms. Intermediaries use this data to provide services to the consumers, such as targeted offers from third-party merchants. Our main results identify a novel inefficiency, resulting in equilibrium data allocations that fail to maximize welfare. This inefficiency hinges on the role that intermediaries play as information gatekeepers, a hallmark of the digital economy. We provide three solutions to this market failure: establishing data unions, which manage consumers' data on their behalf; taxing the trade of data; and letting the price of data depend on its intended use."
+  },
+  {
+    "paper_id": "435c095f46f04535300b1fef4f8241dc8db1b009",
+    "title": "Algorithmic Information Disclosure in Optimal Auctions",
+    "year": 2024,
+    "author_ids": [
+      "2258335110",
+      "2716214",
+      "2110389738"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "Classical auction theory typically focuses on models with exogenous signal structures, where all auction participants privately know their item valuations. However, practical scenarios often find buyers initially uninformed about their item values due to the lack of data on item quality or suitability. Instead, buyers rely on seller advertisements to learn their values. For instance, streaming services offer free trials to influence consumer perceptions before subscriptions, while real estate agencies provide property inspections for better buyer estimations. In these cases, sellers can jointly design their advertising strategies and auction mechanisms. This paper focus on a model by Bergemann and Pesendorfer [2007] for this joint design problem. Here, a seller with one item faces n heterogeneous buyers whose values are drawn from a commonly known product distribution. Initially, neither party knows exact buyer values. Sellers employ Blackwell experiments to help buyers privately and independently learn their values. Despite sellers designing these experiments, resulting signals are only privately observed by buyers, which aligns with advertising and private inspection applications. We show that in contrast to Myerson [1981] where the optimal auction with exogenous signals can be computed in polynomial time, the optimal joint design problem becomes NP-hard when the seller also has the ability to design the signal structures. Our main result is a polynomial-time approximation scheme (PTAS) for computing the optimal joint design with at most an \u03f5 multiplicative loss in expected revenue. Moreover, we show that in our joint design problem, the seller can significantly reduce the information rent of the agents by providing partial information, which ensures a revenue that is at least 1 - 1/e of the optimal welfare for all valuation distributions. A full version of this paper can be found at https://arxiv.org/abs/2403.08145."
+  },
+  {
+    "paper_id": "a3e8251885c66cdf9fb855776299b2322ee36e56",
+    "title": "Robust Auction Design with Support Information",
+    "year": 2023,
+    "author_ids": [
+      "41097054",
+      "145602094",
+      "2463453"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "A seller wants to sell an indivisible item to n buyers. The buyer valuations are drawn i.i.d. from a distribution, but the seller does not know this distribution; the seller only knows the support [a, b]. To be robust against the lack of knowledge of the environment and buyers' behavior, the seller optimizes over dominant strategy incentive compatible (DSIC) mechanisms, and measures the worst-case performance relative to an oracle with complete knowledge of buyers' valuations. Our analysis encompasses both the regret and the approximation ratio objectives."
+  },
+  {
+    "paper_id": "5b3f5baa93e162876c9044a7fee8beaff6623428",
+    "title": "Screening with Persuasion",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 16,
+    "abstract": "We analyze a nonlinear pricing model where the seller controls both product pricing (screening) and buyer information about their own values (persuasion). We prove that the optimal mechanism always consists of finitely many signals and items, even with a continuum of buyer values. The seller optimally pools buyer values and reduces product variety to minimize informational rents. We show that value pooling is optimal even for finite value distributions if their entropy exceeds a critical threshold. We also provide sufficient conditions under which the optimal menu restricts offering to a single item."
+  },
+  {
+    "paper_id": "00b06aa15170a34fa10a8df6720d9e9c5019307c",
+    "title": "\u03b1-Rank-Collections: Analyzing Expected Strategic Behavior with Uncertain Utilities",
+    "year": 2022,
+    "author_ids": [
+      "2191523022",
+      "1724595"
+    ],
+    "venue": "ACM Transactions on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "We introduce a new game-theoretical solution concept for settings where players have probabilistic information about preferences described as distributions about von Neumann\u2013Morgenstern utility functions. This solution concept extends the Markov-Conley-Chains (MCCs) and \u03b1-Rank algorithm to Bayesian games, providing a tractable method for analyzing strategic interactions without requiring precise knowledge of players\u2019 utility functions. The approach avoids the limitations of Nash equilibrium, such as multiple equilibria, by ranking strategies based on their probabilities of success. We apply the method to well-known bimatrix games and the Boston matching mechanism, offering a novel framework for analyzing the outcomes of games with probabilistic preferences."
+  },
+  {
+    "paper_id": "266955c8df4f11922a4eb8c391a2846f9f38ce61",
+    "title": "Information Design in Allocation with Costly Verification",
+    "year": 2022,
+    "author_ids": [
+      "123332136",
+      "1740740534",
+      "2112166881"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 2,
+    "abstract": "We study information design in a single\u2010agent allocation problem with costly verification, where the principal has a positive reservation value. The agent learns privately a signal about the principal's allocation value, drawn from a distribution controlled by an information designer. Given the signal distribution, the principal designs a mechanism to maximize her net value. We show that the agent\u2010optimal information pools high values at a signal just worth verification, whereas the principal\u2010optimal information features full disclosure. Moreover, any agent\u2010optimal information is principal\u2010worst, despite their partially aligned interests and the absence of\u00a0transfers."
+  },
+  {
+    "paper_id": "84e4ba220b18806c5e145f46d988006481bceeb1",
+    "title": "On the Optimality of Full Disclosure",
+    "year": 2022,
+    "author_ids": [
+      "22280256",
+      "152467375"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "A privately informed sender can commit to any disclosure policy toward a receiver, whose actions affect the utility of the sender. We show that full disclosure is optimal under a sufficient condition with some desirable properties. First, it speaks directly to the parties' utility functions, as opposed to the sender's indirect utility function; this makes it easily interpretable and verifiable. Second, it does not require the sender's payoff to be a function of the posterior mean state. Third, it is weaker than the conditions obtained in the literature for some specific\u00a0settings."
+  },
+  {
+    "paper_id": "28392c5f0b5f2ed324169989b327f4214b98ee7b",
+    "title": "Verifiable Private Disclosure in Auctions",
+    "year": 2024,
+    "author_ids": [
+      "37373542",
+      "2266876101"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8bd6e87d6c150e5fdec03f2a5e884c9948c8012d",
+    "title": "Choose your auction: Mechanism design for a bidder",
+    "year": 2023,
+    "author_ids": [
+      "121715831",
+      "2138663987"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "61a5181628b0ddddfd0ca6fdfeffbe4d8ebc651f",
+    "title": "Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Selling Mechanisms",
+    "year": 2023,
+    "author_ids": [
+      "2244311773",
+      "2269762011",
+      "2269823515",
+      "2269737270"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "e7dd06a91df9c277be172b4f9e0c861bce275b3f",
+    "title": "Artificial Intelligence & Data Obfuscation: Algorithmic Competition in Digital Ad Auctions",
+    "year": 2023,
+    "author_ids": [
+      "2275664989",
+      "2275461571",
+      "2275664026",
+      "2185198333"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": null
+  }
+]

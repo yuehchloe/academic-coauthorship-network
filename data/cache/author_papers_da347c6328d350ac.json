@@ -1,0 +1,349 @@
+[
+  {
+    "paper_id": "7197cdf7ccfdbd7ed66dc61f944c0e7676704e2d",
+    "title": "A Cognitive Theory of Reasoning and Choice",
+    "year": 2025,
+    "author_ids": [
+      "46617266",
+      "74115503",
+      "104124540",
+      "145279878"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "588f2ffb0abccdd2d340d67d873a54430e7d78e5",
+    "title": "(Un-)Common Preferences, Ambiguity, and Coordination *",
+    "year": 2024,
+    "author_ids": [
+      "1399027880",
+      "119159863",
+      "104124540"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "This paper studies the (cid:147)common prior(cid:148)assumption and its implications when agents have di\u2044erential information and preferences beyond subjective expected utility (SEU). We characterize the class of consequentialist interim preferences that are dynamically consistent with respect to the same ex-ante preference in terms of common limits of higher-order expectations. We then relax common dynamic consistency by either allowing for non neutral attitudes towards the timing of resolution of uncertainty or by letting the agents only share benchmark beliefs with potentially heterogeneous preferences for uncertainty. Within this framework, we characterize the properties of equilibrium prices in (cid:133)nancial beauty contests (and other coordination games) in terms of the agents(cid:146)pri-vate information, coordination motives, and attitudes toward uncertainty. Di\u2044erently from the SEU case, the limit price does not coincide in general with the common ex-ante expectation. Moreover, when the agents share the same benchmark probabilistic model, high-coordination motives make their concern for misspeci(cid:133)cation disappear in equilibrium, exposing them to a divergence between the market price and the fundamental value of the security."
+  },
+  {
+    "paper_id": "5ee9389d8a96f5f2c661f49e8ffe1faa99dd87b7",
+    "title": "Selective Memory Equilibrium",
+    "year": 2024,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2266639294"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "b217fcff4bf5aea6d25b79e88dcb25afea7e863d",
+    "title": "Nonlinear Fixed Points and Stationarity: Economic Applications",
+    "year": 2024,
+    "author_ids": [
+      "1399027880",
+      "104124540",
+      "119159863"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "We consider the fixed points of nonlinear operators that naturally arise in games and general equilibrium models with endogenous networks, dynamic stochastic games, in models of opinion dynamics with stubborn agents, and financial networks. We study limit cases that correspond to high coordination motives, infinite patience, vanishing stubbornness and small exposure to the real sector in the applications above. Under monotonicity and continuity assumptions, we provide explicit expressions for the limit fixed points. We show that, under differentiability, the limit fixed point is linear in the initial conditions and characterized by the Jacobian of the operator at any constant vector with an explicit and linear rate of convergence. Without differentiability, but under additional concavity properties, the multiplicity of Jacobians is resolved by a representation of the limit fixed point as a maxmin functional evaluated at the initial conditions. In our applications, we use these results to characterize the limit equilibrium actions, prices, and endogenous networks, show the existence and give the formula of the asymptotic value in a class of zero-sum stochastic games with a continuum of actions, compute a nonlinear version of the eigenvector centrality of agents in networks, and characterize the equilibrium loss evaluations in financial networks."
+  },
+  {
+    "paper_id": "ce3d5ef85520a1520a06629b835570f1fb25117e",
+    "title": "Decision Theory, Subjective Uncertainty, and Computer Science",
+    "year": 2024,
+    "author_ids": [
+      "104124540"
+    ],
+    "venue": "Sigecom Exchanges",
+    "citation_count": 0,
+    "abstract": "I argue that further integration between Decision Theory and the methods of quantifying complexity and evaluating performance in Computer Science is valuable. I review [Lanzani 2024] as an illustration of this combination."
+  },
+  {
+    "paper_id": "509ddbccd949ecba6d421e99cc228acee45d30d2",
+    "title": "Dynamic Concern for Misspecification",
+    "year": 2023,
+    "author_ids": [
+      "104124540"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "We consider an agent that repeatedly chooses among actions whose payoffs have an unknown distribution. This choice is taken using an average of robust control assessments, where each assessment takes a different structured model as the benchmark. We introduce endogeneity in the misspecification concern: the better the structured models explain the past, the less concerned the agent is."
+  },
+  {
+    "paper_id": "5b79eafe2c770590252ca94080fcdc4084e98ce7",
+    "title": "Which misspecifications persist?",
+    "year": 2023,
+    "author_ids": [
+      "2783939",
+      "104124540"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 5,
+    "abstract": "We use an evolutionary model to determine which misperceptions can persist. Every period, a new generation of agents use their subjective models and the data generated by the previous generation to update their beliefs, and models that induce better actions become more prevalent. An equilibrium can resist mutations that lead agents to use a model that better fits the equilibrium data but induce the mutated agents to take an action with lower payoffs. We characterize which steady states resist mutations to a nearby model, and which resist mutations that drop a qualitative restriction such as independence."
+  },
+  {
+    "paper_id": "834bd5b8f02621eb3c05fbc9c176fe5410be663f",
+    "title": "Dynamic Opinion Aggregation: Long-Run Stability and Disagreement",
+    "year": 2023,
+    "author_ids": [
+      "1399027880",
+      "119159863",
+      "104124540"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 14,
+    "abstract": "\n This paper proposes a model of non-Bayesian social learning in networks that accounts for heuristics and biases in opinion aggregation. The updating rules are represented by nonlinear opinion aggregators from which we extract two extreme networks capturing strong and weak links. We provide graph-theoretic conditions for these networks that characterize opinions.convergence, consensus formation, and efficient or biased information aggregation. Under these updating rules, agents may ignore some of their neighbors.opinions, reducing the number of effective connections and inducing long-run disagreement for .nite populations. For the wisdom of the crowd in large populations, we highlight a trade-off between how connected the society is and the nonlinearity of the opinion aggregator. Our framework bridges several models and phenomena in the non-Bayesian social learning literature, thereby providing a unifying approach to the field."
+  },
+  {
+    "paper_id": "8b67f5e84c6c4bc1f526facd9011093d1cec4314",
+    "title": "Pathwise concentration bounds for Bayesian beliefs",
+    "year": 2023,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 8,
+    "abstract": "We show that Bayesian posteriors concentrate on the outcome distributions that approximately minimize the Kullback\u2013Leibler divergence from the empirical distribution, uniformly over sample paths, even when the prior does not have full support. This generalizes Diaconis and Freedman's (1990) uniform convergence result to, e.g., priors that have finite support, are constrained by independence assumptions, or have a parametric form that cannot match some probability distributions. The concentration result lets us provide a rate of convergence for Berk's (1966) result on the limiting behavior of posterior beliefs when the prior is misspecified. We provide a bound on approximation errors in \u201canticipated\u2010utility\u201d models, and extend our analysis to outcomes that are perceived to follow a Markov process."
+  },
+  {
+    "paper_id": "01316fd66f450b9fab38c739907f336962c017ac",
+    "title": "Long-Run Implications of Selective Memory\u2217",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3510c4389771419861f81d06675bb676bd4e3d22",
+    "title": "Selective Memory Equilibrium \u2217",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "38c953edc463da9fa84ed4e3d108e2a6887e30e8",
+    "title": "Dynamic Concern for Misspecification\u2217",
+    "year": 2022,
+    "author_ids": [
+      "104124540",
+      "2485090",
+      "1727045",
+      "1403780496",
+      "2080370989",
+      "2242773076",
+      "2238014099",
+      "39247599"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "83bb52891c3ba479a563ff980c1a40d78decbc2e",
+    "title": "Selective Memory Equilibrium",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2266639294"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "c471c4c7c9c5c045fa34c3230682021e6493613c",
+    "title": "Which misspeci\ufb01cations persist?",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "dcc4dbf2253b71536ea176a0314d1c7ed285eb20",
+    "title": "A Dutch-Book Trap for Misspecification",
+    "year": 2022,
+    "author_ids": [
+      "22280256",
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We provide Dutch-book arguments against misspecified Bayesian learning. An agent progressively learns about a state and is offered a bet after every discovery. We say the agent is deterministically Dutch-booked when they would accept all bets, but their payoff is ex-post negative under each state. More generally, we say that the agent is Dutch-booked when they would accept all bets, but their expected payoff under each fundamental state is negative. With this, the agent cannot be deterministically Dutch-booked if and only if they update their beliefs using Bayes'rule, even with misspecified likelihoods. The agent cannot be Dutch booked if and only if they update their beliefs using Bayes'rule with a lexicographic prior and using the correct data-generating process. We show that offers of financial instruments and behavior in Monty Hall problems can be viewed as Dutch books that extract a sure expected gain from a misspecified population."
+  },
+  {
+    "paper_id": "1f533141d1d999180ee806a24728c291e289e3a1",
+    "title": "Pathwise Concentration Bounds for Misspecified Bayesian Beliefs",
+    "year": 2021,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2266639294"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We show that the probability that the Bayesian posterior belief assigns to the outcome distributions that do not \u201cbest fit\u201d the empirical distribution (in terms of Kullback-Leibler divergence) converges to zero at a uniform and exponential rate, even when the agent is misspecified and/or has a prior with finite support. This extends the uniform convergence result of Diaconis and Freedman (1990), which assumes a full support prior, and lets us provide a rate of convergence for Berk (1966)\u2019s result that the posterior concentrates around the Kullback-Leibler minimizers with respect to the true data generating process."
+  },
+  {
+    "paper_id": "84e28b5ed7cb5cd4c815b63c329dfb2513f80627",
+    "title": "Dynamic Opinion Aggregation: Long-run Stability and",
+    "year": 2021,
+    "author_ids": [
+      "1399027880",
+      "119159863",
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b424136098c3f4370d677a913a570cad1c577669",
+    "title": "Heterogeneous Learning in Product Markets",
+    "year": 2021,
+    "author_ids": [
+      "2187597",
+      "104124540",
+      "152558690"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We study how market structures and asymmetries in learning technologies a \ufb00 ect trade in a product market. In this market, a new product of unknown quality is introduced to challenge an existing product of known quality. We show that market e \ufb03 ciency is achieved both under monopoly and competition if buyers are symmetric in the amount of information they generate when they consume the new product. If buyers are instead asymmetric, only the monopolistic market is e \ufb03 cient. We identify the ine \ufb03 ciencies and analyze their properties. Finally, we explore our results\u2019 robustness under di \ufb00 erent assumptions about the ability to price discriminate."
+  },
+  {
+    "paper_id": "d8340dfaf39222715756940434dcc7129f131ea3",
+    "title": "LIMIT POINTS OF ENDOGENOUS MISSPECIFIED LEARNING DREW FUDENBERG Department of Economics, MIT",
+    "year": 2021,
+    "author_ids": [
+      "104124540",
+      "2450616",
+      "2783939"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "2fdcfd29b7df821a995cf76adad721f737c0b16d",
+    "title": "Limit Points of Endogenous Misspecified Learning",
+    "year": 2020,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 50,
+    "abstract": "We study how an agent learns from endogenous data when their prior belief is misspecified. We show that only \n uniform Berk\u2013Nash equilibria can be long\u2010run outcomes, and that all \n uniformly strict Berk\u2013Nash equilibria have an arbitrarily high probability of being the long\u2010run outcome for some initial beliefs. When the agent believes the outcome distribution is exogenous, every uniformly strict Berk\u2013Nash equilibrium has positive probability of being the long\u2010run outcome for any initial belief. We generalize these results to settings where the agent observes a signal before acting.\n"
+  },
+  {
+    "paper_id": "86e2d51259b3f4420fb6683c394b35a37530c894",
+    "title": "Market Power and Asymmetric Learning in Product Markets",
+    "year": 2020,
+    "author_ids": [
+      "2187597",
+      "104124540"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study how market power, along with asymmetries in learning technologies, affect trading in a product market. In this market, a new product of unknown quality is introduced to challenge a pre-existing product of known quality. We show that market efficiency (the first-best) is achieved independent of how large or small the market power is if buyers are symmetric in their learning technologies. However, if buyers are asymmetric, only a monopolistic market in which the seller of the old product also markets the new one is efficient. We identify inefficiency as a learning externality that consumptions of the unknown quality product by one buyer generates to the other buyers. The equilibrium inefficiency has two important features: (i) Efficiency at the top: the threshold for starting to serve the best learners (i.e., to enter into a Beta phase) remains the optimal one; (ii) Non-monotonicity: distortions are not monotone in the extent of the asymmetry. Importantly, if sellers can offer take-it-or-leave-it multilateral contracts, the distortion disappears. Finally, we explore the robustness of our results under different assumptions about the ability to price discriminate and other market structures."
+  },
+  {
+    "paper_id": "aa749d51f993a68d16168e66d1145dfa38ab6ae8",
+    "title": "Which Misperceptions Persist?",
+    "year": 2020,
+    "author_ids": [
+      "2783939",
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "ab01cee917f096bd3f403d0775380790c246d2af",
+    "title": "The Stability of Misperceptions under Mutations",
+    "year": 2020,
+    "author_ids": [
+      "2783939",
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "We use an evolutionary model to determine what sorts of misperceptions are likely to persist. In our model, every period a new generation of agents uses their subjective models and the outcome distribution induced by the previous generation to update their beliefs about some underlying parameters. Different agents may employ different subjective models and subjective models that induce actions that perform better increase their relative prevalence. To test the stability of steady states, we introduce the possibility that a small fraction of agents enlarges their subjective model in a way that lets them better fit their observations. We characterize which equilibria are resistant to \"local mutations'' to a nearby model, and which are resistant to mutations where agents drop one of the hypotheses they had been imposing on their beliefs, e.g. relaxing independence to positive correlation."
+  },
+  {
+    "paper_id": "ed46e434c1284cc5cfbf6f4076a2c440e377b893",
+    "title": "Robust Opinion Aggregation and its Dynamics",
+    "year": 2020,
+    "author_ids": [
+      "1399027880",
+      "119159863",
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "3fc106a27bc8dc753fab6b9d53bbc9c62e4f3e88",
+    "title": "Learning and self-confirming long-run biases",
+    "year": 2019,
+    "author_ids": [
+      "2388982",
+      "69871186",
+      "104124540",
+      "1727045"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 31,
+    "abstract": "We consider an uncertainty averse, sophisticated decision maker facing a recurrent decision problem where information is generated endogenously. In this context, we study self-con firming strategies as the outcomes of a process of active experimentation. We provide inter alia a learning foundation for self-con firming equilibrium with model uncertainty (Battigalli et al., 2015). We also argue that ambiguity aversion tends to stifle experimentation, increasing the likelihood that decision maker get stuck into suboptimal certainty traps."
+  },
+  {
+    "paper_id": "76e2a64599ee0321ef05b3fb698c3d2ec56ab18d",
+    "title": "Ambiguity attitudes and self-confirming equilibrium in sequential games",
+    "year": 2019,
+    "author_ids": [
+      "2388982",
+      "22280256",
+      "104124540",
+      "1727045"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 26,
+    "abstract": "We consider a game with sequential moves played by agents who are randomly drawn from large populations and matched. We assume that, when players are uncertain about the strategy distributions of the opponents, preferences over actions at any information set admit a smooth-ambiguity representation in the sense of Klibanoff, Marinacci, and Mukerji (Econometrica, 2005). This may induce dynamically inconsis- tent preferences and calls for an appropriate defi nition of sequential best response. We take this into account in our analysis of self-con firming equilibrium (SCE) and rationalizable SCE in sequential games with feedback played by agents with non-neutral ambiguity attitudes. Battigalli, Cerreia-Vioglio, Maccheroni, and Marinacci (Amer. Econ. Rev., 2015) show that the set of SCEs of a simultaneous-move game with feedback expands as ambiguity aversion increases. We show by example that SCE in a sequential game is not equivalent to SCE applied to the strategic form of such game, and that the previous monotonicity result does not extend to general sequential games. Still, we provide sufficient conditions under which the monotonicity result holds for (rationalizable) SCE. Keywords: Sequential games with feedback, smooth ambiguity, self-confi rming equilibrium, rationalizable self-confi rming equilibrium."
+  },
+  {
+    "paper_id": "f70908044db0faf03fff92cc6f699afebc4782b8",
+    "title": "Correlation Made Simple: Applications to Salience and Regret Theory\u2217",
+    "year": 2019,
+    "author_ids": [
+      "104124540"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "paper_id": "acb5c2977d6765ec0f6cf12048d937405d05f2da",
+    "title": "The tontine puzzle",
+    "year": 2025,
+    "author_ids": [
+      "2259589109",
+      "2276020122",
+      "151131679"
+    ],
+    "venue": "Journal of Mathematical Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "6eef5349a9abbc16e82a95297896b20de225c36d",
+    "title": "Integral stochastic orders with parametric classes of functions",
+    "year": 2025,
+    "author_ids": [
+      "2274999601",
+      "2276214583"
+    ],
+    "venue": "Journal of Applied Probability",
+    "citation_count": 0,
+    "abstract": "\n This paper introduces the general ideas for parametric integral stochastic orders, with which a continuum of parametric functions are defined as a bridge between different classes of non-parametric functions. This approach allows one to identify a parametric function class over which two given random variables may violate the non-parametric stochastic order with specific patterns. The parameter used to name the parametric function class also measures the ratio of dominance violation for the corresponding non-parametric stochastic orders. Our framework, expanding the domain of stochastic orders, covers the existing studies of almost stochastic dominance. This leads to intuitive explanations and simpler proofs of existing results and their extensions."
+  },
+  {
+    "paper_id": "4a13feafb954a7f56798cf065c092a7b82f5f350",
+    "title": "Outside options and risk attitude",
+    "year": 2025,
+    "author_ids": [
+      "153019710",
+      "88685663",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We uncover a close link between outside options and risk attitude: when a decision-maker gains access to an outside option, her behaviour becomes less risk-averse, and conversely, any observed decrease of risk-aversion can be explained by an outside option having been made available. We characterise the comparative statics of risk-aversion, delineating how effective risk attitude (i.e. actual choice among risky prospects) varies with the outside option and with the decision-maker's'true'risk attitude. We prove that outside options are special: among transformations of a decision problem, those that amount to adding an outside option are the only ones that always reduce risk-aversion."
+  },
+  {
+    "paper_id": "1e969b2dbb1108c3f60eb5b7166e0e5eb969d2ed",
+    "title": "Pricing insurance contracts with an existing portfolio as background risk",
+    "year": 2025,
+    "author_ids": [
+      "2088463086",
+      "2349117442"
+    ],
+    "venue": "Insurance, Mathematics & Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3c2a2d9580139d8bfacb12a5ec801d77e8dc0041",
+    "title": "Expected value, to a point: Moral decision\u2010making under background uncertainty",
+    "year": 2025,
+    "author_ids": [
+      "2324702736"
+    ],
+    "venue": "No\u00fbs",
+    "citation_count": 2,
+    "abstract": "Expected value maximization gives plausible guidance for moral decision\u2010making under uncertainty in many situations. But it has unappetizing implications in \u2018Pascalian\u2019 situations involving tiny probabilities of extreme outcomes. This paper shows, first, that under realistic levels of \u2018background uncertainty\u2019 about sources of value independent of one's present choice, a widely accepted and apparently innocuous principle\u2014stochastic dominance\u2014requires that prospects be ranked by the expected value of their consequences in most ordinary choice situations. But second, this implication does not hold when differences in expected value are driven by tiny probabilities of extreme outcomes. Stochastic dominance therefore lets us draw a surprisingly principled line between \u2018ordinary\u2019 and \u2018Pascalian\u2019 situations, providing a powerful justification for de facto expected value maximization in the former context while permitting deviations in the latter. Drawing this distinction is incompatible with an in\u2010principle commitment to maximizing expected value, but does not require too much departure from decision\u2010theoretic orthodoxy: it is compatible, for instance, with the view that moral agents must maximize the expectation of a utility function that is an increasing function of moral value."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "e44a0fa4ddc7ba7514fbaa46e6a7d19e4712106c",
+    "title": "Convex combinations of random variables stochastically dominate the parent for a new class of heavy tailed distributions",
+    "year": 2025,
+    "author_ids": [
+      "144470678",
+      "2331856295",
+      "2260819062"
+    ],
+    "venue": "Electronic Communications in Probability",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "981a8794b99545074be1a67168297b3d0bcda3b1",
+    "title": "Flummoxing expectations",
+    "year": 2024,
+    "author_ids": [
+      "1932092474"
+    ],
+    "venue": "No\u00fbs",
+    "citation_count": 2,
+    "abstract": "Expected utility theory often falls silent, even in cases where the correct rankings of options seems obvious. For instance, it fails to compare the Pasadena game to the Altadena game, despite the latter turning out better in every state. Decision theorists have attempted to fill these silences by proposing various extensions to expected utility theory. As I show in this paper, such extensions often fall silent too, even in cases where the correct ranking is intuitively obvious. But we can extend the theory further than has been done before\u2014I offer a new extension, Invariant Value Theory, which deals neatly with those problem cases and also satisfies various desirable conditions. But other prima facie desirable conditions, including Independence, the theory violates. Is this a problem for the proposal? It may not be\u2014in a new impossibility result, I show that no theory can satisfy Independence in full generality without violating several other conditions that together seem just as plausible."
+  },
+  {
+    "paper_id": "b4f2fa05d22dd71d0656bacd04cdf690fb87db06",
+    "title": "How to Make an Action Attractive",
+    "year": 2024,
+    "author_ids": [
+      "2271228226",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "A policymaker often wants to steer a decision-maker toward one of two actions, but lacks reliable knowledge of how the decision-maker perceives uncertainty or evaluates risk. We formalize a notion of robust paternalism: a modification a'of a desired action a is robustly more attractive than a relative to b if, for every belief over states and every increasing concave utility function, whenever the decision-maker prefers a to b, she also prefers a'to b. We characterize all such modifications directly in terms of state-dependent payoffs and discuss applications to political competition, bilateral trade, insurance, and information acquisition."
+  },
+  {
+    "paper_id": "2f3d46f1aea0849b23a967d027b08128a3cc1124",
+    "title": "The Power of Two in Token Systems",
+    "year": 2024,
+    "author_ids": [
+      "1717971",
+      "2126294377",
+      "2256257600"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "In economies without monetary transfers, token systems serve as an alternative to sustain cooperation and increase efficiency. This paper studies whether a token-based economy can be effective in marketplaces with thin exogenous supply. We consider a marketplace in which at each time period one agent requests a service, one agent provides the service, and one token (artificial currency) is used to pay for service provision. The number of tokens each agent has represents the difference between the amount of service provisions and service requests by the agent. We are interested in the behavior of this economy when very few agents are available to provide the requested service. Because balancing the number of tokens across agents is key to sustain cooperation, the agent with the minimum number of tokens is selected to provide service among the available agents. When exactly one random agent is available to provide service, we show that the token distribution is unstable. However, already when just two random agents are available to provide service, the token distribution is stable, in the sense that agents\u2019 token balance is unlikely to deviate much from their initial endowment, and agents return to their initial endowment in finite expected time. Our results mirror the power-of-two-choices paradigm in load balancing problems. Supported by numerical simulations using kidney exchange data, our findings suggest that token systems may generate efficient outcomes in kidney exchange marketplaces by sustaining cooperation between hospitals.\n This paper was accepted by Peng Sun, optimization and decision analytics.\n Supplemental Material: The data files are available at https://doi.org/10.1287/mnsc.2024.06176 ."
+  },
+  {
+    "paper_id": "08677548c2e411a06315fc277287871f02fe3fba",
+    "title": "On Quantile Treatment Effects, Rank Similarity,and Variation of Instrumental Variables",
+    "year": 2023,
+    "author_ids": [
+      "2268429969",
+      "2262552354"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "This paper develops a nonparametric framework to identify and estimate distributional treatment effects under nonseparable endogeneity. We begin by revisiting the widely adopted \\emph{rank similarity} (RS) assumption and characterizing it by the relationship it imposes between observed and counterfactual potential outcome distributions. The characterization highlights the restrictiveness of RS, motivating a weaker identifying condition. Under this alternative, we construct identifying bounds on the distributional treatment effects of interest through a linear semi-infinite programming (SILP) formulation. Our identification strategy also clarifies how richer exogenous instrument variation, such as multi-valued or multiple instruments, can further tighten these bounds. Finally, exploiting the SILP's saddle-point structure and Karush-Kuhn-Tucker (KKT) conditions, we establish large-sample properties for the empirical SILP: consistency and asymptotic distribution results for the estimated bounds and associated solutions."
+  },
+  {
+    "paper_id": "28f3c9195527c1c1ca7bbbd6af1b3cdf07d55b28",
+    "title": "Risk Aversion and Insurance Propensity",
+    "year": 2023,
+    "author_ids": [
+      "2485090",
+      "1727045",
+      "2241814923",
+      "2108761527"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 8,
+    "abstract": "We provide a new foundation of risk aversion by showing that this attitude is fully captured by the propensity to seize insurance opportunities. In our main results, we first characterize Arrow-Pratt (1963\u20131964) risk aversion in terms of propensity to full insurance and the stronger notion of risk aversion of Rothschild and Stiglitz (1970) in terms of propensity to partial insurance. We then extend the analysis to comparative risk aversion by showing that the classical notion of Yaari (1969) corresponds to comparative propensity to full insurance, while the stronger notion of Ross (1981) corresponds to comparative propensity to partial insurance. (JEL D81, G22, G52)"
+  },
+  {
+    "paper_id": "2933a7e2a5d50752bbf9feeb62d98c9c2d636e7b",
+    "title": "On existence of Berk-Nash equilibria in misspecified Markov decision processes with infinite spaces",
+    "year": 2022,
+    "author_ids": [
+      "26527644",
+      "90066215",
+      "145061166",
+      "48167052"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 3,
+    "abstract": "Model misspecification is a critical issue in many areas of theoretical and empirical economics. In the specific context of misspecified Markov Decision Processes, Esponda and Pouzo (2021) defined the notion of Berk-Nash equilibrium and established its existence in the setting of finite state and action spaces. However, many substantive applications (including two of the three motivating examples presented by Esponda and Pouzo, as well as Gaussian and log-normal distributions, and CARA, CRRA and mean-variance preferences) involve continuous state or action spaces, and are thus not covered by the Esponda-Pouzo existence theorem. We extend the existence of Berk-Nash equilibrium to compact action spaces and sigma-compact state spaces, with possibly unbounded payoff functions. A complication arises because the Berk-Nash equilibrium notion depends critically on Radon-Nikodym derivatives, which are necessarily bounded in the finite case but typically unbounded in misspecified continuous models. The proofs rely on nonstandard analysis and, relative to previous applications of nonstandard analysis in economic theory, draw on novel argumentation traceable to work of the second author on nonstandard representations of Markov processes."
+  },
+  {
+    "paper_id": "bb984edcdac91daabe5a2804dc24a21677850f51",
+    "title": "Monotone Additive Statistics",
+    "year": 2021,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 18,
+    "abstract": "The expectation is an example of a descriptive statistic that is monotone with respect to stochastic dominance, and additive for sums of independent random variables. We provide a complete characterization of such statistics, and explore a number of applications to models of individual and group decision-making. These include a representation of stationary, monotone time preferences, extending the work of Fishburn and Rubinstein (1982) to time lotteries, as well as a characterization of risk-averse preferences over monetary gambles that are invariant to mean-zero background risks. The full paper is available at https://arxiv.org/abs/2102.00618."
+  },
+  {
+    "paper_id": "550f5180cfb0848d31232da723c32b57f2e90649",
+    "title": "Background Risk and Small-Stakes Risk Aversion",
+    "year": 2020,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 11,
+    "abstract": "Building on Pomatto, Strack, and Tamuz (2020), we identify a tight condition for when background risk can induce first-order stochastic dominance. Using this condition, we show that under plausible levels of background risk, no theory of choice under risk can simultaneously satisfy the following three economic postulates: (i) decision-makers are risk averse over small gambles, (ii) their preferences respect stochastic dominance, and (iii) they account for background risk. This impossibility result applies to expected utility theory, prospect theory, rank-dependent utility, and many other models. (JEL D81, D91)"
+  },
+  {
+    "paper_id": "34a8136b6af2286141466b468aa4c07c66cd3f8e",
+    "title": "Characterizing the asymptotic and catalytic stochastic orders on topological abelian groups",
+    "year": 2020,
+    "author_ids": [
+      "144302292"
+    ],
+    "venue": "Bernoulli",
+    "citation_count": 1,
+    "abstract": "We study the usual stochastic order between probability measures on preordered topological abelian groups, focusing on asymptotic and catalytic versions of the order. In the asymptotic version, a measure $\\mu$ dominates a measure $\\nu$ if the i.i.d.~random walk generated by $\\mu$ first-order dominates the one generated by $\\nu$ at late times. In the catalytic version, $\\mu$ dominates $\\nu$ if there is a third $\\tau$ such that the convolution $\\mu \\ast \\tau$ first-order dominates $\\nu \\ast \\tau$. Provided that the preorder on $G$ is induced by a suitably large positive cone and that both measures are compactly supported Radon, our main result gives a sufficient condition for asymptotic and catalytic dominance to hold in terms of a family of inequalities closely related to the cumulant-generating functions. While this sufficient condition requires these inequalities to be strict, the non-strict versions of these inequalities are easily seen to be necessary. In this sense, our result gives conditions that are necessary and sufficient in generic cases. This result has been known for $G = \\mathbb{R}$, but is new already for $\\mathbb{R}^n$ with $n>1$. It is a direct application of a recently proven theorem of real algebra, namely a \\emph{Vergleichsstellensatz} for preordered semirings. We finally use our result to derive a formula for the rate at which the probabilities of a random walk decay \\emph{relative} to those of another, now for walks on a preordered topological vector space with compactly supported Radon steps. Taking one of these walks to be deterministic reproduces a version of Cram\\'er's large deviation theorem for infinite dimensions."
+  },
+  {
+    "paper_id": "8bf352e3725667ccac723ee4ee8b06989af83826",
+    "title": "The asymptotic comparison of random walks on topological abelian groups",
+    "year": 2020,
+    "author_ids": [
+      "144302292"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "f52c03edb4f2725d67c97919889573d1e27370b8",
+    "title": "Monotone additive statistics on heavy-tailed convolution semigroups",
+    "year": 2019,
+    "author_ids": [
+      "144302292",
+      "7837349",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study sub-semigroups of the semigroup of probability measures on $\\mathbb{R}$ and monotone additive statistics on them, by which we mean maps to the reals that are monotone with respect to the stochastic order and additive under convolution. We show that scalar multiples of the expectation are the unique monotone additive statistics on the semigroup of measures with finite $p$-th moment, for any $1 \\le p<\\infty$. We also prove that the entire semigroup of probability measures admits no non-zero monotone additive statistic at all."
+  },
+  {
+    "paper_id": "3135a57d3a1d19ddf0db1738c85048cfa8909b9f",
+    "title": "There are no monotone homomorphisms out of the convolution semigroup",
+    "year": 2019,
+    "author_ids": [
+      "144302292",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6f460c7e1b5aa02c666b6c2173e15752e7d56569",
+    "title": "Assortment planning for two-sided sequential matching markets",
+    "year": 2019,
+    "author_ids": [
+      "1717971",
+      "145769298",
+      "2184800",
+      "1941466",
+      "2581932"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 2,
+    "abstract": "Two-sided matching platforms provide users with menus of match recommendations. To maximize the number of realized matches between the two sides (referred here as customers and suppliers), the platform must balance the inherent tension between recommending customers more potential suppliers to match with and avoiding potential collisions. We introduce a stylized model to study the above trade-off. The platform offers each customer a menu of suppliers, and customers choose, simultaneously and independently, either a supplier from their menu or to remain unmatched. Suppliers then see the set of customers that have selected them, and choose to either match with one of these customers or to remain unmatched. A match occurs if a customer and a supplier choose each other (in sequence). Agents' choices are probabilistic, and proportional to public scores of agents in their menu and a score that is associated with remaining unmatched. The platform's problem is to construct menus for costumers to maximize the number of matches. This problem is shown to be strongly NP-hard via a reduction from 3-partition. We provide an efficient algorithm that achieves a constant-factor approximation to the expected number of matches."
+  },
+  {
+    "paper_id": "f5f628da62f0d4647a9ae51a18723c924b7498b5",
+    "title": "Safe Testing",
+    "year": 2019,
+    "author_ids": [
+      "144729640",
+      "51112640",
+      "1806449"
+    ],
+    "venue": "Information Theory and Applications Workshop",
+    "citation_count": 272,
+    "abstract": "We present a new theory of hypothesis testing. The main concept is the s-value, a notion of evidence which, unlike p-values, allows for effortlessly combining evidence from several tests, even in the common scenario where the decision to perform a new test depends on the previous test outcome: safe tests based on s-values generally preserve Type-I error guarantees under such \u2018optional continuation\u2019. S-values exist for completely general testing problems with composite null and alternatives. Their prime interpretation is in terms of gambling or investing, each S-value corresponding to a particular investment. Surprisingly, optimal \"GROW\" S-values, which lead to fastest capital growth, are fully characterized by the joint information projection (JIPr) between the set of all Bayes marginal distributions on ${\\mathcal{H}_0}$ and ${\\mathcal{H}_1}$. Thus, optimal s-values also have an interpretation as Bayes factors, with priors given by the JIPr. We illustrate the theory using two classical testing scenarios: the one-sample t-test and the 2 \u00d7 2-contingency table. In the t-test setting, GROW S-values correspond to adopting the right Haar prior on the variance, like in Jeffreys\u2019 Bayesian t-test. However, unlike Jeffreys\u2019, the default safe t-test puts a discrete 2-point prior on the effect size, leading to better behaviour in terms of statistical power. Sharing Fisherian, Neymanian and Jeffreys-Bayesian interpretations, S-values and safe tests may provide a methodology acceptable to adherents of all three schools."
+  },
+  {
+    "paper_id": "5d307005b487e5282f0ebf39a95b2b3efbae2bb9",
+    "title": "From Blackwell Dominance in Large Samples to R\u00e9nyi Divergences and Back Again",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 38,
+    "abstract": "We study repeated independent Blackwell experiments; standard examples include drawing multiple samples from a population, or performing a measurement in different locations. In the baseline setting of a binary state of nature, we compare experiments in terms of their informativeness in large samples. Addressing a question due to Blackwell (1951), we show that generically an experiment is more informative than another in large samples if and only if it has higher R\u00e9nyi divergences.\n We apply our analysis to the problem of measuring the degree of dissimilarity between distributions by means of divergences. A useful property of R\u00e9nyi divergences is their additivity with respect to product distributions. Our characterization of Blackwell dominance in large samples implies that every additive divergence that satisfies the data processing inequality is an integral of R\u00e9nyi divergences."
+  },
+  {
+    "paper_id": "2b6daae562fa76ecfa14c039e56a1d9773cf120e",
+    "title": "Laws of large numbers for stochastic orders",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "951ce3dcad62ef6074ef858663e0e019713c78a5",
+    "title": "Blackwell dominance in large samples",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We study repeated independent Blackwell experiments; standard examples include drawing multiple samples from a population, or performing a measurement in different locations. In the baseline setting of a binary state of nature, we compare experiments in terms of their informativeness in large samples. Addressing a question due to Blackwell (1951) we show that generically, an experiment is more informative than another in large samples if and only if it has higher Renyi divergences. As an application, we show that every additive divergence is an integral of Renyi divergences."
+  },
+  {
+    "paper_id": "5cb6a45173b9b25d0c3daf03249c850fc50601a7",
+    "title": "Spherical preferences",
+    "year": 2019,
+    "author_ids": [
+      "1701204",
+      "2533555"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 3,
+    "abstract": "We introduce and study the property of orthogonal independence, a restricted additivity axiom applying when alternatives are orthogonal. The axiom requires that the preference for one marginal change over another should be maintained after each marginal change has been shifted in a direction that is orthogonal to both. We show that continuous preferences satisfy orthogonal independence if and only if they are spherical: their indifference curves are spheres with the same center, with preference being \"monotone\" either away or towards the center. Spherical preferences include linear preferences as a special (limiting) case. We discuss different applications to economic and political environments. Our result delivers Euclidean preferences in models of spatial voting, quadratic welfare aggregation in social choice, and expected utility in models of choice under uncertainty."
+  },
+  {
+    "paper_id": "2bb4f21045c777405b2880d7644bafea34978d5d",
+    "title": "Exceeding Expectations: Stochastic Dominance as a General Decision Theory",
+    "year": 2018,
+    "author_ids": [
+      "88742050"
+    ],
+    "venue": null,
+    "citation_count": 25,
+    "abstract": null
+  },
+  {
+    "paper_id": "7e7503ef9d5c3f0815beb6ad4b2ccc326ed01f29",
+    "title": "Comparing retirement plans with almost stochastic dominance",
+    "year": 2023,
+    "author_ids": [
+      "2259589109",
+      "2276020122",
+      "151131679"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "6531f8e145c2aef2b5889ab9f0afde5a427e1d63",
+    "title": "MONOTONE HOMOMORPHISMS ON CONVOLUTION SEMIGROUPS",
+    "year": 2021,
+    "author_ids": [
+      "2101339055",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "583a0b29a32b8a7f8ee14b055a91d8a2bc7dd631",
+    "title": "In defence of fanaticism",
+    "year": 2021,
+    "author_ids": [
+      "1932092474"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "b2b22afec3e026fdcb7cdd67bf8e110f041b24ed",
+    "title": "Monotone Additive Statistics\u2217",
+    "year": 2021,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8625774e90a2e6312a98f884e33245272c710f6f",
+    "title": "Dependence and Risk Attitudes: Neutrality and Aversion",
+    "year": 2020,
+    "author_ids": [
+      "40049799",
+      "2108761527"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "Suppose that a decision maker faces a random outcome which is the sum of several risky components. If she is indifferent to the dependence structure of the risky components, then we say that she (or her preference) is dependence neutral. Obviously, if the decision maker is risk neutral, i.e., her preference is numerically represented by the expectation, then she is dependence neutral. We show the converse direction is also true: dependence neutrality and risk neutrality are indeed equivalent. Moreover, the decision maker may be averse to strong positive dependence representing extreme comovement (comovement aversion), and she may prefer less to more positive dependence (dependence monotonicity). Under a continuity assumption on the preference, we show that comovement aversion, dependence monotonicity, and strong risk aversion are all equivalent. Our results bridge the gap between dependence and risk attitudes, and offer a new way of interpreting risk aversion in the context of risk aggregation."
+  },
+  {
+    "paper_id": "f0f6b42265feb5dd4200fdadf7529246e9a95ffc",
+    "title": "Statistical experiments form a general framework for modeling information : Given a",
+    "year": 2019,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "paper_id": "0b7dcfb0295e2b3a2b288a7ec0dbe44090fc7b67",
+    "title": "Tumor Microenvironment-Based Stimuli-Responsive Nanoparticles for Controlled Release of Drugs in Cancer Therapy",
+    "year": 2022,
+    "author_ids": [
+      "49373925",
+      "4140264",
+      "2267361713",
+      "2144284299",
+      "4196200"
+    ],
+    "venue": "Pharmaceutics",
+    "citation_count": 94,
+    "abstract": "With the development of nanomedicine technology, stimuli-responsive nanocarriers play an increasingly important role in antitumor therapy. Compared with the normal physiological environment, the tumor microenvironment (TME) possesses several unique properties, including acidity, high glutathione (GSH) concentration, hypoxia, over-expressed enzymes and excessive reactive oxygen species (ROS), which are closely related to the occurrence and development of tumors. However, on the other hand, these properties could also be harnessed for smart drug delivery systems to release drugs specifically in tumor tissues. Stimuli-responsive nanoparticles (srNPs) can maintain stability at physiological conditions, while they could be triggered rapidly to release drugs by specific stimuli to prolong blood circulation and enhance cancer cellular uptake, thus achieving excellent therapeutic performance and improved biosafety. This review focuses on the design of srNPs based on several stimuli in the TME for the delivery of antitumor drugs. In addition, the challenges and prospects for the development of srNPs are discussed, which can possibly inspire researchers to develop srNPs for clinical applications in the future."
+  },
+  {
+    "paper_id": "2696553f6687da7e99b58f061905776908ff28d3",
+    "title": "Sequential Dual Delivery System Based on siCOX-2-Loaded Gold Nanostar and Thermal-Sensitive Liposomes Overcome Hypoxia-Mediated Multidrug Resistance in Tumors.",
+    "year": 2022,
+    "author_ids": [
+      "46675589",
+      "1466513353",
+      "2144284299",
+      "50147849",
+      "2110362729",
+      "25639549",
+      "47748662",
+      "92684300"
+    ],
+    "venue": "Molecular Pharmaceutics",
+    "citation_count": 15,
+    "abstract": "Reversing hypoxia-mediated multidrug resistance (MDR) presents a unique challenge in clinical chemotherapy. Here, a sequential dual delivery system composited with Cyclooxygenase-2 siRNA (siCOX-2) in poly-d-arginine (9R)/2-deoxyglucose (DG)-loaded gold nanostar (GNS) (siCOX-2@RDG) and paclitaxel (PTX)-loaded thermosensitive liposome (PTSL) was proposed to conquer the hypoxia-mediated MDR in tumors. As a result, the prepared siCOX-2@RDG exhibited a starlike morphology with a uniform particle size of 194.36 \u00b1 1.44 nm and a \u03b6-potential of -11.83 \u00b1 2.01 mV. In vitro, PTSL displayed expected thermal-responsive release properties. As expected, siCOX-2@RDG displayed exceptional DG-mediated hypoxia-targeting capability both in vitro and in vivo and downregulated the expression of COX-2 successfully. Meanwhile, GNS-triggered hyperthermia elevated the cellular uptake of PTSL in PTX-resistant HepG2(HepG2/PTX) cells in vitro and enhanced the permeability of tumor tissues, thus elevating the valid retention of PTX into solid tumors. Finally, we demonstrated that the sequential dual systems composed of siCOX-2@RDG and PTSL could reverse hypoxia-mediated MDR and exhibit excellent synergistic antitumor effects both in vitro and in vivo, prolonging the survival of tumor-bearing mice. The devised sequential dual systems, composed of two independent nanosystems, have a promising potential to overcome hypoxia-mediated MDR in clinical practice."
+  },
+  {
+    "paper_id": "b408a56ad848ae5c0d633ebf76df3486f32a6d21",
+    "title": "Evaluation of novel conjugated resveratrol polymeric nanoparticles in reduction of plasma degradation, hepatic metabolism and its augmentation of anticancer activity in vitro and in vivo.",
+    "year": 2022,
+    "author_ids": [
+      "2150769204",
+      "1979561",
+      "5916572",
+      "2144284299"
+    ],
+    "venue": "International journal of pharmaceutics",
+    "citation_count": 25,
+    "abstract": "Resveratrol (RSV) is a natural product with multiple biological benefits including anticancer properties. Unfortunately, its biological benefits are limited by its low bioavailability and rapid hepatic metabolism and degradation in the body. The aim of this study was to develop an effective delivery system for RSV that would enhance the plasmatic stability and decrease the metabolism rate of RSV through a dual strategy of chemical modification and nanoparticle formulation. The effectiveness of this strategy was tested for the application of RSV anticancer treatment in a mouse cancer model. Chemical modification of RSV was achieved by conjugating RSV to a low molecular weight co-polymer mPEG-PLA. This conjugated RSV together with free RSV were formulated into mPEG-PLA nanoparticles (conjugated RSV NPs). These NPs showed a stable plasma stability profile and decreased liver metabolism rate compared to nanoparticles encapsulating free RSV in mPEG-PLA (encapsulated RSV NPs) and free RSV alone. However, in vitro cell studies using B16-F10 cancer cells showed that conjugated RSV NPs were less effective compared to encapsulated RSV NPs, possibly due to the lack of biotransformation of conjugated RSV to the active form RSV in the simple cell studies. To study the actual effect of our strategy, an in vivo C57BL/6J mouse model with subcutaneous B16-F10 melanoma using intraperitoneal administration was used to reveal the relationship between the improved plasma stability and reduced liver metabolism rate of RSV in conjugated RSV NPs, and suppression of the tumour growth in mice. In vivo, a better tumour suppression trend with conjugated RSV NPs was noted. Our study suggests that the use of chemical conjugation with NP formulation is an effective strategy to reduce the degradation and metabolism rate of RSV and consequently increase the antitumour activity of RSV in vivo. This strategy has potential to be further developed for the suppression of early growth of tumours with no side effects."
+  },
+  {
+    "paper_id": "215dd3863a13fc5ba712a546e2d66d32a4ff4640",
+    "title": "Effects of Viscosities and Solution Composition on Core-Sheath Electrospun Polycaprolactone(PCL) Nanoporous Microtubes",
+    "year": 2021,
+    "author_ids": [
+      "2144284299",
+      "7414380",
+      "46432962"
+    ],
+    "venue": "Polymers",
+    "citation_count": 16,
+    "abstract": "Vascularization for tissue engineering applications has been challenging over the past decades. Numerous efforts have been made to fabricate artificial arteries and veins, while few focused on capillary vascularization. In this paper, core-sheath electrospinning was adopted to fabricate nanoporous microtubes that mimic the native capillaries. The results showed that both solution viscosity and polyethylene oxide (PEO) ratio in polycaprolactone (PCL) sheath solution had significant effects on microtube diameter. Adding PEO into PCL sheath solution is also beneficial to surface pore formation, although the effects of further increasing PEO showed mixed results in different viscosity groups. Our study showed that the high viscosity group with a PCL/PEO ratio of 3:1 resulted in the highest average microtube diameter (2.14 \u00b5m) and pore size (250 nm), which mimics the native human capillary size of 1\u201310 \u00b5m. Therefore, our microtubes show high potential in tissue vascularization of engineered scaffolds."
+  },
+  {
+    "paper_id": "fed5ee4b3d982bc9057af4315dc23f7864cca20d",
+    "title": "Preparation and evaluation of PEGylated asiatic acid nanostructured lipid carriers on anti-fibrosis effects",
+    "year": 2019,
+    "author_ids": [
+      "2155631169",
+      "2108018219",
+      "144345175",
+      "2144284299",
+      "1453024537",
+      "2151485789",
+      "3299549"
+    ],
+    "venue": "Drug Development and Industrial Pharmacy",
+    "citation_count": 20,
+    "abstract": "Abstract Liver fibrosis is a major pathological feature of chronic liver diseases, and effective therapies are limited at present. Asiatic acid (AA) is a triterpenoid isolated from Centella asiatica, which exhibits efficient anti-inflammatory and anti-oxidative activities. However, AA shows very low plasma levels after oral administration. In this study, AA loading PEGylated nanostructured lipid carriers (P-AA-NLCs) were prepared. P-AA-NLCs were characterized for particle size distribution, polydispersity index, entrapment efficiency, X-ray powder diffraction (XRD) pattern, differential scanning colorimeter (DSC), and transmission electron microscopy (TEM). The intestinal absorption, in vivo distribution, pharmacokinetics, and anti-fibrosis effects of P-AA-NLC were studied compared with that of AA-NLC. In situ single-pass intestinal perfusion model shows that there are significant differences in absorption between the free and NLCs formulation. The Peff values of P-AA-NLC were significantly enhanced in all four intestinal segments compared to AA-NLC and free AA (p\u2009<\u2009.05). fa% and Ka showed similar trends, suggesting the PEGylated NLC can improve the gastrointestinal absorption of the drug. The pharmacokinetic studies presented that P-AA-NLC prolonged blood circulation times with a 1.5-fold higher relative bioavailability compared with AA-NLC. In vivo distribution experiments demonstrated that the fluorescence concentration in the liver was higher than that in other organs and the fluorescence intensity in the liver of DIR-P-NLC was about 1.3 times that of DIR-NLC. In addition, oral administration of P-AA-NLC can significantly attenuate CCl4-induced liver fibrosis and functional impairment in a dosage-dependent manner, including an increase in the albumin (ALB) and decrease in aspartate aminotransferase (AST) and alanine transaminase (ALT). Moreover, the MDA and HYP in liver tissue were downregulated, while the SOD activity was upregulated. In conclusion, P-AA-NLC can increase gastrointestinal absorption of AA and enhance anti-liver fibrosis effects in SD rats."
+  },
+  {
+    "paper_id": "0d7faf65f922ac36b56930b58eeb098de4280bb5",
+    "title": "Delivery of expression constructs of secreted frizzled-related protein 4 and its domains by chitosan\u2013dextran sulfate nanoparticles enhances their expression and anti-cancer effects",
+    "year": 2018,
+    "author_ids": [
+      "4454736",
+      "5060438",
+      "2144284299",
+      "4259164",
+      "32408049"
+    ],
+    "venue": "Molecular and Cellular Biochemistry",
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "e0f7fc4fae51c08b1e151b6fcdfab3f8e9992dba",
+    "title": "A Stability Indicating HPLC Assay Method for Analysis of Rivastigmine Hydrogen Tartrate in Dual-Ligand Nanoparticle Formulation Matrices and Cell Transport Medium",
+    "year": 2018,
+    "author_ids": [
+      "38918796",
+      "11783324",
+      "144905149",
+      "2144284299"
+    ],
+    "venue": "Journal of Analytical Methods in Chemistry",
+    "citation_count": 7,
+    "abstract": "The objective of this study was to develop and validate a method for quantitative analysis of rivastigmine hydrogen tartrate (RHT) in dual-ligand polymeric nanoparticle formulation matrices, drug release medium, and cellular transport medium. An isocratic HPLC analysis method using a reverse phase C18 column and a simple mobile phase without buffer was developed, optimised, and fully validated. Analyses were carried out at a flow rate of 1.5\u2009mL/min at 50\u00b0C and monitored at 214\u2009nm. This HPLC method exhibited good linearity, accuracy, and selectivity. The recovery (accuracy) of RHT from all matrices was greater than 99.2%. The RHT peak detected in the samples of a forced degradation study, drug loading study, release study, and cellular transport study was pure and free of matrix interference. The limit of detection (LOD) and limit of quantification (LOQ) of the assay were 60\u2009ng/mL and 201\u2009ng/mL, respectively. The method was rugged with good intra- and interday precision. This stability indicating HPLC method was selective, accurate, and precise for analysing RHT loading and its stability in nanoparticle formulation, RHT release, and cell transport medium."
+  },
+  {
+    "paper_id": "fd7474e26f4519b6bb6a6feef20444ca42fc435b",
+    "title": "Metal-Phenolic Encapsulated Mesoporous Silica Nanoparticles for pH-Responsive Drug Delivery and Magnetic Resonance Imaging",
+    "year": 2018,
+    "author_ids": [
+      "2144284299",
+      "2116588346",
+      "2109451808",
+      "81581888"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "7b84ac926f226cab00b557185abec9dab971bc2f",
+    "title": "Novel folic acid conjugated Fe3O4-ZnO hybrid nanoparticles for targeted photodynamic therapy.",
+    "year": 2017,
+    "author_ids": [
+      "2113271421",
+      "32614024",
+      "2144284299",
+      "33975684"
+    ],
+    "venue": "Colloids and Surfaces B: Biointerfaces",
+    "citation_count": 31,
+    "abstract": null
+  },
+  {
+    "paper_id": "ed01c7e1c3416737e29534513549dc18a1edeee2",
+    "title": "RGO/AuNR/HA-5FU nanocomposite with multi-stage release behavior and efficient antitumor activity for synergistic therapy.",
+    "year": 2017,
+    "author_ids": [
+      "2146419199",
+      "2107934111",
+      "145745878",
+      "2144284299",
+      "3865898",
+      "144544345",
+      "145551312"
+    ],
+    "venue": "Biomaterials Science",
+    "citation_count": 18,
+    "abstract": null
+  },
+  {
+    "paper_id": "fb446cf41205a2a30108c4ccdc261e0495d7340a",
+    "title": "Development and Analysis of Functionalized Poly(Lactide- Co-Glycolide)Polymer for Drug Delivery",
+    "year": 2017,
+    "author_ids": [
+      "38918796",
+      "1979561",
+      "2144284299"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "Functionalized polymer molecules are the backbone for formulation of targeted biomolecule delivery systems. We report here an effective method for the chemical synthesis of poly (lactide-co-glycolide)-1,4 diaminobutane (PLGADAB) in a controlled manner and an efficient gel permeation chromatography (GPC) method for analysis of functionalized PLGA. The synthetic method is simple, reproducible and the functionalized PLGA can be conjugated with any carboxylic acid-containing ligand and ultimately used for targeted drug delivery. The developed GPC analytical method is accurate, selective, precise and easily adaptable for analysing any other functionalized polymer with an amine group. These techniques provide an important basis for formulation scientists to develop functionalized polymers for targeted nanoparticle drug delivery."
+  },
+  {
+    "paper_id": "48e185b6247f5b1c2a28fa670b6f7978989b3028",
+    "title": "Cytotoxicity of folic acid conjugated hollow silica nanoparticles toward Caco2 and 3T3 cells, with and without encapsulated DOX.",
+    "year": 2016,
+    "author_ids": [
+      "2113271421",
+      "150940902",
+      "2144284299",
+      "33975684"
+    ],
+    "venue": "Colloids and Surfaces B: Biointerfaces",
+    "citation_count": 21,
+    "abstract": null
+  },
+  {
+    "paper_id": "6104076e0a89b177bcc5c66281ee6262cc512368",
+    "title": "Polydopamine-based coordination nanocomplex for T1/T2 dual mode magnetic resonance imaging-guided chemo-photothermal synergistic therapy.",
+    "year": 2016,
+    "author_ids": [
+      "2144284299",
+      "3971143",
+      "2109451808",
+      "49448395",
+      "6430177",
+      "81581888"
+    ],
+    "venue": "Biomaterials",
+    "citation_count": 178,
+    "abstract": null
+  },
+  {
+    "paper_id": "08cdb2af91af6bf7dccd8f628afc267498ccfe83",
+    "title": "The degradation profile of A: Resveratrol and B: MeO-PEG-PLAO-Succ-RSV 2 kDa in microsomal incubations with UDPA.",
+    "year": 2015,
+    "author_ids": [
+      "8138358",
+      "1979561",
+      "2115445323",
+      "5500687",
+      "2144284299"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "47532c5064de05f7da8d033ce55fdfd7b85307dc",
+    "title": "Self-healable hydrogel on tumor cell as drug delivery system for localized and effective therapy.",
+    "year": 2015,
+    "author_ids": [
+      "40539136",
+      "2144284299",
+      "2135347987",
+      "2269277841",
+      "13919179",
+      "144544345",
+      "145551312"
+    ],
+    "venue": "Carbohydrate Polymers",
+    "citation_count": 84,
+    "abstract": null
+  },
+  {
+    "paper_id": "51e01af51a537e12fe2ad965f8965405abea0d43",
+    "title": "Covalent entrapment of cobalt-iron sulfides in N-doped mesoporous carbon: extraordinary bifunctional electrocatalysts for oxygen reduction and evolution reactions.",
+    "year": 2015,
+    "author_ids": [
+      "6788348",
+      "3701387",
+      "2144284299",
+      "6430177",
+      "3971143",
+      "81581888"
+    ],
+    "venue": "ACS Applied Materials and Interfaces",
+    "citation_count": 282,
+    "abstract": null
+  },
+  {
+    "paper_id": "5cbec22a978356adcc6928b92a6e3963e6b8f18b",
+    "title": "Reduced Graphene Oxide/Amaranth Extract/AuNPs Composite Hydrogel on Tumor Cells as Integrated Platform for Localized and Multiple Synergistic Therapy.",
+    "year": 2015,
+    "author_ids": [
+      "40539136",
+      "2107934111",
+      "12561762",
+      "3865898",
+      "2144284299",
+      "2117149526",
+      "2269277841",
+      "13919179",
+      "144544345",
+      "145551312"
+    ],
+    "venue": "ACS Applied Materials and Interfaces",
+    "citation_count": 48,
+    "abstract": null
+  },
+  {
+    "paper_id": "73fdfd19970570ce6f7792823c3b7517d2fdb6af",
+    "title": "Stabilization of Resveratrol in Blood Circulation by Conjugation to mPEG and mPEG-PLA Polymers: Investigation of Conjugate Linker and Polymer Composition on Stability, Metabolism, Antioxidant Activity and Pharmacokinetic Profile",
+    "year": 2015,
+    "author_ids": [
+      "8138358",
+      "1979561",
+      "2115445323",
+      "5500687",
+      "2144284299"
+    ],
+    "venue": "PLoS ONE",
+    "citation_count": 26,
+    "abstract": "Resveratrol is naturally occurring phytochemical with diverse biological activities such as chemoprevention, anti-inflammatory, anti-cancer, anti-oxidant. But undergoes rapid metabolism in the body (half life 0.13h). Hence Polymer conjugation utilizing different chemical linkers and polymer compositions was investigated for enhanced pharmacokinetic profile of resveratrol. Ester conjugates such as \u03b1-methoxy-\u03c9-carboxylic acid poly(ethylene glycol) succinylamide resveratrol (MeO-PEGN-Succ-RSV) (2 and 20 kDa); MeO-PEG succinyl ester resveratrol (MeO-PEGO-Succ-RSV) (2 kDa); \u03b1-methoxy poly(ethylene glycol)-co-polylactide succinyl ester resveratrol (MeO-PEG-PLAO-Succ-RSV) (2 and 6.6kDa) were prepared by carbodiimide coupling reactions. Resveratrol-PEG ethers (2 and 5 kDa) were synthesized by alkali-mediated etherification. All polymer conjugates were fully characterized in vitro and the pharmacokinetic profile of selected conjugates was characterized in rats. Buffer and plasma stability of conjugates was dependent on polymer hydrophobicity, aggregation behavior and PEG corona, with MeO-PEG-PLAO-Succ-RSV (2 kDa) showing a 3h half-life in rat plasma in vitro. Polymer conjugates irrespective of linker chemistry protected resveratrol against metabolism in vitro. MeO-PEG-PLAO-Succ-RSV (2 kDa), Resveratrol-PEG ether (2 and 5 kDa) displayed improved pharmacokinetic profiles with significantly higher plasma area under curve (AUC), slower clearance and smaller volume of distribution, compared to resveratrol."
+  },
+  {
+    "paper_id": "775e701968e1c6eb49a0a6365c6a2e8517809180",
+    "title": "Characterization and biological properties of NanoCUR formulation and its effect on major human cytochrome P450 enzymes.",
+    "year": 2015,
+    "author_ids": [
+      "16066083",
+      "2144284299",
+      "35010533"
+    ],
+    "venue": "International journal of pharmaceutics",
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "797a8f90b7505333d35689886104213a4ac5e3cb",
+    "title": "Multifunctional envelope-type mesoporous silica nanoparticles for pH-responsive drug delivery and magnetic resonance imaging.",
+    "year": 2015,
+    "author_ids": [
+      "2144284299",
+      "3971143",
+      "2109451808",
+      "48845653",
+      "2057789100",
+      "81581888"
+    ],
+    "venue": "Biomaterials",
+    "citation_count": 180,
+    "abstract": null
+  },
+  {
+    "paper_id": "857aa83147e5f61c7c9bc5cb1557b57ff9dd3732",
+    "title": "Lycopene Nanoparticles Coated with Microemulsions to Improve Stability",
+    "year": 2015,
+    "author_ids": [
+      "2145153555",
+      "2144284299",
+      "144068531",
+      "9531466",
+      "48329728",
+      "3219013"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "97c718abab3e4449cae26619d338796c6f3858eb",
+    "title": "Cellular Uptake Mechanism of Paclitaxel Nanocrystals Determined by Confocal Imaging and Kinetic Measurement",
+    "year": 2015,
+    "author_ids": [
+      "2144284299",
+      "1771121"
+    ],
+    "venue": "AAPS Journal",
+    "citation_count": 49,
+    "abstract": null
+  },
+  {
+    "paper_id": "b8bbbf782396dca26d3c153d0a585244c2899603",
+    "title": "Characterization and biological properties of NanoCUR formulation and its effect on major human cytochrome P 450 enzymes",
+    "year": 2015,
+    "author_ids": [
+      "16066083",
+      "2144284299",
+      "35010533"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "f1924b6a83351a83ca9686e23fc29e0b7f1188b2",
+    "title": "Synthesis and characterization of novel copolymeric resveratrol conjugates",
+    "year": 2015,
+    "author_ids": [
+      "13754792",
+      "1979561",
+      "2115445323",
+      "2144284299"
+    ],
+    "venue": null,
+    "citation_count": 9,
+    "abstract": "Resveratrol (RSV), naturally found in plants, is known to have health benefits and has been proposed as a potential anticancer and cardioprotective drug. However, due to its molecular structure, it undergoes rapid metabolism in the body resulting in low bioavailability. Novel polymeric methoxy-poly(ethylene glycol)-block-poly(e-caprolactone) (mPEG-PCL) RSV conjugates with varying PCL chain lengths have been synthesised and formulated into micelles and/or nanoparticles for preliminary in vitro stability studies. RSV conjugated with mPEG2000-PCL9500 was found to have improved solubility and stability of RSV as compared to RSV alone. The length of the PCL chain was found to affect the micelle formation, hence the stability in physiological buffers and rat plasma."
+  }
+]

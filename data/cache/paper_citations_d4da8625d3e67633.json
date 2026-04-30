@@ -1,0 +1,51 @@
+[
+  {
+    "paper_id": "aef582c3506d91ba42c572befd6f7a0b5e54e935",
+    "title": "Optimal screening with securities",
+    "year": 2025,
+    "author_ids": [
+      "2314938311",
+      "2396278392"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "32c80d25b079e355f3f506b909874328130ff4f9",
+    "title": "Higher-order Gini indices: An axiomatic approach",
+    "year": 2025,
+    "author_ids": [
+      "2182043675",
+      "2284931148",
+      "2108761527"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Via an axiomatic approach, we characterize the family of n-th order Gini deviation, defined as the expected range over n independent draws from a distribution, to quantify joint dispersion across multiple observations. This family extends the classical Gini deviation, which relies solely on pairwise comparisons. The normalized version is called a high-order Gini coefficient. The generalized indices grow increasingly sensitive to tail inequality as n increases, offering a more nuanced view of distributional extremes. The higher-order Gini deviations admit a Choquet integral representation, inheriting the desirable properties of coherent deviation measures. Furthermore, we show that both the n-th order Gini deviation and the n-th order Gini coefficient are statistically n-observation elicitable, allowing for direct computation through empirical risk minimization. Data analysis using World Inequality Database data reveals that higher-order Gini coefficients capture disparities that the classical Gini coefficient may fail to reflect, particularly in cases of extreme income or wealth concentration."
+  },
+  {
+    "paper_id": "ed3fd21c0343c5b930bea7172583ebd5dd1c0d85",
+    "title": "Optimal Auction Design with Contingent Payments and Costly Verification",
+    "year": 2024,
+    "author_ids": [
+      "2294175013",
+      "120052301"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study the design of an auction for an income-generating asset such as an intellectual property license. Each bidder has a signal about his future income from acquiring the asset. After the asset is allocated, the winner's income from the asset is realized privately. The principal can audit the winner, at a cost, and then charge a payment contingent on the winner's realized income. We solve for an auction that maximizes the principal's revenue, net of auditing costs. The winning bidder is charged linear royalties up to a cap, beyond which there is no auditing. A higher bidder pays more in cash upfront and faces a lower royalty cap."
+  },
+  {
+    "paper_id": "b158b57f53952b6f50b136191e27e23835ff7716",
+    "title": "Monotone Function Intervals: Theory and Applications",
+    "year": 2023,
+    "author_ids": [
+      "40190320",
+      "121388097"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 10,
+    "abstract": "A monotone function interval is the set of monotone functions that lie pointwise between two fixed, -monotone functions. We characterize the set of extreme points of monotone function intervals and apply this to a number of economic settings. First, we leverage the main result to characterize the set of distributions of posterior quantiles that can be induced by a signal, with applications to political economy, Bayesian persuasion, and the psychology of judgment. Second, we combine our characterization with properties of convex optimization problems to unify and generalize seminal results in the literature on security design under adverse selection and moral hazard. (JEL C61, C65, D72, D82, D91, G12)"
+  }
+]

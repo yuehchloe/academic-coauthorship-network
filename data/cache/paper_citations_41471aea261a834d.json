@@ -1,0 +1,212 @@
+[
+  {
+    "paper_id": "927b5df26d081757d4302af5cfe19459f50ddbbd",
+    "title": "Selling supplemental information",
+    "year": 2025,
+    "author_ids": [
+      "120333865"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I consider an environment in which a decision maker faces uncertainty and privately holds information in the form of a signal about the true state of the world. The decision maker purchases additional information from a data broker before receiving the signal realization. I characterize the data broker's optimal selling mechanism, which involves screening over all possible signals. I allow the space of all signals the data broker can sell to be arbitrarily correlated with the signal the decision maker owns. This plays a key role in designing the optimal menu. In the binary action setting, the data broker extracts the efficient surplus by offering a distinct binary signal for each type. Moreover, this result holds even when the broker does not know the prior distribution over states. In more general environments, I provide conditions on the payoff structure and the decision maker's type space under which the data broker extracts the efficient surplus. I discuss scenarios in which efficient surplus extraction is not possible."
+  },
+  {
+    "paper_id": "3c94c127c81d43555a117696138d33acc513048d",
+    "title": "Learning and Communication Towards Unanimous Consent",
+    "year": 2024,
+    "author_ids": [
+      "2716214",
+      "2333876672"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "A principal and an agent can launch a project under unanimous consent. Their individual payoffs from the project depend on an underlying state, and the agent privately knows his own preference. The principal can conduct a test to learn about the state and then communicate with the agent, but has limited commitment, as she may misreport her findings. We show that limited commitment makes binary tests optimal. Moreover, when players'preferences are positively aligned, the optimal test is a threshold test. When their preferences are negatively aligned, the optimal test is either an interval test or a tail test, depending on the agent's relative risk attitude. Additionally, the principal can benefit from screening the agent through a menu of tests, which admits a simple structure regardless of the complexity of the agent's type space."
+  },
+  {
+    "paper_id": "2566eb9b293dd9c1270d4cba07c86f7ba8e96685",
+    "title": "Almost-Bayesian Quadratic Persuasion with a Scalar Prior",
+    "year": 2023,
+    "author_ids": [
+      "65949530",
+      "2770825"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 4,
+    "abstract": "In this article, we consider a problem of strategic communication between a sender (Alice) and a receiver (Bob) akin to the now-traditional model of Bayesian Persuasion introduced by Kamenica & Gentzkow, with the crucial difference that Bob is not assumed Bayesian. In lieu of the Bayesian assumption, Alice assumes that Bob behaves \u201calmost like\u201d a Bayesian agent, in some sense, without resorting to any specific model. Under this assumption, we study Alice's strategy when both utilities are quadratic and the prior is scalar. We show that, contrary to the Bayesian case, Alice's optimal response may be more subtle than revealing \u201call or nothing.\u201d More precisely, Alice reveals the state of the world when it lies outside a specific interval, and nothing otherwise. This interval increases (and the amount of information shared decreases) as Bob further departs from Bayesianity, much to his detriment."
+  },
+  {
+    "paper_id": "ad9198408e425485d2f5e621f8d3f3c03ea9bc1b",
+    "title": "Information Design for Hybrid Work under Infectious Disease Transmission Risk",
+    "year": 2023,
+    "author_ids": [
+      "2112624204",
+      "2264679334",
+      "2066231840"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We study a planner's provision of information to manage workplace occupancy when strategic workers (agents) face risk of infectious disease transmission. The planner implements an information mechanism to signal information about the underlying risk of infection at the workplace. Agents update their belief over the risk parameter using this information and choose to work in-person or remotely. We address the design of the optimal signaling mechanism that best aligns the workplace occupancy with the planner's preference (i.e., maintaining safe capacity limits and operational efficiency at workplace). For various forms of planner preferences, we show numerical and analytical proof that interval-based information mechanisms are optimal. These mechanisms partition the continuous domain of the risk parameter into disjoint intervals and provision information based on interval-specific probability distributions over a finite set of signals. When the planner seeks to achieve an occupancy that lies in one of finitely many pre-specified ranges independent of the underlying risk, we provide an optimal mechanism that uses at most two intervals. On the other hand, when the preference on the occupancy is risk-dependent, we show that an approximately optimal interval-based mechanism can be computed efficiently. We bound the approximation loss for preferences that are expressed through a Lipschitz continuous function of both occupancy and risk parameter. We provide examples that demonstrate the improvement of proposed signaling mechanisms relative to the common benchmarks in information provision. Our findings suggest that information provision over the risk of disease transmission is an effective intervention for maintaining desirable occupancy levels at the workplace."
+  },
+  {
+    "paper_id": "b0fcaabc811d3f296461450894f00dd83a719f4b",
+    "title": "Algorithmic Persuasion Through Simulation: Information Design in the Age of Generative AI",
+    "year": 2023,
+    "author_ids": [
+      "2268760450",
+      "1754163",
+      "1694393",
+      "2158559"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 4,
+    "abstract": "We study a Bayesian persuasion game where a sender wants to persuade a receiver to take a binary action, such as purchasing a product. The sender is informed about the (real-valued) state of the world, such as the quality of the product, but only has limited information about the receiver's beliefs and utilities. Motivated by customer surveys, user studies, and recent advances in AI, we allow the sender to learn more about the receiver by querying an oracle that simulates the receiver's behavior. After a fixed number of queries, the sender commits to a messaging policy and the receiver takes the action that maximizes her expected utility given the message she receives. We characterize the sender's optimal messaging policy given any distribution over receiver types. We then design a polynomial-time querying algorithm that optimizes the sender's expected utility in this game. We also consider approximate oracles, more general query structures, and costly queries."
+  },
+  {
+    "paper_id": "5c76d497b5550999833836a67e1f01ad7e63c164",
+    "title": "Information Design for Spatial Resource Allocation",
+    "year": 2023,
+    "author_ids": [
+      "3237848",
+      "2220759"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "In this paper, we study platforms where resources and jobs are spatially distributed, and resources have the flexibility to strategically move to different locations for better payoffs. The price of the service at each location depends on the number of resources present and the market size, which is modeled as a random state. Our focus is on how the platform can utilize information about the underlying state to influence resource repositioning decisions and ultimately increase commission revenues. We establish that in many practically relevant settings a simple monotone partitional information disclosure policy is optimal. This policy reveals state realizations below a threshold and above a second (higher) threshold, and pools all states in between and maps them to a unique signal realization. We also provide algorithmic approaches for obtaining (near-)optimal information structures that are monotone partitional in general settings."
+  },
+  {
+    "paper_id": "70d2bb4e8569d6fc83016adceb3e71120dc19fd1",
+    "title": "Withholding Verifiable Information",
+    "year": 2023,
+    "author_ids": [
+      "2119017704"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "I study a class of verifiable disclosure games where the sender's preferences are state independent and the receiver's optimal action depends solely on the expected state. In such games, the receiver's preferred equilibria are relatively well studied, but other equilibria are less so. This paper characterizes the sender's preferred equilibria and equilibrium payoff set in this class of games."
+  },
+  {
+    "paper_id": "97b2fad4bc24a4e986f6cae363db2ddc90feb996",
+    "title": "Coarse Information Design",
+    "year": 2023,
+    "author_ids": [
+      "1753640660",
+      "37452006",
+      "2381942979"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We study an information design problem with continuous state and discrete signal space. Under convex and S-shaped value functions, the optimal information structure is interval-partitional and exhibits a dual expectations property: each induced signal is the conditional mean (taken under the prior density) of each interval; and each interval cutoff is the barycenter (taken under the value function curvature) of the interval formed by neighboring signals. This property enables an examination into which part of the state space is more finely partitioned. The analysis can be extended to general value functions and adapted to study coarse mechanism design."
+  },
+  {
+    "paper_id": "b158b57f53952b6f50b136191e27e23835ff7716",
+    "title": "Monotone Function Intervals: Theory and Applications",
+    "year": 2023,
+    "author_ids": [
+      "40190320",
+      "121388097"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 10,
+    "abstract": "A monotone function interval is the set of monotone functions that lie pointwise between two fixed, -monotone functions. We characterize the set of extreme points of monotone function intervals and apply this to a number of economic settings. First, we leverage the main result to characterize the set of distributions of posterior quantiles that can be induced by a signal, with applications to political economy, Bayesian persuasion, and the psychology of judgment. Second, we combine our characterization with properties of convex optimization problems to unify and generalize seminal results in the literature on security design under adverse selection and moral hazard. (JEL C61, C65, D72, D82, D91, G12)"
+  },
+  {
+    "paper_id": "4421a4962184125d1547d854d697df8e4b3e3b3b",
+    "title": "Withholding Verifiable Information",
+    "year": 2022,
+    "author_ids": [
+      "2119017704"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I study a class of verifiable disclosure games where the sender's payoff is state independent and the receiver's optimal action only depends on the expected state. The sender's messages are verifiable in the sense that they can be vague but can never be wrong. What is the sender's preferred equilibrium? When does the sender gain nothing from having commitment power? I identify conditions for an information design outcome to be an equilibrium outcome of the verifiable disclosure game, and give simple sufficient conditions under which the sender does not benefit from commitment power. These results help in characterizing the sender's preferred equilibria and her equilibrium payoff set in a class of verifiable disclosure games. I apply these insights to study influencing voters and selling with quality disclosure."
+  },
+  {
+    "paper_id": "f0999033cbc9b39010e0444806fc553dc910be39",
+    "title": "Optimal Information Provision for Strategic Hybrid Workers",
+    "year": 2022,
+    "author_ids": [
+      "2112624204",
+      "35666735",
+      "2066231840"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 6,
+    "abstract": "We study the problem of information provision by a strategic central planner who can publicly signal about an uncertain infectious risk parameter. Signalling leads to an updated public belief over the parameter, and agents then make equilibrium choices on whether to work remotely or in-person. The planner maintains a set of desirable outcomes for each realization of the uncertain parameter and seeks to maximize the probability that agents choose an acceptable outcome for the true parameter. We distinguish between stateless and stateful objectives. In the former, the set of desirable outcomes does not change as a function of the risk parameter, whereas in the latter it does. For stateless objectives, we reduce the problem to maximizing the probability of inducing mean beliefs that lie in intervals computable from the set of desirable outcomes. We derive the optimal signalling mechanism and show that it partitions the parameter domain into at most two intervals with the signals generated according to an interval-specific distribution. For the stateful case, we consider a practically relevant situation in which the planner seeks to enforce in-person work capacity limits that progressively get more stringent as the risk parameter increases. We show that the optimal signalling mechanism in this case can be obtained by solving a linear program. We numerically verify the improvement in achieving desirable outcomes using our information design relative to the no-information and full-information benchmarks."
+  },
+  {
+    "paper_id": "06d9ed30ee0fefa174d8ee328b7ec34979eaad02",
+    "title": "Information Design in Smooth Games",
+    "year": 2022,
+    "author_ids": [
+      "144622420",
+      "46412716"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study information design in games where players choose from a continuum of actions and have continuously differentiable payoffs. We show that an information structure is optimal when the equilibrium it induces can also be implemented in a principal-agent contracting problem. Building on this result, we characterize optimal information structures in symmetric linear-quadratic games. With common values, targeted disclosure is robustly optimal across all priors. With interdependent and normally distributed values, linear disclosure is uniquely optimal. We illustrate our findings with applications in venture capital, Bayesian polarization, and price competition."
+  },
+  {
+    "paper_id": "015a801e1df2da639d192afc5339f58fa8405b7b",
+    "title": "On the benefits of being constrained when receiving signals",
+    "year": 2021,
+    "author_ids": [
+      "34512027",
+      "1765196",
+      "1721148"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 0,
+    "abstract": "We study a Bayesian persuasion setting in which the receiver is trying to match the (binary) state of the world. The sender's utility is partially aligned with the receiver's, in that conditioned on the receiver's action, the sender derives higher utility when the state of the world matches the action. Our focus is on whether, in such a setting, being constrained helps a receiver. Intuitively, if the receiver can only take the sender's preferred action with a smaller probability, the sender might have to reveal more information, so that the receiver can take the action more specifically when the sender prefers it. We show that with a binary state of the world, this intuition indeed carries through: under very mild non-degeneracy conditions, a more constrained receiver will always obtain (weakly) higher utility than a less constrained one. Unfortunately, without additional assumptions, the result does not hold when there are more than two states in the world, which we show with an explicit example."
+  },
+  {
+    "paper_id": "8a6b27a641fce626042ad42ab71afaaef24196d9",
+    "title": "State-Promoted Investment for Industrial Reforms: An Information Design Approach",
+    "year": 2021,
+    "author_ids": [
+      "104518063",
+      "65752754",
+      "2116921388"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We analyze the optimal strategy for a government to promote large-scale investment projects under information frictions. Specifically, we propose a model where the government collects information on probability of each investment and discloses it to private investors a la Kamenica and Gentzkow (2011). We derive the government's optimal information policy, which is characterized as threshold values for the unknown probability of the projects released to the private investors, and study how the underlying features of the economy affect the optimal policies. We find that when multiple projects are available, the government promotes the project with a bigger spillover effect by fully revealing the true state of the economy only when its probability is substantially high. Moreover, the development of the financial/information market also affects the optimal rule."
+  },
+  {
+    "paper_id": "fc6a3d89b23a2338ecc76daf18e67777d69dc6e9",
+    "title": "Calibrated Click-Through Auctions",
+    "year": 2021,
+    "author_ids": [
+      "1689637",
+      "2078106"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 16,
+    "abstract": "We analyze the optimal information design in a click-through auction with stochastic click-through rates and known valuations per click. The auctioneer takes as given the auction rule of the click-through auction, namely the generalized second-price auction. Yet, the auctioneer can design the information flow regarding the click-through rates among the bidders. We require that the information structure to be calibrated in the learning sense. With this constraint, the auction needs to rank the ads by a product of the value and a calibrated prediction of the click-through rates. The task of designing an optimal information structure is thus reduced to the task of designing an optimal calibrated prediction. We show that in a symmetric setting with uncertainty about the click-through rates, the optimal information structure attains both social efficiency and surplus extraction. The optimal information structure requires private (rather than public) signals to the bidders. It also requires correlated (rather than independent) signals, even when the underlying uncertainty regarding the click-through rates is independent. Beyond symmetric settings, we show that the optimal information structure requires partial information disclosure, and achieves only partial surplus extraction."
+  },
+  {
+    "paper_id": "108fdf7b15cdfc7fc65d20326b6ffc6b5aad84eb",
+    "title": "Towards Data Auctions with Externalities",
+    "year": 2020,
+    "author_ids": [
+      "49203555",
+      "1729606",
+      "2142860",
+      "143943440"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 28,
+    "abstract": "The design of data markets has gained in importance as firms increasingly use predictions from machine learning models to make their operations more effective, yet need to externally acquire the necessary training data to fit such models. A property of such markets that has been given limited consideration thus far is the externality faced by a firm when data is allocated to other, competing firms. Addressing this is likely necessary for progress towards the practical implementation of such markets. In this work, we consider the case with $n$ competing firms and a monopolistic data seller. We demonstrate that modeling the utility of firms solely through the increase in prediction accuracy experienced reduces the complex, combinatorial problem of allocating and pricing multiple data sets to an auction of a single digital (freely replicable) good. Crucially, this is what enables us to model the negative externalities experienced by a firm resulting from other firms' allocations. We obtain forms of the welfare-maximizing and revenue-maximizing auctions for such settings. We highlight how the form of the firms' private information -- whether they know the externalities they exert on others or that others exert on them -- affects the structure of the optimal mechanisms. We find that in all cases, the optimal allocation rules turn out to be single thresholds (one per firm), in which the seller allocates all information or none of it to a firm. We note the framework and results introduced hold more broadly for the auction of digital goods with externalities."
+  },
+  {
+    "paper_id": "0eee045f5c150e0e461bd5f79a11a63606314c20",
+    "title": "Persuasion Meets Delegation",
+    "year": 2018,
+    "author_ids": [
+      "1729345",
+      "1720611"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 22,
+    "abstract": "A principal can restrict an agent's information (the persuasion problem) or discretion (the delegation problem). We study these two problems under standard single\u2010crossing assumptions on the agent's marginal utility. We show that these problems are equivalent on the set of monotone stochastic mechanisms, implying, in particular, the equivalence of deterministic delegation and monotone partitional persuasion. We also show that the monotonicity restriction is superfluous for linear persuasion and linear delegation, implying their equivalence on the set of all stochastic mechanisms. Finally, using tools from the persuasion literature, we characterize optimal delegation mechanisms, thereby generalizing and extending existing results in the delegation literature."
+  }
+]

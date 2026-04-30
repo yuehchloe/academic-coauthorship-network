@@ -1,0 +1,410 @@
+[
+  {
+    "paper_id": "0f5c09b6342c2386509371f056694792851e0401",
+    "title": "The rates of learning with public and private signals",
+    "year": 2025,
+    "author_ids": [
+      "32308570"
+    ],
+    "venue": "Mathematical Social Sciences",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "daebb33fe4fb921bd447d93594fa8c43ea3e138f",
+    "title": "The Social Learning Barrier",
+    "year": 2025,
+    "author_ids": [
+      "2324456010"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We consider long-lived agents who interact repeatedly in a social network. In each period, each agent learns about an unknown state by observing a private signal and her neighbors'actions from the previous period before choosing her own action. Our main result shows that the learning rate of the slowest-learning agent is bounded from above by a constant that only depends on the marginal distributions of the agents'private signals and not on the number of agents, the network structure, correlations between the private signals, and the agents'strategies. Applying this result to equilibrium learning with rational agents shows that the learning rate of all agents in any equilibrium is bounded under general conditions. This extends recent findings on equilibrium learning and demonstrates that the limitation stems from an information-theoretic tradeoff between optimal action choices and information revelation, rather than strategic considerations. We also show that a social planner can achieve almost optimal learning by designing strategies for which each agent's learning rate is close to the upper bound."
+  },
+  {
+    "paper_id": "1c53bbc3598938b3f08917e4b34bd7b22d3539d7",
+    "title": "The Impact of Shared Team Task-Specific Experiences on Fire Brigade Rescue Effectiveness",
+    "year": 2025,
+    "author_ids": [
+      "2301001760",
+      "2318507055",
+      "2271711207",
+      "2300817276"
+    ],
+    "venue": "Fire",
+    "citation_count": 0,
+    "abstract": "Experience is crucial for enhancing task performance. However, rescue experience, as a key contributor to individual and team capabilities within fire brigades, has not received sufficient attention in fire safety management research. Based on the concept of shared team task-specific (STTS) experience, this study explored how it affects the rescue effectiveness of fire brigades. To test the proposed model, data were collected from a sample of 452 firefighters in China. The results indicated that STTS experience, including both task-specific experience and shared team experience, significantly improves the rescue effectiveness of fire brigades. Moreover, shared mental models, including both teammate mental models and task mental models, mediate the relationship between STTS experience and rescue effectiveness, while team tenure strengthens the effect of STTS experience on shared mental models and subsequent team performance. These findings enhance the understanding of fire brigade performance and contribute to improving emergency rescue effectiveness. Theoretical and practical implications, limitations, and future research directions are provided and discussed."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "f3386fb7cc0d469b9a3c6e6abe82d02a95fa7eb3",
+    "title": "Multidimensional Screening With Precise Seller Information",
+    "year": 2024,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 4,
+    "abstract": "A multi\u2010product monopolist faces a buyer who is privately informed about his valuations for the goods. As is well known, optimal mechanisms are in general complicated, while simple mechanisms\u2014such as pure bundling or separate sales\u2014can be far from optimal and do not admit clear\u2010cut comparisons. We show that this changes if the monopolist has sufficiently precise information about the buyer's valuations: Now, pure bundling always outperforms separate sales; moreover, there is a sense in which pure bundling performs essentially as well as the optimal mechanism. To formalize this, we characterize how fast the corresponding revenues converge to the first\u2010best revenue as the monopolist's information grows precise: Pure bundling achieves the same convergence rate to the first\u2010best as optimal mechanisms; in contrast, the convergence rate under separate sales is suboptimal."
+  },
+  {
+    "paper_id": "d4d499bd444adaebeee3559ea4fc31be88620323",
+    "title": "The Asymptotic Cost of Complexity",
+    "year": 2024,
+    "author_ids": [
+      "2309005797"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We propose a measure of learning efficiency for non-finite state spaces. We characterize the complexity of a learning problem by the metric entropy of its state space. We then describe how learning efficiency is determined by this measure of complexity. This is, then, applied to two models where agents learn high-dimensional states."
+  },
+  {
+    "paper_id": "b4ac3a6084433e577268cb8762278b6343aea4c0",
+    "title": "Similarities in the US Department of Agriculture international baseline projections",
+    "year": 2024,
+    "author_ids": [
+      "2159788182",
+      "104014188"
+    ],
+    "venue": "Journal of The Agricultural And Applied Economics Association",
+    "citation_count": 1,
+    "abstract": "The US Department of Agriculture (USDA) international baseline projections are crucial for US agricultural policy. Using a dynamic time warping algorithm, we examine whether corn, soybean, and wheat baselines exhibit a lack of significant distance indicating similarity in projections across countries. We then examine whether projections for countries with more similarity with the United States projections exhibit higher projection errors. We discover evidence of projections being similar to the United States, which is associated with lower errors for corn yield, harvested area, and exports and wheat import projections, but not for other variables. These findings offer valuable insights for USDA and stakeholders."
+  },
+  {
+    "paper_id": "fa315d29ee2b9a0971d754197d6ca7a2f10474d5",
+    "title": "Interpersonal trust: Asymptotic analysis of a stochastic coordination game with multi-agent learning.",
+    "year": 2024,
+    "author_ids": [
+      "2149895764",
+      "1741088457",
+      "2282973103"
+    ],
+    "venue": "Chaos",
+    "citation_count": 4,
+    "abstract": "We study the interpersonal trust of a population of agents, asking whether chance may decide if a population ends up with high trust or low trust. We model this by a discrete time, stochastic coordination game with pairwise interactions occurring at random in a finite population. Agents learn about the behavior of the population using a weighted average of what they have observed in past interactions. This learning rule, called an \"exponential moving average,\" has one parameter that determines the weight of the most recent observation and may, thus, be interpreted as the agent's memory. We prove analytically that in the long run, the whole population always either trusts or doubts with the probability one. This remains true when the expectation of the dynamics would indicate otherwise. By simulation, we study the impact of the distribution of the payoff matrix and of the memory of the agents. We find that as the agent memory increases (i.e., the most recent observation weighs less), the actual dynamics increasingly resemble the expectation of the process. We conclude that it is possible that a population may converge upon high or low trust between its citizens simply by chance, though the game parameters (context of the society) may be quite telling."
+  },
+  {
+    "paper_id": "c5ddfde86c3766cd755fa2be361319427fe47d28",
+    "title": "Learning Efficiency of Multiagent Information Structures",
+    "year": 2023,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 5,
+    "abstract": "Which information structures are more effective at eliminating first- and higher-order uncertainty and hence at facilitating efficient play in coordination games? We consider a learning setting where players observe many private signals about the state. First, we characterize multiagent learning efficiency, that is, the rate at which players approximate common knowledge. We find that this coincides with the rate at which first-order uncertainty disappears, as higher-order uncertainty vanishes faster than first-order uncertainty. Second, we show that with enough signal draws, information structures with higher learning efficiency induce higher equilibrium welfare. We highlight information design implications for games in data-rich environments."
+  },
+  {
+    "paper_id": "885ba756a1496f24e6724ab29f0f55725f1e375e",
+    "title": "Trusting: Alone and together",
+    "year": 2023,
+    "author_ids": [
+      "2149895764",
+      "1741088457",
+      "143813628"
+    ],
+    "venue": "The Journal of mathematical sociology",
+    "citation_count": 3,
+    "abstract": "ABSTRACT We study the problem of an agent continuously faced with the decision of placing or not placing trust in an institution. The agent makes use of Bayesian learning in order to estimate the institution\u2019s true trustworthiness and makes the decision to place trust based on myopic rationality. Using elements from random walk theory, we explicitly derive the probability that such an agent ceases placing trust at some point in the relationship, as well as the expected time spent placing trust conditioned on their discontinuation thereof. We then continue by modeling two truster agents, each in their own relationship to the institution. We consider two natural models of communication between them. In the first (\u201cobservable rewards\u201d) agents disclose their experiences with the institution with one another, while in the second (\u201cobservable actions\u201d) agents merely witness the actions of their neighbor, i.e. placing or not placing trust. Under the same assumptions as in the single agent case, we describe the evolution of the beliefs of agents under these two different communication models. Both the probability of ceasing to place trust and the expected time in the system elude explicit expressions, despite there being only two agents. We therefore conduct a simulation study in order to compare the effect of the different kinds of communication on the trust dynamics. We find that a pair of agents in both communication models has a greater chance of learning the true trustworthiness of an institution than a single agent. Communication between agents promotes the formation of long-term trust with a trustworthy institution as well as the timely exit from a trust relationship with an untrustworthy institution. Contrary to what one might expect, we find that having less information (observing each other\u2019s actions instead of experiences) can sometimes be beneficial to the agents."
+  },
+  {
+    "paper_id": "8c5e2be9364e3394bd2cf18b6bc44a43df0803be",
+    "title": "Bayesian herd detection for dynamic data",
+    "year": 2023,
+    "author_ids": [
+      "1972886",
+      "66664982"
+    ],
+    "venue": "International Journal of Forecasting",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "e3f39b5b10512eae984ebd070b83d024f9c90e59",
+    "title": "Strategic Observational Learning",
+    "year": 2022,
+    "author_ids": [
+      "2256661"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": ". We study learning by privately informed forward-looking agents in a simple repeated-action setting of social learning. Under a symmetric signal structure, forward-looking agents behave myopically for any degrees of patience. Myopic equilibrium is unique in the class of symmetric threshold strategies, and the simplest symmetric non-monotonic strategies. If the signal structure is asymmetric and the game is in\ufb01nite, there is no equilibrium in myopic strategies, for any positive degree of patience. JEL : C72, C73, D82, D83."
+  },
+  {
+    "paper_id": "9672ff4b2cc458634e302abdeae738bcef3af627",
+    "title": "Insight or ignorance: How collaborative history in a workgroup fits with project type to shape performance",
+    "year": 2022,
+    "author_ids": [
+      "145505192",
+      "51310713",
+      "8332887",
+      "49623954"
+    ],
+    "venue": "Journal of business research",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a2b4d351967d822139434c1d752c93e1199ee1ee",
+    "title": "Cognitive Hierarchies in Multi-Stage Games of Incomplete Information: Theory and Experiment",
+    "year": 2022,
+    "author_ids": [
+      "2087248088"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "Sequential equilibrium is the conventional approach for analyzing multi-stage games of incomplete information, relying on the requirement of mutual consistency of beliefs -- an empirically implausible assumption. To relax mutual consistency, I theoretically and experimentally explore the dynamic cognitive hierarchy (DCH) solution. One property of DCH is that the solution can vary between two different games sharing the same reduced normal form. To test this prediction, I conduct a laboratory experiment using two strategically equivalent versions of the dirty-faces game. The game parameters are calibrated to maximize the expected difference in behavior between the two versions, as predicted by DCH. The experimental results indicate significant differences in behavior between the two versions, and more importantly, the observed differences align with DCH. This suggests that implementing a dynamic game experiment in reduced normal form (using the\"strategy method\") could lead to distortions in behavior."
+  },
+  {
+    "paper_id": "521ad2db19d2234b8d62465080f1ac241b3df6f5",
+    "title": "Reputation Building under Observational Learning",
+    "year": 2022,
+    "author_ids": [
+      "2356615"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 0,
+    "abstract": "\n A patient seller interacts with a sequence of myopic consumers. Each period, the seller chooses the quality of his product, and a consumer decides whether to trust the seller after she observes the seller\u2019s actions in the last K periods (limited memory) and at least one previous consumer\u2019s action (observational learning). However, the consumer cannot observe the seller\u2019s action in the current period. With positive probability, the seller is a commitment type who plays his Stackelberg action in every period. I show that under limited memory and observational learning, consumers are concerned that the seller will not play his Stackelberg action when he has a positive reputation and will play his Stackelberg action after he has lost his reputation. Such a concern leads to equilibria where the seller receives a low payoff from building a reputation. I also show that my reputation failure result hinges on consumers\u2019 observational learning."
+  },
+  {
+    "paper_id": "9424bd198d7f599b24f6179963f33e1d484ac57d",
+    "title": "Learning Through Imitation: An Experiment",
+    "year": 2022,
+    "author_ids": [
+      "3230803",
+      "1405028339",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We compare how well agents aggregate information in two repeated social learning environments. In the first setting agents have access to a public data set. In the second they have access to the same data, and also to the past actions of others. Despite the fact that actions contain no additional payoff relevant information, and despite potential herd behavior, free riding and information overload issues, observing and imitating the actions of others leads agents to take the optimal action more often in the second setting. We also investigate the effect of group size, as well as a setting in which agents observe private data and others\u2019 actions. \u2217This work was presented at Princeton University, MiddExLab virtual seminar, Chicago Harris, UCSB, NYU, University of Michigan, Osaka University, Texas A&M, Stanford University, CREST, University of Hamburg, University of Maryland, Caltech, Essex University, NYU Abu Dhabi, University of Southamptons, Kansas University, Shanghai Jiao Tong University, and GAMES 2020. We thank the participants of these seminars and conferences and Carlo Cusumano for their helpful comments. \u2020Caltech. Email: magranov@hss.caltech.edu. Experiments were funded by the grant received from the Ronald and Maxine Linde Institute of Economic and Management Sciences at Caltech. \u2021Caltech. Email: glmoctezuma@caltech.edu. \u00a7Yale University. Email: philipp.strack@yale.edu. \u00b6Caltech. Email: tamuz@caltech.edu. Omer Tamuz was supported by a grant from the Simons Foundation (#419427), a Sloan fellowship, a BSF award (#2018397) and a National Science Foundation CAREER award (DMS-1944153)."
+  },
+  {
+    "paper_id": "a38387b569d97cec7e7bb46a646cb03f30e0a6af",
+    "title": "Stationary social learning in a changing environment",
+    "year": 2022,
+    "author_ids": [
+      "2150036818",
+      "151495372",
+      "2440316"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "We consider social learning in a changing world. With changing states, societies can be responsive only if agents regularly act upon fresh information, which significantly limits the value of observational learning. When the state is close to persistent, a consensus whereby most agents choose the same action typically emerges. However, the consensus action is not perfectly correlated with the state, because societies exhibit inertia following state changes. When signals are precise enough, learning is incomplete, even if agents draw large samples of past actions, as actions then become too correlated within samples, thereby reducing informativeness and welfare."
+  },
+  {
+    "paper_id": "3c2175f13a4460c2761a859ec3d037e10db64eba",
+    "title": "Learning in Repeated Interactions on Networks",
+    "year": 2021,
+    "author_ids": [
+      "2118270708",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 9,
+    "abstract": "We study how long-lived, rational, exponentially discounting agents learn in a social network. In every period, each agent observes the past actions of his neighbors, receives a private signal, and chooses an action with the objective of matching the state. Since agents behave strategically, and since their actions depend on higher order beliefs, it is difficult to characterize equilibrium behavior. Nevertheless, we show that regardless of the size and shape of the network, and the patience of the agents, the equilibrium speed of learning is bounded from above by a constant that only depends on the private signal distribution. The full paper is available at https://arxiv.org/abs/2112.14265."
+  },
+  {
+    "paper_id": "cd99ecda4e7776d332ba4e65fbd1e1f0f83bb29e",
+    "title": "Network structure and social learning",
+    "year": 2021,
+    "author_ids": [
+      "9588904",
+      "145993397"
+    ],
+    "venue": "Sigecom Exchanges",
+    "citation_count": 1,
+    "abstract": "We describe results from Dasaratha and He [DH21a] and Dasaratha and He [DH20] about how network structure influences social learning outcomes. These papers share a tractable sequential model that lets us compare learning dynamics across networks. With Bayesian agents, incomplete networks can generate informational confounding that makes learning arbitrarily inefficient. With naive agents, related forces can lead to mislearning."
+  },
+  {
+    "paper_id": "231c3ab47160b03617ced02a801753dc584de36c",
+    "title": "Information Cascades and Social Learning",
+    "year": 2021,
+    "author_ids": [
+      "1851028",
+      "2413041509",
+      "1740329",
+      "40296843"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 82,
+    "abstract": "Social learning is the updating of beliefs based on observation of others. Such observation can lead to efficient aggregation of information, but also to inaccurate decisions, fragility of mass behaviors, and, in the case of information cascades, to complete blockage of learning. We review the theory of information cascades and social learning and discuss important themes, insights, and applications of this literature as it has developed over the last 30 years. We also highlight open questions and promising directions for further theoretical and empirical exploration. (JEL D71, D82, D83, D91, Z13)"
+  },
+  {
+    "paper_id": "8a4f8629f1a5e8ff6f4c19256596f0c9e5938041",
+    "title": "Optimal Rates of Teaching and Learning Under Uncertainty",
+    "year": 2021,
+    "author_ids": [
+      "50418114",
+      "1784491"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "citation_count": 11,
+    "abstract": "In this paper, we consider a recently-proposed model of teaching and learning under uncertainty, in which a teacher receives independent observations of a single bit corrupted by binary symmetric noise, and sequentially transmits to a student through another binary symmetric channel based on the bits observed so far. After a given number <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula> of transmissions, the student outputs an estimate of the unknown bit, and we are interested in the exponential decay rate of the error probability as <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula> increases. We propose a novel block-structured teaching strategy in which the teacher encodes the number of 1s received in each block, and show that the resulting error exponent is the binary relative entropy <inline-formula> <tex-math notation=\"LaTeX\">$D\\left({\\frac {1}{2}\\|\\max (p,q)}\\right)$ </tex-math></inline-formula>, where <inline-formula> <tex-math notation=\"LaTeX\">$p$ </tex-math></inline-formula> and <inline-formula> <tex-math notation=\"LaTeX\">$q$ </tex-math></inline-formula> are the noise parameters. This matches a trivial converse result based on the data processing inequality, and settles two conjectures of [Jog and Loh, 2021] and [Huleihel <italic>et al.</italic>, 2019]. In addition, we show that the computation time required by the teacher and student is linear in <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula>. We also study a more general setting in which the binary symmetric channels are replaced by general binary-input discrete memoryless channels. We provide an achievability bound and a converse bound, and show that the two coincide in certain cases, including (i) when the two channels are identical, and (ii) when the student-teacher channel is a binary symmetric channel. More generally, we give sufficient conditions under which our learning rate is the best possible for block-structured protocols."
+  },
+  {
+    "paper_id": "01c05a124612288c15ec191617edd53aac3ae71f",
+    "title": "Information Spillovers in Experience Goods Competition",
+    "year": 2021,
+    "author_ids": [
+      "115023992",
+      "144839327",
+      "49064456"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 3,
+    "abstract": "Trialing an experience good allows consumers to learn their value for the sampled good and also informs beliefs about their value for similar products. These demand-side information spillovers across products create a relatively well-informed group of potential future consumers for rival firms. When both switching consumers and repeat buyers are profitable, firms face reduced incentives to set a low initial price to attract inexperienced consumers. Switchers and repeat buyers are more likely to be profitable in new product categories that build on major innovations and when firms can price discriminate based on purchasing history. We suggest that competing products and services arising from new innovations often have demand-side information spillovers from any product trial and are, hence, settings where competing firms can make overall profits even when selling products that consumers perceive to be indistinguishable prior to initial trial. This paper was accepted by Joshua Gans, business strategy. Funding: This work is supported by the National Natural Science Foundation of China (No. 71903046) and the \u201cShenzhen Peacock Program\u201d (No. GA11409002). Supplemental Material: The e-companion is available at https://doi.org/10.1287/mnsc.2021.02754 ."
+  },
+  {
+    "paper_id": "65f891845784f5e1714b3f565fd21e779a4b93ed",
+    "title": "Reputation Building under Observational Learning",
+    "year": 2020,
+    "author_ids": [
+      "2294889774"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 15,
+    "abstract": "I study a social learning model in which the object to learn is a strategic player's endogenous actions rather than an exogenous state. A patient seller faces a sequence of buyers and decides whether to build a reputation for supplying high quality products. Each buyer does not have access to the seller's complete records, but can observe all previous buyers' actions, and some informative private signal about the seller's actions. I examine how the buyers' private signals affect the speed of social learning and the seller's incentives to establish reputations. When each buyer privately observes a bounded subset of the seller's past actions, the speed of learning is strictly positive but can vanish to zero as the seller becomes patient. As a result, reputation building can lead to low payoff for the patient seller and low social welfare. When each buyer observes an unboundedly informative private signal about the seller's current-period action, the speed of learning is uniformly bounded from below and a patient seller can secure high returns from building reputations. My results shed light on the effectiveness of various policies in accelerating social learning and encouraging sellers to establish good reputations."
+  },
+  {
+    "paper_id": "44c4504ff1381f4915b7ae08ae541f7e2487d304",
+    "title": "Sharp Thresholds of the Information Cascade Fragility Under a Mismatched Model",
+    "year": 2020,
+    "author_ids": [
+      "2492045",
+      "3029939"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citation_count": 0,
+    "abstract": "We analyze a sequential decision making model in which decision makers (or, players) take their decisions based on their own private information as well as the actions of previous decision makers. Such decision making processes often lead to what is known as the \\emph{information cascade} or \\emph{herding} phenomenon. Specifically, a cascade develops when it seems rational for some players to abandon their own private information and imitate the actions of earlier players. The risk, however, is that if the initial decisions were wrong, then the whole cascade will be wrong. Nonetheless, information cascade are known to be fragile: there exists a sequence of \\emph{revealing} probabilities $\\{p_{\\ell}\\}_{\\ell\\geq1}$, such that if with probability $p_{\\ell}$ player $\\ell$ ignores the decisions of previous players, and rely on his private information only, then wrong cascades can be avoided. Previous related papers which study the fragility of information cascades always assume that the revealing probabilities are known to all players perfectly, which might be unrealistic in practice. Accordingly, in this paper we study a mismatch model where players believe that the revealing probabilities are $\\{q_\\ell\\}_{\\ell\\in\\mathbb{N}}$ when they truly are $\\{p_\\ell\\}_{\\ell\\in\\mathbb{N}}$, and study the effect of this mismatch on information cascades. We consider both adversarial and probabilistic sequential decision making models, and derive closed-form expressions for the optimal learning rates at which the error probability associated with a certain decision maker goes to zero. We prove several novel phase transitions in the behaviour of the asymptotic learning rate."
+  },
+  {
+    "paper_id": "0c8baac254c8c53edd8968ed13e30e39ffc64df2",
+    "title": "Aggregative Efficiency of Bayesian Learning in Networks",
+    "year": 2019,
+    "author_ids": [
+      "9588904",
+      "145993397"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 9,
+    "abstract": "In social-learning settings where individuals receive private signals and observe network neighbors' actions, the network structure often obstructs information aggregation. We consider sequential social learning with rational agents and Gaussian signals and ask how the efficiency of signal aggregation changes with the network. Rational actions in our model are a log-linear function of observations and admit a signal-counting interpretation of accuracy. This leads to a detailed ranking of networks for social learning based on their aggregative efficiency index. Networks where agents observe multiple neighbors but not their common predecessors confound information, and we show confounding can make learning very inefficient. In a class of networks where agents move in generations and observe the previous generation, aggregative efficiency is a simple function of network parameters: increasing in observations and decreasing in confounding. Generations after the first contribute very little additional information due to confounding, even when generations are arbitrarily large. The full paper can be found at https://kevinhe.net/papers/aggregative.pdf"
+  },
+  {
+    "paper_id": "1a3a5cde632c38b6d2f0c10b30ff6bfe9c8ecbe7",
+    "title": "Speed of Rational Social Learning in Networks with Gaussian Information",
+    "year": 2019,
+    "author_ids": [
+      "9588904",
+      "145993397"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "2ebcaf1826ea05d2e7ebf3e121d60556c5a56a01",
+    "title": "Teaching and Learning in Uncertainty",
+    "year": 2019,
+    "author_ids": [
+      "2041280986",
+      "31888158"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "citation_count": 0,
+    "abstract": "We investigate a simple model for social learning with two agents: a teacher and a student. The teacher\u2019s goal is to teach the student the state of the world; however, the teacher himself is not certain about the state of the world and needs to simultaneously learn this parameter and teach it to the student. We model the teacher\u2019s and student\u2019s uncertainties via noisy transmission channels, and employ two simple decoding strategies for the student. We focus on two teaching strategies: a \u201clow-effort\u201d strategy of simply forwarding information, and a \u201chigh-effort\u201d strategy of communicating the teacher\u2019s current best estimate of the world at each time instant, based on his own cumulative learning. Using tools from large deviation theory, we calculate the exact learning rates for these strategies and demonstrate regimes where the low-effort strategy outperforms the high-effort strategy. Finally, we present a conjecture concerning the optimal learning rate for the student over all joint strategies between the student and the teacher."
+  },
+  {
+    "paper_id": "89fc35da42e7ab2d5c0c38a1717df93b38a0bb3d",
+    "title": "Characterizing Non-Myopic Information Cascades in Bayesian Learning",
+    "year": 2018,
+    "author_ids": [
+      "3373282",
+      "1686291"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 8,
+    "abstract": "We consider an environment where many players need to decide whether to buy a certain product (or adopt a trend) or not. The product is either good or bad, but its true value is not known to the players. Instead, each player has his own private information on the quality of the product. Each player can observe the previous actions of other players and deduce the quality of the product. A player can only buy the product once. In contrast to the existing literature on informational cascades, in this work players get more than one opportunity to act. In each turn, a player is chosen uniformly at random from all players and can decide to buy or not to buy. His utility is the total expected discounted reward, and thus myopic strategies may not be best responses. We provide a characterization of structured perfect Bayesian equilibria (PBE) with non-myopic strategies through a fixed-point equation of dimensionality that grows only polynomially with the number of players. Based on this characterization we study informational cascades and show that they happen with high probability for a large number of players. Furthermore, only a small portion of the total information in the system is revealed before a cascade occurs."
+  },
+  {
+    "paper_id": "b247bec8b3a441684a3cbcb97ca16e99ddff183b",
+    "title": "LEARNING FROM NEIGHBORS ABOUT A CHANGING STATE",
+    "year": 2018,
+    "author_ids": [
+      "9588904",
+      "144791375",
+      "15108122"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 19,
+    "abstract": "\n Agents learn about a changing state using private signals and their neighbors\u2019 past estimates of the state. We present a model in which Bayesian agents in equilibrium use neighbors\u2019 estimates simply by taking weighted sums with time-invariant weights. The dynamics thus parallel those of the tractable DeGroot model of learning in networks, but arise as an equilibrium outcome rather than a behavioral assumption. We examine whether information aggregation is nearly optimal as neighborhoods grow large. A key condition for this is signal diversity: each individual\u2019s neighbors have private signals that not only contain independent information, but also have sufficiently different distributions. Without signal diversity\u2014e.g., if private signals are i.i.d.\u2014learning is suboptimal in all networks and highly inefficient in some. Turning to social influence, we find it is much more sensitive to one\u2019s signal quality than to one\u2019s number of neighbors, in contrast to standard models with exogenous updating rules."
+  },
+  {
+    "paper_id": "dc0d979f7c352b40c5076039a16e1002bd8b38c3",
+    "title": "Fake News in Social Networks",
+    "year": 2017,
+    "author_ids": [
+      "39001287",
+      "145356667",
+      "47252985"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 19,
+    "abstract": "We model the spread of news as a social learning game on a network. Agents can either endorse or oppose a claim made in a piece of news, which itself may be either true or false. Agents base their decision on a private signal and their neighbors' past actions. Given these inputs, agents follow strategies derived via multi-agent deep reinforcement learning and receive utility from acting in accordance with the veracity of claims. Our framework yields strategies with agent utility close to a theoretical, Bayes optimal benchmark, while remaining flexible to model re-specification. Optimized strategies allow agents to correctly identify most false claims, when all agents receive unbiased private signals. However, an adversary's attempt to spread fake news by targeting a subset of agents with a biased private signal can be successful. Even more so when the adversary has information about agents' network position or private signal. When agents are aware of the presence of an adversary they re-optimize their strategies in the training stage and the adversary's attack is less effective. Hence, exposing agents to the possibility of fake news can be an effective way to curtail the spread of fake news in social networks. Our results also highlight that information about the users' private beliefs and their social network structure can be extremely valuable to adversaries and should be well protected."
+  },
+  {
+    "paper_id": "9dde25e9bc6155cc1a8f3626a1226cdc7459001e",
+    "title": "Learning Efficiency of Multi-Agent Information Structures",
+    "year": 2021,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "We study settings in which, prior to playing an incomplete information game, players observe many draws of private signals about the state from some information structure. Signals are i.i.d. across draws, but may display arbitrary correlation across players. For each information structure, we define a simple learning efficiency index, which only considers the statistical distance between the worst-informed player\u2019s marginal signal distributions in different states. We show, first, that this index characterizes the speed of common learning (Cripps, Ely, Mailath, and Samuelson, 2008): In particular, the speed at which players achieve approximate common knowledge of the state coincides with the slowest player\u2019s speed of individual learning, and does not depend on the correlation across players\u2019 signals. Second, we build on this characterization to provide a ranking over information structures: We show that, with sufficiently many signal draws, information structures with a higher learning efficiency index lead to better equilibrium outcomes, robustly for a rich class of games and objective functions. We discuss implications of our results for constrained information design in games and for the question when information structures are complements vs. substitutes. \u2217Frick: Yale University (mira.frick@yale.edu); Iijima: Yale University (ryota.iijima@yale.edu); Ishii: Pennsylvania State University (yxi5014@psu.edu). Acknowledgments to be added."
+  },
+  {
+    "paper_id": "01d54018f18587c54ba2fede9a2a99e0fe0cf9d9",
+    "title": "Individual vs. Social Learning: An Experiment",
+    "year": 2020,
+    "author_ids": [
+      "49254169",
+      "98260298"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "1872f9dc7712ba353830a460668d33b038bd12c5",
+    "title": "Collective Search in Networks\u2217",
+    "year": 2019,
+    "author_ids": [
+      "123687670",
+      "46406983",
+      "1682807",
+      "46412716"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  }
+]

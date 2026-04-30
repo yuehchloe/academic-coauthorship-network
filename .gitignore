@@ -16,8 +16,10 @@ env/
 .env
 .env.*
 
-# Data cache (pulled from Semantic Scholar — regenerate with scripts/pull_corpus.py)
-data/
+# Data: corpus and cache are committed so graders can run without API access (see README).
+# Other files in data/ are local-only.
+data/*.tmp
+data/*.log
 
 # Jupyter
 .ipynb_checkpoints/

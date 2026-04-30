@@ -1,0 +1,89 @@
+[
+  {
+    "paper_id": "0eda75c364d6b81d7a08d0b3a6893d19184bb312",
+    "title": "Optimal Contracts with Hidden Risk",
+    "year": 2025,
+    "author_ids": [
+      "2376087311",
+      "2377319779"
+    ],
+    "venue": "Review of economic dynamics (Print)",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d04ff6822c16b396b1913d6f5131835fb59107a1",
+    "title": "A theory of National Development Bank: long-term investment and the agency problem",
+    "year": 2023,
+    "author_ids": [
+      "123268882",
+      "46575541",
+      "47883363",
+      "6965749"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 3,
+    "abstract": "This paper applies the contract theory to study the role of National Development Bank (NDB) in financing infrastructure investment. We first show that to mitigate overrun issues resulting from the agency problem during the infrastructure construction, the government uses mixed financing strategy combining fiscal funding with NDB loans. We then endogenize the NDB investment strategy to study the determinants of NDB profit and use cross-country panel data to empirically test our model predictions."
+  },
+  {
+    "paper_id": "646f398be7cee2253a7b239ad6844743b7bc76ea",
+    "title": "Scale effects in dynamic contracting",
+    "year": 2020,
+    "author_ids": [
+      "2173009940",
+      "1403263314",
+      "144995226"
+    ],
+    "venue": "Mathematics and Financial Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "d7f0de9f675d7b125606beea22b0a21c8016e019",
+    "title": "Risk-Sharing and the Creation of Systemic Risk",
+    "year": 2020,
+    "author_ids": [
+      "2238675286",
+      "122938588",
+      "3175188"
+    ],
+    "venue": "Journal of Risk and Financial Management",
+    "citation_count": 3,
+    "abstract": "We address the paradox that financial innovations aimed at risk-sharing appear to have made the world riskier. Financial innovations facilitate hedging idiosyncratic risks among agents; however, aggregate risks can be hedged only with liquid assets. When risk-sharing is primitive, agents self-hedge and hold more liquid assets; this buffers aggregate risks, resulting in few correlated failures compared to when there is greater risk sharing. We apply this insight to build a model of a clearinghouse to show that as risk-sharing improves, aggregate liquidity falls but correlated failures rise. Public liquidity injections, for example, in the form of a lender-of-last-resort can reduce this systemic risk ex post, but induce lower ex-ante levels of private liquidity, which can in turn aggravate welfare costs from such injections."
+  },
+  {
+    "paper_id": "4d3529befd863ced1585535112656456f67f8cb0",
+    "title": "Dynamic Agency and Endogenous Risk-Taking",
+    "year": 2019,
+    "author_ids": [
+      "122642528"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 26,
+    "abstract": "I study a continuous-time principal\u2013agent model in which a multitasking agent engages in unobserved risk-taking. Risk-taking creates short-term profits but also increases the chance of large losses. The optimal contract incentivizes excessive risk-taking when the agent has insufficient skin in the game. Moreover, if the low effort is not too value-destroying and the private benefit of shirking is low enough, the principal can eliminate risk-taking by implementing the low effort. However, with variable project scale, addressing the risk-taking incentives by downsizing projects is not optimal. The implementation of the optimal contract shows that risk management should take agency problems into account. Complete hedging against downside risks provides incentives for the agent to gamble. This paper was accepted by Gustavo Manso, finance."
+  },
+  {
+    "paper_id": "28b1972a07995130c0fde55496d5a06dca3bd1f2",
+    "title": "Leverage and Risk Taking",
+    "year": 2015,
+    "author_ids": [
+      "1403263314",
+      "144995226"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "159af31240f75849d9fcde85b25563644f3a6783",
+    "title": "Optimal Contracts with Hidden Risk \u2217",
+    "year": 2016,
+    "author_ids": [
+      "48881789",
+      "39967480"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  }
+]

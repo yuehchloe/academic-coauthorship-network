@@ -1,0 +1,432 @@
+[
+  {
+    "paper_id": "911beb3f0d5f647a1cc05b80fe4c5910c14d407c",
+    "title": "Barycentric decompositions for extensive monotone divergences",
+    "year": 2025,
+    "author_ids": [
+      "3403161"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "We study sets of divergences or dissimilarity measures in a generalized real-algebraic setting which includes the cases of classical and quantum multivariate divergences. We show that a special subset of divergences, the so-called test spectrum, characterizes the rest of the divergences through barycentres and that the extreme points of relevant convex subsets of general divergences are contained within the test spectrum. Only some special parts of the test spectrum may contain non-extreme elements. We are able to fully characterize the test spectrum in the case of classical multivariate divergences. The quantum case is much more varied, and we demonstrate that essentially all the bivariate and multivariate quantum divergences suggested previously in literature are within the test spectrum and extreme within the set of all quantum (multivariate) divergences. This suggests that the variability of quantum divergences is real since all the previously suggested divergences are independent of each other."
+  },
+  {
+    "paper_id": "0a92fdcaa2a3e8ef45ab89cc9a0a74d76c2852d8",
+    "title": "Convex Cost of Information via Statistical Divergence",
+    "year": 2025,
+    "author_ids": [
+      "2378705644",
+      "2306692502"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper characterizes convex information costs using an axiomatic approach. We employ mixture convexity and sub-additivity, which capture the idea that producing\"balanced\"outputs is less costly than producing ``extreme''ones. Our analysis leads to a novel class of cost functions that can be expressed in terms of R\\'enyi divergences between signal distributions across states. This representation allows for deviations from the standard posterior-separable cost, thereby accommodating recent experimental evidence. We also characterize two simpler special cases, which can be written as either the maximum or a convex transformation of posterior-separable costs."
+  },
+  {
+    "paper_id": "43e736b3c2e0a9b32148d33a163b0f6f93941d35",
+    "title": "Conditions for Large-Sample Majorization of Pairs of Flat States in Terms of \u03b1-z Relative Entropies",
+    "year": 2025,
+    "author_ids": [
+      "2312400693",
+      "2253527571",
+      "3403161"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "We offer the first operational interpretation of the $\\alpha$-z relative entropies, a measure of distinguishability between two quantum states introduced by Jak\\v{s}i\\'c et al. and Audenaert and Datta. We show that these relative entropies appear when formulating conditions for large-sample or catalytic relative majorization of pairs of flat states and certain generalizations of them. Indeed, we show that such transformations exist if and only if all the $\\alpha$-z relative entropies for $\\alpha$<1 of the two pairs are ordered. In this setting, the $\\alpha$ and z parameters are truly independent from each other. These results also yield an expression for the optimal rate of converting one flat state pair into another. Our methods use real-algebraic techniques involving preordered semirings and certain monotone homomorphisms and derivations on them."
+  },
+  {
+    "paper_id": "3368546ff06840a36dae6bad4efb4ead6096c7c0",
+    "title": "Tensorization of $f$-Divergences",
+    "year": 2025,
+    "author_ids": [
+      "2193801622",
+      "2316820759",
+      "144717568"
+    ],
+    "venue": "International Symposium on Information Theory",
+    "citation_count": 1,
+    "abstract": "In many applications across statistics, differential privacy, and machine learning, it is necessary to evaluate or bound an $f$-divergence between distributions of random vectors with independent components. Even for relatively simple distributions, such computations can become intractable unless the chosen $f$-divergence tensorizes. In this work, we introduce a formal definition of tensorization for $f$-divergences and present a necessary condition under which such tensorization can occur. Moreover, we demonstrate\u2014under certain assumptions\u2014that the only $f$-divergences admitting a polynomial tensorization formula of degree at most two are, essentially, the KL divergence, cross-entropy, and Hellinger divergences of order $\\alpha$. Taken together, our findings represent an initial step toward a complete characterization of $f$-divergences that tensorize."
+  },
+  {
+    "paper_id": "f4148709f4a8e7ef047292ce8d6de4db9549fbe9",
+    "title": "Communication with Multiple Senders",
+    "year": 2025,
+    "author_ids": [
+      "2344829589"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper analyzes a cheap talk model with one receiver and multiple senders. Each sender observes a noisy signal regarding the unknown state. Existing literature (e.g., Levit and Malenko, 2011; Battaglini, 2017) focuses on scenarios where the receiver and the senders have aligned preferences in each state. We further explore situations with disagreement states where the receiver and the senders have misaligned preferences. We first show that, when the number of senders grows large, each sender's message must convey almost no information to the receiver. Furthermore, we identify a discontinuity in information transmission: with moderate conflict between the receiver and the senders, introducing an arbitrarily small probability of disagreement states leads to complete unraveling, in contrast to complete information transmission predicted by the literature. Finally, we demonstrate that the receiver cannot fully learn the state even when receiving messages from arbitrarily many senders."
+  },
+  {
+    "paper_id": "8de63da10d5204629f9599b17b265194ee6ea3c3",
+    "title": "Value of Information in Social Learning",
+    "year": 2025,
+    "author_ids": [
+      "2349425869",
+      "2349234715"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 2,
+    "abstract": "This study extends Blackwell's (1953) comparison of information to a sequential social learning model, where agents make decisions sequentially based on both private signals and the observed actions of others. In this context, we introduce a new binary relation over information structures: an information structure is more socially valuable than another if it yields higher expected payoffs for all agents, regardless of their preferences. First, we establish that this binary relation is strictly stronger than the Blackwell order. Then, we provide a necessary and sufficient condition for our binary relation and propose a simpler sufficient condition that is easier to verify."
+  },
+  {
+    "paper_id": "3d8ba41ad81ac31b48021698dd6d90bcb03c2ecc",
+    "title": "Ranking Statistical Experiments via the Linear Convex Order and the Lorenz Zonoid: Economic Applications",
+    "year": 2025,
+    "author_ids": [
+      "2344829589"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "This paper introduces a novel ranking of statistical experiments, the linear-Blackwell (LB) order, which can equivalently be characterized by (i) the dispersion of the induced posterior and likelihood ratios in the sense of the linear convex order, (ii) the size of the Lorenz zonoid (the set of statewise expectation profiles), or (iii) the variability of the posterior mean. We apply the LB order to compare experiments in binary-action decision problems and in decision problems with quasi-concave payoffs, as analyzed by Kolotilin, Corrao, and Wolitzky (2025). We also use it to compare experiments in moral hazard problems, building on Holmstr\\\"om (1979) and Kim (1995), and in screening problems with ex post signals."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "96b434d95c6568e3ebf5484ee25b113fbd70d73e",
+    "title": "Tight Relations and Equivalences Between Smooth Relative Entropies",
+    "year": 2025,
+    "author_ids": [
+      "9840064",
+      "20903137",
+      "2261741312"
+    ],
+    "venue": "International Symposium on Information Theory",
+    "citation_count": 14,
+    "abstract": "The precise one-shot characterisation of operational tasks in classical and quantum information theory relies on different forms of smooth entropic quantities. A particularly important connection is between the hypothesis testing relative entropy and the smoothed max-relative entropy, which together govern many operational settings. We first strengthen this connection into a type of equivalence: we show that the hypothesis testing relative entropy is equivalent to a variant of the smooth max-relative entropy based on the information spectrum divergence, which can be alternatively understood as a measured smooth maxrelative entropy. Furthermore, we improve a fundamental lemma due to Datta and Renner that connects the different variants of the smoothed max-relative entropy, introducing a modified proof technique based on matrix geometric means. We use the unveiled connections and tools to strictly improve on previously known one-shot bounds and duality relations between the smooth max-relative entropy and the hypothesis testing relative entropy, sharpening also bounds that connect the max-relative entropy with R\u00e9nyi divergences."
+  },
+  {
+    "paper_id": "5d81dd9f1d72a96588f9740ed68341ccdc20aaa1",
+    "title": "Beyond the Blackwell order in dichotomies",
+    "year": 2024,
+    "author_ids": [
+      "36168991"
+    ],
+    "venue": "Economics Letters",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "732ef44cbe2d4277d14bb09c4f779a516bda8462",
+    "title": "Weighted Garbling",
+    "year": 2024,
+    "author_ids": [
+      "2372855067",
+      "2271698190"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We introduce an information order on experiments based on weighted garbling, a generalization of the standard notion of garbling. In this order, an experiment is more informative than another if the latter is a weighted garbling of the former. We show that this is equivalent to ordinary garbling conditional on a payoff-irrelevant event. We also characterize the order in terms of induced posterior belief distributions, showing that it depends only on their support. Our main results provide two decision-theoretic characterizations of this order. First, in static decision problems, one experiment dominates another if and only if its value of information is at least a fixed fraction of the other's across all problems. Second, in a class of stopping time problems with a hidden Markov process and repeated experimentation, one experiment dominates another if and only if it yields weakly higher expected payoffs for every problem with a regular prior."
+  },
+  {
+    "paper_id": "1238720064c8b4c9ef7e0584a05265c5c3f1bbc5",
+    "title": "Comparisons of Signals",
+    "year": 2024,
+    "author_ids": [
+      "2281765125",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 8,
+    "abstract": "A signal is a description of an information source that specifies both its correlation with the state and its correlation with other signals. Extending Blackwell (1953), we characterize when one signal is more valuable than another regardless of preferences and regardless of access to other signals. This comparison is equivalent to reveal-or-refine: every realization of the more valuable signal reveals the state or refines the realization of the less valuable signal. We also study other comparisons of signals, including sufficiency, martingale dominance, and Lehmann. Reveal-or-refine is also equivalent to making any of these comparisons robust to access to other signals. (JEL C90, D82, D83)"
+  },
+  {
+    "paper_id": "07ad08fc66d38a5a3b45d7cec1c106e2e1b98035",
+    "title": "Matrix Majorization in Large Samples With Varying Support Restrictions",
+    "year": 2024,
+    "author_ids": [
+      "2312400693",
+      "2253527571",
+      "3403161"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "citation_count": 4,
+    "abstract": "We say that a matrix <italic>P</italic> with non-negative entries majorizes another such matrix <italic>Q</italic> if there is a stochastic matrix <italic>T</italic> such that <inline-formula> <tex-math notation=\"LaTeX\">$Q=TP$ </tex-math></inline-formula>. We study matrix majorization in large samples and in the catalytic regime in the case where the columns of the matrices need not have equal support, as has been assumed in earlier works. We focus on two cases: either there are no support restrictions (except for requiring a non-empty intersection for the supports) or the final column dominates the others. Using real-algebraic methods, we identify sufficient and almost necessary conditions for majorization in large samples or when using catalytic states under these support conditions. These conditions are given in terms of multivariate divergences that generalize the R\u00e9nyi divergences. We notice that varying support conditions dramatically affect the relevant set of divergences. Our results find an application in the theory of catalytic state transformation in quantum thermodynamics."
+  },
+  {
+    "paper_id": "6d60dc9fd19d4b5864b72234ac25fcef76934e52",
+    "title": "Inevitable negativity: Additivity commands negative quantum channel entropy",
+    "year": 2024,
+    "author_ids": [
+      "2253972429",
+      "2000237510",
+      "83600628",
+      "2146257723",
+      "2307468702"
+    ],
+    "venue": "Physical Review A",
+    "citation_count": 6,
+    "abstract": "Quantum channels represent a broad spectrum of operations crucial to quantum information theory, encompassing everything from the transmission of quantum information to the manipulation of various resources. In the domain of states, the concept of majorization serves as a fundamental tool for comparing the uncertainty inherent in both classical and quantum systems. This paper establishes a rigorous framework for assessing the uncertainty in both classical and quantum channels. By employing a specific class of superchannels, we introduce and elucidate three distinct approaches to channel majorization: constructive, axiomatic, and operational. Intriguingly, these methodologies converge to a consistent ordering. This convergence not only provides a robust basis for defining entropy functions for channels but also clarifies the interpretation of entropy in this broader context. Most notably, our findings reveal that any viable entropy function for quantum channels must assume negative values, thereby challenging traditional notions of entropy."
+  },
+  {
+    "paper_id": "8ea2edfbfd685878046735771ce8b7301b3fe6f8",
+    "title": "Welfare Comparisons for Biased Learning",
+    "year": 2024,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 22,
+    "abstract": "We study robust welfare comparisons of learning biases (misspecified Bayesian and some forms of non-Bayesian updating). Given a true signal distribution, we deem one bias more harmful than another if it yields lower objective expected payoffs in all decision problems. We characterize this ranking in static and dynamic settings. While the static characterization compares posteriors signal by signal, the dynamic characterization employs an \u201cefficiency index\u201d measuring how fast beliefs converge. We quantify and compare the severity of several well-documented biases. We also highlight disagreements between the static and dynamic rankings, and that some \u201clarge\u201d biases dynamically outperform other \u201cvanishingly small\u201d biases. (JEL D60, D82, D83, D91)"
+  },
+  {
+    "paper_id": "85fc1fd5e4eee779a3fbc3f655eb3f3c7568c7fe",
+    "title": "Information Divergences and Likelihood Ratios of Poisson Processes and Point Patterns",
+    "year": 2024,
+    "author_ids": [
+      "2292759411"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "citation_count": 7,
+    "abstract": "This article develops an analytical framework for studying information divergences and likelihood ratios associated with Poisson processes and point patterns on general measurable spaces. The main results include explicit analytical formulas for Kullback-Leibler divergences, R\u00e9nyi divergences, Hellinger distances, and likelihood ratios of the laws of Poisson point patterns in terms of their intensity measures. The general results yield similar formulas for inhomogeneous Poisson processes, compound Poisson processes, as well as spatial and marked Poisson point patterns. Additional results include simple characterisations of absolute continuity, mutual singularity, and the existence of common dominating measures. The analytical toolbox is based on Tsallis divergences of sigma-finite measures on abstract measurable spaces. The treatment is purely information-theoretic and free of topological assumptions."
+  },
+  {
+    "paper_id": "417301d5b40c5d2bbc307a9dd3e323416989f80e",
+    "title": "Unified Enhancement of Privacy Bounds for Mixture Mechanisms via f-Differential Privacy",
+    "year": 2023,
+    "author_ids": [
+      "2263944757",
+      "2263469021",
+      "2116475390",
+      "2269973711",
+      "2263683553"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 17,
+    "abstract": "Differentially private (DP) machine learning algorithms incur many sources of randomness, such as random initialization, random batch subsampling, and shuffling. However, such randomness is difficult to take into account when proving differential privacy bounds because it induces mixture distributions for the algorithm's output that are difficult to analyze. This paper focuses on improving privacy bounds for shuffling models and one-iteration differentially private gradient descent (DP-GD) with random initializations using $f$-DP. We derive a closed-form expression of the trade-off function for shuffling models that outperforms the most up-to-date results based on $(\\epsilon,\\delta)$-DP. Moreover, we investigate the effects of random initialization on the privacy of one-iteration DP-GD. Our numerical computations of the trade-off function indicate that random initialization can enhance the privacy of DP-GD. Our analysis of $f$-DP guarantees for these mixture mechanisms relies on an inequality for trade-off functions introduced in this paper. This inequality implies the joint convexity of $F$-divergences. Finally, we study an $f$-DP analog of the advanced joint convexity of the hockey-stick divergence related to $(\\epsilon,\\delta)$-DP and apply it to analyze the privacy of mixture mechanisms."
+  },
+  {
+    "paper_id": "256af9e55565c2fa49ed633b7fb471078b8c5666",
+    "title": "Asymptotic R\u00e9nyi entropies of random walks on groups",
+    "year": 2023,
+    "author_ids": [
+      "1396775018",
+      "1726696",
+      "1740329"
+    ],
+    "venue": "Electronic Journal of Probability",
+    "citation_count": 0,
+    "abstract": "We introduce asymptotic R\\'enyi entropies as a parameterized family of invariants for random walks on groups. These invariants interpolate between various well-studied properties of the random walk, including the growth rate of the group, the Shannon entropy, and the spectral radius. They furthermore offer large deviation counterparts of the Shannon-McMillan-Breiman Theorem. We prove some basic properties of asymptotic R\\'enyi entropies that apply to all groups, and discuss their analyticity and positivity for the free group and lamplighter groups."
+  },
+  {
+    "paper_id": "c5ddfde86c3766cd755fa2be361319427fe47d28",
+    "title": "Learning Efficiency of Multiagent Information Structures",
+    "year": 2023,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 5,
+    "abstract": "Which information structures are more effective at eliminating first- and higher-order uncertainty and hence at facilitating efficient play in coordination games? We consider a learning setting where players observe many private signals about the state. First, we characterize multiagent learning efficiency, that is, the rate at which players approximate common knowledge. We find that this coincides with the rate at which first-order uncertainty disappears, as higher-order uncertainty vanishes faster than first-order uncertainty. Second, we show that with enough signal draws, information structures with higher learning efficiency induce higher equilibrium welfare. We highlight information design implications for games in data-rich environments."
+  },
+  {
+    "paper_id": "4ce05d54aa814ae85ca04c0ab8d1095397f670f1",
+    "title": "The Value of Information and Circular Settings",
+    "year": 2023,
+    "author_ids": [
+      "32278747",
+      "2212893726",
+      "102322159",
+      "47350917",
+      "2261363853",
+      "2259932213",
+      "2212413465"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We present a universal concept for the Value of Information (VoI), based on the works of Claude Shannon's and Ruslan Stratonovich that can take into account very general preferences of the agents and results in a single number. As such it is convenient for applications and also has desirable properties for decision theory and demand analysis. The Shannon/Stratonovich VoI concept is compared to alternatives and applied in examples. In particular we apply the concept to a circular spatial structure well known from many economic models and allow for various economic transport costs."
+  },
+  {
+    "paper_id": "db43f35ef43c35854d7d34c3e1d97e3f144eb1be",
+    "title": "Matrix Majorization in Large Samples",
+    "year": 2023,
+    "author_ids": [
+      "2143502062",
+      "144302292",
+      "3403161",
+      "2147926"
+    ],
+    "venue": "IEEE Transactions on Information Theory",
+    "citation_count": 9,
+    "abstract": "One tuple of probability vectors is more informative than another tuple when there exists a single stochastic matrix transforming the probability vectors of the first tuple into the probability vectors of the other. This is called matrix majorization. Solving an open problem raised by Mu et al, we show that if certain monotones\u2014namely multivariate extensions of R\u00e9nyi divergences\u2014are strictly ordered between the two tuples, then for sufficiently large <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula>, there exists a stochastic matrix taking the <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula>-fold Kronecker power of each input distribution to the <inline-formula> <tex-math notation=\"LaTeX\">$n$ </tex-math></inline-formula>-fold Kronecker power of the corresponding output distribution. The same conditions, with non-strict ordering for the monotones, are also necessary for such matrix majorization in large samples. Our result also gives conditions for the existence of a sequence of statistical maps that asymptotically (with vanishing error) convert a single copy of each input distribution to the corresponding output distribution with the help of a catalyst that is returned unchanged. Allowing for transformation with arbitrarily small error, we find conditions that are both necessary and sufficient for such catalytic matrix majorization. We derive our results by building on a general algebraic theory of preordered semirings recently developed by one of the authors. This also allows us to recover various existing results on majorization in large samples and in the catalytic regime as well as relative majorization in a unified manner."
+  },
+  {
+    "paper_id": "5806fe8b8e23402d107b8d1be88b7ede06c9ca8f",
+    "title": "Geometric relative entropies and barycentric R\u00e9nyi divergences",
+    "year": 2022,
+    "author_ids": [
+      "3229249",
+      "35664190",
+      "52238808"
+    ],
+    "venue": "Linear Algebra and its Applications",
+    "citation_count": 16,
+    "abstract": "We give systematic ways of defining monotone quantum relative entropies and (multi-variate) quantum R\\'enyi divergences starting from a set of monotone quantum relative entropies. Despite its central importance in information theory, only two additive and monotone quantum extensions of the classical relative entropy have been known so far, the Umegaki and the Belavkin-Staszewski relative entropies. Here we give a general procedure to construct monotone and additive quantum relative entropies from a given one with the same properties; in particular, when starting from the Umegaki relative entropy, this gives a new one-parameter family of monotone and additive quantum relative entropies interpolating between the Umegaki and the Belavkin-Staszewski ones on full-rank states. In a different direction, we use a generalization of a classical variational formula to define multi-variate quantum R\\'enyi quantities corresponding to any finite set of quantum relative entropies $(D^{q_x})_{x\\in X}$ and signed probability measure $P$, as $$ Q_P^{\\mathrm{b},\\mathbf{q}}((\\rho_x)_{x\\in X}):=\\sup_{\\tau\\ge 0}\\left\\{\\text{Tr}\\,\\tau-\\sum_xP(x)D^{q_x}(\\tau\\|\\rho_x)\\right\\}. $$ We show that monotone quantum relative entropies define monotone R\\'enyi quantities whenever $P$ is a probability measure. With the proper normalization, the negative logarithm of the above quantity gives a quantum extension of the classical R\\'enyi $\\alpha$-divergence in the 2-variable case ($X=\\{0,1\\}$, $P(0)=\\alpha$). We show that if both $D^{q_0}$ and $D^{q_1}$ are monotone and additive quantum relative entropies, and at least one of them is strictly larger than the Umegaki relative entropy then the resulting barycentric R\\'enyi divergences are strictly between the log-Euclidean and the maximal R\\'enyi divergences, and hence they are different from any previously studied quantum R\\'enyi divergence."
+  },
+  {
+    "paper_id": "bd6feaee6f69d6ab8e40e841f13951086ac732a4",
+    "title": "Algebraic Properties of Blackwell's Order and a Cardinal Measure of Informativeness",
+    "year": 2021,
+    "author_ids": [
+      "36168991"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "I establish a translation invariance property of the Blackwell order over experiments for dichotomies, show that garbling experiments bring them closer together, and use these facts to define a cardinal measure of informativeness. Experiment A is inf-norm more informative (INMI) than experiment B if the infinity norm of the difference between a perfectly informative experiment and A is less than the corresponding difference for B . The better experiment is closer to the fully revealing experiment; the norm of the distance from the identity matrix is interpreted as a measure of informativeness. This measure coincides with Blackwell\u2019s order whenever possible, is complete, order invariant, prior-independent, and computationally simple."
+  },
+  {
+    "paper_id": "bb984edcdac91daabe5a2804dc24a21677850f51",
+    "title": "Monotone Additive Statistics",
+    "year": 2021,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 18,
+    "abstract": "The expectation is an example of a descriptive statistic that is monotone with respect to stochastic dominance, and additive for sums of independent random variables. We provide a complete characterization of such statistics, and explore a number of applications to models of individual and group decision-making. These include a representation of stationary, monotone time preferences, extending the work of Fishburn and Rubinstein (1982) to time lotteries, as well as a characterization of risk-averse preferences over monetary gambles that are invariant to mean-zero background risks. The full paper is available at https://arxiv.org/abs/2102.00618."
+  },
+  {
+    "paper_id": "8bf352e3725667ccac723ee4ee8b06989af83826",
+    "title": "The asymptotic comparison of random walks on topological abelian groups",
+    "year": 2020,
+    "author_ids": [
+      "144302292"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "1d01de30744da465986295b6051b3fcbf8410b36",
+    "title": "The cost of information",
+    "year": 2019,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 55,
+    "abstract": null
+  },
+  {
+    "paper_id": "8809dd69c0a0ae4ab91ded0502a0a5af278c365b",
+    "title": "The Cost of Information: The Case of Constant Marginal Costs",
+    "year": 2018,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 51,
+    "abstract": "We develop an axiomatic theory of information acquisition that captures the idea of constant marginal costs in information production: the cost of generating two independent signals is the sum of their costs, and generating a signal with probability half costs half its original cost. Together with Blackwell monotonicity and a continuity condition, these axioms determine the cost of a signal up to a vector of parameters. These parameters have a clear economic interpretation and determine the difficulty of distinguishing states. (JEL D82, D83)"
+  },
+  {
+    "paper_id": "7779649b27a0c0c836136723a1d962d36481be86",
+    "title": "Information Acquisition with Uncertain Signal Structure",
+    "year": 2025,
+    "author_ids": [
+      "2380891970"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "08d13b956a1acd53854d362a993ff4886ad42621",
+    "title": "Memory Latency Distribution-Driven Regulation for Temporal Isolation in MPSoCs",
+    "year": 2023,
+    "author_ids": [
+      "50020214",
+      "2115964190",
+      "2944166",
+      "2747686",
+      "1397424763",
+      "1732787",
+      "1741519",
+      "36392993"
+    ],
+    "venue": "Euromicro Conference on Real-Time Systems",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "4a74de258c5ce9513f5d0c5531a0572c21cc0bee",
+    "title": "Voter Learning, Unidimensional Ideology, and Polarization",
+    "year": 2023,
+    "author_ids": [
+      "2275695104"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d506db8a16174516f772dd1e92e8e0b0c9dcd07e",
+    "title": "A LGEBRAIC P ROPERTIES OF B LACKWELL \u2019 S O RDER AND A C ARDINAL M EASURE OF I NFORMATIVENESS",
+    "year": 2022,
+    "author_ids": [
+      "36168991"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "005c4dfed4f3062206b7a9fc6c09697a4f861e61",
+    "title": "THE VALUE AND COST OF INFORMATION UNI BONN MINI COURSE LECTURE NOTES",
+    "year": 2022,
+    "author_ids": [
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b2b22afec3e026fdcb7cdd67bf8e110f041b24ed",
+    "title": "Monotone Additive Statistics\u2217",
+    "year": 2021,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9dde25e9bc6155cc1a8f3626a1226cdc7459001e",
+    "title": "Learning Efficiency of Multi-Agent Information Structures",
+    "year": 2021,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "We study settings in which, prior to playing an incomplete information game, players observe many draws of private signals about the state from some information structure. Signals are i.i.d. across draws, but may display arbitrary correlation across players. For each information structure, we define a simple learning efficiency index, which only considers the statistical distance between the worst-informed player\u2019s marginal signal distributions in different states. We show, first, that this index characterizes the speed of common learning (Cripps, Ely, Mailath, and Samuelson, 2008): In particular, the speed at which players achieve approximate common knowledge of the state coincides with the slowest player\u2019s speed of individual learning, and does not depend on the correlation across players\u2019 signals. Second, we build on this characterization to provide a ranking over information structures: We show that, with sufficiently many signal draws, information structures with a higher learning efficiency index lead to better equilibrium outcomes, robustly for a rich class of games and objective functions. We discuss implications of our results for constrained information design in games and for the question when information structures are complements vs. substitutes. \u2217Frick: Yale University (mira.frick@yale.edu); Iijima: Yale University (ryota.iijima@yale.edu); Ishii: Pennsylvania State University (yxi5014@psu.edu). Acknowledgments to be added."
+  }
+]

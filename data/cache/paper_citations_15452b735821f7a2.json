@@ -1,0 +1,151 @@
+[
+  {
+    "paper_id": "cda9a283a3d092992f67c780763146b80bff9b3f",
+    "title": "Welfare Effects of Price Changes in Government Lotteries",
+    "year": 2025,
+    "author_ids": [
+      "48003998",
+      "2383875426",
+      "2319098340"
+    ],
+    "venue": "Atlantic Economic Journal",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4a13feafb954a7f56798cf065c092a7b82f5f350",
+    "title": "Outside options and risk attitude",
+    "year": 2025,
+    "author_ids": [
+      "153019710",
+      "88685663",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We uncover a close link between outside options and risk attitude: when a decision-maker gains access to an outside option, her behaviour becomes less risk-averse, and conversely, any observed decrease of risk-aversion can be explained by an outside option having been made available. We characterise the comparative statics of risk-aversion, delineating how effective risk attitude (i.e. actual choice among risky prospects) varies with the outside option and with the decision-maker's'true'risk attitude. We prove that outside options are special: among transformations of a decision problem, those that amount to adding an outside option are the only ones that always reduce risk-aversion."
+  },
+  {
+    "paper_id": "1e969b2dbb1108c3f60eb5b7166e0e5eb969d2ed",
+    "title": "Pricing insurance contracts with an existing portfolio as background risk",
+    "year": 2025,
+    "author_ids": [
+      "2088463086",
+      "2349117442"
+    ],
+    "venue": "Insurance, Mathematics & Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3c2a2d9580139d8bfacb12a5ec801d77e8dc0041",
+    "title": "Expected value, to a point: Moral decision\u2010making under background uncertainty",
+    "year": 2025,
+    "author_ids": [
+      "2324702736"
+    ],
+    "venue": "No\u00fbs",
+    "citation_count": 2,
+    "abstract": "Expected value maximization gives plausible guidance for moral decision\u2010making under uncertainty in many situations. But it has unappetizing implications in \u2018Pascalian\u2019 situations involving tiny probabilities of extreme outcomes. This paper shows, first, that under realistic levels of \u2018background uncertainty\u2019 about sources of value independent of one's present choice, a widely accepted and apparently innocuous principle\u2014stochastic dominance\u2014requires that prospects be ranked by the expected value of their consequences in most ordinary choice situations. But second, this implication does not hold when differences in expected value are driven by tiny probabilities of extreme outcomes. Stochastic dominance therefore lets us draw a surprisingly principled line between \u2018ordinary\u2019 and \u2018Pascalian\u2019 situations, providing a powerful justification for de facto expected value maximization in the former context while permitting deviations in the latter. Drawing this distinction is incompatible with an in\u2010principle commitment to maximizing expected value, but does not require too much departure from decision\u2010theoretic orthodoxy: it is compatible, for instance, with the view that moral agents must maximize the expectation of a utility function that is an increasing function of moral value."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "1238720064c8b4c9ef7e0584a05265c5c3f1bbc5",
+    "title": "Comparisons of Signals",
+    "year": 2024,
+    "author_ids": [
+      "2281765125",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 8,
+    "abstract": "A signal is a description of an information source that specifies both its correlation with the state and its correlation with other signals. Extending Blackwell (1953), we characterize when one signal is more valuable than another regardless of preferences and regardless of access to other signals. This comparison is equivalent to reveal-or-refine: every realization of the more valuable signal reveals the state or refines the realization of the less valuable signal. We also study other comparisons of signals, including sufficiency, martingale dominance, and Lehmann. Reveal-or-refine is also equivalent to making any of these comparisons robust to access to other signals. (JEL C90, D82, D83)"
+  },
+  {
+    "paper_id": "58f15f51c4eff4719e0446c7a084d1b52a85df98",
+    "title": "A Theory of Choice Bracketing under Risk",
+    "year": 2021,
+    "author_ids": [
+      "2112138558"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "Decision makers in the real world usually face multiple risky choice problems. For instance, an investor might need to take care of her investment accounts simultaneously in different financial markets, including stocks, bonds, and cryptocurrencies. One implicit assumption of the long-standing focus on single choice problems in economics is that agents can rationally aggregate and assess risks and consequences in multiple sources. However, aggregating risks from multiple sources can be complex and demanding, and decision makers usually adopt heuristics, such as narrow bracketing and correlation neglect, to simplify the decision process. Narrow bracketing describes the situation where a decision maker faced with multiple choice problems tends to choose an option in each decision without full regard to other decisions. Correlation neglect means that the decision maker might ignore the interdependence of risks from different sources. Both heuristics are well-documented in experiments and behavioral economics, but have received inadequate attention in the choice-theoretic literature. One possible reason is that they are typically interpreted as exotic behavioral or \"irrational\" biases and supposed to deviate drastically from the standard framework. This paper axiomatically characterizes the two heuristics by introducing an intuitive relaxation of the independence axiom in the standard von Neumann-Morgenstern expected utility framework. The representation theorem allows for either narrow bracketing, or correlation neglect, or both of them, or none of them. This behavioral foundation suggests that the two heuristics are no more \"irrational'' than other commonly accepted non-EU theories like certainty effect and reference dependence, and hence deserve more attention in the future. The flexibility of our framework allows for applications in various choice domains. First, my model can accommodate the experimental evidence on narrow bracketing, where subjects tend to violate first-order stochastic dominance when making choices in simultaneous and independent monetary gambles. Second, in environments with background risk, I show how the model can explain non-trivial risk aversion over small gambles. Finally, in intertemporal choices, I show that my framework unifies three commonly used and seemingly distinct models of time preferences in the literature. This is ex-ante surprising since the analysis is based solely on simplifying heuristics to deal with multi-source risk and contains no normative properties required in each of the three models. Then, I propose a novel class of time preferences that can simultaneously satisfy indifference to time resolution of uncertainty, dynamic consistency and separation of time and risk preferences. This provides an alternative solution to the impossibility result in [3]. One specification of my new model shares the same predictions and explanatory power as [1] in macroeconomics and finance applications, without being subject to the recent critiques in [2]."
+  },
+  {
+    "paper_id": "bb984edcdac91daabe5a2804dc24a21677850f51",
+    "title": "Monotone Additive Statistics",
+    "year": 2021,
+    "author_ids": [
+      "7837349",
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 18,
+    "abstract": "The expectation is an example of a descriptive statistic that is monotone with respect to stochastic dominance, and additive for sums of independent random variables. We provide a complete characterization of such statistics, and explore a number of applications to models of individual and group decision-making. These include a representation of stationary, monotone time preferences, extending the work of Fishburn and Rubinstein (1982) to time lotteries, as well as a characterization of risk-averse preferences over monetary gambles that are invariant to mean-zero background risks. The full paper is available at https://arxiv.org/abs/2102.00618."
+  },
+  {
+    "paper_id": "69ea892b964608be16bc7aae5f2a3dd3f5b632f4",
+    "title": "CHOICE BRACKETING",
+    "year": 2023,
+    "author_ids": [
+      "2290926134",
+      "2290925315",
+      "2404350793",
+      "2404351726",
+      "2404351243",
+      "2404350805",
+      "89080472",
+      "2404351030",
+      "2266187014",
+      "2340828751",
+      "2283583320",
+      "2404351042",
+      "91672355",
+      "2404350972",
+      "2303148898",
+      "2404350728"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6531f8e145c2aef2b5889ab9f0afde5a427e1d63",
+    "title": "MONOTONE HOMOMORPHISMS ON CONVOLUTION SEMIGROUPS",
+    "year": 2021,
+    "author_ids": [
+      "2101339055",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "b2b22afec3e026fdcb7cdd67bf8e110f041b24ed",
+    "title": "Monotone Additive Statistics\u2217",
+    "year": 2021,
+    "author_ids": [
+      "88742112",
+      "2450616",
+      "1740329"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

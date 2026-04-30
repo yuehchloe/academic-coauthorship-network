@@ -1,0 +1,233 @@
+[
+  {
+    "paper_id": "f5a03cb000a4bff4ff30be60e1ff4cd18ada57ca",
+    "title": "Optimizing carbon allowance allocation in China's power generation industry: A Bi-level multi-objective framework introducing auction mechanism",
+    "year": 2025,
+    "author_ids": [
+      "2295080802",
+      "2295614995",
+      "2299387483",
+      "2378688386"
+    ],
+    "venue": "Journal of Cleaner Production",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "3b2a70a510890796d0c6b1b5d25895f0c6c5fcdb",
+    "title": "Learning in Repeated Multi-Unit Pay-As-Bid Auctions",
+    "year": 2023,
+    "author_ids": [
+      "2099428541",
+      "3280330"
+    ],
+    "venue": "Manufacturing & Service Operations Management",
+    "citation_count": 12,
+    "abstract": "Problem definition: Motivated by carbon emissions trading schemes (ETSs), Treasury auctions, procurement auctions, and wholesale electricity markets, which all involve the auctioning of homogeneous multiple units, we consider the problem of learning how to bid in repeated multiunit pay-as-bid (PAB) auctions. In each of these auctions, a large number of (identical) items are to be allocated to the largest submitted bids, where the price of each of the winning bids is equal to the bid itself. In this work, we study the problem of optimizing bidding strategies from the perspective of a single bidder. Methodology/results: Effective bidding in PAB auctions is complex due to the combinatorial nature of the action space. We show that a utility decoupling trick enables a polynomial time algorithm to solve the offline problem where competing bids are known in advance. Leveraging this structure, we design efficient algorithms for the online problem under both full information and bandit feedback settings that achieve an upper bound on regret of [Formula: see text] and [Formula: see text], respectively, where M is the number of units demanded by the bidder, and T is the total number of auctions. We accompany these results with a regret lower bound of [Formula: see text] for the full information setting and [Formula: see text] for the bandit setting. We also present additional findings on the characterization of PAB equilibria. Managerial implications: Although the Nash equilibria of PAB auctions possess nice properties such as winning bid uniformity and high welfare and revenue, they are not guaranteed under no-regret learning dynamics. Nevertheless, our simulations suggest that these properties hold anyways, regardless of Nash equilibrium existence. Compared with its uniform price counterpart, the PAB dynamics converge faster and achieve higher revenue, making PAB appealing whenever revenue holds significant social value\u2014for example, ETSs and Treasury auctions. Funding: R. Galgana and N. Golrezaei were supported in part by the Young Investigator Program Award from the Office of Naval Research [Grant N00014-21-1-2776] and the Massachusetts Institute of Technology Research Support Award. Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2023.0403 ."
+  },
+  {
+    "paper_id": "c6ad5980233878a78aa7bf05495ef6c4b758b3a7",
+    "title": "Smoothed Analysis of Online Non-parametric Auctions",
+    "year": 2023,
+    "author_ids": [
+      "46222744",
+      "3033269",
+      "3438946"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 12,
+    "abstract": "Online learning of revenue-optimal auctions is a fundamental problem in mechanism design without priors. Nevertheless, all the existing positive results assume that the auctioneer optimizes over a parameterized class of auctions, such as pricings and auctions with reserves. This is perhaps not surprising given that natural correlations that occur in online sequences pose a challenge to characterizing a succinct class of revenue-optimal auctions. This has left behind a significant gap in our understanding of online-learnability of general classes of non-parametric auctions. We provide the first positive results for online learnability of a non-parametric auction class, for smooth adversaries and the class of smooth auctions. In a nutshell, an online adversary is smooth (in the style of Smoothed analysis [Spielman and Teng, 2004] in online learning [Haghtalab et al., 2021]) if the bid distribution has bounded density at every time step, and an auction is smooth if the level sets of its revenue function have small boundaries. We prove the following fundamental guarantees: (1) Revenue maximization in the class of smooth auctions is online-learnable, against smooth adversaries. (2) It is impossible to construct a no-regret algorithm even for the class of smooth auctions against worst-case adversaries. (3) It is impossible to construct a no-regret algorithm for the class of all incentive-compatible auctions even against smooth adversaries. This gives a strong characterization of when and which class of non-parametric auctions are online-learnable. To illustrate the generality of the class of smooth auctions we show that it contains the class of all monotone-revenue auctions, as well as, the class of all competition-monotone auctions. This brings up an interesting observation: while independence across bids leads to the optimal auctions being monotone, significantly weaker assumptions, compared to monotonicity of revenue, are sufficient for learnability."
+  },
+  {
+    "paper_id": "1f0f5fff0db384e6427047ecdcd4ad61a7af2fa4",
+    "title": "Distinguishing incentive from selection effects in auction-determined contracts",
+    "year": 2022,
+    "author_ids": [
+      "108368533",
+      "74694182",
+      "4604348"
+    ],
+    "venue": "Journal of Econometrics",
+    "citation_count": 0,
+    "abstract": "This paper develops a novel approach to estimate how contract and principal-agent characteristics influence an ex-post performance outcome when the matching between agents and principals derives from an auction process. We propose a control-function approach to account for the endogeneity of contracts and matching. This consists of, first, estimating the primitives of an interdependent values auction model - which is shown to be non-parametrically identified from the bidding data - second, constructing control functions based on the distribution of the unobserved private signals conditional on the auction outcome. A Monte Carlo study shows that our augmented outcome equation corrects well of the endogeneity biases, even in small samples. We apply our methodology to a labor market application: we estimate the effect of sports players\u2019 auction-determined wages on their individual performance."
+  },
+  {
+    "paper_id": "039323154f51836a4ffe202509b228eb7d123ff2",
+    "title": "Private Interdependent Valuations",
+    "year": 2021,
+    "author_ids": [
+      "21802745",
+      "2137248",
+      "3402758"
+    ],
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "citation_count": 10,
+    "abstract": "We consider the single-item interdependent value setting, where there is a monopolist, $n$ buyers, and each buyer has a private signal $s_i$ describing a piece of information about the item. Each bidder $i$ also has a valuation function $v_i(s_1,\\ldots,s_n)$ mapping the (private) signals of all buyers to a positive real number representing their value for the item. This setting captures scenarios where the item's information is asymmetric or dispersed among agents, such as in competitions for oil drilling rights, or in auctions for art pieces. Due to the increased complexity of this model compared to standard private values, it is generally assumed that each bidder's valuation function $v_i$ is public knowledge. But in many situations, the seller may not know how a bidder aggregates signals into a valuation. In this paper, we design mechanisms that guarantee approximately-optimal social welfare while satisfying ex-post incentive compatibility and individual rationality for the case where the valuation functions are private to the bidders. When the valuations are public, it is possible for optimal social welfare to be attained by a deterministic mechanism under a single-crossing condition. In contrast, when the valuations are the bidders' private information, we show that no finite bound can be achieved by any deterministic mechanism even under single-crossing. Moreover, no randomized mechanism can guarantee better than an $n$-approximation. We thus consider valuation functions that are submodular over signals (SOS), introduced in the context of combinatorial auctions in a recent breakthrough paper by Eden et al. [EC'19]. Our main result is an $O(\\log^2 n)$-approximation for buyers with private signals and valuations under the SOS condition. We also give a tight $\\Theta(k)$-approximation for the case each agent's valuation depends on at most $k$ other signals even for unknown $k$."
+  },
+  {
+    "paper_id": "3be7bae80035a7c7042990685a8dba4b6710589e",
+    "title": "How To Sell (or Procure) in a Sequential Auction",
+    "year": 2021,
+    "author_ids": [
+      "144720490",
+      "145411560"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "A seller with one unit of a good faces N \u2265 3 buyers and a single competitor who sells one other identical unit in a second-price auction with a reserve price. Buyers who do not get the seller\u2019s good will compete in the competitor\u2019s subsequent auction. We characterize the optimal mechanism for the seller in this setting. The first-order approach typically fails, so we develop new techniques. The optimal mechanism features transfers from buyers with the two highest valuations, allocation to the buyer with the second-highest valuation, and a withholding rule that depends on the highest two or three valuations. It can be implemented by a modified third-price auction or a pay-your-bid auction with a rebate. This optimal withholding rule raises significantly more revenue than would a standard reserve price. Our analysis also applies to procurement auctions. Our results have implications for sequential competition in mechanisms. We thank Paul Klemperer, Tymofiy Mylovanov, Dan Quint, Dan Quigley, J\u00f3szef S\u00e1kovics, Vasiliki Skreta, and conference and seminar audiences for helpful comments and Serafin Grundl and Diwakar Raisingh for excellent research assistance. Department of Economics, University of Wisconsin, Madison, hendrick@ssc.wisc.edu. Department of Economics, University of Texas at Austin, wiseman@austin.utexas.edu."
+  },
+  {
+    "paper_id": "2346fc5e1f6e8116e69b045835266faae2b6eb5b",
+    "title": "JUBILEE: Secure Debt Relief and Forgiveness",
+    "year": 2021,
+    "author_ids": [
+      "143808061"
+    ],
+    "venue": "IACR Cryptology ePrint Archive",
+    "citation_count": 0,
+    "abstract": "JUBILEE is a securely computed mechanism for debt relief and forgiveness in a frictionless manner without involving trusted third parties, leading to more harmonious debt settlements by incentivising the parties to truthfully reveal their private information. JUBILEE improves over all previous methods: - individually rational, incentive-compatible, truthful/strategy-proof, ex-post efficient, optimal mechanism for debt relief and forgiveness with private information - by the novel introduction of secure computation techniques to debt relief, the\"blessing of the debtor\"is hereby granted for the first time: debt settlements with higher expected profits and a higher probability of success than without using secure computation A simple and practical implementation is included for\"The Secure Spreadsheet\". Another implementation is realised using Raziel smart contracts on a blockchain with Pravuil consensus."
+  },
+  {
+    "paper_id": "2895ef8b1dc4d15d1838be774e4668eeadffe74b",
+    "title": "Ex-post implementation with interdependent values",
+    "year": 2021,
+    "author_ids": [
+      "2363987996",
+      "153142755"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 0,
+    "abstract": "We characterize ex-post implementable allocation rules for single object auctions under quasi-linear preferences with convex interdependent value functions. We show that requiring ex-post implementability is equivalent to requiring that the allocation rule must satisfy a condition that we call eventual monotonicity (EM), which is a weakening of monotonicity, a familiar condition used to characterize dominant strategy implementation."
+  },
+  {
+    "paper_id": "0761e9a4a06ca8314ae67566eb2eedf6676e9703",
+    "title": "Cursed yet Satisfied Agents",
+    "year": 2021,
+    "author_ids": [
+      "117745152",
+      "21802745",
+      "1825681345"
+    ],
+    "venue": "Information Technology Convergence and Services",
+    "citation_count": 7,
+    "abstract": "In real-life auctions, a widely observed phenomenon is the winner\u2019s curse\u2014the winner\u2019s high bid implies that the winner often overestimates the value of the good for sale, resulting in an incurred negative utility. The seminal work of Eyster and Rabin [Econometrica\u201905] introduced a behavioral model aimed to explain this observed anomaly. We term agents who display this bias \u201ccursed agents\u201d. We adopt their model in the interdependent value setting, and aim to devise mechanisms that prevent the agents from obtaining negative utility. We design mechanisms that are cursed ex-post incentive compatible, that is, incentivize agents to bid their true signal even though they are cursed, while ensuring that the outcome is ex-post individually rational (EPIR)\u2014the price the agents pay is no more than the agents\u2019 true value. Since the agents might over-estimate the value of the allocated good, such mechanisms might require the seller to make positive (monetary) transfers to the agents in order to prevent agents from over-paying for the good. While the revenue of the seller not requiring EPIR might increase when agents are cursed, when imposing EPIR, cursed agents will always pay less than fully rational agents (due to the positive transfers the seller makes). We devise revenue and welfare maximizing mechanisms for cursed agents. For revenue maximization, we give the optimal deterministic and anonymous mechanism. For welfare maximization, we require ex-post budget balance (EPBB), as positive transfers might cause the seller to have negative revenue. We propose a masking operation that takes any deterministic mechanism, and masks the allocation whenever the seller requires to make positive transfers. The masking operation ensures that the mechanism is both EPIR and EPBB. We show that in typical settings, EPBB implies that the mechanism cannot make any positive transfers. Thus, applying the masking operation on the fully efficient mechanism results in a socially optimal EPBB mechanism. This further implies that if the valuation function is the maximum of agents\u2019 signals, the optimal EPBB mechanism obtains zero welfare. In contrast, we show that for sum-concave valuations, which include weighted-sum valuations and lp-norms, the welfare optimal EPBB mechanism obtains half of the optimal welfare as the number of agents grows large."
+  },
+  {
+    "paper_id": "4a626f1ec0100fa5764dec10d55826d87cf43dc7",
+    "title": "Selling Two Identical Objects",
+    "year": 2020,
+    "author_ids": [
+      "1851028",
+      "3241518"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 10,
+    "abstract": "It is well-known that optimal (i.e., revenue-maximizing) selling mechanisms in multidimensional type spaces may involve randomization. We study mechanisms for selling two identical, indivisible objects to a single buyer. We analyze two settings: (i) decreasing marginal values (DMV) and (ii) increasing marginal values (IMV). Thus, the two marginal values of the buyer are not independent. We obtain sufficient conditions on the distribution of buyer values for the existence of an optimal mechanism that is deterministic. \nIn the DMV model, we show that under a well-known condition, it is optimal to sell the first unit deterministically. Under the same sufficient condition, a bundling mechanism (which is deterministic) is optimal in the IMV model. Under a stronger sufficient condition, a deterministic mechanism is optimal in the DMV model. \nOur results apply to heterogenous objects when there is a specified sequence in which the two objects must be sold."
+  },
+  {
+    "paper_id": "6b3bdb64dcb6a7426a507238f192a1e5136b1d8d",
+    "title": "Clock Auction Inspired Privacy Preserving Emergency Demand Response in Colocation Data Centers",
+    "year": 2020,
+    "author_ids": [
+      "8875904",
+      "49403727",
+      "143791274",
+      "1691652",
+      "39718931",
+      "10691943",
+      "145169163"
+    ],
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "citation_count": 4,
+    "abstract": "Data centers are key participants in emergency demand response (EDR), where the grid coordinates large electricity consumers for reducing their consumption during emergency situations to prevent major economic losses. While existing literature concentrates on owner-operated data centers (e.g., Google), this work studies EDR in multi-tenant colocation data centers (e.g., Equinix) where servers are owned and managed by individual tenants and which are better targets of EDR. Existing EDR mechanisms incentivize tenants energy reduction. Such designs can either be gamed by strategic tenants or untrustworthy colocation operators for illegal gains. These serious privacy concerns stand as barrier preventing the tenants\u2019 participation in EDR. This paper addresses such concerns by proposing a privacy-preserving and strategy-proof mechanism using the descending clock auction. Privacy is protected by implementing homomorphic encryption for aggregation through the clock auction, where operator can only know the aggregate of the tenants\u2019 values or bids but not their individual private values or confidential information submitted to meet the EDR. We evaluate the privacy and performance of this scheme by formulating descending clock auction, in which the amount of energy/price the tenants are willing to reduce for a given price/energy to meet EDR is protected."
+  },
+  {
+    "paper_id": "d9bb3456a4d84048e26946df573cc43ee27ca75c",
+    "title": "Revenue Guarantee Equivalence",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 31,
+    "abstract": "We revisit the revenue comparison of standard auction formats, including first-price, second-price, and English auctions. We rank auctions according to their revenue guarantees, i.e., the greatest lower bound of revenue across all informational environments, where we hold fixed the distribution of bidders\u2019 values. We conclude that if we restrict attention to the symmetric affiliated models of Milgrom and Weber (1982) and monotonic pure-strategy equilibria, first-price, second-price, and English auctions are revenue guarantee equivalent: they have the same revenue guarantee, which is equal to that of the first-price auction as characterized by Bergemann, Brooks, and Morris (2017). If we consider all equilibria or if we allow more general models of information, then first-price auctions have a greater revenue guarantee than all other auctions considered. (JEL D44, D83)"
+  },
+  {
+    "paper_id": "331710508e7b041405e3d92be9ecac45d7d3db15",
+    "title": "Cultural impediments to learning to cooperate: An experimental study of high- and low-caste men in rural India",
+    "year": 2018,
+    "author_ids": [
+      "32074566",
+      "121561942",
+      "47140152"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 23,
+    "abstract": "We report experimental findings on how individuals from different cultures solve a repeated coordination game of common interest. The results overturn earlier findings that fixed pairs are almost assured to coordinate on an efficient and cooperative equilibrium. Subjects in the prior experiments were US university students, whereas the subjects in our study are men drawn from high and low castes in rural India. Most low-caste pairs quickly established an efficient and cooperative convention, but most high-caste pairs did not. The largest difference in behavior occurred when a player suffered a loss because he had tried to cooperate but his partner did not: In this situation, high-caste men were far less likely than low-caste men to continue trying to cooperate in the next period. Our interpretation is that for many high-caste men, the loss resulting from coordination failure triggered retaliation. Our results are robust to controls for education and wealth, and they hold by subcaste as well as by caste status. A survey we conducted supports the ethnographic evidence that more high-caste than low-caste men prefer to retaliate against a slight. We find no evidence that caste differences in trust or self-efficacy explain the caste gap in cooperation in our experiment. Our findings are of general interest because many societies throughout the world have cultures that lead individuals to (mis)perceive some actions as insults and to respond aggressively and dysfunctionally."
+  },
+  {
+    "paper_id": "b03577b76f8faa5001c16fe4e121b68f93bab0dc",
+    "title": "Robustly Optimal Auctions with Unknown Resale Opportunities",
+    "year": 2018,
+    "author_ids": [
+      "2330048972",
+      "2411585941"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 45,
+    "abstract": "\n The standard revenue-maximizing auction discriminates against a priori stronger bidders so as to reduce their information rents. We show that such discrimination is no longer optimal when the auction\u2019s winner may resell to another bidder, and the auctioneer has non-Bayesian uncertainty about such resale opportunities. We identify a \u201cworst-case\u201d resale scenario, in which bidders\u2019 values become publicly known after the auction and losing bidders compete Bertrand-style to buy the object from the winner. With this form of resale, misallocation no longer reduces the information rents of the high-value bidder, as he could still secure the same rents by buying the object in resale. Under regularity assumptions, we show that revenue is maximized by a version of the Vickrey auction with bidder-specific reserve prices, first proposed by Ausubel and Cramton (2004). The proof of optimality involves constructing Lagrange multipliers on a double continuum of binding non-local incentive constraints."
+  },
+  {
+    "paper_id": "9fe19da6c14a020db5baca62070cace8c13fc749",
+    "title": "On the Structure of Informationally Robust Optimal Mechanisms",
+    "year": 2024,
+    "author_ids": [
+      "2281765125",
+      "2281770010"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 6,
+    "abstract": "We study the design of optimal mechanisms when the designer is uncertain both about the form of information held by the agents and also about which equilibrium will be played. The \n guarantee of a mechanism is its worst performance across all information structures and equilibria. The \n potential of an information structure is its best performance across all mechanisms and equilibria. We formulate a pair of linear programs, one of which is a lower bound on the maximum guarantee across all mechanisms, and the other of which is an upper bound on the minimum potential across all information structures. In applications to public expenditure, bilateral trade, and optimal auctions, we use the bounding programs to characterize guarantee\u2010maximizing mechanisms and potential\u2010minimizing information structures and show that the max guarantee is equal to the min potential.\n"
+  },
+  {
+    "paper_id": "db75c64384f8ab87696ac378dd029e6fca15c3cd",
+    "title": "How to sell in a sequential auction market",
+    "year": 2022,
+    "author_ids": [
+      "144720490",
+      "145411560"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 0,
+    "abstract": "We characterize an optimal mechanism for a seller with one unit of a good facing \n N\u2009\u2265\u20093 buyers and a single competitor who sells another identical unit in a second\u2010price auction. Buyers who do not get the seller's good compete in the competitor's subsequent auction. The mechanism features transfers from buyers with the two highest valuations, allocation to the buyer with the second\u2010highest valuation, and an allocation rule that depends on the two highest valuations. It can be implemented by a modified third\u2010price auction, and it raises significantly more revenue than would a standard second\u2010 or first\u2010price auction with a reserve price.\n"
+  },
+  {
+    "paper_id": "fa77d0f848e2230aedb3670c7ba8ec87ea2d7628",
+    "title": "Clock Auction Inspired Privacy Preservation in Colocation Data Centers",
+    "year": 2019,
+    "author_ids": [
+      "10691943",
+      "120465520",
+      "8875904",
+      "2108262768",
+      "31740949",
+      "145169163"
+    ],
+    "venue": "SpringerBriefs in Electrical and Computer Engineering",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f3d8900160a202f4868fbfbd0912fc24cde32cca",
+    "title": "Selling Advertisement: Non-linear Pricing on Information Structure",
+    "year": 2018,
+    "author_ids": [
+      "40190320"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

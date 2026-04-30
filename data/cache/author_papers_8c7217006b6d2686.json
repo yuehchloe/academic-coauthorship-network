@@ -1,0 +1,934 @@
+[
+  {
+    "paper_id": "6e330d9fa6ee712f997e31750fdfda724be0e800",
+    "title": "Quantifying the Micro and Macro Effects of Variety Creation and Destruction",
+    "year": 2022,
+    "author_ids": [
+      "118937822",
+      "30188950",
+      "97593079",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "09fad83e1d9de6b8eb4ebf94a7bdf56fafe735d7",
+    "title": "Review Article: Perspectives on the Future of Asset Pricing",
+    "year": 2021,
+    "author_ids": [
+      "3113641",
+      "144565670",
+      "2957390",
+      "2078984742",
+      "2412567598",
+      "3208964",
+      "50373121",
+      "2412638962"
+    ],
+    "venue": "The Review of financial studies",
+    "citation_count": 56,
+    "abstract": null
+  },
+  {
+    "paper_id": "5e734f0eca6b9d8c2e4afc75b0598e5e698917cc",
+    "title": "Policies for a Second Wave",
+    "year": 2021,
+    "author_ids": [
+      "118937822",
+      "144565670",
+      "40601922",
+      "82973203"
+    ],
+    "venue": "Brookings Papers on Economic Activity",
+    "citation_count": 53,
+    "abstract": "ABSTRACT:In the spring of 2020, the initial surge of COVID-19 infections and deaths was flattened using a combination of economic shutdowns and noneconomic non-pharmaceutical interventions (NPIs). The possibility of a second wave of infections and deaths raises the question of what interventions can be used to significantly reduce deaths while supporting, not preventing, economic recovery. We use a five-age epidemiological model combined with sixty-six-sector economic accounting to examine policies to avert and to respond to a second wave. We find that a second round of economic shutdowns alone are neither sufficient nor necessary to avert or quell a second wave. In contrast, noneconomic NPIs, such as wearing masks and personal distancing, increasing testing and quarantine, reintroducing restrictions on social and recreational gatherings, and enhancing protections for the elderly together can mitigate a second wave while leaving room for an economic recovery."
+  },
+  {
+    "paper_id": "0d044781a1016dc1a965af5a8fca5f2b65e70fdc",
+    "title": "Nonlinear Production Networks with an Application to the Covid-19 Crisis",
+    "year": 2020,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 117,
+    "abstract": "We study the effects of negative supply shocks and shocks to the composition of final demand on aggregate output in a disaggregated neoclassical model with multiple sectors, factors, and input-output linkages. We show how nonlinearities associated with complementarities in consumption and production amplify the effect of negative supply shocks by creating supply bottlenecks and disrupting supply chain networks. These nonlinearities are particularly potent when the shocks are more heterogeneous as the worst-affected sectors drag down the other sectors. Nonlinearities are strengthened when changes in preferences lead households to tilt the composition of their demand towards the crippled sectors directly and indirectly through their supply chains. And nonlinearities are further intensified when factors cannot easily be reallocated across sectors to reinforce weak links. A quantitative investigation suggests that nonlinearities may amplify the impact of the Covid-19 shock by between 10\\%-100\\%, depending on the horizon of analysis and the exact size of the shocks."
+  },
+  {
+    "paper_id": "3df1bfe33a9ec3f1694c527c2f6dda6837f9719c",
+    "title": "The Darwinian Returns to Scale",
+    "year": 2020,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 26,
+    "abstract": "\n How does an increase in market size, say due to globalization, affect welfare? We study this question using a model with monopolistic competition, heterogeneous markups, and fixed costs. We characterize changes in welfare and decompose changes in allocative efficiency into three different effects: (1) reallocations across firms with heterogeneous price elasticities due to intensifying competition, (2) reallocations due to the exit of marginally profitable firms, and (3) reallocations due to changes in firms\u2019 markups. Whereas the second and third effects have ambiguous implications for welfare, the first effect, which we call the Darwinian effect, always increases welfare regardless of the shape of demand curves. We nonparametrically calibrate demand curves with data from Belgian manufacturing firms and quantify our results. We find that mild increasing returns at the microlevel can catalyze large increasing returns at the macrolevel. Between 70 and 90% of increasing returns to scale come from improvements in how a larger market allocates resources. The lion\u2019s share of these gains are due to the Darwinian effect, which increases the aggregate markup and concentrates sales and employment in high-markup firms. This has implications for policy: an entry subsidy, which harnesses Darwinian reallocations, can improve welfare even when there is more entry than in the first best."
+  },
+  {
+    "paper_id": "3faf486fdc31603b16a860e8af595f8a14c322bf",
+    "title": "Global Imbalances and Policy Wars at the Zero Lower Bound",
+    "year": 2020,
+    "author_ids": [
+      "2411951156",
+      "144565670",
+      "119387559"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 36,
+    "abstract": "\n This article explores the consequences of extremely low real interest rates in a world with integrated but heterogeneous capital markets, nominal rigidities, and an effective lower bound [a zero lower bound (ZLB) for simplicity]. We establish four main results: (1) At the ZLB, creditor countries export their recession abroad, which we illustrate with a new Metzler diagram in quantities; (2) Beggar-thy-neighbour currency and trade wars provide stimulus to the undertaking country at the expense of other countries; (3) (Safe) public debt issuances and increases in government spending anywhere are expansionary everywhere; and (4) When there is a scarcity of safe assets, net issuers of these assets import the recession from abroad."
+  },
+  {
+    "paper_id": "5a9fe9bdf1f50b6c6fce25f4b8e999f784b944d1",
+    "title": "Entry vs. Rents: Aggregation with Economies of Scale",
+    "year": 2020,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 11,
+    "abstract": "We show that the tension between entry and rents lies at the core of a general theory of aggregation with scale effects. We characterize the responses of macro aggregates to micro shocks in disaggregated economies with general forms of entry, internal or external returns to scale, input-output linkages, and distortions. In particular, we decompose changes in aggregate productivity into changes in technical and allocative efficiency, and show that the latter depend on changes in rents and quasi-rents across markets. In addition, we give formulas for the social costs of distortions. Finally, we prove that while first-best industrial policy is network-independent, second-best policy supports the more \u201cnetworked\u201d parts of the economy by boosting the backward linkages of markets with high forward linkages and returns to scale. As an application, we quantify the misallocation from markups in the U.S.: accounting for entry raises the aggregate efficiency loss from 20% to 40% This number depends sensitively on how entry is modeled, in ways that we make precise."
+  },
+  {
+    "paper_id": "983710a4bc5469b2ae6b8aa74b98ebba49fd3c08",
+    "title": "Measurement of the double-differential neutron cross section of UO2 from room temperature to hot full power conditions",
+    "year": 2020,
+    "author_ids": [
+      "152310282",
+      "2111044484",
+      "12725820",
+      "24594655",
+      "144565670",
+      "47753687"
+    ],
+    "venue": "EPJ Web of Conferences",
+    "citation_count": 1,
+    "abstract": "Experimental phonon densities of states of UO2 have been deduced from double-differential neutron scattering data measured at 300 K, 600 K and 900 K using the IN6 time-of-flight spectrometer of the Institute Laue-langevin (ILL). The comparison with ab intio phonon spectra obtained at the North Caroline South University from first-principle calculations confirms that harmonic vibrations of the atoms cannot accurately reproduce the phonon broadening related to the oxygen atoms."
+  },
+  {
+    "paper_id": "b5493a23ff7eb35ea64c6b64676955d99b9b328e",
+    "title": "Supply and Demand in Disaggregated Keynesian Economies with an Application to the Covid-19 Crisis",
+    "year": 2020,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 326,
+    "abstract": "We study supply and demand shocks in a general disaggregated model with multiple sectors, factors, and input-output linkages, as well as downward nominal wage rigidities and a zero lower bound constraint. We use the model to understand how the Covid-19 crisis, an omnibus of supply and demand shocks, affects output, unemployment, and inflation, and how it leads to the coexistence of tight and slack labor markets. Under some conditions, the details of the production network can be summarized by simple sufficient statistics. We use these sufficient statistics to conduct global comparative statics. Negative sectoral supply shocks and sectoral demand shocks are stagflationary, whereas negative intertemporal demand shocks are deflationary. Complementarities magnify Keynesian spillovers for the former shocks but mitigate them for the latter. We illustrate the intuition using a nonlinear AS-AD representation. In a quantitative model of the US calibrated to current disaggregated data, sectoral supply and demand shocks on their own generate more than 10% inflation, and negative intertemporal demand shocks on their own generate 7% deflation. Both types of shocks are necessary to capture the disaggregated data, each explains about half the reduction in real GDP, and putting both together results in 0.3% inflation and as much as 8.5% Keynesian unemployment in April 2020. Nevertheless, aggregate demand stimulus is only about a third as effective as in a typical recession where all labor markets are slack. More targeted forms of demand stimulus are more effective."
+  },
+  {
+    "paper_id": "b66aedfa173c0ffacd3c1daab83167c99fccd493",
+    "title": "Reopening Scenarios",
+    "year": 2020,
+    "author_ids": [
+      "118937822",
+      "144565670",
+      "40601922",
+      "2238250763"
+    ],
+    "venue": null,
+    "citation_count": 54,
+    "abstract": "We use a five-age epidemiological model, combined with 66-sector economic accounting, to address a variety of questions concerning the economic reopening. We calibrate/estimate the model using contact survey data and data on weekly historical individual actions and non-pharmaceutical interventions in the weeks ending March 8 \u2013 May 16, 2020. Going forward, we model a decision-maker (governor) as following reopening guidelines like those proposed by the White House and the CDC. The sectoral accounting, combined with information on personal proximity and ability to work from home by sector, make it possible to construct a GDP-to-Risk index of which sectors provide the greatest increment in GDP per marginal increase in R0. Through simulations, we find that: a strong economic reopening is possible;a \u201csmart\u201d reopening, preferencing some sectors over others, makes only modest improvements over a broad reopening;and all this hinges on retaining strong restrictions on non-work social contacts. If non-work contacts \u2013 going to bars, shopping without social distancing and masks, large group gatherings, etc. \u2013 return only half-way to the pre-COVID-19 baseline, the current decline in deaths reverses leading to a second wave of business closures."
+  },
+  {
+    "paper_id": "b6ddc552717f54023fc7fd995380cf688ea3a918",
+    "title": "Optimal Taxation with Behavioral Agents",
+    "year": 2020,
+    "author_ids": [
+      "144565670",
+      "3465180"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 246,
+    "abstract": "This paper develops a theory of optimal taxation with behavioral agents. We use a general framework that encompasses a wide range of biases such as misperceptions and internalities. We revisit the three pillars of optimal taxation:\u00a0Ramsey (linear commodity taxation to raise revenues and redistribute), Pigou (linear commodity taxation to correct externalities), and Mirrlees (nonlinear income taxation). We show how the canonical optimal tax formulas are modified and lead to novel economic insights. We also show how to incorporate nudges in the optimal taxation framework, and jointly characterize optimal taxes and nudges. (JEL D62, D91, H21)"
+  },
+  {
+    "paper_id": "de61b653129f9810e981569ab2a32d7a397dada8",
+    "title": "Combining density functional theory and Monte Carlo neutron transport calculations to study the phonon density of states of \nUO2\n up to 1675\u00a0K by inelastic neutron scattering",
+    "year": 2020,
+    "author_ids": [
+      "152310282",
+      "73494980",
+      "2111044484",
+      "12725820",
+      "24594655",
+      "144565670",
+      "2037024481",
+      "3685010",
+      "91807946",
+      "145960284",
+      "10781139"
+    ],
+    "venue": "Physical review B",
+    "citation_count": 4,
+    "abstract": "Significant advances in the use of atomistic simulation techniques, such as ab initio density functional theory and the molecular dynamics method, made it possible to predictively calculate properties of materials. In parallel, low-energy neutron scattering instruments and data analysis tools available in different institutes become mature for providing high-quality data for experimental validation purposes. Despite such experimental and theoretical improvements, the accurate modeling of experimental neutron-weighted multiphonon spectra for $\\mathrm{U}{\\mathrm{O}}_{2}$ over a broad temperature range still remains an issue. Combining prior phonon density of states (PDOS) from density functional theory and Monte Carlo inelastic neutron scattering calculations in a Bayesian fitting procedure is a valuable alternative approach to assess the partial PDOS of uranium and oxygen in $\\mathrm{U}{\\mathrm{O}}_{2}$ from 294 to 1675 K for improving the comparison to experiment and exploring the first-principles calculation hypothesis."
+  },
+  {
+    "paper_id": "df3dc5cfc3b8a456a8d391048090a3339f79780e",
+    "title": "Keynesian Production Networks with an Application to the Covid-19 crisis",
+    "year": 2020,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "04a185c36a50bc75b67b4cf1989f001007900b39",
+    "title": "What is driving the return spread between \u201csafe\u201d and \u201crisky\u201d assets?",
+    "year": 2019,
+    "author_ids": [
+      "144565670",
+      "145639086"
+    ],
+    "venue": "Chicago Fed Letter",
+    "citation_count": 3,
+    "abstract": "Real interest rates on U.S. government bonds have declined persistently since the 1980s. U.S. government bonds are backed by the full faith and credit of the federal government and, hence, are considered one of the safest assets because the risk of default is extremely low. More broadly, interest rates on other safe assets, such as highly rated corporations, have also declined."
+  },
+  {
+    "paper_id": "109e8a4d29d76cf42d60f6ffd81fbad228791e3f",
+    "title": "Monetary Policy, Bounded Rationality, and Incomplete Markets",
+    "year": 2019,
+    "author_ids": [
+      "144565670",
+      "115694249"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 263,
+    "abstract": "This paper extends the benchmark New-Keynesian model by introducing two frictions: (i) agent heterogeneity with incomplete markets, uninsurable idiosyncratic risk, and occasionally-binding borrowing constraints; and (ii) bounded rationality in the form of level-k thinking. Compared to the benchmark model, we show that the interaction of these two frictions leads to a powerful mitigation of the effects of monetary policy, which is more pronounced at long horizons, and offers a potential rationalization of the \u201cforward guidance puzzle.\u201d Each of these frictions, in isolation, would lead to no or much smaller departures from the benchmark model. (JEL D52, D81, E12, E52)"
+  },
+  {
+    "paper_id": "1ba2d1d953262e0401f57c162588f728da294394",
+    "title": "China vs. U.S.: IMS Meets IPS",
+    "year": 2019,
+    "author_ids": [
+      "144565670",
+      "2237465654"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "Currently both the International Monetary System (IMS) and the International Price Systems (IPS) are dominated by the U.S. The emergence of China, both as reserve currency and as a currency of invoicing, is likely to disrupt this status quo. We provide a framework to understand the forces that will shape this transition and identify sources of instability. We highlight the risk of an abrupt shift triggered by a run on the dollar."
+  },
+  {
+    "paper_id": "3fa4249216fa7fc1f82fec16bc5315ae662e21f6",
+    "title": "JEEA-FBBVA Lecture 2018: The Microeconomic Foundations of Aggregate Production Functions",
+    "year": 2019,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Journal of the European Economic Association",
+    "citation_count": 15,
+    "abstract": "\n Aggregate production functions are reduced-form relationships that emerge endogenously from input\u2013output interactions between heterogeneous producers and factors in general equilibrium. We provide a general methodology for analyzing such aggregate production functions by deriving their first- and second-order properties. Our aggregation formulas provide nonparametric characterizations of the macroelasticities of substitution between factors and of the macrobias of technical change in terms of microsufficient statistics. They allow us to generalize existing aggregation theorems and to derive new ones. We relate our results to the famous Cambridge\u2013Cambridge controversy."
+  },
+  {
+    "paper_id": "47bb7c10cc3b2d8c2793ae7cae3afb42cd52d5c5",
+    "title": "Online Appendix to Productivity and Misallocation in General Equilibrium",
+    "year": 2019,
+    "author_ids": [
+      "118937822",
+      "144565670",
+      "2412822520",
+      "46233636",
+      "3307879",
+      "144791375",
+      "143622435",
+      "3266152",
+      "114793883",
+      "4735367",
+      "2358840300",
+      "12083161",
+      "144663627"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4ffa8c21844363f5632e8d422339f9de2fbb8faa",
+    "title": "Replication data for: Fiscal Unions",
+    "year": 2019,
+    "author_ids": [
+      "144565670",
+      "115694249"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5d55441f04e984c76a708797c3dc2bab5e8fbad6",
+    "title": "Monetary Policy, Product Market Competition and Growth",
+    "year": 2019,
+    "author_ids": [
+      "2213981",
+      "144565670",
+      "119159602"
+    ],
+    "venue": "Econ\u00f3mica",
+    "citation_count": 30,
+    "abstract": "In this paper we argue that monetary easing fosters growth more in more credit-constrained environments, and the more so the higher the degree of product market competition. Indeed when competition is low, large rents allow firms to stay on the market and reinvest optimally, no matter how funding conditions change with aggregate conditions. To test this prediction, we use industry-level and firm-level data from the Euro Area to look at the effects on sectoral growth and firm-level growth of the unexpected drop in long-term government bond yields following the announcement of the Outright Monetary Transactions program (OMT) by the ECB. We find that the monetary policy easing induced by OMT, contributed to raising sectoral (firm-level) growth more in more highly leveraged sectors (firms), and the more so the higher the degree of product market competition in the country (sector)."
+  },
+  {
+    "paper_id": "86b0337af7cf73c0ecf43fdc6ce3dc58233e167a",
+    "title": "A Short Note on Aggregating Productivity",
+    "year": 2019,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 15,
+    "abstract": "This paper discusses two simple decompositions for aggregate productivity analysis in the presence of distortions and in general equilibrium. The first is a generalization of Baqaee and Farhi (2017) and the second is due to Petrin and Levinsohn (2012). In the process, we propose a new \u201cdistorted\u201d Solow residual which, contrary to the traditional Solow residual, accurately measures changes in aggregate productivity in disaggregated economies with distortions. These formulas apply to any collection of producers ranging from one isolated producer to an industry or to an entire economy. They can be useful for empiricists and theorists alike. Potential applications of these formulas include: (1) decomposing aggregate productivity into its microeconomic sources, separating technical and allocative efficiency; (2) aggregating microeconomic estimates (for example, from natural experiments) to assess macroeconomic effects; (3) constructing and interpreting aggregate counterfactuals. Despite their simplicity, the formulas are general, allowing for production networks, multi-product firms, and non-constant returns. They are also entirely nonparametric. They only assume market clearing and cost minimization."
+  },
+  {
+    "paper_id": "8e49433409efc921eadc9c5eeafa293ddf5cb7b5",
+    "title": "Replication data for: The Safe Assets Shortage Conundrum",
+    "year": 2019,
+    "author_ids": [
+      "144515024",
+      "144565670",
+      "119387559"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b9b5dbc94af647764b92d984669a1efa88c13eeb",
+    "title": "China versus the United States: IMS Meets IPS",
+    "year": 2019,
+    "author_ids": [
+      "144565670",
+      "2237465654"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 14,
+    "abstract": "Currently both the International Monetary System (IMS) and the International Price Systems (IPS) are dominated by the United States. The emergence of China, both as reserve currency and as a currency of invoicing, is likely to disrupt this status quo. We provide a framework to understand the forces that will shape this transition and identify sources of instability. We highlight the risk of an abrupt shift triggered by a run on the dollar."
+  },
+  {
+    "paper_id": "eadf05bccd69fdfdf87f4f31991fab9dc6bf5fea",
+    "title": "Monetary Policy, Bounded Rationality, and Incomplete Markets Online Appendix",
+    "year": 2019,
+    "author_ids": [
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "eb218c44a7d2b72f9115043f31cf7125642d1d6a",
+    "title": "VIII Additional Results VIII . A Complements on Optimal Tax with Heterogeneous Agents VIII . A . 1 Calibration : Optimal Ramsey Tax with Heterogeneous Agents",
+    "year": 2019,
+    "author_ids": [
+      "144565670",
+      "3465180"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1b71148809af0223f9713ba7b0a947ce26911ecc",
+    "title": "IN13 Neutron guide and primary spectrometer upgrade",
+    "year": 2018,
+    "author_ids": [
+      "46647924",
+      "9270868",
+      "144565670",
+      "96185736",
+      "147782452",
+      "145110634"
+    ],
+    "venue": "Nuclear Instruments and Methods in Physics Research Section A : Accelerators, Spectrometers, Detectors and Associated Equipment",
+    "citation_count": 5,
+    "abstract": "Abstract We discuss the proposed upgrade of the IN13 neutron backscattering spectrometer at the Institut Laue-Langevin (Grenoble, France) and the resulting changes in instrument performance. The effect of using a temperature gradient monochromator on instrument flux and resolution is presented and reproduced using a multi-layer monochromator model for the Monte Carlo neutron ray tracing package McStas. Simulations of the combined effect of varying crystal mosaicity in conjunction with the gradient monochromator on supermirror guides are also shown."
+  },
+  {
+    "paper_id": "38f09124c2c99c80da86ffb5d1e523e518244d10",
+    "title": "Macroeconomics with Heterogeneous Agents and Input-Output Networks",
+    "year": 2018,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 48,
+    "abstract": "The goal of this paper is to simultaneously unbundle two interacting reduced-form building blocks of traditional macroeconomic models: the representative agent and the aggregate production function. We introduce a broad class of disaggregated general equilibrium models with Heterogeneous Agents and Input-Output networks (HA-IO).We characterize their properties through two sets of results describing the propagation and the aggregation of shocks. Our results shed light on many seemingly disparate applied questions, such as: sectoral comovement in business cycles; factor-biased technical change in task-based models; structural transformation; the effects of corporate taxation; and the dependence of fiscal multipliers on the composition of government spending."
+  },
+  {
+    "paper_id": "5041ed709a31ce9468a127146bdc174ea208ac1c",
+    "title": "Deadly Embrace: Sovereign and Financial Balance Sheets Doom Loops",
+    "year": 2018,
+    "author_ids": [
+      "144565670",
+      "3056693"
+    ],
+    "venue": null,
+    "citation_count": 336,
+    "abstract": null
+  },
+  {
+    "paper_id": "67801d1e846790f6459173c0331c177414da019d",
+    "title": "Optimisation of the H16-IN5 replacement guide",
+    "year": 2018,
+    "author_ids": [
+      "2209460052",
+      "103101882",
+      "152458220",
+      "144565670",
+      "30911414",
+      "30642850"
+    ],
+    "venue": "Journal of Neutron Research",
+    "citation_count": 0,
+    "abstract": "The replacement of the H16-IN5 guide has been decided in the frame of the ILL Endurance program. This guide is made of heteroclite sections and the upgrade aims at improving the performances with a modern homogeneous ballistic guide. Several constraints applied to the project: (i) the instrument will remain at the same location, (ii) considering (i), in terms of gain relative to cost, it was judged more reasonable to keep the same chopper system, (iii) many technical elements under control of the nuclear safety authorities cannot be changed within the lifetime of the project. We present the results of the McStas optimization of the replacing guide performed under these constraints."
+  },
+  {
+    "paper_id": "8c9ed40493b3dc1c28fd75e81300e072bff3dcb3",
+    "title": "NBER WORKING PAPER SERIES ACCOUNTING FOR MACRO-FINANCE TRENDS: MARKET POWER, INTANGIBLES, AND RISK PREMIA",
+    "year": 2018,
+    "author_ids": [
+      "144565670",
+      "2246748196"
+    ],
+    "venue": null,
+    "citation_count": 127,
+    "abstract": null
+  },
+  {
+    "paper_id": "afdb036fe5c4938bab3af89756a3dd14b5425e46",
+    "title": "The Microeconomic Foundations of Aggregate Production Functions",
+    "year": 2018,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 25,
+    "abstract": "Aggregate production functions are reduced-form relationships that emerge endogenously from input-output interactions between heterogeneous producers and factors in general equilibrium. We provide a general methodology for analyzing such aggregate production functions by deriving their first- and second-order properties. Our aggregation formulas provide non-parameteric characterizations of the macro-elasticities of substitution between factors and of the macro bias of technical change in terms of micro sufficient statistics. They allow us to generalize existing aggregation theorems and to derive new ones. We relate our results to the famous Cambridge-Cambridge controversy."
+  },
+  {
+    "paper_id": "b4a8898db7f386084fff94f9ddf12973a5b9d82a",
+    "title": "Reconciling risk sharing with market discipline",
+    "year": 2018,
+    "author_ids": [
+      "1399508149",
+      "3113641",
+      "20984202",
+      "144565670",
+      "66967108",
+      "104052071",
+      "119387559",
+      "48440012",
+      "2064355810",
+      "39937560",
+      "79869045",
+      "50607270",
+      "118627869"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "f42f9d7188110c4533c04a9d13e5e4459f03d95f",
+    "title": "The Macroeconomics of Border Taxes",
+    "year": 2018,
+    "author_ids": [
+      "104775858",
+      "144565670",
+      "143622435",
+      "103048638"
+    ],
+    "venue": "NBER macroeconomics annual",
+    "citation_count": 36,
+    "abstract": "We analyze the dynamic macroeconomic effects of border adjustment taxes (BAT), both when they are a feature of corporate tax reform (C-BAT) and for the case of value-added tax (VAT). Our analysis arrives at the following main conclusions. First, C-BAT is unlikely to be neutral at the macroeconomic level, as the conditions required for neutrality are unrealistic. The basis for neutrality of VAT is even weaker. Second, in response to the introduction of an unanticipated permanent C-BAT of 20% in the United States, the dollar appreciates strongly, by almost the size of the tax adjustment, and US exports and imports decline significantly, while the overall effect on output is small. Third, an equivalent change in VAT, in contrast to the C-BAT effect, generates only a weak appreciation of the dollar and a small decline in imports and exports, but has a large negative effect on output. Last, border taxes increase government revenues in periods of trade deficit; however, given the net foreign asset position of the United States, they result in a long-run loss of government revenues and an immediate net transfer to the rest of the world."
+  },
+  {
+    "paper_id": "feb975754d041a573cdfdda42b6be3461257147e",
+    "title": "NBER WORKING PAPER SERIES THE MACROECONOMIC IMPACT OF MICROECONOMIC SHOCKS: BEYOND HULTEN'S THEOREM",
+    "year": 2018,
+    "author_ids": [
+      "118937822",
+      "144565670",
+      "2320814",
+      "114675970",
+      "2609822",
+      "3610079",
+      "3266152",
+      "51045418",
+      "2109009124",
+      "143766372",
+      "2227095812"
+    ],
+    "venue": null,
+    "citation_count": 401,
+    "abstract": null
+  },
+  {
+    "paper_id": "0e1fc98af82a47fdb9b4befa1c89dc4e9bcbeb61",
+    "title": "Appendix to \u201c A Model of the International Monetary System \u201d",
+    "year": 2017,
+    "author_ids": [
+      "144565670",
+      "2237465654"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "2c7e640dfdcfb7abdf3e120a1c22b716e7c66b72",
+    "title": "The Economics of Border Adjustment Tax",
+    "year": 2017,
+    "author_ids": [
+      "104775858",
+      "144565670",
+      "143622435",
+      "103048638"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "44e116db9711f3d60f452264acc86e75c73dbab0",
+    "title": "PRODUCTIVITY AND MISALLOCATION IN GENERAL EQUILIBRIUM.",
+    "year": 2017,
+    "author_ids": [
+      "2385576014",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "489b00d20a7c9da543008d122da26383673f7a59",
+    "title": "Productivity and Misallocation in General Equilibrium*",
+    "year": 2017,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 491,
+    "abstract": "\n This paper develops a general theory of aggregation in inefficient economies. We provide nonparametric formulas for aggregating microeconomic shocks in economies with distortions such as taxes, markups, frictions to resource reallocation, financial frictions, and nominal rigidities. We allow for arbitrary elasticities of substitution, returns to scale, factor mobility, and input-output network linkages. We show how to separately measure changes in technical and allocative efficiency. We also show how to compute the social cost of distortions. We pursue applications focusing on firm-level markups in the United States. We find that improvement in allocative efficiency, due to the reallocation over time of market share to high-markup firms, accounts for about half of aggregate TFP growth over the period 1997\u20132015. We also find that eliminating the misallocation resulting from the large and dispersed markups estimated in the data would raise aggregate TFP by about 15%, increasing the economy-wide cost of monopoly distortions by two orders of magnitude compared with the famous 0.1% estimate by Harberger (1954). These exact numbers should be interpreted with care because the data are imperfect and require substantial imputation."
+  },
+  {
+    "paper_id": "4e80b3b9692a157ba59257505272a02db2d932f7",
+    "title": "On the interaction between monetary policy , corporate balance sheets and structural reforms",
+    "year": 2017,
+    "author_ids": [
+      "2213981",
+      "144565670",
+      "119159602"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "5417841afcc46fa11931db919465c5391d3e4e53",
+    "title": "Density of states from mode expansion of the self-dynamic structure factor of a liquid metal.",
+    "year": 2017,
+    "author_ids": [
+      "5956087",
+      "5916605",
+      "5451478",
+      "144565670",
+      "49364677",
+      "49285807",
+      "5365311"
+    ],
+    "venue": "Physical Review E",
+    "citation_count": 20,
+    "abstract": null
+  },
+  {
+    "paper_id": "553fc6ddb26ef3f153da0ea54fc56c7f670f606a",
+    "title": "NBER WORKING PAPER SERIES THE MACROECONOMIC IMPACT OF MICROECONOMIC SHOCKS : BEYOND HULTEN ' S",
+    "year": 2017,
+    "author_ids": [
+      "118937822",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": null
+  },
+  {
+    "paper_id": "55c7cda1b1fd352bfb5665d7c1079e375d5a3dd9",
+    "title": "Appendix for \u201c Optimal Taxation with Behavioral Agents \u201d",
+    "year": 2017,
+    "author_ids": [
+      "144565670",
+      "3465180"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "74d0a507d871814906e2b85fd83b0e3af62e0092",
+    "title": "Shadow Banking and the Four Pillars of Traditional Financial Intermediation",
+    "year": 2017,
+    "author_ids": [
+      "144565670",
+      "3056693"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 90,
+    "abstract": "\n Traditional banking is built on four pillars: small and medium enterprise lending, insured deposit taking, access to lender of last resort (LOLR), and prudential supervision. This article unveils the logic of the quadrilogy by showing that it emerges naturally as an equilibrium outcome in a game between banks and the government. A key insight is that regulation and public insurance services (LOLR, deposit insurance) are complementary. The model also shows how prudential regulation must adjust to the emergence of shadow banking and rationalizes structural remedies to counter bogus liquidity hoarding and financial contagion: ring-fencing between regulated and shadow banking and the sharing of liquidity in centralized platforms."
+  },
+  {
+    "paper_id": "870efdca704020d0ac1342d39e3b5803aceea3ad",
+    "title": "A high-flux upgrade for the BRISP spectrometer at ILL.",
+    "year": 2017,
+    "author_ids": [
+      "2155337",
+      "5365311",
+      "49364677",
+      "144565670",
+      "49285807",
+      "5956087",
+      "14286444",
+      "4497035",
+      "5868847",
+      "3619050",
+      "144061482",
+      "92357983",
+      "6472995"
+    ],
+    "venue": "Review of Scientific Instruments",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "8b3f352df450812d017bc05d70079ee06dd99c7a",
+    "title": "Molecular (and lattice) dynamics to analyze neutron scattering experiments \u2013 MDANSE2018",
+    "year": 2017,
+    "author_ids": [
+      "9589672",
+      "144565670",
+      "144973269",
+      "11734913",
+      "49367002",
+      "1795552904",
+      "144073675",
+      "1398297471",
+      "2110317123"
+    ],
+    "venue": "Neutron News",
+    "citation_count": 0,
+    "abstract": "Volume 29 \u2022 Number 3\u20134 \u2022 2018 Neutron News 10 T school on Molecular (and Lattice) Dynamics to Analyse Neutron Scattering Experiments \u2212 MDANSE2018 was held on the picturesque island of Tenerife, Spain, September 24\u201328, 2018. This was the fourth school in this series. It was held at ILL, France in 2012 and 2014 and at ISIS, UK in 2016. This time, the event was jointly organized by Institut Laue-Langevin (ILL) (Grenoble, France), Technical University of Denmark (DTU) (Kgs. Lyngby, Denmark), the Data Management and Software Centre, European Spallation Source ERIC (ESS) (Copenhagen, Denmark) and ISIS at the Rutherford Appleton Laboratory (Harwell, UK). This was a perfect occasion to integrate ESS with other major neutron facilities, namely LLB, ILL and ISIS, along with DTU, and demonstrate the capability of next-generation software for simulations and analysis of neutron experiments. The school focused on simulation of inelastic neutron scattering using McStas and molecular dynamics models. It was generously supported by SINE2020 (www.sine2020.eu), ILL, ESS, DTU and ISIS. With 30 international participants across the globe, including Europe, India and China, the school was packed with hands-on tutorials and lessons given by leading experts in the fi eld. The weeklong meeting focused on showing how computational simulations can be applied to the calculation of experimental spectra. The two main computational methodologies, Molecular Dynamics (MD) and Lattice Dynamics (LD), were used to perform computer simulations of full virtual experiments of neutron scattering spectrometers that produced realistic simulated data for inelastic and quasi-elastic neutron scattering intensities. Both methods, MD and LD, were introduced by formal lectures on the morning of day one. Hands-on practicals (Figure 1) started from the afternoon of the same day. USB sticks were distributed to students with relevant software and data fi les. Hard copies of tutorial documents were also provided. Emmanuel Farhi (ILL) started the meeting by welcoming all delegates and highlighting the critical importance of virtual experiments for neutron spectroscopy. He was followed by Miguel Gonz\u00e1lez (ILL), who gave a concise introduction about the history of this school. Miguel started the fi rst lecture of the school by giving a useful talk on MD simulation and its application in analyzing quasi elastic neutron scattering (QENS) spectroscopy. He was followed by Sanghamitra Mukhopadhyay (ISIS), who introduced electronic-structure methods and lattice dynamics. In the afternoon session, the students got their fi rst opportunity to apply these theoretical lessons in a hands-on practical in which they compared their simulated results with experimental data to get a better idea of how simulations can help to analyze neutron experiments. The second day started with lessons delivered by Sylvain Petit Molecular (and lattice) dynamics to analyze neutron scattering experiments \u2013 MDANSE2018"
+  },
+  {
+    "paper_id": "dbcfd82c77cc6f45430b1ba66681e40a547e95fd",
+    "title": "The Safe Assets Shortage Conundrum",
+    "year": 2017,
+    "author_ids": [
+      "144515024",
+      "144565670",
+      "119387559"
+    ],
+    "venue": null,
+    "citation_count": 294,
+    "abstract": null
+  },
+  {
+    "paper_id": "ee05f04283be02e4cbf2a730a689094f7c8bbc14",
+    "title": "Accounting for Medium-run Macro-finance Trends",
+    "year": 2017,
+    "author_ids": [
+      "145639086",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "fbc03fe58680adb269d308086743976fc01ac3fa",
+    "title": "The Safety Trap",
+    "year": 2017,
+    "author_ids": [
+      "2411731440",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 359,
+    "abstract": "In this article, we provide a model of the macroeconomic implications of safe asset shortages. In particular, we discuss the emergence of a deflationary safety trap equilibrium with endogenous risk premia. It is an acute form of a liquidity trap, in which the shortage of a specific form of assets, safe assets, as opposed to a general shortage of assets, is the fundamental driving force. At the Zero Lower Bound, our model has a Keynesian cross representation, in which net safe asset supply plays the role of an aggregate demand shifter. Essentially, safety traps correspond to liquidity traps in which the emergence of an endogenous risk premium significantly alters the connection between macroeconomic policy and economic activity. \u201cHelicopter drops\u201d of money, safe public debt issuances, swaps of private risky assets for safe public debt, or increases in the inflation target, stimulate aggregate demand and output, while forward guidance is less effective. The safety trap can be arbitrarily persistent, as in the secular stagnation hypothesis, despite the existence of infinitely lived assets."
+  },
+  {
+    "paper_id": "fdd012eda1c0d08e17ab106fa673a5e888b09c75",
+    "title": "Measurement of double differential cross-section of light water at high temperature and pressure to generate S(\u03b1,\u03b2)",
+    "year": 2017,
+    "author_ids": [
+      "2105631315",
+      "49617135",
+      "107704809",
+      "144565670",
+      "47753687",
+      "3685010",
+      "24594655",
+      "152310282",
+      "73494980",
+      "3275052",
+      "69541773"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "A series of double differential inelastic scattering cross-section measurements were performed on light water at several temperatures and pressures using high resolution time-of-flight inelastic spectrometers, namely the IN4c and the IN6 at the Institut Laue-Langevin (ILL), Grenoble, France to investigate the impact of temperature and pressure on S( q ,\u03c9) and thus on the S(\u03b1, \u03b2) thermal scattering kernel. The present work aims at extending previous measurements with light water at room temperature and pressure to more realistic operating conditions in connection with nuclear power reactors."
+  },
+  {
+    "paper_id": "077d9e0c9786e81ee84290e149eb3b21f27bf7df",
+    "title": "Coccomyxa actinabiotis sp. nov. (Trebouxiophyceae, Chlorophyta), a new green microalga living in the spent fuel cooling pool of a nuclear reactor",
+    "year": 2016,
+    "author_ids": [
+      "5096620",
+      "144565670",
+      "15597929",
+      "1993353668",
+      "2069557993",
+      "3068925",
+      "36372718",
+      "8959031",
+      "6587442"
+    ],
+    "venue": "Journal of Phycology",
+    "citation_count": 40,
+    "abstract": null
+  },
+  {
+    "paper_id": "372e791f4bca4e8259362c96ca35467a053403e5",
+    "title": "Safe Asset Scarcity and Aggregate Demand",
+    "year": 2016,
+    "author_ids": [
+      "2259398840",
+      "144565670",
+      "119387559"
+    ],
+    "venue": null,
+    "citation_count": 113,
+    "abstract": null
+  },
+  {
+    "paper_id": "3a278be2cc68e66484e5a54ba9252cec437e7c23",
+    "title": "NBER WORKING PAPER SERIES INVESTMENT-LESS GROWTH: AN EMPIRICAL INVESTIGATION",
+    "year": 2016,
+    "author_ids": [
+      "122901883",
+      "152473968",
+      "119176082",
+      "2094942263",
+      "77243567",
+      "49201073",
+      "115328649",
+      "79515286",
+      "50376507",
+      "144883487",
+      "40257389",
+      "7765462",
+      "2957390",
+      "144515024",
+      "144565670",
+      "32876475"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "63dcdd5a319e63c5c221871f8e924eef38525a7f",
+    "title": "Silver Accumulation in the Green Microalga Coccomyxa actinabiotis: Toxicity, in Situ Speciation, and Localization Investigated Using Synchrotron XAS, XRD, and TEM.",
+    "year": 2016,
+    "author_ids": [
+      "145077860",
+      "144565670",
+      "144501796",
+      "13204976",
+      "113897135",
+      "49879257",
+      "4995377",
+      "4598693",
+      "5096620"
+    ],
+    "venue": "Environmental Science and Technology",
+    "citation_count": 52,
+    "abstract": null
+  },
+  {
+    "paper_id": "64035e2877811ac14cb78c9a371cd28a47c9fede",
+    "title": "Velocity autocorrelation by quantum simulations for direct parameter-free computations of the neutron cross sections. II. Liquid deuterium",
+    "year": 2016,
+    "author_ids": [
+      "5956087",
+      "145537688",
+      "5451478",
+      "40171601",
+      "5504089",
+      "5916605",
+      "144565670",
+      "47753687"
+    ],
+    "venue": null,
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "c0bb53169b669286dfd40b2df82fc9f9fedbdf8b",
+    "title": "Chapter 31 \u2013 Fiscal Multipliers\u2606: Liquidity Traps and Currency Unions",
+    "year": 2016,
+    "author_ids": [
+      "144565670",
+      "115694249"
+    ],
+    "venue": null,
+    "citation_count": 37,
+    "abstract": null
+  },
+  {
+    "paper_id": "ecd8f9b911dccc5ee4419e6bf97672cd823cf462",
+    "title": "Neutron scattering instrumentation at low power reactors for science, engineering and education",
+    "year": 2016,
+    "author_ids": [
+      "144565670",
+      "2226923960",
+      "144916097",
+      "72613204",
+      "73167214",
+      "2361084967",
+      "2361096493"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "0fd31c184825c795fdc3da50ad1c617e205eb5be",
+    "title": "Experimental study of ultracold neutron production in pressurized superfluid helium",
+    "year": 2015,
+    "author_ids": [
+      "1422125719",
+      "144314201",
+      "144565670",
+      "6971704",
+      "102860684",
+      "102312773",
+      "6042076",
+      "39805656"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": "We have investigated experimentally the pressure dependence of the production of ultracold neutrons (UCN) in superfluid helium in the range from saturated vapor pressure to 20bar. A neutron velocity selector allowed the separation of underlying single-phonon and multiphonon pro- cesses by varying the incident cold neutron (CN) wavelength in the range from 3.5 to 10{\\AA}. The predicted pressure dependence of UCN production derived from inelastic neutron scattering data was confirmed for the single-phonon excitation. For multiphonon based UCN production we found no significant dependence on pressure whereas calculations from inelastic neutron scattering data predict an increase of 43(6)% at 20bar relative to saturated vapor pressure. From our data we conclude that applying pressure to superfluid helium does not increase the overall UCN production rate at a typical CN guide."
+  },
+  {
+    "paper_id": "5d8f99beb561afcbd3bce56518ac1926b223fce7",
+    "title": "NBER WORKING PAPER SERIES GLOBAL IMBALANCES AND CURRENCY WARS AT THE ZLB",
+    "year": 2015,
+    "author_ids": [
+      "2245066813",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 81,
+    "abstract": null
+  },
+  {
+    "paper_id": "5e70b77660ccc63cb1650ff6d777cb1fa622ceda",
+    "title": "Light and heavy water dynamic structure factor for neutron transport codes",
+    "year": 2015,
+    "author_ids": [
+      "144565670",
+      "100610024",
+      "107704809",
+      "2083126747",
+      "47753687"
+    ],
+    "venue": null,
+    "citation_count": 17,
+    "abstract": null
+  },
+  {
+    "paper_id": "5e84bea3e7af013f6b58054aef1bb477b4de6249",
+    "title": "Velocity autocorrelation in liquid parahydrogen by quantum simulations for direct parameter-free computations of neutron cross sections",
+    "year": 2015,
+    "author_ids": [
+      "5956087",
+      "145537688",
+      "5451478",
+      "40171601",
+      "5504089",
+      "144565670",
+      "47753687"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": "Accurate knowledge of the single-molecule (self) translational dynamics of liquid para-H2 is an essential requirement for the calculation of the neutron scattering properties of this important quantum liquid. We show that, by using Centroid Molecular Dynamics (CMD) quantum simulations of the velocity autocorrelation function, calculations of the total neutron cross section (TCS) remarkably agree with experimental data at the thermal and epithermal incident neutron energies where para-H2 dynamics is actually dominated by the self contributions. This result shows that a proper account of the quantum nature of the fluid, as provided by CMD, is a necessary and very effective condition to obtain the correct absolute-scale cross section values directly from first-principle computations of the double differential cross section, and without the need of introducing any empirically adjusted quantity. At subthermal incident energies, appropriate modeling of the para-H2 intermolecular (distinct) dynamics also becomes crucial, but quantum simulations are not yet able to cope with it. Existing simple models which account for the distinct part provide an appropriate correction of self-only calculations and bring the computed results in reasonable accord with TCS experimental data available until very recently. However, if just published cross section measurements in the cold range are considered, the agreement turns out to be by far superior and very satisfactory. The possible origin of slight residual differences will be commented and suggest further computational and experimental efforts. Nonetheless, the ability to reproduce the total cross section in the wide range between 1 and 900 meV represents an encouraging and important validation step of the CMD method and of the present simple algorithm."
+  },
+  {
+    "paper_id": "70feb412aff3b512a9a1e9461fc3a19d27b7b238",
+    "title": "Coordination and Crisis in Monetary Unions",
+    "year": 2015,
+    "author_ids": [
+      "1761808",
+      "145100103",
+      "144565670",
+      "143622435"
+    ],
+    "venue": null,
+    "citation_count": 125,
+    "abstract": "We study fiscal and monetary policy in a monetary union with the potential for rollover crises in sovereign debt markets. Member-country fiscal authorities lack commitment to repay their debt and choose fiscal policy independently. A common monetary authority chooses inflation for the union, also without commitment. We first describe the existence of a fiscal externality that arises in the presence of limited commitment and leads countries to overborrow; this externality rationalizes the imposition of debt ceilings in a monetary union. We then investigate the impact of the composition of debt in a monetary union, that is the fraction of high-debt versus low-debt members, on the occurrence of self-fulfilling debt crises. We demonstrate that a high-debt country may be less vulnerable to crises and have higher welfare when it belongs to a union with an intermediate mix of high- and low-debt members, than one where all other members are low-debt. This contrasts with the conventional wisdom that all countries should prefer a union with low-debt members, as such a union can credibly deliver low inflation. These findings shed new light on the criteria for an optimal currency area in the presence of rollover crises. JEL Codes: E4, E5, F3, F4."
+  },
+  {
+    "paper_id": "980fef35bf8ada0b468d0a5d4de079abf93c357f",
+    "title": "2 Complements on Endogenous Attention : Attention as a good 12",
+    "year": 2015,
+    "author_ids": [
+      "144565670",
+      "3465180"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "99e39128dd22b5b5ecb894cf8e8a60181a69f628",
+    "title": "Tepper School of Business 2-18-2011 Nonlinear Capital Taxation Without Commitment",
+    "year": 2015,
+    "author_ids": [
+      "144565670",
+      "2032628",
+      "2103625"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a03951bdd63562708b6edd0406869f8756fbec82",
+    "title": "Biological Decontamination of Radionuclides in Industrial and Environmental Water Using a New Highly Radioresistant Microalga",
+    "year": 2015,
+    "author_ids": [
+      "5096620",
+      "2060884016",
+      "8959031",
+      "2396977148",
+      "144565670"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

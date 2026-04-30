@@ -1,0 +1,295 @@
+[
+  {
+    "paper_id": "99356c26a2c887c73f26d599f3d98c50535892ee",
+    "title": "Evaluation and Learning in R&D Investment",
+    "year": 2023,
+    "author_ids": [
+      "144047191",
+      "37599505",
+      "5073011",
+      "2082124547"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "We examine the role of spillover learning in shaping the value of exploratory versus incremental R&D. Using data from drug development, we show that novel drug candidates generate more knowledge spillovers than incremental ones. Despite being less likely to reach regulatory approval, they are more likely to inspire subsequent successful drugs. We introduce a model where firms are better able to evaluate the viability of incremental drugs, but where investing in novel drugs helps firms learn about future projects. Firms appear to put more value on evaluation versus learning, and those patterns are in-part driven by the appropriability of spillovers. Alexander P. Frankel Stanford Graduate School of Business 518 Memorial Way Stanford, CA 94305 afrankel@chicagobooth.edu Joshua L. Krieger Harvard Business School Rock 213 Boston, MA 02163 jkrieger@hbs.edu Danielle Li MIT Sloan School of Management 100 Main St, E62-484 Cambridge, MA 02142 and NBER d_li@mit.edu Dimitris Papanikolaou Kellogg School of Management Northwestern University 2211 Campus Drive, Office 4319 Evanston, IL 60208 and NBER d-papanikolaou@kellogg.northwestern.edu Scientific breakthroughs often build on earlier research efforts, including those that initially end in failure.1 Yet despite the importance of exploration and learning for innovation (Romer, 1990; Aghion and Howitt, 1992; Scotchmer, 1991; Furman and Stern, 2011), research and development projects are often evaluated only on their potential for direct success. For instance, traditional net present value (NPV) calculations multiply a project\u2019s probability of success times its profits if successful, assuming zero benefits if the project does not succeed. In this paper, we examine how firms prioritize learning spillovers in their present R&D decisions.2 Our empirical work focuses on pharmaceutical R&D, a setting where breakthrough innovations can lead to enormous gains in welfare, where cumulative learning is important, and where failure is common. We first develop a new measure of cross-product knowledge spillovers. Using this measure, we show that novel drug candidates generate greater spillovers, and that much spillover value comes from drug candidates that themselves fail. Next, we use these facts to motivate a model of R&D investments. In our model, a firm must decide whether to invest in developing a drug candidate, which can either be incremental or novel. Firms are better able to evaluate the success likelihoods of incremental drugs because they are related to ideas that have previously been investigated, enabling them to screen out weak candidates. Firms know less about novel drugs, but by investigating a new area, they generate knowledge spillovers and learn about the success of future related drugs. Using this model as a guide, we provide empirical evidence that firms prioritize evaluation over learning, i.e. they are more reluctant to invest in novel relative to incremental drugs. Following Krieger, Li, and Papanikolaou (2021), we measure a drug candidate\u2019s novelty by comparing its molecular structure with that of previously developed candidates. In this paper, we complement these backward-looking molecular linkages by defining new measures 1For example, in 2013, a large clinical trial for one of the most promising HIV vaccine candidates to date was halted due to lack of efficacy. Known as DNA/rAd5, the proposed vaccine sought to prime the immune system by injecting DNA plasmids that code for the production of protein structures also present in HIV. For this approach to be effective, the injected DNA must successfully enter a cell\u2019s nucleus so that its instructions can be carried out. Yet, in postmortems, scientists worried that DNA plasmids were too easily destroyed before reaching the nucleus. These concerns suggested two avenues for follow on research: vaccines based on mRNA (which need only enter a cell\u2019s cytoplasm to be effective) and delivery mechanisms that protect genetic material (Harris, 2021). Both these innovations are present in Moderna and Pfizer-BioNTech\u2019s vaccines for SARS-CoV-2, which deliver mRNA wrapped in lipid nanoparticles. 2Risk-adjusted NPV (rNPV), a modern tool widely adopted by pharmaceutical firms, refines the traditional NPV calculation by adjusting for a drug candidate\u2019s likelihood of progressing through each stage of R&D. Both the traditional the risk-adjusted approaches would assign zero value to the failed DNA/rAd5 vaccine of footnote 1, though, ignoring its potential to inform future vaccine development efforts."
+  },
+  {
+    "paper_id": "a31c1cc247c42c844eae685b7c3e4b325d164fd9",
+    "title": "Test-Optional Admissions",
+    "year": 2023,
+    "author_ids": [
+      "2147351",
+      "144047191",
+      "3024016"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "Many US colleges now use test-optional admissions. A frequent claim is that by not seeing standardized test scores, a college can admit a student body it prefers, say, with more diversity. But how can observing less information improve decisions? This paper proposes that test-optional policies are a response to social pressure on admission decisions. We model a college that bears disutility when it makes admission decisions that \u201csociety\u201d dislikes. Going test optional allows the college to reduce its \u201cdisagreement cost.\u201d We analyze how missing scores are imputed and the consequences for the college, students, and society. (JEL I23, I28)"
+  },
+  {
+    "paper_id": "b83bd8528bded3e76717607e85d90986891c6249",
+    "title": "Selecting Applicants",
+    "year": 2021,
+    "author_ids": [
+      "144047191"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": "A firm selects applicants to hire based on hard information, such as a test result, and soft information, such as a manager\u2019s evaluation of an interview. The contract that the firm offers to the manager can be thought of as a restriction on acceptance rates as a function of test results. I characterize optimal acceptance rate functions both when the firm knows the manager\u2019s mix of information and biases and when the firm is uncertain. These contracts may admit a simple implementation in which the manager can accept any set of applicants with a sufficiently high average test score."
+  },
+  {
+    "paper_id": "ba3bec1ad49c97bc90a544b69d57e0dedc08576a",
+    "title": "Online Appendix for: Which findings should be published?",
+    "year": 2020,
+    "author_ids": [
+      "144047191",
+      "66099712"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8e5ae496b987b11ba50c8875218dfddc17ca6dd0",
+    "title": "Muddled Information",
+    "year": 2019,
+    "author_ids": [
+      "144047191",
+      "3024016",
+      "2165280",
+      "1741246035",
+      "2147351",
+      "50419703"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 85,
+    "abstract": "We study a model of signaling in which agents are heterogeneous on two dimensions. An agent\u2019s natural action is the action taken in the absence of signaling concerns. Her gaming ability parameterizes the cost of increasing the action. Equilibrium behavior muddles information across dimensions. As incentives to take higher actions increase\u2014due to higher stakes or more manipulable signaling technology\u2014more information is revealed about gaming ability, and less about natural actions. We explore a new externality: showing agents\u2019 actions to additional observers can worsen information for existing observers. Applications to credit scoring, school testing, and web searching are discussed."
+  },
+  {
+    "paper_id": "b90c3977e3b2fda6b75186c296589fe25f21060a",
+    "title": "Quantifying Information and Uncertainty",
+    "year": 2019,
+    "author_ids": [
+      "144047191",
+      "2968902"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 77,
+    "abstract": "We examine ways to measure the amount of information generated by a piece of news and the amount of uncertainty implicit in a given belief. Say a measure of information is valid if it corresponds to the value of news in some decision problem. Say a measure of uncertainty is valid if it corresponds to expected utility loss from not knowing the state in some decision problem. We axiomatically characterize all valid measures of information and uncertainty. We show that if measures of information and uncertainty arise from the same decision problem, then they are coupled in that the expected reduction in uncertainty always equals the expected amount of information generated. We provide explicit formulas for the measure of information that is coupled with any given measure of uncertainty and vice versa. Finally, we show that valid measures of information are the only payment schemes that never provide incentives to delay information revelation. (JEL D81, D83)"
+  },
+  {
+    "paper_id": "ceb6168ddf1222e2a8b7fea3b1a25d3bdbfe2141",
+    "title": "Knowledge Hierarchies",
+    "year": 2019,
+    "author_ids": [
+      "32074566",
+      "144047191",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "da9b594c38692ef556bef0052df60d2d580f3c40",
+    "title": "American Economic Review: Insights",
+    "year": 2019,
+    "author_ids": [
+      "119336246",
+      "122161643",
+      "1965904514",
+      "1400408857",
+      "1763671",
+      "123085310",
+      "123924599",
+      "3011673",
+      "119211280",
+      "2258074691",
+      "2141662721",
+      "118995066",
+      "117975962",
+      "66205179",
+      "2066650326",
+      "118740550",
+      "50419703",
+      "2082793435",
+      "3280398",
+      "2674571",
+      "2396018",
+      "2801899",
+      "7937649",
+      "2083780718",
+      "152680795",
+      "49057848",
+      "144047191",
+      "2070725163",
+      "73651013",
+      "115148897",
+      "145693487",
+      "144729294",
+      "144338332",
+      "145886764",
+      "2073373894",
+      "3472592",
+      "107917552",
+      "143731937",
+      "31443830",
+      "48621044",
+      "67073463",
+      "48648728",
+      "2861863",
+      "40963867",
+      "2773368",
+      "2867490",
+      "3121112",
+      "2053965314",
+      "2083996639",
+      "75182270",
+      "74541088",
+      "118974806",
+      "145579958",
+      "113423217",
+      "46907990",
+      "123280333",
+      "103224755",
+      "74115503",
+      "8731644",
+      "100496043",
+      "143702503",
+      "117384786",
+      "1907958",
+      "97877697",
+      "120080425"
+    ],
+    "venue": "AEA Papers and Proceedings",
+    "citation_count": 14,
+    "abstract": "The American Economic Review: Insights (AER: Insights) published its first issue in June 2019 and has published quarterly ever since, with eight papers per issue. This current report covers the period November 2019 through October 2020. During that time period, I worked with three excellent coeditors (Pete Klenow, Larry Samuelson, and Rohini Pande) and 17 excellent associate editors. We received almost 800 submissions (compared to about 600 over the same time period last year) and witnessed the same acceptance rate of 4\u20135 percent. As of November 4, 2020, we have accepted or conditionally accepted papers that will fill the content of the issues through September 2021. I continued to be very pleased with the set of papers accepted to date, both in terms of their high quality and the breadth of method and subject matter. It is clear that many of the papers we are getting are being submitted to us first; for example, we now frequently see papers simultaneously released as an NBER working paper and submitted to us. If we take imitation as the sincerest form of flattery (and I do), a very positive sign both of our success and of our spillover influence into the profession is that in 2020, several journals announced a dedicated channel for submitting short papers, with length restrictions explicitly mimicking our guidelines. Journals announcing channels for submitting Insights-length papers include the Economic Journal, Journal of Public Economics, Journal of Urban Economics, and Review of Economics and Statistics. On December 1, 2020, Larry Samuelson ended his term as the inaugural coeditor handling our theory submissions. We are extremely grateful to him for his dedicated service and invaluable help in successfully launching the journal. In addition, the team benefited greatly from his prior experiences as an editor and his always sage and useful advice as we navigated the inevitable questions and decisions that arise when running a journal. He will be greatly missed. But we are delighted that Dirk Bergemann has agreed to join as coeditor and look forward to his excellent work."
+  },
+  {
+    "paper_id": "ef072535ee9b228e8ba5a9bdad78e59ee80b184b",
+    "title": "Improving Information from Manipulable Data",
+    "year": 2019,
+    "author_ids": [
+      "144047191",
+      "3024016"
+    ],
+    "venue": "Journal of the European Economic Association",
+    "citation_count": 56,
+    "abstract": "\n Data-based decision making must account for the manipulation of data by agents who are aware of how decisions are being made and want to affect their allocations. We study a framework in which, due to such manipulation, data become less informative when decisions depend more strongly on data. We formalize why and how a decision maker should commit to underutilizing data. Doing so attenuates information loss and thereby improves allocation accuracy."
+  },
+  {
+    "paper_id": "093ebbd4ff08ff542902e70942b7dd75faf1aafb",
+    "title": "Which findings should be published?",
+    "year": 2018,
+    "author_ids": [
+      "66099712",
+      "144047191"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 29,
+    "abstract": "Given a scarcity of journal space, what is the socially optimal rule for whether an empirical finding should be published? Suppose that the goal of publication is to inform the public about a policy-relevant state. Then journals should publish extreme results, meaning ones that move beliefs sufficiently. For specific objectives, the optimal rule can take the form of a one- or a two-sided test comparing a point estimate to the prior mean, with critical values deter- mined by a cost-benefit analysis. An explicit consideration of future studies may additionally justify the publication of precise null results. If one insists that standard inference remain valid, however, publication must not select on the study\u2019s findings (but may select on the study\u2019s design)."
+  },
+  {
+    "paper_id": "666f3e90b5afc24c7368710065b761c2457e0b59",
+    "title": "A note on interval delegation",
+    "year": 2018,
+    "author_ids": [
+      "145100103",
+      "81791183",
+      "144047191"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "cf80b74129a674fb53e16afe3bd8edf7fd484776",
+    "title": "What kind of central bank competence",
+    "year": 2018,
+    "author_ids": [
+      "144047191",
+      "3024016"
+    ],
+    "venue": null,
+    "citation_count": 12,
+    "abstract": "How much information should a Central Bank (CB) have about (i) policy objectives and (ii) operational shocks to the effect of monetary policy? We consider a version of the Barro-Gordon credibility problem in which monetary policy signals an inflation-biased CB's private information on both these dimensions. We find that greater CB competence---more private information---about policy objectives is desirable while greater competence about operational shocks need not be. When the CB has less private information about operational shocks, the public infers that monetary policy depends more on the CB's information about objectives. Inflation expectations become more responsive to monetary policy, which mitigates the CB's temptation to produce surprise inflation."
+  },
+  {
+    "paper_id": "06b653d349ef56566c5ad04d707b03a90e2d032f",
+    "title": "A note on interval delegation",
+    "year": 2017,
+    "author_ids": [
+      "145100103",
+      "81791183",
+      "144047191"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "2754bbccf051537ec952cb2d4a4bb418778c1bde",
+    "title": "DO BANKS PASS THROUGH CREDIT EXPANSIONS TO CONSUMERS WHO WANT TO BORROW?",
+    "year": 2016,
+    "author_ids": [
+      "118881285",
+      "3309574",
+      "2000020",
+      "144047191",
+      "46355570",
+      "47870926",
+      "79403023",
+      "98373909"
+    ],
+    "venue": null,
+    "citation_count": 18,
+    "abstract": null
+  },
+  {
+    "paper_id": "732017cfa9ea356c8538b9c4d2ccf5afa349fe6d",
+    "title": "Discounted quotas",
+    "year": 2016,
+    "author_ids": [
+      "144047191"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 22,
+    "abstract": null
+  },
+  {
+    "paper_id": "f2047d7fa2f2c0f0def21684c6ba7c09f2581f16",
+    "title": "Delegating Multiple Decisions",
+    "year": 2016,
+    "author_ids": [
+      "144047191"
+    ],
+    "venue": null,
+    "citation_count": 29,
+    "abstract": null
+  },
+  {
+    "paper_id": "794196548a597f86d5051530c02414411805b1ef",
+    "title": "What Kind of Transparency ? \u2217",
+    "year": 2015,
+    "author_ids": [
+      "144047191",
+      "3024016"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "996a8da7f30fe02884c924b351a2714b0d0eb759",
+    "title": "Suspense and Surprise",
+    "year": 2015,
+    "author_ids": [
+      "2281491",
+      "144047191",
+      "2968902"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 310,
+    "abstract": null
+  }
+]

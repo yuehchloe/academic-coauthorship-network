@@ -1,0 +1,255 @@
+[
+  {
+    "paper_id": "442f9f07340a6a0d2686ffda3608c724d8826528",
+    "title": "The Influence of Sea-ice Parameterizations on the Modelling of Snowball Earth Initiation",
+    "year": 2020,
+    "author_ids": [
+      "145949712",
+      "34547769"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "737725674fb24e1e76503d0e90462422249f0a09",
+    "title": "Subtropical clouds stabilize near-Snowball Earth states",
+    "year": 2020,
+    "author_ids": [
+      "152705635",
+      "4537382",
+      "145949712",
+      "34547769"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "Here, we study a deep-time extreme climate of Earth as an example of the cold limit of the habitable zone. Geological evidence indicates near-global ice cover during the Neoproterozoic (1000 \u2013 541 Million years ago) associated with considerable hysteresis of atmospheric CO 2 . The Snowball Earth hypothesis provides a straightforward interpretation of Neoproterozoic proxies based on a runaway of the sea-ice albedo feedback. However, the Snowball Earth hypothesis relies on the existence of local habitats to explain the survival of photosynthetic marine species on an entirely ice-covered planet. The Jormungand hypothesis may resolve this issue by considering a weakening of the sea-ice albedo feedback by exposure of dark bare sea ice when sea ice enters the subtropics. This potentially allows the Earth system to stabilize in a climate state the Jormungand state with near-global ice cover. Around the equator, a narrow strip of ocean remains ice-free, where life would have easily survived during the pan-glaciations."
+  },
+  {
+    "paper_id": "f21851fcec0d29a3f0bc7e352bbe70ced65f6c14",
+    "title": "Dynamic Allocation without Money",
+    "year": 2020,
+    "author_ids": [
+      "118909802",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 28,
+    "abstract": null
+  },
+  {
+    "paper_id": "81b1a4db7be77efb92cc858a582d43552465ca85",
+    "title": "Overcoming Free-Riding in Bandit Games",
+    "year": 2019,
+    "author_ids": [
+      "145949712",
+      "1998772",
+      "145194676"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 9,
+    "abstract": "This paper considers a class of experimentation games with L\\'{e}vy bandits encompassing those of Bolton and Harris (1999) and Keller, Rady and Cripps (2005). Its main result is that efficient (perfect Bayesian) equilibria exist whenever players' payoffs have a diffusion component. Hence, the trade-offs emphasized in the literature do not rely on the intrinsic nature of bandit models but on the commonly adopted solution concept (MPE). This is not an artifact of continuous time: we prove that such equilibria arise as limits of equilibria in the discrete-time game. Furthermore, it suffices to relax the solution concept to strongly symmetric equilibrium."
+  },
+  {
+    "paper_id": "1ce10eb19b34805659e4fcb90bc5d308e118d5ea",
+    "title": "Report of the Editor: American Economic Journal: Microeconomics",
+    "year": 2018,
+    "author_ids": [
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "31767d77a0ba3fce5ca62757edb8650c3c062901",
+    "title": "Dynamic Reduced Form Allocations",
+    "year": 2018,
+    "author_ids": [
+      "145949712",
+      "2440316"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "55f68a77d6d2fb752997bb40b75edf08e2a0276f",
+    "title": "Recommender Systems as Mechanisms for Social Learning",
+    "year": 2018,
+    "author_ids": [
+      "143947522",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 138,
+    "abstract": null
+  },
+  {
+    "paper_id": "7e3d12fdfb721c8b5b9ed52bf04876eec77e2f82",
+    "title": "Should First-Price Auctions Be Transparent?",
+    "year": 2018,
+    "author_ids": [
+      "2616138",
+      "145949712"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 24,
+    "abstract": "We investigate the role of market transparency in repeated first-price auctions. We consider a setting with independent private and persistent values. We analyze three distinct disclosure regimes regarding the bid and award history. In the minimal disclosure regime, each bidder only learns privately whether he won or lost the auction. In equilibrium, the allocation is efficient, and the minimal disclosure regime does not give rise to pooling equilibria. In contrast, in disclosure settings where either all or only the winner\u2019s bids are public, an inefficient pooling equilibrium with low revenues exists. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "1032908d444a6f8290e37b987c3586d213883d70",
+    "title": "Learning to disagree in a game of experimentation",
+    "year": 2017,
+    "author_ids": [
+      "10689883",
+      "145949712"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 35,
+    "abstract": null
+  },
+  {
+    "paper_id": "70108dfd5298fac11df78c34d2d6e74404b6a13a",
+    "title": "Learning, Experimentation, and Information Design",
+    "year": 2017,
+    "author_ids": [
+      "145949712",
+      "1703390"
+    ],
+    "venue": null,
+    "citation_count": 68,
+    "abstract": null
+  },
+  {
+    "paper_id": "818892f562b13c2eca7f837373a2b899b5ee5af3",
+    "title": "Career Concerns with Exponential Learning",
+    "year": 2017,
+    "author_ids": [
+      "10689883",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 54,
+    "abstract": "This paper analyzes the impact of market structure on career concerns. Effort increases the probability that a skilled agent achieves a one-time breakthrough. Wages are based on assessed ability and on expected output. For any wage, the agent works too little, too late. Under short-term contracts, effort and wages are single-peaked with seniority, due to the strategic substitutability of effort levels at different times. Both delay and underprovision of effort worsen if effort is observable. Commitment to wages by competing firms mitigates these inefficiencies. In that case, the optimal contract features piecewise constant wages and severance pay."
+  },
+  {
+    "paper_id": "966933d860ebb25643052767fa07ef6a0cc98891",
+    "title": "Recommender Systems as Incentives for Social Learning Supplementary Material",
+    "year": 2017,
+    "author_ids": [
+      "143947522",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "a53b0734c351270d000958e7ca5df3bddf1c7130",
+    "title": "Straight talk: Nurse manager role stress.",
+    "year": 2017,
+    "author_ids": [
+      "2118048154",
+      "2061409",
+      "145949712",
+      "143893788"
+    ],
+    "venue": "Nursing management",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "af31410c221b7e17f17b81646939467c1f83890e",
+    "title": "Belief-free Price Formation \u2217",
+    "year": 2017,
+    "author_ids": [
+      "145949712",
+      "2919557",
+      "2452889"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "d7e7559caaea1400c746d726101a5d22ee485d67",
+    "title": "C Proofs for the Results from Section 5 C . 1 Proof of Lemma 1",
+    "year": 2017,
+    "author_ids": [
+      "143947522",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4cf018d32dee109c454724febe6a4d116cf4ceee",
+    "title": "E cient Multi-unit Auctions for Normal Goods",
+    "year": 2016,
+    "author_ids": [
+      "3480241",
+      "2616138",
+      "1724595",
+      "3192952",
+      "145949712",
+      "108714804"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "535ebce0a8170aa3aca64a32b07f40aec29f5e22",
+    "title": "Green Bandits - preliminary version \u2217",
+    "year": 2016,
+    "author_ids": [
+      "108410124",
+      "74873145",
+      "2295944",
+      "145949712",
+      "103512145",
+      "2944039"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e978fc1bc32cca4de12f1bc30594d324c69123f1",
+    "title": "How fast do equilibrium payoff sets converge in repeated games?",
+    "year": 2016,
+    "author_ids": [
+      "145949712",
+      "2110673529"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "284d86e67a97d5e3a943333294efa52f58114b20",
+    "title": "Dynamic Mechanisms without Money \u2217 Comments welcome.",
+    "year": 2015,
+    "author_ids": [
+      "118909802",
+      "145949712"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "bc5e5d7fe961935adfcf342eae9e45e63d42727f",
+    "title": "Dynamic moral hazard without commitment",
+    "year": 2015,
+    "author_ids": [
+      "145949712",
+      "2108084"
+    ],
+    "venue": "International Journal of Game Theory",
+    "citation_count": 4,
+    "abstract": null
+  }
+]

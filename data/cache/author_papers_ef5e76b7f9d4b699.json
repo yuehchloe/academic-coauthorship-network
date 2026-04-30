@@ -1,0 +1,262 @@
+[
+  {
+    "paper_id": "ed79b8f2bab3b6784c1f8ca02e58eb5bff245c39",
+    "title": "Centrality Determination in Heavy-Ion Collisions Based on Monte-Carlo Sampling of Spectator Fragments",
+    "year": 2023,
+    "author_ids": [
+      "11384921"
+    ],
+    "venue": "Particles",
+    "citation_count": 50,
+    "abstract": "The size and evolution of the matter created in a relativistic heavy-ion collision strongly depend on collision geometry, defined by centrality. Experimentally the centrality of collisions can be characterized by the measured multiplicities of the produced particles at midrapidity or by the energy measured in the forward rapidity region, which is sensitive to the spectator fragments. This serves as a proxy for the true collision centrality, as defined by the impact parameter in the models of collisions. In this work, the procedure for centrality determination based on Monte-Carlo sampling of spectator fragments has been proposed. The validity of the procedure has been checked using the fully reconstructed DCM-QGSM-SMM model events and published data from the NA61/SHINE experiment."
+  },
+  {
+    "paper_id": "46815b2ad14891754de2b0f8afbc7b0f3fc14e28",
+    "title": "Personalized Information Aggregation and Polarization",
+    "year": 2022,
+    "author_ids": [
+      "1740525845",
+      "49779582",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ec17791a9802531ccb0b5195cae1807ad3e89137",
+    "title": "The Politics of Personalized Information Aggregation",
+    "year": 2022,
+    "author_ids": [
+      "1740525845",
+      "49779582",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "75eef55b380de5f780efd5e12c0ba4179c32eef6",
+    "title": "NBER WORKING PAPER SERIES EQUILIBRIUM EFFECTS OF PAY TRANSPARENCY",
+    "year": 2021,
+    "author_ids": [
+      "2273809009",
+      "1414112402",
+      "1741215386",
+      "2261156334",
+      "2117346885",
+      "104356423",
+      "145861452",
+      "66446045",
+      "52436046",
+      "3222806",
+      "3435272",
+      "39040466",
+      "118685270",
+      "32867808",
+      "2467114",
+      "1793292",
+      "46880738",
+      "3278308",
+      "117871022",
+      "120533130",
+      "2201823401",
+      "48548583",
+      "2853085",
+      "1414413396",
+      "3098101",
+      "11384921",
+      "143649975",
+      "2061221814",
+      "144839327",
+      "88299747",
+      "1836323",
+      "1937314"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1007d0e30ed6ad1c959257032e6cd0b10a4475c0",
+    "title": "Electoral Accountability and Selection with Personalized News Aggregation",
+    "year": 2020,
+    "author_ids": [
+      "49779582",
+      "1740525845",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "3da46761f6431d03296f3a7498d25e1ca5975662",
+    "title": "Clock Auctions and Radio Spectrum Reallocation",
+    "year": 2020,
+    "author_ids": [
+      "48548583",
+      "11384921"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 79,
+    "abstract": "We study the class of multiround, multiproduct clock procurement auctions that reduce offered prices at each round. When prices stop declining, the remaining bidders become the winning sellers. For single-minded bidders, each such auction has five properties not shared by Vickrey auctions: each is obviously strategy-proof and group-strategy-proof, sets prices that are Nash equilibrium winning bids in the related first-price auction, preserves winner privacy about values, and can be extended to satisfy a budget constraint. In simulations of the US incentive auction, a heuristic clock auction from this class achieves quick computations, high efficiency, and low prices."
+  },
+  {
+    "paper_id": "82fafc83cd7cd46dd58a34a73f849db6145acde5",
+    "title": "Incentive Auction Design Alternatives: A Simulation Study",
+    "year": 2020,
+    "author_ids": [
+      "32024946",
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 6,
+    "abstract": "Over 13 months in 2016-17 the US Federal Communications Commission (FCC) conducted an \"incentive auction\" to repurpose radio spectrum from broadcast television to wireless internet. The result of the auction was to remove 14 UHF-TV channels from broadcast use, sell 70 MHz of wireless internet licenses for $19.8 billion, and create 14 MHz of spectrum for unlicensed uses. With fewer UHF channels remaining for TV broadcast, the TV spectrum was also reorganized. Each station was either \"repacked\" in the leftover channels or voluntarily sold its broadcast rights, either going off the air or switching to a different band. The volunteers received a total of $10.05 billion to yield or exchange their rights and make repacking possible. This paper uses a computational lens to revisit part of the incentive auction design: the descending clock \"reverse\" auction used to procure broadcast rights. We investigated the quantitative significance of various aspects of the design by running extensive simulations, leveraging a reverse auction simulator and realistic models of bidder values. Because the incentive auction design was both novel and extremely complex [1], it was not possible to thoroughly consider every potential design variation before the auction was run. Our goal is to understand how well the auction design performed after the fact, particularly asking which elements of the design were most important and which variations of the design might have led to even better outcomes."
+  },
+  {
+    "paper_id": "022373063352c49df00e06be9123c35b09b65e56",
+    "title": "The Politics of Personalized News Aggregation",
+    "year": 2019,
+    "author_ids": [
+      "1740525845",
+      "49779582",
+      "11384921"
+    ],
+    "venue": "Journal of Political Economy Microeconomics",
+    "citation_count": 9,
+    "abstract": "We study how personalized news aggregation for rationally inattentive voters (NARI) affects policy polarization. In a two-candidate electoral competition model, an attention-maximizing infomediary aggregates source data about candidates\u2019 valence into easy-to-digest news. Voters decide whether to consume news, trading off the expected gain from improved expressive voting against the attention cost. NARI generates policy polarization even if candidates are office motivated. Personalized news aggregation makes extreme voters the disciplining entity of policy polarization. The skewness of their signals helps sustain a high degree of policy polarization in equilibrium. Analysis of disciplining voters informs the equilibrium and welfare consequences of regulating infomediaries."
+  },
+  {
+    "paper_id": "8fb7e80b378472b60428908c37b3917f007b05a3",
+    "title": "The Politics of News Personalization",
+    "year": 2019,
+    "author_ids": [
+      "1740525845",
+      "49779582",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "c4d7b649700a14c54e4ae41f453c59deacfbb1ff",
+    "title": "Operations Research Enables Auction to Repurpose Television Spectrum for Next-Generation Wireless Technologies",
+    "year": 2019,
+    "author_ids": [
+      "112935544",
+      "90728168",
+      "89781625",
+      "118162511",
+      "2072210504",
+      "1450783708",
+      "144972606",
+      "2111295142",
+      "1475576592",
+      "116299720",
+      "2107249019",
+      "2075625346",
+      "1834417",
+      "11384921",
+      "1388404060",
+      "32024946",
+      "1838739",
+      "2822860",
+      "96045892"
+    ],
+    "venue": "INFORMS J. Appl. Anal.",
+    "citation_count": 11,
+    "abstract": "The authors describe a market-based two-stage auction that the FCC, with assistance from researchers from universities and consulting firms, developed. The two-sided auction repurposed 84 MHz of sp..."
+  },
+  {
+    "paper_id": "c0bb31be8f8aced9e7456bb58de34dac823f8866",
+    "title": "Appendix to \u201c Robustly Optimal Auctions with Unknown Resale Opportunities \u201d \u2217",
+    "year": 2018,
+    "author_ids": [
+      "33001528",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "44f5ce1195d89016fc21afcff29027d2b7072db5",
+    "title": "Designing the US Incentive Auction",
+    "year": 2017,
+    "author_ids": [
+      "48548583",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 21,
+    "abstract": null
+  },
+  {
+    "paper_id": "74219d2c215468109762e5ab733644064db2ac8b",
+    "title": "Editorial from the New TEAC Co-Editors-in-Chief",
+    "year": 2017,
+    "author_ids": [
+      "1766638",
+      "11384921"
+    ],
+    "venue": "TEAC",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8461a6401f62d10f278bbb2e88babb01bb025117",
+    "title": "Assessing Economic Outcomes in Simulated Reverse Clock Auctions for Radio Spectrum",
+    "year": 2017,
+    "author_ids": [
+      "32024946",
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 8,
+    "abstract": "We investigate the economic outcomes that result under simulated bidder behavior in a model of the FCC's reverse auction for radio spectrum. In our simulations, limiting our notion of efficiency to the reverse auction in isolation, the reverse clock auction achieves very efficient solutions, the FCC's scoring rule greatly reduces the total payments to TV broadcasters at the cost of some efficiency, and using a poor feasibility checker can have grave consequences both in terms of the auction's cost and efficiency."
+  },
+  {
+    "paper_id": "b3a39d4cad599884fec3dc40356cc99064dbd9d7",
+    "title": "Deferred-Acceptance Clock Auctions and Radio Spectrum Reallocation\u2217",
+    "year": 2017,
+    "author_ids": [
+      "48548583",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "cb18db2e844cef58bb90442b3eac02754d817841",
+    "title": "Economics and computer science of a radio spectrum reallocation",
+    "year": 2017,
+    "author_ids": [
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 82,
+    "abstract": null
+  },
+  {
+    "paper_id": "5f20dd852fb9360b922ade545830ec23a057fb31",
+    "title": "Property Rights And The Efficiency Of Bargaining",
+    "year": 2016,
+    "author_ids": [
+      "11384921",
+      "4675452"
+    ],
+    "venue": null,
+    "citation_count": 32,
+    "abstract": null
+  }
+]

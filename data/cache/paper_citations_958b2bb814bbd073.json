@@ -1,0 +1,1294 @@
+[
+  {
+    "paper_id": "3a0b8952ff12c38931194b9de43502746ff75596",
+    "title": "Regulating a Monopolist without Subsidy",
+    "year": 2025,
+    "author_ids": [
+      "2355359203",
+      "2090810393"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study monopoly regulation under asymmetric information about costs when subsidies are infeasible. A monopolist with privately known marginal cost serves a single product market and sets a price. The regulator maximizes a weighted welfare function using unit taxes as sole policy instrument. We identify a sufficient and necessary condition for when laissez-faire is optimal. When intervention is desired, we provide simple sufficient conditions under which the optimal policy is a progressive price cap: prices below a benchmark face no tax, while higher prices are taxed at increasing and potentially prohibitive rates. This policy combines delegation at low prices with taxation at high prices, balancing access, affordability, and profitability. Our results clarify when taxes act as complements to subsidies and when they serve only as imperfect substitutes, illuminating how feasible policy instruments shape optimal regulatory design."
+  },
+  {
+    "paper_id": "aca0b71fdb659a99e1ba6307e40512e975365e8c",
+    "title": "Robust Welfare under Imperfect Competition",
+    "year": 2025,
+    "author_ids": [
+      "120196081",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study welfare analysis for policy changes when supply and demand behavior are only partially known. We augment the robust approach pioneered by Kang and Vasserman (2025) by incorporating the supply side. We posit intervals of feasible pass-through and conduct (market-power) parameters, then apply them to two equilibrium snapshots to characterize the extremal supply-side terms entering welfare. We show that the supply-side bounds are attained by inverse pass-through functions that take only the two endpoint values of the specified interval, separated by a single price cutoff. Combining these supply-side extrema with demand-side shape restrictions, we produce simple bounds for consumer surplus, producer surplus, total surplus, and deadweight loss."
+  },
+  {
+    "paper_id": "d87bf73161296784f6d895236626e0448fb32463",
+    "title": "Persuasion without ex-post commitment",
+    "year": 2025,
+    "author_ids": [
+      "2374594496",
+      "2105580013"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "a06d534fe5bfd9aba10d057d5dba775c56466225",
+    "title": "Delegated Contracting",
+    "year": 2025,
+    "author_ids": [
+      "2145245429",
+      "2377559313",
+      "2051249157"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "A principal seeks to contract with an agent but must do so through an informed delegate. Although the principal cannot directly mediate the interaction, she can constrain the menus of contracts the delegate may offer. We show that the principal can implement any outcome that is implementable through a direct mechanism satisfying dominant strategy incentive compatibility and ex-post participation for the agent. We apply this result to several settings. First, we show that a government that delegates procurement to a budget-indulgent agency should delegate an interval of screening contracts. Second, we show that a seller can delegate sales to an intermediary without revenue loss, provided she can commit to a return policy. Third, in contrast to centralized mechanism design, we demonstrate that no partnership can be efficiently dissolved in the absence of a mediator. Finally, we discuss when delegated contracting obstructs efficiency, and when choosing the right delegate may help restore it."
+  },
+  {
+    "paper_id": "5a3a1615b48411c5b0d2363e7e1f5f624d354a78",
+    "title": "Explainable Information Design",
+    "year": 2025,
+    "author_ids": [
+      "2259978210",
+      "2256772893",
+      "2347875632",
+      "1416518457"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 2,
+    "abstract": "Optimal signaling schemes in information design (Bayesian persuasion) often involve randomization or disconnected partitions of state space, which might be too intricate to be audited or communicated. We propose explainable information design in the context of linear information design with a continuous state space. In the case of single-dimensional state, we restrict the information designer to use $K$-partitional signaling schemes defined by deterministic and monotone partitions of the state space, where a unique signal is sent for all states in each part. We prove that the price of explainability (PoE) -- the ratio between the performances of the optimal explainable signaling scheme and unrestricted signaling scheme -- is exactly $1/2$ in the worst case, meaning that partitional signaling schemes are never worse than arbitrary signaling schemes by a factor of $2$. For a uniform prior, this PoE can be improved to a tight $2/3$. We then extend the analysis to multi-dimensional state spaces by studying two natural explainability notions: convex-partitional policies and axis-aligned rectangular policies. For convex-partitional policies, we prove a tight PoE of $1/(m+1)$, while for rectangular policies we establish a PoE guarantee under uniform prior that is independent of $K$ but unavoidably exponential in $m$. On the computational side, we prove that the exact optimization of explainable policy is NP-hard in general, but provide efficient approximation methods, including an FPTAS for Lipschitz utility functions and a polynomial-time algorithm that achieves the worst-case $1/2$ benchmark for the broad class of discontinuous, piecewise Lipschitz, utility functions."
+  },
+  {
+    "paper_id": "f7e5a88b84bd9abdc4dfcac394b3e81269c9acda",
+    "title": "Extreme Equilibria: the Benefits of Correlation",
+    "year": 2025,
+    "author_ids": [
+      "134266177",
+      "2369944478",
+      "2846044"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "We study whether a given Nash equilibrium can be improved within the set of correlated equilibria for arbitrary objectives. Our main contribution is a sharp characterization: in a generic game, a Nash equilibrium is an extreme point of the set of correlated equilibria if and only if at most two agents randomize. Consequently, any sufficiently mixed Nash equilibrium involving at least three randomizing agents can always be improved by correlating actions or switching to a less random equilibrium, regardless of the underlying objective. We show that even if one focuses on objectives that depend on payoffs, excess randomness in equilibrium implies improvability. We extend our analysis to symmetric games and coarse correlated equilibria, revealing a fundamental tension between the randomness in Nash equilibria and their optimality. Full version: https://www.lyariv.com/papers/ExtremeEquilibria.pdf."
+  },
+  {
+    "paper_id": "55da24c4b71dec28b89467b8fdf8b330150f5b42",
+    "title": "The exact region and an inequality between Chatterjee's and Spearman's rank correlations",
+    "year": 2025,
+    "author_ids": [
+      "2261742215",
+      "2261742959"
+    ],
+    "venue": "Journal of Multivariate Analysis",
+    "citation_count": 5,
+    "abstract": "The rank correlation \\xi(X,Y), recently established by Sourav Chatterjee and already popular in the statistics literature, takes values in [0,1], where 0 characterizes independence of X and Y, and 1 characterizes perfect dependence of Y on X. Unlike concordance measures such as Spearman's \\rho, which capture the degree of positive or negative dependence, \\xi quantifies the strength of functional dependence. In this paper, we study the attainable set of pairs (\\xi(X,Y),\\rho(X,Y)). The resulting {\\xi}-\\r{ho}-region is a convex set whose boundary is characterized by a novel family of absolutely continuous, asymmetric copulas having a diagonal band structure. Moreover, we prove that \\xi(X,Y)\\leq|\\rho}(X,Y)| whenever Y is stochastically increasing or decreasing in X, and we identify the maximal difference \\rho(X,Y)-\\xi(X,Y) as exactly 0.4. Our proofs rely on a convex optimization problem under various equality and inequality constraints, as well as on ordering properties for \\xi and \\rho. Our results contribute to a better understanding of Chatterjee's rank correlation, which typically yields substantially smaller values than Spearman's \\rho when quantifying positive dependencies. In particular, when interpreting the values of Chatterjee's rank correlation on the scale of \\rho, the quantity \\sqrt{\\xi} appears to be more appropriate."
+  },
+  {
+    "paper_id": "f368e70423db3a528fa160695379578d92e94f3c",
+    "title": "Optimal Procurement Design: A Reduced-Form Approach",
+    "year": 2025,
+    "author_ids": [
+      "2253039902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Standard procurement models assume that the buyer knows the quality of the good at the time of procurement; however, in many settings, the quality is learned only long after the transaction. We study procurement problems in which the buyer's valuation of the supplied good depends directly on its quality, which is unverifiable and unobservable to the buyer. For a broad class of procurement problems, we identify procurement mechanisms maximizing any weighted average of the buyer's expected payoff and social surplus. The optimal mechanism can be implemented via an auction that restricts sellers to submitting bids within specific intervals."
+  },
+  {
+    "paper_id": "e35da7d26c464d32ca48e79735077b94780b9a33",
+    "title": "\"Sherlocking\" and Platform Information Policy",
+    "year": 2025,
+    "author_ids": [
+      "2268564915",
+      "2268722261",
+      "2268589196"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 1,
+    "abstract": "Platform-run marketplaces may exploit third-party sellers\u2019 data to develop competing products, but the threat of future competition can deter sellers\u2019 entry. We explore how this trade-off affects the platform\u2019s entry on the marketplace and the referral fee it charges to the third-party sellers. We first characterize the platform\u2019s optimal fee under different degrees of commitment on its own entry policy. We show that full commitment maximizes not only the platform\u2019s payoff but also consumer surplus, as the associated fee induces maximal entry by the sellers. Next, we show how and when the platform\u2019s policy on information sharing between its marketplace and product divisions can substitute for its commitment to entry. We characterize the platform\u2019s optimal information policy and examine how it interacts with the platform\u2019s fee structure. We show that an outright ban on information sharing between the platform\u2019s divisions can reduce consumer welfare as it may lead to a higher referral fee that thwarts sellers\u2019 entry. Our findings highlight the importance of considering the platform\u2019s fee structure as a strategic response in the policy debates on marketplace regulation. This paper was accepted by Alfonso Gambardella, business strategy. Funding: J. P. Choi is supported by the Ministry of Education of the Republic of Korea and the National Research Foundation of Korea [Grant NRF-2023S1A5A2A01074511]. K. Kim is supported by the Ministry of Education of the Republic of Korea and the National Research Foundation of Korea [Grant NRF-2020S1A5A2A03043516]."
+  },
+  {
+    "paper_id": "c431fcb7a0643cb300377ea44391891785ea193b",
+    "title": "Philipp Strack, 2024 Clark Medalist",
+    "year": 2025,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": "Journal of Economic Perspectives",
+    "citation_count": 0,
+    "abstract": "The 2024 John Bates Clark Medal of the American Economic Association was awarded to Philipp Strack, Professor of Economics at Yale University, for his pathbreaking contributions to the study of individual decision making, which have introduced new techniques, improved our understanding of important economic phenomena, and helped spark a new wave of research on the economics of information while building bridges between modern economic theory and a wide range of adjacent disciplines. This article summarizes some of Philipp\u2019s papers, and explains how they build on and improve previous work."
+  },
+  {
+    "paper_id": "2846f0abce1428f9b6f41ed8c1af238ac44140cc",
+    "title": "How to Segment a Search Market: Information Design and Directed Search",
+    "year": 2025,
+    "author_ids": [
+      "2341331421"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper examines when the public provision of information in search markets improves welfare. I consider a two-sided frictional search market in which buyers match with vertically differentiated sellers. The market is segmented into submarkets based on seller types. Such segmentation serves as a public signal that buyers use to direct their search. Given a segmentation, I characterize both the socially efficient and the equilibrium allocation of buyers across submarkets, and identify a Hosios-type condition under which the equilibrium allocation is efficient. I then analyze the design of surplus-maximizing segmentations, showing that the nature of search externalities determines when the constrained-efficient segmentation fully separates seller types or pools them into at most a binary partition."
+  },
+  {
+    "paper_id": "a687c5fbce10126f028a95c43a2e7fedce6f0b61",
+    "title": "On Monotone Persuasion",
+    "year": 2024,
+    "author_ids": [
+      "1729345",
+      "2300683689",
+      "2327659787"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "We study monotone persuasion in the linear case, where posterior distributions over states are summarized by their mean. We develop a novel methodological approach to solve the two leading cases where optimal unrestricted signals can be nonmonotone. First, if the objective is s-shaped and the state is discrete, then optimal monotone signals are upper censorship, whereas optimal unrestricted signals may require randomization. Second, if the objective is m-shaped and the state is continuous, then optimal monotone signals are interval disclosure, whereas optimal unrestricted signals may require nonmonotone pooling. Unlike with unrestricted persuasion, the value of monotone persuasion can decrease with the informativeness of the prior. We illustrate our results with an application to media censorship. The full paper is available at https://arxiv.org/abs/2412.14400."
+  },
+  {
+    "paper_id": "6298fdda48732c3c764bb4a48161117667f76b79",
+    "title": "Entropy-Regularized Optimal Transport in Information Design",
+    "year": 2024,
+    "author_ids": [
+      "113235702",
+      "34732812",
+      "2488559",
+      "2065842835",
+      "2272509678"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "In this paper, we explore a scenario where a sender provides an information policy and a receiver, upon observing a realization of this policy, decides whether to take a particular action, such as making a purchase. The sender's objective is to maximize her utility derived from the receiver's action, and she achieves this by careful selection of the information policy. Building on the work of Kleiner et al., our focus lies specifically on information policies that are associated with power diagram partitions of the underlying domain. To address this problem, we employ entropy-regularized optimal transport, which enables us to develop an efficient algorithm for finding the optimal solution. We present experimental numerical results that highlight the qualitative properties of the optimal configurations, providing valuable insights into their structure. Furthermore, we extend our numerical investigation to derive optimal information policies for monopolists dealing with multiple products, where the sender discloses information about product qualities."
+  },
+  {
+    "paper_id": "2826d7e61fa44659411412376de1536b461c83fe",
+    "title": "Marginal Reputation",
+    "year": 2024,
+    "author_ids": [
+      "2332717436",
+      "1818256"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 2,
+    "abstract": "\n We study reputation formation where a long\u2010run player repeatedly observes private signals and takes actions. Short\u2010run players observe the long\u2010run player's past actions but not her past signals. The long\u2010run player can thus develop a reputation for playing a distribution over actions, but not necessarily for playing a particular mapping from signals to actions. Nonetheless, we show that the long\u2010run player can secure her Stackelberg payoff if distinct commitment types are statistically distinguishable and the Stackelberg strategy is\n confound\u2010defeating\n . This property holds if and only if the Stackelberg strategy is the unique solution to an optimal transport problem. If the long\u2010run player's payoff is supermodular in one\u2010dimensional signals and actions, she secures the Stackelberg payoff if and only if the Stackelberg strategy is monotone. Applications include deterrence, delegation, signaling, and persuasion. Our results extend to the case where distinct commitment types may be indistinguishable, but the Stackelberg type is\n salient\n under the prior.\n"
+  },
+  {
+    "paper_id": "e0f1a14a2e45598e113af6c1958f6230508cfaea",
+    "title": "Allocating Positional Goods: A Mechanism Design Approach",
+    "year": 2024,
+    "author_ids": [
+      "2330189563"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "Positional goods are goods or services whose value to consumers depends on their relative positions in consumption. Examples include luxury goods, priority services, education, and organizational hierarchies. The allocation of positional goods has externalities on consumers, as moving up the position of one consumer would push down that of another. At the same time, when more consumers buy the same good or service, its value depreciates due to more extensive use. Using a mechanism design approach, I study the optimal allocation of positional goods in the presence of positional externalities. I characterize the externalities by a feasibility condition: an incentive-compatible status allocation is feasible (i.e., can be induced by an allocation of positional goods) if and only if it is weakly majorized by the probability distribution of the buyer's type in the quantile space. My first set of results focuses on revenue maximization. If the buyer's type distribution satisfies Myerson's regularity condition, the optimal mechanism excludes buyers with negative marginal revenue and fully separates the participants. If Myerson's regularity condition fails for some types, the optimal mechanism pools them into the same level of positional goods. Importantly, the seller can guarantee at least half the maximum revenue by selling a single level of positional goods. I then study how the number of positional good levels and exclusion affect consumer welfare. Holding the exclusion level fixed, the consumer surplus is higher when the seller offers more positional good levels if the buyer's type distribution has an increasing failure rate (IFR). This result highlights the tension between the seller's revenue and consumer welfare. By contrast, if the type distribution has a decreasing failure rate, the consumer surplus is higher when the seller offers fewer positional good levels. Furthermore, under IFR, expanding consumer participation increases the consumer surplus, as the marginal gain of additional participants exceeds the inframarginal loss of the existing participants from reduced status due to pooling. My findings also have implications for education and organizational hierarchies, where agents invest effort to attain higher status. If the ability distribution satisfies IFR, total pooling without exclusion, such as admission lotteries, maximizes agent welfare. In contrast, if the ability distribution has a decreasing failure rate (or a heavy tail), full separation without exclusion, or meritocratic allocation, is optimal for agent welfare. The full paper is available at: https://arxiv.org/abs/2411.06285."
+  },
+  {
+    "paper_id": "3f1fb89e7f6da19049903cdc32300567bfee3c56",
+    "title": "The Extreme Points of Fusions",
+    "year": 2024,
+    "author_ids": [
+      "34732812",
+      "2488559",
+      "2272509678",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "Our work explores fusions, the multidimensional counterparts of mean-preserving contractions and their extreme and exposed points. We reveal an elegant geometric/combinatorial structure for these objects. Of particular note is the connection between Lipschitz-exposed points (measures that are unique optimizers of Lipschitz-continuous objectives) and power diagrams, which are divisions of a space into convex polyhedral ``cells'' according to a weighted proximity criterion. These objects are frequently seen in nature--in cell structures in biological systems, crystal and plant growth patterns, and territorial division in animal habitats--and, as we show, provide the essential structure of Lipschitz-exposed fusions. We apply our results to several questions concerning categorization."
+  },
+  {
+    "paper_id": "05b52b949a290fa504fa1baf9cc555d37ece4629",
+    "title": "Persuading an inattentive and privately informed receiver",
+    "year": 2024,
+    "author_ids": [
+      "2410894952"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "This paper studies the persuasion of a receiver who accesses information only if she exerts costly attention effort. A sender designs an experiment to persuade the receiver to take a specific action. The experiment affects the receiver's attention effort, that is, the probability that she updates her beliefs. Persuasion has two margins: an extensive (effort) and an intensive (action). The receiver's utility exhibits a supermodularity property in information and effort. By leveraging this property, we establish an equivalence between experiments and persuasion mechanisms \\`a la Kolotilin et al.~(2017). In applications, the sender's optimal strategy involves censoring favorable states."
+  },
+  {
+    "paper_id": "410c38b963f3f1a3d1f0f740b4b2622314e6883f",
+    "title": "Diversity in Choice as Majorization",
+    "year": 2024,
+    "author_ids": [
+      "2312923201",
+      "90219925",
+      "2381023972",
+      "2317023562",
+      "144179270",
+      "2266783243"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "This paper introduces a novel framework for modeling diversity using the theory of majorization and applies it to school choice problems. We consider a school with limited capacity that must select students from an applicant pool, where each student is classified into types (e.g., by race, gender, or socioeconomic status). Within this setting, we ask: How should we compare the diversity of student groups? And what admissions procedure balance the school's goal of admitting students with the highest priority (e.g., academic merit, proximity to the school) and achieving a diverse student body? We formalize a notion of diversity by comparing how concentrated student type distributions are, using majorization to capture the idea that \"less concentrated\" means \"more diverse.\" Specifically, a student body A is more diverse than another equally-sized body B if A's type distribution is majorized by B's type distribution. However, such a notion of diversity based on standard majorization implicitly assumes that the uniform distribution is the ideal benchmark for diversity, which can be overly restrictive when the school wishes to match the composition of its student body to the population distribution in the relevant geographical community. To address this, we extend majorization theory to allow any target distribution as the benchmark, yielding a more flexible notion of diversity, which we term b-targeting diversity. We next turn to admissions procedures and make three main contributions. First, we propose three axioms for school choice rules: Nonwastefulness, Promotion of b-targeting diversity and b-targeting Schur-revealed preference. We prove that these axioms uniquely characterize the b-targeting Schur choice rule, which admits students greedily based on priority while respecting diversity constraints. Second, we show that the b-targeting Schur choice rule is optimal in the sense that any alternative rule either admits fewer students, a less diverse student body, or a student body with lower priority. Third, we establish that the b-targeting Schur choice rule is equivalent to a greedy algorithm that maximizes priority subject to a majorization constraint. This connection reveals a matroid structure underlying the problem, linking our work to combinatorial optimization. The full paper can be found at: https://arxiv.org/abs/2407.17589"
+  },
+  {
+    "paper_id": "a86fda5862d916dd72c0b0bc6f57109300e57087",
+    "title": "A mechanism-design approach to property rights",
+    "year": 2024,
+    "author_ids": [
+      "2273809038",
+      "2069649352"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "The assignment of property rights has important implications for both economic efficiency and the distribution of surplus within society. Consequently, there are trade-offs associated with the design of these rights. Awarding a full property right over an economic resource incentivizes the owner to make efficient investment decisions related to its use. However, when transaction costs are present, strong property rights may inhibit the future reallocation of economic resources to agents who can utilize them most efficiently. Moreover, the assignment of property rights may give rise to market power or conflict with society's distributive objectives. This raises a natural question: How should property rights be optimally designed? In this paper we focus on a specific channel through which property rights impact economic interactions: They give the holder the authority to unilaterally implement certain outcomes pertaining to an underlying economic resource, and thereby determine the holder's outside options in economic interactions. This simplified perspective allows us to use mechanism-design techniques to characterize optimal property rights. Our framework highlights the key trade-offs involved in the design of property rights by recasting this problem as a dynamic contracting problem between a designer, a principal and an agent. An agent makes an investment decision affecting her private valuation for an economic resource, and then participates in a trading mechanism chosen by a principal in a sequentially rational way, leading to a hold-up problem. A designer---who would like to incentivize efficient investment and whose preferences may differ from those of the principal---can endow the agent with a menu of rights that determine the agent's set of outside options in the interaction with the principal. By strengthening the agent's rights, the designer affects the agent's investment incentives as well as the principal's flexibility at the stage of choosing a trading mechanism. We characterize the optimal menu of rights for the agent as a function of the designer's and the principal's objectives, and the investment technology. Our main finding is that the optimal property right is relatively simple but more flexible than a full property right. In particular, the optimal menu requires at most two types of rights. One of the rights takes the form of an option-to-own. An option-to-own gives the agent the right to retain control over the resource conditional on paying a pre-specified price. The second type of right in the optimal menu is only required if the agent's cost of investing is sufficiently high and its form depends on whether the designer can make the agent's rights contingent on investment. If investment is observable (and contractible), then the second right takes the form of a cash payment for undertaking the investment. If investment is not observable (and hence non-contractible), then the second right takes the form of a partial property right that awards the agent control over a fraction of the resource (or, equivalently, gives the resource to the agent with some probability). Full paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637366"
+  },
+  {
+    "paper_id": "bdcc2ece3ccce6239f5b36b5e0ad366771755a58",
+    "title": "Non-Market Screening with Investment",
+    "year": 2024,
+    "author_ids": [
+      "2307473353",
+      "1405139922"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "Rewards such as prizes, labels, certifications, grants, market authorizations, positions or promotions are often allocated conditionally on a measured characteristic (or aggregate)---a score---resulting in an assortative matching of scores and rewards. In many contexts, it is natural to think of scores and rewards as complements in the designer's preferences, which rationalizes assortativity. This is the case, for example, when allocating productive resources, such as grants, to agents of heterogeneous productivity. Screening on scores, however, gives agents strong incentives to invest in the underlying characteristic, and also, possibly, to manipulate its measure. For instance, environmental certification may lead firms to engage in emissions abatement and greenwashing. We study how to optimally allocate rewards when: (i) the underlying characteristic and reward are complements, and (ii) agents can invest to enhance their score (and, to some extent, manipulate). Our main result is that, with bounded rewards that are freely available to the designer (or have a linear real or shadow price), it is optimal to use cutoff rules that promise the highest reward to agents with a score above threshold, and nothing otherwise. In particular, intermediary rewards and randomization are useless. While cutoff rules are clearly optimal without investment or manipulation, their robustness is somewhat surprising. Indeed, under complements, the designer benefits most from the investment of high-score agents, who get high rewards. However, cutoff rules inhibit investment at the top of the distribution, for agents above the threshold. Furthermore, cutoff rules are generally suboptimal under money burning [e.g., Kleiner et al., 2021, Proposition 4] or pure manipulation [Perez-Richet and Skreta, 2022]. Model. In our model, there is a unit mass of agents, each of whom is endowed with an initial type that corresponds to the score they would obtain without intervention. Agents can modify their score, or measured type, at an increasing and convex cost. The designer has access to rewards of bounded values that are available either freely, or at a linear (real or shadow) price. An agent's worth for the designer, which we may view as her true final characteristic, is strictly increasing in her measured type and weakly in her initial type. This specification captures both investment and manipulations. Under pure investment, an agent's worth is exactly her measured type. With both investment and manipulations, an agent's worth is a convex combination of her initial and measured types. We assume agents' and designer's preferences are all linear in reward value. In addition, agent worth and reward value are complements for the designer. At the outset, the designer commits to a score-based allocation rule, to which agents respond by choosing their score. Main Result. We show that it is optimal to allocate rewards using a cutoff rule that promises the highest reward to agents with a score above a threshold, and nothing below. In the paper, we provide general sufficient conditions on the cost and worth functions and on the type distribution for the result to hold. In this paragraph, to clarify the discussion, we assume a quadratic cost function, and a linear worth function. Our result then holds under two additional assumptions. First, the relative weight of the score in the worth function is sufficiently high, indicating that the investment channel is sufficiently strong relative to manipulations. Second, the type distribution has a decreasing density for types that may be induced to invest toward a positive worth, which we can interpret as saying that agents worth rewarding are in the upper tail of the distribution. Methodology. As in [Manelli and Vincent, 2007], we approach the designer's problem as one of functional optimization over the indirect utility of agents. In our problem, indirect utilities are c-convex functions (where c stands for the cost function). The theory of these functions plays an important role in optimal transport, and has been applied to optimal screening by [Carlier, 2001] and [Figalli et al., 2011]. Building on their work, we show that the set of feasible indirect utilities can be partitioned into compact and convex subsets. Using techniques from the calculus of variations, we find that the designer's objective is a convex functional of indirect utility. The Krein-Milman theorem and Bauer's maximum principle then imply that there is a solution to our problem that is an extreme point. We characterize the extreme points, and show that, in each subset of the partition, there is an extreme point corresponding to a cutoff rule that dominates all others. Discussion. While it might seem that the designer could benefit from a standard mechanism with communication [Myerson, 1982], a version of the taxation principle [see Perez-Richet and Skreta, 2024] implies that score-based rules are equivalent to standard mechanisms with deterministic investment recommendations. Furthermore, a condition on costs (including the quadratic case) ensures that stochastic recommendations are suboptimal. We also show that our main result is robust to the designer weighing in the welfare of agents, as long as all agents have a positive worth regardless of investment choice. The full paper is available at https://doi.org/10.48550/arXiv.2303.11805."
+  },
+  {
+    "paper_id": "eba162b3fa5fe91c27db4ec526cf3fa34875360e",
+    "title": "Calibrated Forecasting and Persuasion",
+    "year": 2024,
+    "author_ids": [
+      "73511712",
+      "3087994"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 5,
+    "abstract": "How should an expert send forecasts to maximize her utility subject to passing a calibration test? We consider a dynamic game where an expert sends probabilistic forecasts to a decision maker. The decision maker uses a calibration test based on past outcomes to verify the expert's forecasts. We characterize the optimal forecasting strategy by reducing the dynamic game to a static persuasion problem. A distribution of forecasts is implementable by a calibrated strategy if and only if it is a mean-preserving contraction of the distribution of conditionals (honest forecasts). We characterize the value of information by comparing what an informed and uninformed expert can attain. Moreover, we consider a decision maker who uses regret minimization, instead of the calibration test, to take actions. We show that the expert can always achieve the same payoff against a regret minimizer as under the calibration test, and in some instances, she can achieve strictly more. URL: https://atulya-jain.github.io/files/calibration.pdf"
+  },
+  {
+    "paper_id": "d1a8fc0f866fad9cd102b0dd52075ab2cea81ad3",
+    "title": "The geometry of consumer preference aggregation",
+    "year": 2024,
+    "author_ids": [
+      "2948341",
+      "3901380"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We revisit a classical question of how individual consumer preferences and incomes shape aggregate behavior. We develop a method that applies to populations with homothetic preferences and reduces the hard problem of aggregation to simply computing a weighted average in the space of logarithmic expenditure functions. We apply the method to identify aggregation-invariant preference domains, characterize aggregate preferences from common domains like linear or Leontief, and describe indecomposable preferences that do not correspond to the aggregate behavior of any non-trivial population. Applications include robust welfare analysis, information design, discrete choice models, pseudo-market mechanisms, and preference identification."
+  },
+  {
+    "paper_id": "e3a9cb8e6f2bf258fced11d9693a41a807243ce0",
+    "title": "Distributions of Posterior Quantiles via Matching",
+    "year": 2024,
+    "author_ids": [
+      "1729345",
+      "1818256"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "We offer a simple analysis of the problem of choosing a statistical experiment to optimize the induced distribution of posterior medians or, more generally, \n q\u2010quantiles for any \n q\u2009\u2208\u2009(0,1). We show that a single experiment\u2014the \n q\u2010quantile matching experiment\u2014implements all implementable distributions of posterior \n q\u2010quantiles, with different distributions spanned by different selections from the sets of posterior \n q\u2010quantiles. A dense subset of implementable distributions of posterior \n q\u2010quantiles can be uniquely implemented by perturbing the \n q\u2010quantile matching experiment. A linear functional is optimized over distributions of posterior \n q\u2010quantiles by taking the optimal selection from each set of posterior \n q\u2010quantiles. The \n q\u2010quantile matching experiment is the only experiment that simultaneously implements all implementable distributions of posterior \n q\u2010quantiles.\n"
+  },
+  {
+    "paper_id": "24180aa81da1407c14697a707c917948801899be",
+    "title": "Optimal Allocation via Waitlists: Simplicity through Information Design",
+    "year": 2024,
+    "author_ids": [
+      "1717971",
+      "1396810650",
+      "3139725"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "\n We study nonmonetary markets where objects that arrive over time are allocated to unit-demand agents with private types, such as in the allocation of public housing or deceased-donor organs. An agent\u2019s value for an object is supermodular in her type and the object quality, and her payoff is her value minus her waiting cost. The social planner's objective is a weighted sum of allocative efficiency (i.e., the sum of values) and welfare (i.e., the sum of payoffs). We identify optimal mechanisms in the class of direct-revelation mechanisms. When the social planner can design the information disclosed to the agents about the objects, the optimal mechanism has a simple implementation: a first-come first-served waitlist with deferrals. In this implementation, the object qualities are partitioned into intervals; only the interval containing the object quality is disclosed to agents. When the planner places a higher weight on welfare, optimal disclosure policies become coarser."
+  },
+  {
+    "paper_id": "24e5a20acd79a846c07d11d374449d0f109d92d3",
+    "title": "New Characterization of Blackwell's Order for Subsets of Information Structures",
+    "year": 2024,
+    "author_ids": [
+      "1412972729",
+      "102893678"
+    ],
+    "venue": "Economics Letters",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "ad9198408e425485d2f5e621f8d3f3c03ea9bc1b",
+    "title": "Information Design for Hybrid Work under Infectious Disease Transmission Risk",
+    "year": 2023,
+    "author_ids": [
+      "2112624204",
+      "2264679334",
+      "2066231840"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We study a planner's provision of information to manage workplace occupancy when strategic workers (agents) face risk of infectious disease transmission. The planner implements an information mechanism to signal information about the underlying risk of infection at the workplace. Agents update their belief over the risk parameter using this information and choose to work in-person or remotely. We address the design of the optimal signaling mechanism that best aligns the workplace occupancy with the planner's preference (i.e., maintaining safe capacity limits and operational efficiency at workplace). For various forms of planner preferences, we show numerical and analytical proof that interval-based information mechanisms are optimal. These mechanisms partition the continuous domain of the risk parameter into disjoint intervals and provision information based on interval-specific probability distributions over a finite set of signals. When the planner seeks to achieve an occupancy that lies in one of finitely many pre-specified ranges independent of the underlying risk, we provide an optimal mechanism that uses at most two intervals. On the other hand, when the preference on the occupancy is risk-dependent, we show that an approximately optimal interval-based mechanism can be computed efficiently. We bound the approximation loss for preferences that are expressed through a Lipschitz continuous function of both occupancy and risk parameter. We provide examples that demonstrate the improvement of proposed signaling mechanisms relative to the common benchmarks in information provision. Our findings suggest that information provision over the risk of disease transmission is an effective intervention for maintaining desirable occupancy levels at the workplace."
+  },
+  {
+    "paper_id": "85daef1ed1f0e43fab84f2bdd303825f879f4ebb",
+    "title": "Posterior-Mean Separable Costs of Information Acquisition",
+    "year": 2023,
+    "author_ids": [
+      "2266842201",
+      "2074264008"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "We analyze a problem of revealed preference given state-dependent stochastic choice data in which the payoff to a decision maker (DM) only depends on their beliefs about posterior means. Often, the DM must also learn about or pay attention to the state; in applied work on this subject, a convenient assumption is that the costs of such learning are linearly dependent in the distribution over posterior means: [EQUATION] where z0 is the prior mean, F is the distribution of posterior means z, and c : [0, 1] \u2192 \u211d. Our characterization via posterior-mean separable costs enables the use of well-known information design techniques to solve for the optimal choice of information. We provide testable conditions to identify whether this assumption holds. The first condition, \"No Improving Actions Switches,\" is standard in the literature of revealed preference from choices due to information, and states that the choices for the DM conditional on the DM's signal are optimal. The second condition, \"No Improving Posterior-Mean Cycles,\" which is novel to this paper, states that the DM cannot improve their average payoff by switching around posterior means between menus whenever the information constraints are the same. The full paper can be found at https://arxiv.org/pdf/2311.09496."
+  },
+  {
+    "paper_id": "b9cc820cce775c3d9bfa2e6f1bcf883f50d400e7",
+    "title": "Persuasion and Matching: Optimal Productive Transport",
+    "year": 2023,
+    "author_ids": [
+      "1729345",
+      "119159863",
+      "1818256"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 14,
+    "abstract": "We consider general Bayesian persuasion problems where the receiver's utility is single-peaked in a one-dimensional action. We show that a signal that pools at most two states in each realization is always optimal, and that such pairwise signals are the only solutions under a non-singularity condition (the twist condition). Our core results provide conditions under which riskier prospects induce higher or lower actions, so that the induced action is single-dipped or single-peaked on each set of nested prospects. We also provide conditions for the optimality of either full disclosure or negative assortative disclosure, where all prospects are nested. Methodologically, our results rely on novel duality and complementary slackness theorems. Our analysis extends to a general problem of assigning one-dimensional inputs to productive units, which we call optimal productive transport. This problem covers additional applications including club economies (assigning workers to firms, or students to schools), robust option pricing (assigning future asset prices to price distributions), and partisan gerrymandering (assigning voters to districts)."
+  },
+  {
+    "paper_id": "03cf207e354a887f23f32062aade33ef275a28a2",
+    "title": "Derivation of Bounds for Majorization Differences by a Novel Method and Its Applications in Information Theory",
+    "year": 2023,
+    "author_ids": [
+      "2243124300",
+      "2244125913",
+      "48139237",
+      "2121534620",
+      "104432422",
+      "1879604"
+    ],
+    "venue": "Axioms",
+    "citation_count": 4,
+    "abstract": "In the recent era of research developments, mathematical inequalities and their applications perform a very consequential role in different aspects, and they provide an engaging area for research activities. In this paper, we propose a new approach for the improvement of the classical majorization inequality and its weighted versions in a discrete sense. The proposed improvements give several estimates for the majorization differences. Some earlier improvements of the Jensen and Slater inequalities are deduced as direct consequences of the obtained results. We also discuss the conditions under which the main results give better estimates for the majorization differences. Applications of the acquired results are also presented in information theory."
+  },
+  {
+    "paper_id": "9558fd5540b5e305492e7f2b551a43783b2cf414",
+    "title": "Feasible Conditional Belief Distributions",
+    "year": 2023,
+    "author_ids": [
+      "2661139",
+      "2830102",
+      "2948341"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "Agents receive private signals about an unknown state. The resulting joint belief distributions are complex and lack a simple characterization. Our key insight is that, when conditioned on the state, the structure of belief distributions simplifies: feasibility constrains only the marginal distributions of individual agents across states, with no joint constraints within a state. We apply this insight to multi-receiver persuasion, identifying new tractable cases and introducing optimal transportation and duality tools."
+  },
+  {
+    "paper_id": "8ec301bc5802385901e31edec7952c87063ca0bb",
+    "title": "A Belief-Based Characterization of Reduced-Form Auctions",
+    "year": 2023,
+    "author_ids": [
+      "2067237550"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study games of chance (e.g., pokers, dices, horse races) in the form of agents' first-order posterior beliefs about game outcomes. We ask for any profile of agents' posterior beliefs, is there a game that can generate these beliefs? We completely characterize all feasible joint posterior beliefs from these games. The characterization enables us to find a new variant of Border's inequalities (Border, 1991), which we call a belief-based characterization of Border's inequalities. It also leads to a generalization of Aumann's Agreement Theorem. We show that the characterization results are powerful in bounding the correlation of agents' joint posterior beliefs."
+  },
+  {
+    "paper_id": "6d6fa12ba9ad6cfa14f0cfd3db13d8f74781addc",
+    "title": "Comparison of Screening Devices",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "3435272",
+      "2143416152"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 11,
+    "abstract": "Public agencies are often tasked with allocating scarce resources (such as public housing or financial aid) to a target population. In many such cases, the goal is to maximize social welfare, which requires identifying agents who have the highest social value for the resource. The challenge is that while public agencies may be able to access some data about potential beneficiaries (for example, through means testing), they generally lack information necessary to achieve perfect targeting. When monetary transfers are unavailable or ineffective in targeting, public agencies often rely on \"ordeals\" instead. Natural examples include standing in line, filing out complicated forms, dealing with \"red tape,\" waiting, visiting an office at an inconvenient time, or traveling to a registration site. But what makes one costly screening device better than another?"
+  },
+  {
+    "paper_id": "60c39d5774200fd341c68e3dc9da6ccbaa236f4b",
+    "title": "I'll Tell You Tomorrow: Committing to Future Commitments",
+    "year": 2023,
+    "author_ids": [
+      "2052435433"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "This paper studies a principal who commits to inform an agent about what the principal will eventually do. The principal wishes to promote the agent if and only if the state is good, and he gradually receives private information about the state. The agent always wishes to be promoted, but faces a decreasing outside option and would rather leave if she expects not to be promoted. The principal optimally induces the agent to stay by committing to commit, that is, by committing today to tell the agent tomorrow about her chances of promotion the day after. When the agent has a high initial outside option, with some probability, the principal promotes the agent regardless of his information---even if he realizes early that the state will turn out to be bad. The principal may ask the agent to stay until he fully observes the state, only to deny her promotion; this does not necessarily mean that the principal leads the agent on. We apply our results to worker retention, relationship-specific investment, and forward guidance."
+  },
+  {
+    "paper_id": "b556d43ff785c20eb596fac57ae7a72f644b588c",
+    "title": "Cost Based Nonlinear Pricing",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "The arrival of digital commerce has lead to an increasing use of personalization and differentiation strategies. With differentiated products along the quality dimension and/or the quantity dimension comes the need for nonlinear pricing policies or second degree price discrimination. The optimal pricing strategies for quality and quantity differentiated products were first investigated by Mussa and Rosen (1978) and Maskin and Riley (1984), respectively. The optimal pricing strategies were shown to depend heavily on the prior distribution of the private information regarding the types, and ultimately the willingness-to-pay of the buyers. Yet, frequently the sellers possess only weak and incomplete information about the distribution of demand. This paper aims to develop robust pricing policies that are independent of specific demand distributions and provide revenue guarantees across all possible distributions."
+  },
+  {
+    "paper_id": "98b789a340fe8a42af72acf7087bb5618610a3aa",
+    "title": "Extreme Points and First-Order Stochastic Dominance: Theory and Applications",
+    "year": 2023,
+    "author_ids": [
+      "2292733735",
+      "121388097"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "We characterize the extreme points of first-order stochastic dominance (FOSD) intervals and show how these intervals are at the heart of many topics in economics. An FOSD interval is a set of distributions that dominate a distribution and are simultaneously dominated by another distribution, in the sense of FOSD. The convexity of FOSD intervals means that their extreme points are fundamental to understanding their properties. We show that a distribution is an extreme point of an FOSD interval if and only if the distribution either coincides with one of the FOSD bounds or is flat. Wherever the distribution is flat, at least one end of the flat portion must be attached to one of the FOSD bounds."
+  },
+  {
+    "paper_id": "a6645d5f5c7a281299db74bf15adedbf9950e973",
+    "title": "Value of Information in Games With Multiple Strategic Information Providers",
+    "year": 2023,
+    "author_ids": [
+      "87884693",
+      "40992800",
+      "2243689"
+    ],
+    "venue": "IEEE Transactions on Automatic Control",
+    "citation_count": 8,
+    "abstract": "In the classical communication setting multiple senders having access to the same source of information and transmitting it over channel(s) to a receiver in general leads to a decrease in estimation error at the receiver as compared with the single sender case. However, if the objectives of the information providers are different from that of the estimator, this might result in interesting strategic interactions and outcomes. In this work, we consider a hierarchical signaling game between multiple senders (information designers) and a single receiver (decision maker) each having their own, possibly misaligned, objectives. The senders lead the game by committing to individual information disclosure policies simultaneously, within the framework of a noncooperative Nash game among themselves. This is followed by the receiver's action decision. With Gaussian information structure and quadratic objectives (which depend on the underlying state and receiver's action) for all the players, we show that in general the equilibrium is not unique. We hence identify a set of equilibria and further show that linear noiseless policies can achieve a minimal element of this set. In addition, we show that competition among the senders is beneficial to the receiver, as compared with cooperation among the senders. Further, we extend our analysis to a dynamic signaling game of finite horizon with Markovian information evolution. We show that linear memoryless policies can achieve equilibrium in this dynamic game. We also consider an extension to a game with multiple receivers having coupled objectives. We provide algorithms to compute the equilibrium strategies in all these cases. Finally, via extensive simulations, we analyze the effects of multiple senders in varying degrees of alignment among their objectives."
+  },
+  {
+    "paper_id": "44646bb5c465342d9b5928ae520637e818339a69",
+    "title": "A compendious review of majorization-based resource theories: quantum information and quantum thermodynamics",
+    "year": 2023,
+    "author_ids": [
+      "14617977",
+      "5905835",
+      "92978499"
+    ],
+    "venue": "Turkish Journal of Physics",
+    "citation_count": 10,
+    "abstract": "The field of quantum resource theory (QRT) has emerged as an invaluable framework for the examination of small and strongly correlated quantum systems, surpassing the boundaries imposed by traditional statistical treatments. The fundamental objective of general QRTs is to characterize these systems by precisely quantifying the level of control attainable to an experimenter. In this review article, we refrain from providing an exhaustive summary of the extensive literature on QRT. Rather, our focus centers on a specific sub-literature founded upon the theory of majorization. The primary aim is to augment our comprehension of genuine quantum phenomena manifested across diverse technological applications and incite investigations into novel resource theories encompassing multiple types of resources. Consequently, we emphasize the underlying similarities shared by various resources, including bipartite quantum entanglement, quantum coherence, and superposition, alongside informational, thermal, and generalized nonequilibrium resources."
+  },
+  {
+    "paper_id": "97b2fad4bc24a4e986f6cae363db2ddc90feb996",
+    "title": "Coarse Information Design",
+    "year": 2023,
+    "author_ids": [
+      "1753640660",
+      "37452006",
+      "2381942979"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We study an information design problem with continuous state and discrete signal space. Under convex and S-shaped value functions, the optimal information structure is interval-partitional and exhibits a dual expectations property: each induced signal is the conditional mean (taken under the prior density) of each interval; and each interval cutoff is the barycenter (taken under the value function curvature) of the interval formed by neighboring signals. This property enables an examination into which part of the state space is more finely partitioned. The analysis can be extended to general value functions and adapted to study coarse mechanism design."
+  },
+  {
+    "paper_id": "9ab3b0b51b669161028c22b9b3ed02aaf8c04f59",
+    "title": "Bauer's Maximum Principle for Quasiconvex Functions",
+    "year": 2023,
+    "author_ids": [
+      "95698425"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "This note shows that in Bauer's maximum principle, the assumed convexity of the objective function can be relaxed to quasiconvexity."
+  },
+  {
+    "paper_id": "999eaad05ab36dc292366054ff17773150183da8",
+    "title": "Non-Market Allocation Mechanisms: Optimal Design and Investment Incentives",
+    "year": 2023,
+    "author_ids": [
+      "2307473353",
+      "1405139922"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "We study how to optimally design selection mechanisms, accounting for agents'investment incentives. A principal wishes to allocate a resource of homogeneous quality to a heterogeneous population of agents. The principal commits to a possibly random selection rule that depends on a one-dimensional characteristic of the agents she intrinsically values. Agents have a strict preference for being selected by the principal and may undertake a costly investment to improve their characteristic before it is revealed to the principal. We show that even if random selection rules foster agents'investments, especially at the top of the characteristic distribution, deterministic\"pass-fail\"selection rules are in fact optimal."
+  },
+  {
+    "paper_id": "a82652290be18f7a9ab9cb7e98f0700edbb95124",
+    "title": "Mechanism Design under Costly Signaling: the Value of Non-Coordination",
+    "year": 2023,
+    "author_ids": [
+      "2716214",
+      "2099990230"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": "We study allocation mechanisms that utilize costly signaling as a screening tool. A social planner aims to maximize social welfare, defined as the weighted sum of agents'utilities, while implementing a specific allocation rule. Within a broad class of agent preferences, we show that coordination mechanisms (where recommended signals depend on joint reports) can be outperformed by non-coordination mechanisms (where signals depend solely on individual reports). We formalize the conditions under which the optimal mechanism features no coordination and demonstrate that such mechanisms are implementable through coarse-ranking contests."
+  },
+  {
+    "paper_id": "b158b57f53952b6f50b136191e27e23835ff7716",
+    "title": "Monotone Function Intervals: Theory and Applications",
+    "year": 2023,
+    "author_ids": [
+      "40190320",
+      "121388097"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 10,
+    "abstract": "A monotone function interval is the set of monotone functions that lie pointwise between two fixed, -monotone functions. We characterize the set of extreme points of monotone function intervals and apply this to a number of economic settings. First, we leverage the main result to characterize the set of distributions of posterior quantiles that can be induced by a signal, with applications to political economy, Bayesian persuasion, and the psychology of judgment. Second, we combine our characterization with properties of convex optimization problems to unify and generalize seminal results in the literature on security design under adverse selection and moral hazard. (JEL C61, C65, D72, D82, D91, G12)"
+  },
+  {
+    "paper_id": "776e328a1e1a74bcbee254e9b3f39cad92142c8b",
+    "title": "The Optimality of Constant Mark-Up Pricing",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We consider a nonlinear pricing environment with private information. We provide profit guarantees (and associated mechanisms) that the seller can achieve across all possible distributions of willingness to pay of the buyers. With a constant elasticity cost function, constant markup pricing provides the optimal revenue guarantee across all possible distributions of willingness to pay and the lower bound is attained under a Pareto distribution. We characterize how profits and consumer surplus vary with the distribution of values and show that Pareto distributions are extremal. We also provide a revenue guarantee for general cost functions. We establish equivalent results for optimal procurement policies that support maximal surplus guarantees for the buyer given all possible cost distributions of the sellers."
+  },
+  {
+    "paper_id": "5b3f5baa93e162876c9044a7fee8beaff6623428",
+    "title": "Screening with Persuasion",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 16,
+    "abstract": "We analyze a nonlinear pricing model where the seller controls both product pricing (screening) and buyer information about their own values (persuasion). We prove that the optimal mechanism always consists of finitely many signals and items, even with a continuum of buyer values. The seller optimally pools buyer values and reduces product variety to minimize informational rents. We show that value pooling is optimal even for finite value distributions if their entropy exceeds a critical threshold. We also provide sufficient conditions under which the optimal menu restricts offering to a single item."
+  },
+  {
+    "paper_id": "266955c8df4f11922a4eb8c391a2846f9f38ce61",
+    "title": "Information Design in Allocation with Costly Verification",
+    "year": 2022,
+    "author_ids": [
+      "123332136",
+      "1740740534",
+      "2112166881"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 2,
+    "abstract": "We study information design in a single\u2010agent allocation problem with costly verification, where the principal has a positive reservation value. The agent learns privately a signal about the principal's allocation value, drawn from a distribution controlled by an information designer. Given the signal distribution, the principal designs a mechanism to maximize her net value. We show that the agent\u2010optimal information pools high values at a signal just worth verification, whereas the principal\u2010optimal information features full disclosure. Moreover, any agent\u2010optimal information is principal\u2010worst, despite their partially aligned interests and the absence of\u00a0transfers."
+  },
+  {
+    "paper_id": "26b6c2fb9d047a327452fe2455cc4e9c7dcbf182",
+    "title": "Rank-Preserving Multidimensional Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "1851028",
+      "3241518"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We show that the mechanism-design problem for a monopolist selling multiple, heterogeneous objects to a buyer with ex ante symmetric and additive values is equivalent to the mechanism-design problem for a monopolist selling identical objects to a buyer with decreasing marginal values. Symmetric and incentive-compatible mechanisms for heterogeneous objects are rank preserving, i.e., higher-valued objects are assigned with a higher probability. In the identical-objects model, every mechanism is rank preserving. This facilitates the equivalence, which we use in three applications."
+  },
+  {
+    "paper_id": "88860393d76f80eab8a6d76bbdf488a165394c35",
+    "title": "Optimal Information Disclosure in Classic Auctions",
+    "year": 2022,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": "American Economic Review: Insights",
+    "citation_count": 26,
+    "abstract": "We characterize the revenue-maximizing information structure in the second-price auction. The seller faces a trade-off: more information improves the efficiency of the allocation but creates higher information rents for bidders. The information disclosure policy that maximizes the revenue of the seller is to fully reveal low values (where competition is high) but to pool high values (where competition is low). The size of the pool is determined by a critical quantile that is independent of the distribution of values and only dependent on the number of bidders. We discuss how this policy provides a rationale for conflation in digital advertising. (JEL D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "dbbe07efb41af8f84b2f045fba44a27694526712",
+    "title": "Optimal Delegation in a Multidimensional World",
+    "year": 2022,
+    "author_ids": [
+      "34732812"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 10,
+    "abstract": "In this paper, we investigate an optimal delegation model with multidimensional actions and multidimensional states of the world. The principal is responsible for taking an action, and her payoff is influenced by an unknown state of the world, which represents the agent's private information. No monetary transfers are available. Since the principal's and agent's preferences are not aligned, the agent is unwilling to simply disclose the state. The principal can employ arbitrary mechanisms, including stochastic ones, and her objective is to maximize her expected payoff."
+  },
+  {
+    "paper_id": "777e8c7716df57b409b341ce80c07c97728e293a",
+    "title": "Costly Evidence and Discretionary Disclosure",
+    "year": 2022,
+    "author_ids": [
+      "19246218",
+      "2119017704"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "A sender flexibly acquires evidence--which she may pay a third party to certify--to disclose to a receiver. When evidence acquisition is overt, the receiver observes the evidence gathering process irrespective of whether its outcome is certified. When acquisition is covert, the receiver does not. In contrast to the case with exogenous evidence, the receiver prefers a strictly positive certification cost. As acquisition costs vanish, equilibria converge to the Pareto-worst free-learning equilibrium. The receiver always prefers covert to overt evidence acquisition."
+  },
+  {
+    "paper_id": "b12a103126617ff4b930c60cdf3adaf45be05730",
+    "title": "Greedy Allocations and Equitable Matchings",
+    "year": 2022,
+    "author_ids": [
+      "1453335410"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "I provide a novel approach to characterizing the set of interim realizable allocations, in the spirit of Matthews (1984) and Border (1991). The approach allows me to identify precisely why exact characterizations are difficult to obtain in some settings. The main results of the paper then show how to adapt the approach in order to obtain approximate characterizations of the interim realizable set in such settings. As an application, I study multi-item allocation problems when agents have capacity constraints. I identify necessary conditions for interim realizability, and show that these conditions are sufficient for realizability when the interim allocation in question is scaled by 1/2. I then characterize a subset of the realizable polytope which contains all such scaled allocations. This polytope is generated by a majorization relationship between the scaled interim allocations and allocations induced by a certain ``greedy algorithm''. I use these results to study mechanism design with equity concerns and model ambiguity. I also relate optimal mechanisms to the commonly used deferred acceptance and serial dictatorship matching algorithms. For example, I provide conditions on the principal's objective such that by carefully choosing school priorities and running deferred acceptance, the principal can guarantee at least half of the optimal (full information) payoff."
+  },
+  {
+    "paper_id": "82a9a1c7eae90cdfafea5e585ae7af95931aa6d2",
+    "title": "Symmetric reduced\u2010form voting",
+    "year": 2022,
+    "author_ids": [
+      "2067237550",
+      "3241518"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 2,
+    "abstract": "We study a model of voting with two alternatives in a symmetric environment. We characterize the interim allocation probabilities that can be implemented by a symmetric voting rule. We show that every such interim allocation probability can be implemented as a convex combination of two families of deterministic voting rules: qualified majority and qualified anti\u2010majority. We also provide analogous results by requiring implementation by a symmetric monotone (strategy\u2010proof) voting rule and by a symmetric unanimous voting rule. We apply our results to show that an ex ante Rawlsian rule is a convex combination of a pair of qualified majority rules."
+  },
+  {
+    "paper_id": "c9c061527ee2576e81696b5fc3bdfda788726613",
+    "title": "Contracting and Vertical Control by a Dominant Platform",
+    "year": 2022,
+    "author_ids": [
+      "1380699268",
+      "2069649352"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 15,
+    "abstract": "Online platforms increasingly act as gatekeepers that enable producers to access downstream markets, while also competing with producers in these downstream markets. A prominent example is Amazon, which sells e-commerce and distribution services to producers in an upstream market, while also selling AmazonBasics and other private-label products downstream. Should platforms be allowed to control whom they compete with in downstream markets through their upstream market interactions? In this paper, we study the antitrust implications of a platform acting both as a producer in a downstream market and an upstream supplier to rival producers. We find that banning a monopolist platform from producing in downstream markets can only harm consumers because platforms that produce positive output in equilibrium always reduce downstream prices. Consequently, the claimed \"conflict of interest,\" or tradeoff between the platform's upstream and downstream profits, always benefits the consumer, at the expense of producers. Intuitively, any output produced by the competitive fringe of producers is associated with a vertical externality that resembles double marginalization, while any output produced by the platform is only associated with a single marginalization effect. If the platform's own production costs are reduced, the corresponding substitution towards output produced by the platform results in higher overall production in the downstream market, which benefits consumers. However, when the platform is not a monopolist, meaning that producers can access downstream markets through alternative distribution channels, platforms may have an incentive to undermine this upstream market competition. For example, the platform may profitably engage in \"killer\" horizontal acquisitions (acquire and then shuttering smaller upstream competitors) or exclusive dealing (offer contracts that preclude producers from accessing alternative distribution channels). These practices harm consumers by reducing overall output in the downstream market and would therefore warrant the scrutiny of antitrust authorities. Our analysis introduces a general mechanism design framework for studying vertical market structures involving a dominant platform. In particular, we consider a model in which a platform sells a productive input to producers in an upstream market before competing with these producers in a downstream market. We characterize the optimal menu of contracts offered by the platform in the upstream market, assuming the platform seeks to maximize its total upstream and downstream profits. In our formulation, producers have private information about their costs, which gives rise to incentive and participation constraints. We first consider the case in which the platform monopolizes the upstream market and then add the possibility that producers have access to alternative distribution channels. In each case the optimal menu of upstream contracts involves a nonlinear pricing schedule that represents price discrimination in the form of quantity discounts. An implication of our consumer surplus analysis for antitrust policy is that banning platforms from producing in downstream markets can only harm consumers. A similar result holds if the platform is banned from selling downstream market access in the upstream market. This suggests that there is more to the \"conflict of interest\" identified by antitrust authorities than meets the eye. Naturally, consumers would be better off if the platform's upstream business interests were separated from its downstream business interests. However, this may be difficult to achieve in practice and our analysis shows that simple bans will only serve to make consumers worse off. This resonates with recent antitrust policies. For example, in 2019 India introduced new laws---intended to protect small local businesses---that prevented online retailers from selling products through vendors in which they hold an equity stake. Amazon lobbied strongly against this new law, which prevented it from selling AmazonBasics products on its own platform. Our analysis suggests that while such laws should indeed protect the interests of producers, they may harm consumers."
+  },
+  {
+    "paper_id": "69e7839fd446858dd372dc96cc722f865c0124d7",
+    "title": "Constrained Majorization: Applications in Mechanism Design",
+    "year": 2022,
+    "author_ids": [
+      "3139725"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 11,
+    "abstract": "Classical frameworks in mechanism design often specify an objective function and maximize it by choosing allocation. We extend these frameworks by allowing maximizing an objective function (such as expected revenue in an auction) subject to additional constraints (such as lower bounds on efficiency or welfare). The additional complexity arising due to each additional constraint manifests in the reduced form of the optimal mechanism as at most one jump discontinuity in an \"ironed\" interval. We apply our results to demonstrate the simplicity of optimal mechanisms despite the presence of a side constraint in common economic applications such as contract and auction design. We also introduce a regularity condition under which the general structure of optimal mechanisms bears no additional complexity due to the presence of a side constraint. The analysis builds on the findings of Kleiner et al. (2021) by considering optimal mechanisms as extreme points of function spaces."
+  },
+  {
+    "paper_id": "a42f800255a6f4391ac97dbea63484d21abfe06d",
+    "title": "Information Design in Cheap Talk",
+    "year": 2022,
+    "author_ids": [
+      "1753640660",
+      "2259295881"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "An uninformed sender publicly commits to an informative experiment about an uncertain state, privately observes its outcome, and sends a cheap-talk message to a receiver. We provide an algorithm valid for arbitrary state-dependent preferences that will determine the sender's optimal experiment and his equilibrium payoff under binary state space. We give sufficient conditions for informative information transmission. These conditions depend more on marginal incentives -- how payoffs vary with the state -- than on the alignment of sender's and receiver's rankings over actions within a state. The algorithm can be easily modified to study the canonical cheap talk game with a perfectly informed sender."
+  },
+  {
+    "paper_id": "e599071d70e72cafbd6be698e6b7d16f8127b968",
+    "title": "The comparative statics of persuasion",
+    "year": 2022,
+    "author_ids": [
+      "153019710",
+      "88685663"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": "In the persuasion model, apart from a few special cases, comparative statics has been an open question. We answer it, delineating which shifts of the sender's interim payoff lead her optimally to choose a more informative signal. Our first theorem identifies a coarse notion of'increased convexity'that we show characterises those shifts of the sender's interim payoff that lead her optimally to choose no less informative signals. To strengthen this conclusion to'more informative'requires further assumptions: our second theorem identifies the necessary and sufficient condition on the sender's interim payoff, which strictly generalises the convex-concave ('S') shape commonly imposed in the literature. We identify conditions under which increased alignment of interests between sender and receiver leads to comparative statics, and study a number of applications."
+  },
+  {
+    "paper_id": "40c4728eb2ae78f4a8b1ee5ebbcb8370ac74f5d2",
+    "title": "Reduced-form budget allocation with multiple public alternatives",
+    "year": 2022,
+    "author_ids": [
+      "2067237550"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "15f7ab23bfe488090c82a376cfcc319b678dac16",
+    "title": "Reduced-Form Allocations with Complementarity: A 2-Person Case",
+    "year": 2022,
+    "author_ids": [
+      "2067237550"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "We investigate the implementation of reduced-form allocation probabilities in a two-person bargaining problem without side payments, where the agents have to select one alternative from a finite set of social alternatives. We provide a necessary and sufficient condition for the implementability. We find that the implementability condition in bargaining has some new feature compared to Border\u2019s theorem. Our results have applications in compromise problems and package exchange problems where the agents barter indivisible objects and the agents value the objects as complements."
+  },
+  {
+    "paper_id": "15bf337322091a6fe734ed228eef5a277f9674e0",
+    "title": "Optimal measure preserving derivatives revisited",
+    "year": 2022,
+    "author_ids": [
+      "4669774"
+    ],
+    "venue": "Mathematical Finance",
+    "citation_count": 3,
+    "abstract": "This article clarifies the relationship between pricing kernel monotonicity and the existence of opportunities for stochastic arbitrage in a complete and frictionless market of derivative securities written on a market portfolio. The relationship depends on whether the payoff distribution of the market portfolio satisfies a technical condition called adequacy, meaning that it is atomless or is comprised of finitely many equally probable atoms. Under adequacy, pricing kernel nonmonotonicity is equivalent to the existence of a strong form of stochastic arbitrage involving distributional replication of the market portfolio at a lower price. If the adequacy condition is dropped then this equivalence no longer holds, but pricing kernel nonmonotonicity remains equivalent to the existence of a weaker form of stochastic arbitrage involving second\u2010order stochastic dominance of the market portfolio at a lower price. A generalization of the optimal measure preserving derivative is obtained, which achieves distributional replication at the minimum cost of all second\u2010order stochastically dominant securities under adequacy."
+  },
+  {
+    "paper_id": "3774dee6136d79d721568077a5d9fbd76ec5f7ec",
+    "title": "Robust Bounds for Welfare Analysis",
+    "year": 2022,
+    "author_ids": [
+      "1380699268",
+      "2136386"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 9,
+    "abstract": "Economists routinely make functional form assumptions about consumer demand to obtain welfare estimates. How sensitive are welfare estimates to these assumptions? We answer this question by providing bounds on welfare that hold for families of demand curves commonly considered in different literatures. We show that commonly chosen functional forms, such as linear, exponential, and CES demand, are extremal in different families: they yield either the highest or lowest welfare estimate among all demand curves in those families. To illustrate our approach, we apply our results to the welfare analysis of energy subsidies, trade tariffs, pensions, and income taxation. Full paper: https://www.nber.org/papers/w29656."
+  },
+  {
+    "paper_id": "15b359970d21af52947435ba33b50b803155fdad",
+    "title": "Efficient demands in a multi-product monopoly",
+    "year": 2021,
+    "author_ids": [
+      "40190320"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "eebb01c231f7af33a81a3aa9bf15aed509d43351",
+    "title": "Persuasion with ambiguous receiver preferences",
+    "year": 2021,
+    "author_ids": [
+      "1402939471"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 4,
+    "abstract": "I describe a Bayesian persuasion problem where Receiver has a private type representing a cutoff for choosing Sender\u2019s preferred action, and Sender has maxmin preferences over all Receiver type distributions with known mean and bounds. This problem can be represented as a zero-sum game where Sender chooses a distribution of posterior mean beliefs that is a mean-preserving contraction of the prior over states, and an adversarial Nature chooses a Receiver type distribution with the known mean; the player with the higher realization from their chosen distribution wins. I formalize the connection between maxmin persuasion and similar games used to model political spending, all-pay auctions, and competitive persuasion. In both a standard binary-state setting and a new continuous-state setting, Sender optimally linearizes the prior distribution over states to create a distribution of posterior means that is uniform on a known interval with an atom at the lower bound of its support."
+  },
+  {
+    "paper_id": "4f88cddf849a39924b48078427ec01073556e7d7",
+    "title": "Bayesian persuasion and information design: perspectives and open issues",
+    "year": 2021,
+    "author_ids": [
+      "2968902",
+      "2110017838",
+      "1720611"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "1b09b619d97a5e5ff44b34c9a95cf5873e258568",
+    "title": "Optimal Disclosure of Information to a Privately Informed Receiver",
+    "year": 2021,
+    "author_ids": [
+      "3237848",
+      "2450616"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 14,
+    "abstract": "We study information design problems where the designer controls information about a state and the receiver is privately informed about his preferences. The receiver's action set is general and his preferences depend linearly on the state. We show that to optimally screen the receiver, the designer can use a menu of \"laminar partitional\" signals. These signals partition the states such that the same message is sent in each partition element and the convex hulls of any two partition elements are either nested or have an empty intersection. Furthermore, each state is either perfectly revealed or lies in an interval in which at most n+2 different messages are sent, where n is the number of receiver types. In the finite action case an optimal menu can be obtained by solving a finite-dimensional convex program. Along the way we shed light on the solutions of optimization problems over distributions subject to a mean-preserving contraction constraint and additional constraints which might be of independent interest."
+  },
+  {
+    "paper_id": "8d4dfa98bccb5dda2eb8405191dd280fb1066319",
+    "title": "Risk aversion and auction design: Theoretical and empirical evidence",
+    "year": 2021,
+    "author_ids": [
+      "2136386",
+      "5378679"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 17,
+    "abstract": "Abstract Auctions are inherently risky: bidders face uncertainty about their prospects of winning and payments, while sellers are unsure about revenue and chances of a successful sale. Auction rules influence the allocation of risk among agents and the behavior of risk-averse bidders, leading to a breakdown of payoff and revenue equivalence and a heightened significance of auction design decisions by sellers. In this paper, we review the literature on risk aversion in auctions, with an emphasis on what can be learned about auction design from theoretical modeling and empirical studies. We survey theoretical results relating to the behavior of risk-averse agents in auctions, the comparison of standard auction formats in the presence of risk aversion and implications for auction design. We discuss standard and more recent approaches to identifying risk preferences in empirical studies and evidence for the significance of risk aversion in auction applications. Finally, we identify areas where existing evidence is relatively scant and ask what questions empirical research might ask given the theory and where further theoretical research may be beneficial given existing empirical results."
+  },
+  {
+    "paper_id": "fc6a3d89b23a2338ecc76daf18e67777d69dc6e9",
+    "title": "Calibrated Click-Through Auctions",
+    "year": 2021,
+    "author_ids": [
+      "1689637",
+      "2078106"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 16,
+    "abstract": "We analyze the optimal information design in a click-through auction with stochastic click-through rates and known valuations per click. The auctioneer takes as given the auction rule of the click-through auction, namely the generalized second-price auction. Yet, the auctioneer can design the information flow regarding the click-through rates among the bidders. We require that the information structure to be calibrated in the learning sense. With this constraint, the auction needs to rank the ads by a product of the value and a calibrated prediction of the click-through rates. The task of designing an optimal information structure is thus reduced to the task of designing an optimal calibrated prediction. We show that in a symmetric setting with uncertainty about the click-through rates, the optimal information structure attains both social efficiency and surplus extraction. The optimal information structure requires private (rather than public) signals to the bidders. It also requires correlated (rather than independent) signals, even when the underlying uncertainty regarding the click-through rates is independent. Beyond symmetric settings, we show that the optimal information structure requires partial information disclosure, and achieves only partial surplus extraction."
+  },
+  {
+    "paper_id": "2a6724fed5638d8bd22f2a2f1db77906435a33e7",
+    "title": "An Economic Framework for Vaccine Prioritization",
+    "year": 2021,
+    "author_ids": [
+      "153280673",
+      "3309574",
+      "3435272",
+      "1794750"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 41,
+    "abstract": "We propose an economic framework for determining the optimal allocation of a scarce supply of vaccines that become gradually available during a public health crisis, such as the Covid-19 pandemic. Agents differ in observable and unobservable characteristics, and the designer maximizes a social welfare function over all feasible mechanisms---accounting for agents' characteristics, as well as their endogenous behavior in the face of the pandemic. The framework emphasizes the role of externalities and incorporates equity as well as efficiency concerns. Our results provide an economic justification for providing vaccines immediately and for free to some groups of agents, while at the same time showing that a carefully constructed pricing mechanism can improve outcomes by screening for individuals with the highest private and social benefits of receiving the vaccine. The solution casts light on the classic question of whether prices or priorities should be used to allocate scarce public resources under externalities and equity concerns. Full Paper: https://ssrn.com/abstract=3846931"
+  },
+  {
+    "paper_id": "2cdcce25dd020a960e63412ee0f2dae3c5e806f9",
+    "title": "Conveying value via categories",
+    "year": 2021,
+    "author_ids": [
+      "119153924",
+      "145787615"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 16,
+    "abstract": "A sender sells an object of unknown quality to a receiver who pays his expected value for it. Sender and receiver might hold different priors over quality. The sender commits to a monotone categorization of quality. We characterize the sender's optimal monotone categorization, the optimality of full pooling or full separation, and make precise a sense in which pooling is dominant relative to separation. As an application, we study the design of a grading scheme by an educational institution that seeks to signal student qualities and simultaneously incentivize students to learn. We show how these incentive constraints are embedded as a distortion of the school's prior over student qualities, generating a monotone categorization problem with distinct sender and receiver priors."
+  },
+  {
+    "paper_id": "b0a5e8a71919a02080a45d4f662ab6f26ab20041",
+    "title": "Optimal Transport of Information",
+    "year": 2021,
+    "author_ids": [
+      "2772316",
+      "145204875",
+      "12557769"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We study the general problem of Bayesian persuasion (optimal information design) with continuous actions and continuous state space in arbitrary dimensions. First, we show that with a finite signal space, the optimal information design is always given by a partition. Second, we take the limit of an infinite signal space and characterize the solution in terms of a Monge-Kantorovich optimal transport problem with an endogenous information transport cost. We use our novel approach to: 1. Derive necessary and sufficient conditions for optimality based on Bregman divergences for non-convex functions. 2. Compute exact bounds for the Hausdorff dimension of the support of an optimal policy. 3. Derive a non-linear, second-order partial differential equation whose solutions correspond to regular optimal policies. We illustrate the power of our approach by providing explicit solutions to several non-linear, multidimensional Bayesian persuasion problems."
+  },
+  {
+    "paper_id": "3ff2d27e97cb6510b44019f1031b787221000228",
+    "title": "Optimal disclosure of information to privately informed agents",
+    "year": 2021,
+    "author_ids": [
+      "3237848",
+      "2450616"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 20,
+    "abstract": "We study information design with multiple privately informed agents who interact in a game. Each agent's utility is linear in a real\u2010valued state. We show that there always exists an optimal mechanism that is laminar partitional and bound its \u201ccomplexity.\u201d For each type profile, such a mechanism partitions the state space and recommends the same action profile within a partition element. Furthermore, the convex hulls of any two partition elements are such that either one contains the other or they have an empty intersection. We highlight the value of screening: the ratio of the optimal and the best payoff without screening can be equal to the number of types. Along the way, we shed light on the solutions to optimization problems over distributions subject to a mean\u2010preserving contraction constraint and additional side\u2010constraints, which might be of independent interest."
+  },
+  {
+    "paper_id": "58c3d4688ebd284757028a5de8594c0c02c6c238",
+    "title": "Mediated Persuasion.",
+    "year": 2020,
+    "author_ids": [
+      "36168991"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": "We study a game of strategic information design between a sender, who chooses state-dependent information structures, a mediator who can then garble the signals generated from these structures, and a receiver who takes an action after observing the signal generated by the first two players. We characterize sufficient conditions for information revelation, compare outcomes with and without a mediator and provide comparative statics with regard to the preferences of the sender and the mediator. We also provide novel conceptual and computational insights about the set of feasible posterior beliefs that the sender can induce, and use these results to obtain insights about equilibrium outcomes. The sender never benefits from mediation, while the receiver might. Strikingly, the receiver benefits when the mediator's preferences are not perfectly aligned with hers; rather the mediator should prefer more information revelation than the sender, but less than perfect revelation."
+  },
+  {
+    "paper_id": "0441c64f21b585ba0a0cb4d7f8e2af796caeb4dc",
+    "title": "Persuading a Wishful Thinker",
+    "year": 2020,
+    "author_ids": [
+      "2029253202",
+      "2029148803"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study a persuasion problem in which a sender designs an information structure to induce a non-Bayesian receiver to take a particular action. The receiver, who is privately informed about his preferences, is a wishful thinker: he is systematically overoptimistic about the most favorable outcomes. We show that wishful thinking can lead to a qualitative shift in the structure of optimal persuasion compared to the Bayesian case, whenever the sender is uncertain about what the receiver perceives as the best-case outcome in his decision problem."
+  },
+  {
+    "paper_id": "22ce8c4a5b90cba7df4121277f0d885da8cc45f7",
+    "title": "How to Sell Hard Information",
+    "year": 2020,
+    "author_ids": [
+      "1741616228",
+      "1774457",
+      "2117691596",
+      "48077125"
+    ],
+    "venue": "Quarterly Journal of Economics",
+    "citation_count": 35,
+    "abstract": "\n The seller of an asset has the option to buy hard information about the value of the asset from an intermediary. The seller can then disclose this information before selling the asset in a competitive market. We study how the intermediary designs and sells hard information to robustly maximize the intermediary's revenue across all equilibria. Even though the intermediary could use an accurate test that reveals the asset\u2019s value, we show that robust revenue maximization leads to a noisy test with a continuum of possible scores. In addition, the intermediary always charges the seller for disclosing the test score to the market, but not necessarily for running the test. This enables the intermediary to robustly appropriate a significant share of the surplus resulting from the asset sale."
+  },
+  {
+    "paper_id": "67a65a4f52cdb1b0ea2f56241534edb5bf214745",
+    "title": "Redistributive Allocation Mechanisms",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "3435272",
+      "1794750"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 47,
+    "abstract": "Many scarce public resources are allocated at below-market-clearing prices and sometimes for free. Such \u201cnonmarket\u201d mechanisms sacrifice some surplus, yet they can potentially improve equity. We develop a model of mechanism design with redistributive concerns. Agents are characterized by a privately observed willingness to pay for quality, a publicly observed label, and a social welfare weight. A market designer controls allocation and pricing of a set of objects of heterogeneous quality and maximizes the expectation of a welfare function. The designer does not directly observe individuals\u2019 social welfare weights. We derive structural insights about the form of the optimal mechanism, leading to a framework for determining how and when to use nonmarket mechanisms."
+  },
+  {
+    "paper_id": "2f8d8287edd1d5422aeb327eab08b4eb7552247d",
+    "title": "The Economics of Partisan Gerrymandering",
+    "year": 2020,
+    "author_ids": [
+      "1729345",
+      "1818256"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 17,
+    "abstract": "\n We study the problem of a partisan gerrymanderer who assigns voters to equipopulous districts to maximize his party's expected seat share. The designer faces both aggregate, district\u2010level uncertainty (how many votes his party will receive) and idiosyncratic, voter\u2010level uncertainty (which voters will vote for his party).\n Segregate\u2010pair districting\n , where weaker districts contain one type of voter, while stronger districts contain two, is optimal for the gerrymanderer. The optimal form of segregate\u2010pair districting depends on the designer's popularity and the relative amounts of aggregate and idiosyncratic uncertainty. When idiosyncratic uncertainty dominates, a designer with majority support pairs all voters, while a designer with minority support segregates opposing voters and pairs more favorable voters; these plans resemble uniform districting and \u201cpacking\u2010and\u2010cracking,\u201d respectively. When aggregate uncertainty dominates, the designer segregates moderate voters and pairs extreme voters; this \u201cmatching slices\u201d plan has received some attention in the literature. Estimating the model using precinct\u2010level returns from recent U.S. House elections shows that, in practice, idiosyncratic uncertainty dominates. We discuss implications for redistricting reform, political polarization, and detecting gerrymandering. Methodologically, we exploit a formal connection between gerrymandering\u2014partitioning voters into districts\u2014and information design\u2014partitioning states of the world into signals.\n"
+  },
+  {
+    "paper_id": "e1e26b26fdb217c34efa2406f503cc476c94efeb",
+    "title": "Optimal Persuasion via Bi-Pooling",
+    "year": 2020,
+    "author_ids": [
+      "2661139",
+      "2830102",
+      "2417693",
+      "46412716"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 52,
+    "abstract": "The canonical Bayesian persuasion setting studies a model where an informed agent, the Sender, can partially share his information with an uninformed agent, the Receiver. The Receiver's utility is a function of the state of nature and the Receiver's action while the Sender's is only a function of the Receiver's action. The classical results characterize the Sender's optimal information disclosure policy whenever the state space is finite. In this paper we study the same setting where the state space is an interval on the real line. We introduce the class of bi-pooling policies and the induced distribution over posteriors which we refer to as bi-pooling distributions. We show that this class of distributions characterizes the set of optimal distributions in the aforementioned setting. Every persuasion problem admits an optimal bi-pooling distribution as a solution. Conversely, for every bi-pooling distribution there exists a persuasion problem in which the given distribution is the unique optimal one. We leverage this result to study the structure of the price function (see [1]) in this setting and to identify optimal information disclosure policies. The full paper can be accessed at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3511516."
+  },
+  {
+    "paper_id": "cb2c06a8d50b15d50522a45819ff26973dcf1f72",
+    "title": "Optimal Dynamic Allocation: Simplicity through Information Design",
+    "year": 2020,
+    "author_ids": [
+      "1717971",
+      "1396810650",
+      "3139725"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 17,
+    "abstract": "We study dynamic nonmonetary markets where objects are allocated to unit-demand agents with private types. An agent's value for an object is supermodular in her type and the quality of the object, and her payoff is quasilinear in her waiting cost. We analyze direct-revelation mechanisms that elicit agents' types and assign them to objects over time. We identify the welfare-maximizing mechanism and show that it can be implemented by a first-come first-served wait-list with deferrals when the marketmaker can design the information disclosed to agents about the objects. The optimal disclosure policy pools adjacent object types."
+  },
+  {
+    "paper_id": "1d86398650478615bc86c131f10f47fd9a6d18bb",
+    "title": "Censorship as Optimal Persuasion",
+    "year": 2019,
+    "author_ids": [
+      "1729345",
+      "2142728",
+      "1720611"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 50,
+    "abstract": "We consider a Bayesian persuasion problem where a sender's utility depends only on the expected state. We show that upper censorship that pools the states above a cutoff and reveals the states below the cutoff is optimal for all prior distributions of the state if and only if the sender's marginal utility is quasi\u2010concave. Moreover, we show that it is optimal to reveal less information if the sender becomes more risk averse or the sender's utility shifts to the left. Finally, we apply our results to the problem of media censorship by a government."
+  },
+  {
+    "paper_id": "fde78f58f4abf9a6bb39b0da0359ef8a9d8c5d74",
+    "title": "The Persuasion Duality",
+    "year": 2019,
+    "author_ids": [
+      "3435272",
+      "1729345"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 36,
+    "abstract": "We present a unified duality approach to Bayesian persuasion. The optimal dual variable, interpreted as a price function on the state space, is shown to be a supergradient of the concave closure of the objective function at the prior belief. Strong duality holds when the objective function is Lipschitz continuous.\n When the objective depends on the posterior belief through a set of moments, the price function induces prices for posterior moments that solve the corresponding dual problem. Thus, our general approach unifies known results for one\u2010dimensional moment persuasion, while yielding new results for the multidimensional case. In particular, we provide a condition for the optimality of convex\u2010partitional signals, derive structural properties of solutions, and characterize the optimal persuasion scheme when the state is two\u2010dimensional and the objective is quadratic."
+  },
+  {
+    "paper_id": "ec56b4f1b5060b5569f897c8dcc1cac90d5a40e7",
+    "title": "Mixtures of mean-preserving contractions",
+    "year": 2019,
+    "author_ids": [
+      "95458966",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "Given a purely atomic probability measure with support on n points, P, any mean-preserving contraction (mpc) of P, Q, with support on m > n points is a mixture of mpcs of P, each with support on most n points. We illustrate an application of this result in economics."
+  },
+  {
+    "paper_id": "0eee045f5c150e0e461bd5f79a11a63606314c20",
+    "title": "Persuasion Meets Delegation",
+    "year": 2018,
+    "author_ids": [
+      "1729345",
+      "1720611"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 22,
+    "abstract": "A principal can restrict an agent's information (the persuasion problem) or discretion (the delegation problem). We study these two problems under standard single\u2010crossing assumptions on the agent's marginal utility. We show that these problems are equivalent on the set of monotone stochastic mechanisms, implying, in particular, the equivalence of deterministic delegation and monotone partitional persuasion. We also show that the monotonicity restriction is superfluous for linear persuasion and linear delegation, implying their equivalence on the set of all stochastic mechanisms. Finally, using tools from the persuasion literature, we characterize optimal delegation mechanisms, thereby generalizing and extending existing results in the delegation literature."
+  },
+  {
+    "paper_id": "adf2f0eccbff03f7898827a362092f495039a86b",
+    "title": "Understanding the role of awareness and trust in consumer purchase decisions for healthy food and products",
+    "year": 2024,
+    "author_ids": [
+      "87277938",
+      "16312506",
+      "2262004763",
+      "2267690159",
+      "2312528595"
+    ],
+    "venue": "Food Quality and Preference",
+    "citation_count": 38,
+    "abstract": null
+  },
+  {
+    "paper_id": "8e3804fd97aadab7da6c4d491a220733e64b8031",
+    "title": "Boundedly rational demand",
+    "year": 2024,
+    "author_ids": [
+      "2153168050",
+      "2240729338",
+      "145547331"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 0,
+    "abstract": "Evidence suggests that consumers do not perfectly optimize, contrary to a critical assumption of classical consumer theory. We propose a model in which consumer types can vary in both their preferences and their choice behavior. Given data on demand and the distribution of prices, we identify the set of possible values of the consumer surplus based on minimal rationality conditions: every type of consumer must be no worse off than if they either always bought the good or never did. We develop a procedure to narrow the set of surplus values using richer data sets and provide bounds on counterfactual demands."
+  },
+  {
+    "paper_id": "dbdd4f390bb2b51cf73c3f5c86dd98d20b006516",
+    "title": "When Are Single-Contract Menus Profit-Maximizing? *",
+    "year": 2023,
+    "author_ids": [
+      "117545006"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "5ece0327f6f93b2527d6fa3877f2b3d4083fc8d9",
+    "title": "Distributions of Posterior Quantiles and Economic Applications",
+    "year": 2023,
+    "author_ids": [
+      "40190320",
+      "121388097"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We characterize the distributions of posterior quantiles under a given prior. Unlike the distributions of posterior means, which are known to be mean-preserving contractions of the prior, the distributions of posterior quantiles coincide with a first-order stochastic dominance interval bounded by an upper and a lower truncation of the prior. We apply this characterization to several environments, ranging across political economy, Bayesian persuasion, industrial organization, econometrics, finance"
+  },
+  {
+    "paper_id": "21cd3a51d0d7c2cccd8e605c184ef4919cede980",
+    "title": "The First-Price Principle of Maximizing Economic Objectives \u2217",
+    "year": 2023,
+    "author_ids": [
+      "2180721967",
+      "3414776"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "48f4be2005963221151e3e84e0a15574cedd0fb4",
+    "title": "Privacy Preserving Signals",
+    "year": 2023,
+    "author_ids": [
+      "2450616",
+      "40190320"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 10,
+    "abstract": "A signal is \n privacy\u2010preserving with respect to a collection of \n privacy sets if the posterior probability assigned to every privacy set remains unchanged conditional on any signal realization. We characterize the privacy\u2010preserving signals for arbitrary state space and arbitrary privacy sets. A signal is privacy\u2010preserving if and only if it is a garbling of a \n reordered quantile signal. Furthermore, distributions of posterior means induced by privacy\u2010preserving signals are exactly mean\u2010preserving contractions of that induced by the \n quantile signal. We discuss the economic implications of our characterization for statistical discrimination, the revelation of sensitive information in auctions and price discrimination.\n"
+  },
+  {
+    "paper_id": "46a712820910293007d6ff890bcd7dd1e19279bc",
+    "title": "Information Design and Monopoly Pricing for Selling Divisible Goods",
+    "year": 2023,
+    "author_ids": [
+      "2109530865",
+      "7202444"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "47712cb8976c2d28b2a73eb4e809654a2c772349",
+    "title": "The Value of Information in Delegation",
+    "year": 2023,
+    "author_ids": [
+      "50301996"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "8bd6e87d6c150e5fdec03f2a5e884c9948c8012d",
+    "title": "Choose your auction: Mechanism design for a bidder",
+    "year": 2023,
+    "author_ids": [
+      "121715831",
+      "2138663987"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c2d23e427971bb6fb2fb34b92a0dbb8617fd3cd0",
+    "title": "Data Collection by an Informed Seller \u2217",
+    "year": 2022,
+    "author_ids": [
+      "98372127",
+      "144622420"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "07db20c3a94b0710e389b856318f1301cf583975",
+    "title": "Persuading a Wishful Thinker *",
+    "year": 2022,
+    "author_ids": [
+      "2268758156",
+      "2268756146",
+      "2295686237",
+      "2268757866",
+      "2268757862",
+      "2268757840",
+      "2268757412",
+      "2268758073",
+      "49985981",
+      "2268757409",
+      "2228713285",
+      "2297888013",
+      "102674598",
+      "87895851"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "340701c608f716c324369b060b5afc99d777e2ba",
+    "title": "Economic Objectives and First Price Auctions \u2217",
+    "year": 2022,
+    "author_ids": [
+      "2180721967",
+      "3414776"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ecbecbc75e2b239e9834e38a5a8137d8d5f3ccbe",
+    "title": "Competitive Product Tests under Minimum Quality Standards",
+    "year": 2022,
+    "author_ids": [
+      "2186477270"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4f5addfa354ec45ddb9e824925efa82b63e510b2",
+    "title": "Wage dispersion, involuntary unemployment and minimum wages under monopsony and oligopsony\u2217",
+    "year": 2022,
+    "author_ids": [
+      "66397191",
+      "2069649352"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "e12ba8e9bb4dfb7bc8a39ea1ec2d52ce18c92c8f",
+    "title": "The Public Option and Optimal Redistribution\u2217",
+    "year": 2022,
+    "author_ids": [
+      "1380699268"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "600e5501f9f9be064cd2abfcb7fda16544802853",
+    "title": "OPTIMAL AUCTIONS: NON-EXPECTED UTILITY AND CONSTANT RISK AVERSION",
+    "year": 2021,
+    "author_ids": [
+      "3010350",
+      "2488559",
+      "2450616",
+      "50495997"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "4d36d9ebd9b329e52c20d2e7d64f33bf75c17c36",
+    "title": "Optimal Redistribution Through Public Provision of Private Goods\u2217",
+    "year": 2021,
+    "author_ids": [
+      "100497987"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "a418a40ed3d08aa524ac823b1bdcab461f143ddd",
+    "title": "Reputational Delegation",
+    "year": 2021,
+    "author_ids": [
+      "26480286"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "4896de2cd83ac39a5205f0bdafb6d24b445536f8",
+    "title": "Selling Impressions: Efficiency vs. Competition",
+    "year": 2021,
+    "author_ids": [
+      "2616138",
+      "2587366",
+      "48218339",
+      "47163358",
+      "145561454"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "30513ca64472cb45d32acc897fce61c9314e5e4e",
+    "title": "Designing and Selling Hard Information",
+    "year": 2020,
+    "author_ids": [
+      "1774457",
+      "2117691596"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "946eeff4c5d968865ebe332b0e9b1ce04ce7b663",
+    "title": "Assortative Information Disclosure",
+    "year": 2020,
+    "author_ids": [
+      "1729345",
+      "1818256"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": "We consider a standard persuasion problem in which the receiver\u2019s action and the state of the world are both one-dimensional. Fully characterizing optimal signals when utilities are non-linear is a daunting task. Instead, we develop a general approach to understanding a key qualitative property of optimal signals: their assortative structure, which describes the overall pattern of what states are pooled together. We derive simple conditions\u2014driven by intuitive economic properties, such as supermodularity and submodularity of preferences\u2014for the optimality of positive and negative assortative patterns of information disclosure. Our approach unifies a wide range of previous findings and generates new applications."
+  },
+  {
+    "paper_id": "5071764a750a4f15fa9a11f4172d020940ff1698",
+    "title": "Electoral Maldistricting",
+    "year": 2020,
+    "author_ids": [
+      "2732938",
+      "1943260",
+      "40447382"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 10,
+    "abstract": "We introduce a framework to examine, both theoretically and empirically, electoral maldistricting. Maldistricting is defined as districting in pursuit of a partisan objective at the expense of voter welfare. Analysis is performed on the set of implementable (via some district map) legislatures, which we characterize both geometrically (via majorization) and in information theoretic terms. Drawing on data from the 2008 presidential election and the 2010 census\u2013based districts, we compute our index for 42 U.S. states and find that observed districting predominantly favors Republicans over Democrats. In three case studies, our index aligns with courts\u2019 purported motivations for requesting redistricting."
+  },
+  {
+    "paper_id": "8eae4ec054d49b5b6479e7f8da664af2fa366ddc",
+    "title": "Ironing, Sweeping, and Multivariate Majorization Optimal Mechanisms for Mass-Produced Goods",
+    "year": 2020,
+    "author_ids": [
+      "10420464",
+      "2340685",
+      "2048718561"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "5f454c46d6b7e027dc633617a989dbc17a12ada8",
+    "title": "THE\u0308 E\u0308C\u0327\u00d8N\u0303\u00d8MI\u0308C\u0327S \u00d8F PA\u030aRTI\u0308SA\u030aN\u0303 GE\u0308RRY\u0301MA\u030aN\u0303DE\u0308RI\u0308N\u0303G ANTON KOLOTILIN AND ALEXANDER WOLITZKY",
+    "year": 2020,
+    "author_ids": [
+      "1818256"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

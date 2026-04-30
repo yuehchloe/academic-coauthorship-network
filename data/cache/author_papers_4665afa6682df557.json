@@ -1,0 +1,607 @@
+[
+  {
+    "paper_id": "c98290d96b556341b245577496afc11b4fab48c4",
+    "title": "Just a Few Seeds More: The Value of Network Data for Diffusion",
+    "year": 2025,
+    "author_ids": [
+      "153280673",
+      "50810604",
+      "2322505543"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 3,
+    "abstract": "Identifying the optimal set of individuals to first receive information (\u201cseeds\u201d) in a social network to maximize expected diffusion is a widely studied question in many settings. Several studies propose network-centrality-based heuristics to select seeds likely to increase diffusion. Here, we show that, for the classic independent cascade model of diffusion, either seeding a few more individuals at random can prompt a larger diffusion than optimal seeding or optimal seeding itself results in limited spread. These findings hold across a broad range of random networks and are supported by simulations on real-world networks. (JEL D83, D85, O12, O18, P25, P32, Z13)"
+  },
+  {
+    "paper_id": "6244fe4ab20d342d4cff1b6d9e3d31f250e3ca89",
+    "title": "A market-design response to the European energy crisis*",
+    "year": 2023,
+    "author_ids": [
+      "2220789430",
+      "1794750",
+      "153280673"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "6d6fa12ba9ad6cfa14f0cfd3db13d8f74781addc",
+    "title": "Comparison of Screening Devices",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "3435272",
+      "2143416152"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 11,
+    "abstract": "Public agencies are often tasked with allocating scarce resources (such as public housing or financial aid) to a target population. In many such cases, the goal is to maximize social welfare, which requires identifying agents who have the highest social value for the resource. The challenge is that while public agencies may be able to access some data about potential beneficiaries (for example, through means testing), they generally lack information necessary to achieve perfect targeting. When monetary transfers are unavailable or ineffective in targeting, public agencies often rely on \"ordeals\" instead. Natural examples include standing in line, filing out complicated forms, dealing with \"red tape,\" waiting, visiting an office at an inconvenient time, or traveling to a registration site. But what makes one costly screening device better than another?"
+  },
+  {
+    "paper_id": "8070e108326d0b056fde84e597e85eadc246b937",
+    "title": "Just a Few Seeds More: The In\ufb02ated Value of Network Data for Di\ufb00usion \u2217",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "50810604",
+      "2255974428",
+      "2660799",
+      "2255824378",
+      "2346290561",
+      "2255961490",
+      "2255855996",
+      "2255439107",
+      "2226177918",
+      "48210474",
+      "144179270",
+      "2251052325",
+      "2535141",
+      "2255966772",
+      "2255758306",
+      "121435111",
+      "2255947680",
+      "1794750",
+      "2256812515",
+      "2311462561",
+      "1410528145",
+      "2261969762",
+      "3008332",
+      "2298646478",
+      "2237906547",
+      "2255936993",
+      "2255561374",
+      "2411347494",
+      "2260267193",
+      "2255961637",
+      "119143253",
+      "2255960889",
+      "2277559882",
+      "123423364"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "832b85b0d44d1e92a0790d81b58d20333bde5ea7",
+    "title": "Algorithmic Mechanism Design With Investment",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 3,
+    "abstract": "We study the investment incentives created by truthful mechanisms that allocate resources using approximation algorithms. Some approximation algorithms guarantee nearly 100% of the optimal welfare in the allocation problem but guarantee nothing when accounting for investment incentives. An algorithm's allocative and investment guarantees coincide if and only if its \n confirming negative externalities are sufficiently small. We introduce fast approximation algorithms for the knapsack problem that have no confirming negative externalities and guarantees close to 100% for both allocation and investment.\n"
+  },
+  {
+    "paper_id": "b8446fbdc2b9b65c2dd231088d338cf8a96b1ef3",
+    "title": "Comparison of Screening Devices \u2217",
+    "year": 2023,
+    "author_ids": [
+      "2244579472",
+      "3435272",
+      "153280673"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "400ebf82f98ccb08e8f60987e1d34105dc30af9f",
+    "title": "Identifying and Analyzing the Driving Forces Involved in Developing\n Tourism Industry in Kondoleh Village, Sahneh City",
+    "year": 2022,
+    "author_ids": [
+      "2214563075",
+      "153280673",
+      "80069599"
+    ],
+    "venue": "Social Studies in Tourism",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8fee187102ccded768062b55cc4ec84a53e4c3e3",
+    "title": "Investment Incentives in Truthful Approximation Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "ee467bd85292a82c3a1a195321ed0b392b37305e",
+    "title": "Equity-efficiency trade-off in quasi-linear environments *",
+    "year": 2022,
+    "author_ids": [
+      "3435272",
+      "153280673",
+      "3309574",
+      "2244233439",
+      "1794750",
+      "2248741885",
+      "2242916659",
+      "2260545257",
+      "2248743610"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "2a6724fed5638d8bd22f2a2f1db77906435a33e7",
+    "title": "An Economic Framework for Vaccine Prioritization",
+    "year": 2021,
+    "author_ids": [
+      "153280673",
+      "3309574",
+      "3435272",
+      "1794750"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 41,
+    "abstract": "We propose an economic framework for determining the optimal allocation of a scarce supply of vaccines that become gradually available during a public health crisis, such as the Covid-19 pandemic. Agents differ in observable and unobservable characteristics, and the designer maximizes a social welfare function over all feasible mechanisms---accounting for agents' characteristics, as well as their endogenous behavior in the face of the pandemic. The framework emphasizes the role of externalities and incorporates equity as well as efficiency concerns. Our results provide an economic justification for providing vaccines immediately and for free to some groups of agents, while at the same time showing that a carefully constructed pricing mechanism can improve outcomes by screening for individuals with the highest private and social benefits of receiving the vaccine. The solution casts light on the classic question of whether prices or priorities should be used to allocate scarce public resources under externalities and equity concerns. Full Paper: https://ssrn.com/abstract=3846931"
+  },
+  {
+    "paper_id": "2bb8fda320c3dd7951959939d50fa5aef639f430",
+    "title": "Equivalence Between the Two-Dimensional Value Model and the Pareto Weight Model",
+    "year": 2021,
+    "author_ids": [
+      "3435272",
+      "1794750",
+      "153280673",
+      "153280673"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "31379e76e02f112ef84e75b761c779f16e9e1727",
+    "title": "Discovering Auctions: Contributions of Paul Milgrom and Robert Wilson*",
+    "year": 2021,
+    "author_ids": [
+      "1799601",
+      "3278308",
+      "1794750",
+      "153280673",
+      "3435272"
+    ],
+    "venue": "The Scandinavian Journal of Economics",
+    "citation_count": 13,
+    "abstract": "The 2020 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel was awarded to Paul R. Milgrom and Robert B. Wilson for \u201cimprovements to auction theory and inventions of new auction formats\u201d. In this survey article, we review the contributions of the laureates, emphasizing the subtle interplay between deep theoretical questions and practical design challenges that resulted in one of the most successful fields of economics."
+  },
+  {
+    "paper_id": "4ffd24dbf820e78fde5ee530abd5a95ed3eb061f",
+    "title": "The Value of Excess Supply in Spatial Matching Markets",
+    "year": 2021,
+    "author_ids": [
+      "153280673",
+      "82842285",
+      "3278308",
+      "144638930"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 13,
+    "abstract": "We study dynamic matching in a spatial setting. Drivers are distributed at random on some interval. Riders arrive in some (possibly adversarial) order at randomly drawn points. The platform observes the location of the drivers and can match newly arrived riders immediately or can wait for more riders to arrive. Unmatched riders incur a waiting cost of c per period. Furthermore, the platform can match riders and drivers irrevocably, and the cost of matching a driver to a rider is equal to the distance between them. Our goal is to investigate the value of 'slack supply'. For this purpose, we ask two questions: (1) What is the performance of a naive algorithm with extra drivers? and (2) How does this compare to the performance of a smart algorithm, but without the extra drivers? We prove that a naive algorithm with extra drivers performs better than the ex-post optimal algorithm in a balanced market. With n riders and drivers in the system, even the ex-post optimal matching does not have a cost less than \u0398(\u221an). However, when there are (1+\u03b5) drivers per rider (for any \u03b5 > 0$), the cost of matching by the greedy algorithm, which pairs each arriving rider to the closest available driver, is O(log(n)). In particular, if in total there are O(n5/6) excess drivers, then the greedy algorithm has a cost of o(\u221an) and hence beats the optimal algorithm. Our results shed light on the critical role of (small) excess supply in spatial matching markets."
+  },
+  {
+    "paper_id": "f60386c0dce00655905568c8cd1f306bc2ddee16",
+    "title": "Global kidney chains",
+    "year": 2021,
+    "author_ids": [
+      "3139725",
+      "153280673",
+      "47107724",
+      "2418685"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 5,
+    "abstract": "Significance Kidney failure is among the leading causes of death worldwide, and the best treatment is transplantation. However, transplants are in short supply because of shortfalls of transplantable organs and of finances. In the United States and some other countries, kidney exchange chains have emerged as a way to increase the number of transplants; patients who have a willing donor but cannot receive that donor\u2019s kidney can each receive a compatible kidney from another patient\u2019s intended donor. Such programs are much better developed within the borders of wealthy countries, which is of little help to patients in countries with limited kidney transplantation or exchange. This paper proposes and analyzes a way to extend kidney exchange chains to share the benefits globally. Kidney failure is a worldwide scourge, made more lethal by the shortage of transplants. We propose a way to organize kidney exchange chains internationally between middle-income countries with financial barriers to transplantation and high-income countries with many hard to match patients and patient\u2013donor pairs facing lengthy dialysis. The proposal involves chains of exchange that begin in the middle-income country and end in the high-income country. We also propose a way of financing such chains using savings to US health care payers."
+  },
+  {
+    "paper_id": "0914cdbea9e237f57e90e92333758657f8da6824",
+    "title": "Approximate Random Allocation Mechanisms",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "3139725"
+    ],
+    "venue": "The Review of Economic Studies",
+    "citation_count": 36,
+    "abstract": "\n We generalize the scope of random allocation mechanisms, in which the mechanism first identifies a feasible \u201cexpected allocation\u201d and then implements it by randomizing over nearby feasible integer allocations. The previous literature has shown that the cases in which this is possible are sharply limited. We show that if some of the feasibility constraints can be treated as goals rather than hard constraints, then, subject to weak conditions that we identify, any expected allocation that satisfies all the constraints and goals can be implemented by randomizing among nearby integer allocations that satisfy all the hard constraints exactly and the goals approximately. By defining ex post utilities as goals, we are able to improve the ex post properties of several classic assignment mechanisms, such as the random serial dictatorship. We use the same approach to prove the existence of $\\epsilon$-competitive equilibrium in large markets with indivisible items and feasibility constraints."
+  },
+  {
+    "paper_id": "1b093cc296da5d6e8cce0672b438d61dd24a6c9d",
+    "title": "Unpaired Kidney Exchange: Overcoming Double Coincidence of Wants without Money",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "2086213178",
+      "49990673",
+      "8414650",
+      "2810604",
+      "3339558"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 20,
+    "abstract": "We propose a new matching algorithm -- Unpaired kidney exchange -- to tackle the problem of double coincidence of wants without using money. The fundamental idea is that \"memory\" can serve as a medium of exchange. In a dynamic matching model with heterogeneous agents, we prove that average waiting time under the Unpaired algorithm is close to optimal, substantially less than the standard pairwise and chain exchange algorithms. We evaluate this algorithm using a rich dataset of kidney patients in France. Counterfactual simulations show that the Unpaired algorithm can match 57% of the patients, with an average waiting time of 440 days (state-of-the-art algorithms match about 34% with an average waiting time of 695 days). The optimal algorithm, which is practically infeasible, performs only slightly better: it matches 58% of the patients and leads to an average waiting time of 426 days. The Unpaired algorithm confronts two incentive-related practical challenges. We address those challenges via a modified version of the Unpaired algorithm that employs kidneys from the deceased donors waiting list. It can match 86% of the patients, while reducing the average waiting time to about 155 days."
+  },
+  {
+    "paper_id": "2bad15d02d2ae6f6bae7ee86f77061c252cb309b",
+    "title": "Socioeconomic Network Heterogeneity and Pandemic Policy Response",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "2339356080",
+      "2798537",
+      "119198887",
+      "2264161055",
+      "2006364617",
+      "3451661",
+      "2136386",
+      "2411790537"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 59,
+    "abstract": "We develop a heterogeneous-agents network-based model to analyze alternative policies during a pandemic outbreak, accounting for health and economic trade-offs within the same empirical framework. We leverage a variety of data sources, including data on individuals' mobility and encounters across metropolitan areas, health records, and measures of the possibility to be productively working from home. This combination of data sources allows us to build a framework in which the severity of a disease outbreak varies across locations and industries, and across individuals who differ by age, occupation, and preexisting health conditions. We use this framework to analyze the impact of different social distancing policies in the context of the COVID-19 outbreaks across US metropolitan areas. Our results highlight how outcomes vary across areas in relation to the underlying heterogeneity in population density, social network structures, population health, and employment characteristics. We find that policies by which individuals who can work from home continue to do so, or in which schools and firms alternate schedules across different groups of students and employees, can be effective in limiting the health and healthcare costs of the pandemic outbreak while also reducing employment losses."
+  },
+  {
+    "paper_id": "67a65a4f52cdb1b0ea2f56241534edb5bf214745",
+    "title": "Redistributive Allocation Mechanisms",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "3435272",
+      "1794750"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 47,
+    "abstract": "Many scarce public resources are allocated at below-market-clearing prices and sometimes for free. Such \u201cnonmarket\u201d mechanisms sacrifice some surplus, yet they can potentially improve equity. We develop a model of mechanism design with redistributive concerns. Agents are characterized by a privately observed willingness to pay for quality, a publicly observed label, and a social welfare weight. A market designer controls allocation and pricing of a set of objects of heterogeneous quality and maximizes the expectation of a welfare function. The designer does not directly observe individuals\u2019 social welfare weights. We derive structural insights about the form of the optimal mechanism, leading to a framework for determining how and when to use nonmarket mechanisms."
+  },
+  {
+    "paper_id": "728f86971b396b1a1aaf1e2d591e968e21e2064d",
+    "title": "Credible Auctions: A Trilemma",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "3278308"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 120,
+    "abstract": "Consider an extensive\u2010form mechanism, run by an auctioneer who communicates sequentially and privately with bidders. Suppose the auctioneer can deviate from the rules provided that no single bidder detects the deviation. A mechanism iscredibleif it is incentive\u2010compatible for the auctioneer to follow the rules. We study the optimal auctions in which only winners pay, under symmetric independent private values. The first\u2010price auction is the unique credible static mechanism. The ascending auction is the unique credible strategy\u2010proof mechanism."
+  },
+  {
+    "paper_id": "9c7e3eadbb7b661ffe7f1fc55722d24f3b5f9031",
+    "title": "Thickness and Information in Dynamic Matching Markets",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "2295169298",
+      "1681474"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "9de8f77c5d2c31988efac77f1bd29ddd6ddd0cfc",
+    "title": "Thickness and Information in Dynamic Matching Markets",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "3278308",
+      "1681474"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 151,
+    "abstract": "We introduce a simple model of dynamic matching in networked markets, where agents arrive and depart stochastically and the composition of the trade network depends endogenously on the matching algorithm. If the planner can identify agents who are about to depart, then waiting to thicken the market substantially reduces the fraction of unmatched agents. If not, then matching agents greedily is close to optimal. We specify conditions under which local algorithms that choose the right time to match agents, but do not exploit the global network structure, are close to optimal. Finally, we consider a setting where agents have private information about their departure times and design a mechanism to elicit this information."
+  },
+  {
+    "paper_id": "a74cf94b4504db0c786b76c826cc2a449e54ddd3",
+    "title": "Centralized School choice with unequal outside options",
+    "year": 2020,
+    "author_ids": [
+      "2833001",
+      "153280673",
+      "118217751",
+      "153420182",
+      "39104315"
+    ],
+    "venue": "Journal of Public Economics",
+    "citation_count": 26,
+    "abstract": "We study how market design choices exacerbate or mitigate pre-existing inequalities among partici- pants. We introduce outside options in a well-known school choice model, and show that students always prefer manipulable over strategy-proof mechanisms if and only if they have an outside option. We test for the proposed relationship between outside options and manipulability in a setting where we can identify students\u2019 outside options and observe applications under two mechanisms. Consistent with theory, students with an outside option are more likely to list popular, highly-rated schools under the Boston mechanism, and this gap disappears after switching to a Deferred Acceptance mechanism."
+  },
+  {
+    "paper_id": "b2211e93d702096bf1955871c662fa1fb9b51e63",
+    "title": "Investment Incentives in Near-Optimal Mechanisms",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "In many real-world resource allocation problems, optimization is computationally intractable, so any practical allocation mechanism must be based on an approximation algorithm. We study investment incentives in strategy-proof mechanisms that use such approximations. In sharp contrast with the Vickrey-Clark-Groves mechanism, for which individual returns on investments are aligned with social welfare, we find that some algorithms that approximate efficient allocation arbitrarily well can nevertheless create misaligned investment incentives that lead to arbitrarily bad overall outcomes. However, if a near-efficient algorithm \"excludes bossy negative externalities,\" then its outcomes remain near-efficient even after accounting for investments. A weakening of this \"XBONE\" condition is necessary and sufficient for the result."
+  },
+  {
+    "paper_id": "9c4a092afa173bbb74e3185b22c5a15bcaa14f8a",
+    "title": "New Effective Method for Object Recognition based on Probabilistic Pruning of Visual Characteristics in HMAX",
+    "year": 2019,
+    "author_ids": [
+      "153280673",
+      "30448970",
+      "144500242"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e1ba163add43af79da3a063c6eab114e482b55b5",
+    "title": "de travail du personnel 2019-22 Online Privacy and Information Disclosure by Consumers by Shota Ichihashi",
+    "year": 2019,
+    "author_ids": [
+      "98372127",
+      "153280673",
+      "151445626",
+      "2631417",
+      "2277453098",
+      "66446045",
+      "2108947070",
+      "3435272",
+      "1411480611",
+      "3295708",
+      "2927136",
+      "49962196",
+      "3278308",
+      "2108636835",
+      "2154101",
+      "2053793899",
+      "13035705",
+      "48436181",
+      "1836323",
+      "98543827",
+      "122209867"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0ed687d373cc47ef727e8e3d1e8096f2db3dcc4b",
+    "title": "Object Recognition Inspiring HVS",
+    "year": 2018,
+    "author_ids": [
+      "153280673",
+      "6546109",
+      "144500242"
+    ],
+    "venue": "Indonesian Journal of Electrical Engineering and Computer Science",
+    "citation_count": 3,
+    "abstract": "Human recognize objects in complex natural images very fast within a fraction of a second. Many computational object recognition models inspired from this powerful ability of human. The Human Visual System (HVS) recognizes object in several processing layers which we know them as hierarchically model. Due to amazing complexity of HVS and the connections in visual pathway, computational modeling of HVS directly from its physiology is not possible. So it considered as a some blocks and each block modeled separately. One models inspiring of HVS is HMAX which its main problem is selecting patches in random way. As HMAX is a hierarchical model, HMAX can enhanced with enhancing each layer separately. In this paper instead of random patch extraction, Desirable Patches for HMAX (DPHMAX) will extracted.\u00a0 HVS for extracting patch first selected patches with more information. For simulating this block patches with more variance will be selected. Then HVS will chose patches with more similarity in a class. For simulating this block one algorithm is used. For evaluating proposed method, Caltech 5 and Caltech101 datasets are used. Results show that the proposed method (DPMAX) provides a significant performance over HMAX and other models with the same framework."
+  },
+  {
+    "paper_id": "54f107ac21f7f71f6b450241c1ab7c9d1df3dcbe",
+    "title": "Just a Few Seeds More: Value of Network Information for Diffusion",
+    "year": 2018,
+    "author_ids": [
+      "153280673",
+      "50810604",
+      "2255974428",
+      "2660799",
+      "2255824378",
+      "2346290561",
+      "2258553351",
+      "2294567827",
+      "2411237542",
+      "2226177918",
+      "48210474",
+      "144179270",
+      "2783939",
+      "2535141",
+      "2273772940",
+      "2255758306",
+      "121435111",
+      "2255947680",
+      "1794750",
+      "2256812515",
+      "2311462561",
+      "1410528145",
+      "2316648386",
+      "2238489478",
+      "2261024770",
+      "2270911674",
+      "2257404145",
+      "2263158692",
+      "2246201526",
+      "144460989",
+      "119143253"
+    ],
+    "venue": null,
+    "citation_count": 53,
+    "abstract": null
+  },
+  {
+    "paper_id": "92fc27a64d72818067505c8f1d9e0df62fed8ff4",
+    "title": "Diffusion, Seeding, and the Value of Network Information",
+    "year": 2018,
+    "author_ids": [
+      "153280673",
+      "50810604",
+      "144638930"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 24,
+    "abstract": "Identifying the optimal set of individuals to first receive information (`seeds') in a social network is a widely-studied question in many settings, such as the diffusion of information, microfinance programs, and new technologies. Numerous studies have proposed various network-centrality based heuristics to choose seeds in a way that is likely to boost diffusion. Here we show that, for some frequently studied diffusion processes, randomly seeding S + x individuals can prompt a larger cascade than optimally targeting the best S individuals, for a small x. We prove our results for large classes of random networks, but also show that they hold in simulations over several real-world networks. This suggests that the returns to collecting and analyzing network information to identify the optimal seeds may not be economically significant. Given these findings, practitioners interested in communicating a message to a large number of people may wish to compare the cost of network-based targeting to that of slightly expanding initial outreach."
+  },
+  {
+    "paper_id": "9b9ea85c88a4ef4b2bcc543ba1c9d769854a4e88",
+    "title": "School Choice with Unequal Outside Options",
+    "year": 2018,
+    "author_ids": [
+      "153280673",
+      "153420182"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "dd0e8a7bec3913bafe8002fcd270686eac0150fe",
+    "title": "Credible Mechanisms",
+    "year": 2018,
+    "author_ids": [
+      "153280673",
+      "3278308"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 37,
+    "abstract": "Consider an extensive-form mechanism, run by an auctioneer who communicates sequentially and privately with agents. Suppose the auctioneer can make any deviation that no single agent can detect. We study the mechanisms such that it is incentive-compatible for the auctioneer not to deviate - the credible mechanisms. Consider the optimal auctions in which only winners make transfers. The first-price auction is the unique credible static mechanism. The ascending auction is the unique credible strategy-proof mechanism."
+  },
+  {
+    "paper_id": "e6cae1d1511107ca7531ae782216e439dd81cc3d",
+    "title": "Redistribution through Markets",
+    "year": 2018,
+    "author_ids": [
+      "3435272",
+      "1794750",
+      "153280673"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 89,
+    "abstract": "Even when global income redistribution is not feasible, market designers can seek to mitigate inequality within individual markets. If sellers are systematically poorer than buyers, for example, they will be willing to sell at relatively low prices. Yet a designer who cares about inequality might prefer to set higher prices precisely when sellers are poor -- effectively, using the market as a redistributive tool. In this paper, we seek to understand how to design goods markets optimally in the presence of persistent inequality. Using a mechanism design approach, we find that redistribution through markets can indeed be optimal. When there is substantial inequality across sides of the market, the designer uses a tax-like mechanism, introducing a wedge between the buyer and seller prices, and redistributing the resulting surplus to the poorer side of the market via lump-sum payments. When there is significant within-side inequality, meanwhile, the designer imposes price controls even though doing so induces rationing."
+  },
+  {
+    "paper_id": "5b7ac588081168f5dfe82b31dc8ffcebf4e884d7",
+    "title": "Financing Transplant Costs of the Poor : A Dynamic Model of Global Kidney Exchange \u2217",
+    "year": 2017,
+    "author_ids": [
+      "3139725",
+      "153280673",
+      "47107724",
+      "2418685"
+    ],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "7acafc4dcb71fae5c6552f674d38c79641786901",
+    "title": "Information Aggregation in Overlapping Generations",
+    "year": 2017,
+    "author_ids": [
+      "153280673",
+      "144638930",
+      "31518745"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "b7757881e7d0bce0e5abc8f8927dc46214e78d77",
+    "title": "Credible Mechanism Design",
+    "year": 2017,
+    "author_ids": [
+      "153280673",
+      "3278308"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "0e55cba4aba66c794a9e2c2b2001743fed70cbb3",
+    "title": "How heterogeneous timing of participation across people improves diffusion",
+    "year": 2016,
+    "author_ids": [
+      "153280673",
+      "1724913"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "78046827f8354e2c9251e6898c7647a1f1f0c554",
+    "title": "A New Interpretation of Dictatorship with Applications in Social Choice Theory",
+    "year": 2016,
+    "author_ids": [
+      "153280673",
+      "103171242"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "d6e505f6b7e4f5ac70809cbd1e3bb93ccbd2928f",
+    "title": "Diffusion in Networks and the Unexpected Virtue of Burstiness",
+    "year": 2016,
+    "author_ids": [
+      "153280673",
+      "1724913"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 34,
+    "abstract": "Whether an idea, information, disease, or innovation diffuses throughout a society depends not only on the structure of the network of interactions, but also on the timing of those interactions. Recent studies have shown that diffusion can fail on a network in which people are only active in \"bursts,\" active for a while and then silent for a while, but diffusion could succeed on the same network if people were active in a more random Poisson manner. Those studies generally consider models in which nodes are active according to the same random timing process and then ask which timing is optimal. In reality, people differ widely in their activity patterns -- some are bursty and others are not. We model diffusion on networks in which agents differ in their activity patterns. We show that bursty behavior does not always hurt the diffusion, and in fact having some (but not all) of the population be bursty significantly helps diffusion. We prove that maximizing diffusion requires heterogeneous activity patterns across agents, and the overall maximizing pattern of agents' activity times does not involve any Poisson behavior."
+  },
+  {
+    "paper_id": "42fa751eb83110ad3fbc35eac3639ab2d10311c7",
+    "title": "The Study on Ken Hyland\u2019s Interactional Model in OUP Publications",
+    "year": 2015,
+    "author_ids": [
+      "153280673",
+      "113149922"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "9ea71f3970cba38967cdeab164d2bd7e81e2fdf7",
+    "title": "High probability guarantees in repeated games: Theory and applications in information theory",
+    "year": 2015,
+    "author_ids": [
+      "2813305",
+      "6475907",
+      "153280673"
+    ],
+    "venue": "International Symposium on Information Theory",
+    "citation_count": 1,
+    "abstract": "We introduce a \u201chigh probability\u201d framework for repeated games with incomplete information. In our non-equilibrium setting, players aim to guarantee a certain payoff with high probability, rather than in expected value. We provide a high probability counterpart of the classical result of Mertens and Zamir for the zero-sum repeated games. Any payoff that can be guaranteed with high probability can be guaranteed in expectation, but the reverse is not true. Hence, unlike the average payoff case where the payoff guaranteed by each player is the negative of the payoff by the other player, the two guaranteed payoffs would differ in the high probability framework. One motivation for this framework comes from information transmission systems, where it is customary to formulate problems in terms of asymptotically vanishing probability of error. An application of our results to compound arbitrarily varying channels is given."
+  }
+]

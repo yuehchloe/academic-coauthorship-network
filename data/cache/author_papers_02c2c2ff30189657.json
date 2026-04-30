@@ -1,0 +1,403 @@
+[
+  {
+    "paper_id": "832b85b0d44d1e92a0790d81b58d20333bde5ea7",
+    "title": "Algorithmic Mechanism Design With Investment",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 3,
+    "abstract": "We study the investment incentives created by truthful mechanisms that allocate resources using approximation algorithms. Some approximation algorithms guarantee nearly 100% of the optimal welfare in the allocation problem but guarantee nothing when accounting for investment incentives. An algorithm's allocative and investment guarantees coincide if and only if its \n confirming negative externalities are sufficiently small. We introduce fast approximation algorithms for the knapsack problem that have no confirming negative externalities and guarantees close to 100% for both allocation and investment.\n"
+  },
+  {
+    "paper_id": "1a381e27ba1fd60be101f5cb81ebcce65afd666b",
+    "title": "Taming the Communication and Computation Complexity of Combinatorial Auctions: The FUEL Bid Language",
+    "year": 2022,
+    "author_ids": [
+      "1724595",
+      "48548583",
+      "2042178272"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 12,
+    "abstract": "Combinatorial auctions have found widespread application for allocating multiple items in the presence of complex bidder preferences. The enumerative exclusive OR (XOR) bid language is the de facto standard bid language for spectrum auctions and other applications, despite the difficulties, in larger auctions, of enumerating all the relevant packages or solving the resulting NP-hard winner determination problem. We introduce the flexible use and efficient licensing (FUEL) bid language, which was proposed for radio spectrum auctions to ease both communications and computations compared with XOR-based auctions. We model the resulting allocation problem as an integer program, discuss computational complexity, and conduct an extensive set of computational experiments, showing that the winner determination problem of the FUEL bid language can be solved reliably for large realistic-sized problem instances in less than half an hour on average. In contrast, auctions with an XOR bid language quickly become intractable even for much smaller problem sizes. We compare a sealed-bid FUEL auction to a sealed-bid auction with an XOR bid language and to a simultaneous clock auction. The sealed-bid auction with an XOR bid language incurs significant welfare losses because of the missing bids problem and computational hardness, the simultaneous clock auction leads to a substantially lower efficiency than FUEL because of the exposure problem. This paper was accepted by Axel Ockenfels."
+  },
+  {
+    "paper_id": "516f9a2dbe320d1a997dff910a8e4b05daf6e25f",
+    "title": "The Value of Model Misspeci\ufb01cation in Communication *",
+    "year": 2022,
+    "author_ids": [
+      "2229122234",
+      "2229123939",
+      "145268902",
+      "8731644",
+      "2207749403",
+      "1836067",
+      "49985981",
+      "48548583",
+      "3073753"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8fee187102ccded768062b55cc4ec84a53e4c3e3",
+    "title": "Investment Incentives in Truthful Approximation Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "a945ca03711fc2479a831f9376598704a38baa3f",
+    "title": "Linear Pricing Mechanisms for Markets without Convexity",
+    "year": 2022,
+    "author_ids": [
+      "48548583",
+      "2155221906"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 3,
+    "abstract": "We introduce two linear pricing mechanisms for quasilinear economies in which market-clearing prices may not exist. Electricity markets, fisheries markets, and many others include producers with start-up costs, ramping costs, or other fixed costs that fail the convexity assumptions traditionally used to prove that clearing prices exist. Each mechanism relaxes a condition of Walrasian equilibrium. While the Walrasian mechanism determines payments among buyers and sellers using a single price vector, our markup mechanism allows one more parameter -- a multiplier -- that marks up the prices paid by buyers above those paid to sellers. These markups allow the mechanism to avoid budget deficits even when non-convexities lead to failures of market-clearing. And while the Walrasian mechanism assigns each producer its preferred production plan, our rationing mechanism carefully rations some buyers. Both mechanisms always produce feasible allocations, avoid budget deficits, and are computationally tractable. The proportion of efficient surplus lost in the markup mechanism is O(1/N), where N is the number of buyers and sellers. When agents on the buyer side have convex preferences and strongly monotone demand, the rationing mechanism suffers a smaller welfare loss, namely O(1/N2-\u03b5) for all \u03b5>0. Importantly, both mechanisms have good large-market incentive properties similar to those of the Walrasian mechanism. Key to our construction of these mechanisms and of some independent interest is our new Bound-Form First Welfare Theorem for quasilinear economies, which gives an upper bound on the deadweight loss of any feasible allocation \u03c9 in terms of any positive price vector p. It asserts that the welfare loss is bounded above by B+R, where B is the budget deficit from \u03c9 at prices p, which is non-zero when supply strictly exceeds demand, and R is the sum of the rationing losses suffered by each individual agent n when its allocated bundle \u03c9n is different from its preferred bundle at price vector p. The Bound Form First Welfare Theorem takes its name from its implication that the welfare loss is zero when (p,\u03c9) is a competitive equilibrium. The full paper is available at https://mitchwatt.github.io/files/PricingMechanismsNonConvex.pdf."
+  },
+  {
+    "paper_id": "fece263c84c567fa166caf36b497c5d833a5a01a",
+    "title": "Walrasian Mechanisms for Non-convex Economies and the Bound-Form First Welfare Theorem",
+    "year": 2022,
+    "author_ids": [
+      "48548583",
+      "2155221906"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "75eef55b380de5f780efd5e12c0ba4179c32eef6",
+    "title": "NBER WORKING PAPER SERIES EQUILIBRIUM EFFECTS OF PAY TRANSPARENCY",
+    "year": 2021,
+    "author_ids": [
+      "2273809009",
+      "1414112402",
+      "1741215386",
+      "2261156334",
+      "2117346885",
+      "104356423",
+      "145861452",
+      "66446045",
+      "52436046",
+      "3222806",
+      "3435272",
+      "39040466",
+      "118685270",
+      "32867808",
+      "2467114",
+      "1793292",
+      "46880738",
+      "3278308",
+      "117871022",
+      "120533130",
+      "2201823401",
+      "48548583",
+      "2853085",
+      "1414413396",
+      "3098101",
+      "11384921",
+      "143649975",
+      "2061221814",
+      "144839327",
+      "88299747",
+      "1836323",
+      "1937314"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b3b93f52a04850dcbc710738e76e59118eb9773e",
+    "title": "Auction Research Evolving: Theorems and Market Designs",
+    "year": 2021,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 29,
+    "abstract": null
+  },
+  {
+    "paper_id": "e912d4b0197bf8d2fb5be67dd372974ba77f8cf0",
+    "title": "Linear Pricing Mechanisms without Convexity",
+    "year": 2021,
+    "author_ids": [
+      "48548583",
+      "2155221906"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "389b8b2fa1dc0cdc58cbc5bddd2534a0390c9558",
+    "title": "Consumer Theory",
+    "year": 2020,
+    "author_ids": [
+      "46880738",
+      "48548583"
+    ],
+    "venue": "Economics Primer",
+    "citation_count": 33,
+    "abstract": "Consumer theory is concerned with how a rational consumer would make consumption decisions. What makes this problem worthy of separate study, apart from the general problem of choice theory, is its particular structure that allows us to derive economically meaningful results. The structure arises because the consumer\u2019s choice sets sets are assumed to be defined by certain prices and the consumer\u2019s income or wealth. With this in mind, we define the consumer problem (CP) as:"
+  },
+  {
+    "paper_id": "3da46761f6431d03296f3a7498d25e1ca5975662",
+    "title": "Clock Auctions and Radio Spectrum Reallocation",
+    "year": 2020,
+    "author_ids": [
+      "48548583",
+      "11384921"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 79,
+    "abstract": "We study the class of multiround, multiproduct clock procurement auctions that reduce offered prices at each round. When prices stop declining, the remaining bidders become the winning sellers. For single-minded bidders, each such auction has five properties not shared by Vickrey auctions: each is obviously strategy-proof and group-strategy-proof, sets prices that are Nash equilibrium winning bids in the related first-price auction, preserves winner privacy about values, and can be extended to satisfy a budget constraint. In simulations of the US incentive auction, a heuristic clock auction from this class achieves quick computations, high efficiency, and low prices."
+  },
+  {
+    "paper_id": "82fafc83cd7cd46dd58a34a73f849db6145acde5",
+    "title": "Incentive Auction Design Alternatives: A Simulation Study",
+    "year": 2020,
+    "author_ids": [
+      "32024946",
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 6,
+    "abstract": "Over 13 months in 2016-17 the US Federal Communications Commission (FCC) conducted an \"incentive auction\" to repurpose radio spectrum from broadcast television to wireless internet. The result of the auction was to remove 14 UHF-TV channels from broadcast use, sell 70 MHz of wireless internet licenses for $19.8 billion, and create 14 MHz of spectrum for unlicensed uses. With fewer UHF channels remaining for TV broadcast, the TV spectrum was also reorganized. Each station was either \"repacked\" in the leftover channels or voluntarily sold its broadcast rights, either going off the air or switching to a different band. The volunteers received a total of $10.05 billion to yield or exchange their rights and make repacking possible. This paper uses a computational lens to revisit part of the incentive auction design: the descending clock \"reverse\" auction used to procure broadcast rights. We investigated the quantitative significance of various aspects of the design by running extensive simulations, leveraging a reverse auction simulator and realistic models of bidder values. Because the incentive auction design was both novel and extremely complex [1], it was not possible to thoroughly consider every potential design variation before the auction was run. Our goal is to understand how well the auction design performed after the fact, particularly asking which elements of the design were most important and which variations of the design might have led to even better outcomes."
+  },
+  {
+    "paper_id": "b2211e93d702096bf1955871c662fa1fb9b51e63",
+    "title": "Investment Incentives in Near-Optimal Mechanisms",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "In many real-world resource allocation problems, optimization is computationally intractable, so any practical allocation mechanism must be based on an approximation algorithm. We study investment incentives in strategy-proof mechanisms that use such approximations. In sharp contrast with the Vickrey-Clark-Groves mechanism, for which individual returns on investments are aligned with social welfare, we find that some algorithms that approximate efficient allocation arbitrarily well can nevertheless create misaligned investment incentives that lead to arbitrarily bad overall outcomes. However, if a near-efficient algorithm \"excludes bossy negative externalities,\" then its outcomes remain near-efficient even after accounting for investments. A weakening of this \"XBONE\" condition is necessary and sufficient for the result."
+  },
+  {
+    "paper_id": "ef7227bf2dbd24db0d68f866e37a960096ce1fc3",
+    "title": "Extended proper equilibrium",
+    "year": 2020,
+    "author_ids": [
+      "48548583",
+      "29794155"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 10,
+    "abstract": "We introduce extended proper equilibrium, which refines proper equilibrium (Myerson, 1978) by adding across-player restrictions on trembles. This refinement coincides with proper equilibrium in games with two players but adds new restrictions in games with three or more players. One implication of these additional restrictions is that any tremble that is costless in equilibrium is regarded by all as more likely than any costly tremble, even one by a different player. At least one extended proper equilibrium exists in every finite game. The refinement can also be characterized in terms of a symmetric, meta-version of the game in which players originate from a common pool: if these players tremble symmetrically and in the way of proper equilibrium, then the induced play in the original game is an extended proper equilibrium."
+  },
+  {
+    "paper_id": "05421884cd4891d2f5085fc504d4f280e22e4669",
+    "title": "Auction Market Design: Recent Innovations",
+    "year": 2019,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 51,
+    "abstract": "Market design applies economic principles to the often messy problems of real-world exchange in which goods may not be homogeneous, the identities of trading partners may matter, contracts may not be executed, and even the formulation of trade as balancing supply and demand may be unhelpful. This article recounts the mostly academic research advancing the analysis and design of such markets. Among the highlighted applications are ones involving financial markets, Internet advertising, electricity auctions, spectrum auctions, cryptocurrencies, and combinatorial procurements."
+  },
+  {
+    "paper_id": "44f5ce1195d89016fc21afcff29027d2b7072db5",
+    "title": "Designing the US Incentive Auction",
+    "year": 2017,
+    "author_ids": [
+      "48548583",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 21,
+    "abstract": null
+  },
+  {
+    "paper_id": "820e72dcb9bca9c3674f6c005c596278d485d8af",
+    "title": "REDESIGNING SPECTRUM LICENSES \u201c Depreciating licenses \u201d would encourage innovation and investment",
+    "year": 2017,
+    "author_ids": [
+      "48548583",
+      "2608841",
+      "1739187522"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8461a6401f62d10f278bbb2e88babb01bb025117",
+    "title": "Assessing Economic Outcomes in Simulated Reverse Clock Auctions for Radio Spectrum",
+    "year": 2017,
+    "author_ids": [
+      "32024946",
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 8,
+    "abstract": "We investigate the economic outcomes that result under simulated bidder behavior in a model of the FCC's reverse auction for radio spectrum. In our simulations, limiting our notion of efficiency to the reverse auction in isolation, the reverse clock auction achieves very efficient solutions, the FCC's scoring rule greatly reduces the total payments to TV broadcasters at the cost of some efficiency, and using a poor feasibility checker can have grave consequences both in terms of the auction's cost and efficiency."
+  },
+  {
+    "paper_id": "b3a39d4cad599884fec3dc40356cc99064dbd9d7",
+    "title": "Deferred-Acceptance Clock Auctions and Radio Spectrum Reallocation\u2217",
+    "year": 2017,
+    "author_ids": [
+      "48548583",
+      "11384921"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "c9a14e276e9171b572a3abff145f946f00d44b05",
+    "title": "3. Vickrey Auctions and Substitution",
+    "year": 2017,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cb18db2e844cef58bb90442b3eac02754d817841",
+    "title": "Economics and computer science of a radio spectrum reallocation",
+    "year": 2017,
+    "author_ids": [
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 82,
+    "abstract": null
+  },
+  {
+    "paper_id": "cd7782d10270074d1c62498c66775362e77d7081",
+    "title": "Discovering Prices: Auction Design in Markets with Complex Constraints",
+    "year": 2017,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 53,
+    "abstract": null
+  },
+  {
+    "paper_id": "e2d14bbfdce1707c0b95310a98bd29e9157fed51",
+    "title": "2. (Near-)Substitutes, Prices, and Stability",
+    "year": 2017,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "e40514538c4ed839dfddca39c8c167e773f38e53",
+    "title": "4. Deferred-Acceptance Auctions and Near-Substitutes",
+    "year": 2017,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "22f20df5efd17163a9060d4045fe915779dcdcdc",
+    "title": "Auctions of Real Options\u2217",
+    "year": 2016,
+    "author_ids": [
+      "2341068290",
+      "2411656360",
+      "2246335784",
+      "48548583",
+      "2341022495",
+      "2055642935",
+      "2411920171"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "4c48bef0dc421e769b8d4d2ddc9919606c83964f",
+    "title": "Regulating Trade Among Agents",
+    "year": 2016,
+    "author_ids": [
+      "12839882",
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 93,
+    "abstract": null
+  },
+  {
+    "paper_id": "b742cba4c04f0fd66900b8fa06911cf509b4e332",
+    "title": "Generalized Deferred Acceptance Auctions with Multiple Relinquishment Options for Spectrum Reallocation",
+    "year": 2016,
+    "author_ids": [
+      "48548583",
+      "66240512",
+      "46880738"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ca61f4153003f3eb298a7146ac458de693921bac",
+    "title": "Test-Set Equilibrium with Auction Applications \u21e4",
+    "year": 2016,
+    "author_ids": [
+      "48548583",
+      "29794155"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b1854520004a81bf3fadefd9e715e94c426a0d03",
+    "title": "Adverse Selection and Auction Design for Internet Display Advertising",
+    "year": 2015,
+    "author_ids": [
+      "1687198",
+      "30487571",
+      "48548583"
+    ],
+    "venue": "EAI Endorsed Transactions on Scalable Information Systems",
+    "citation_count": 53,
+    "abstract": "We model an online display advertising environment with brand advertisers and better-informed performance advertisers, and seek an auction mechanism that is strategy-proof, anonymous and insulates brand advertisers from adverse selection. We find that the only such mechanism that is also false-name proof assigns the item to the highest bidding performance advertiser only when the ratio of the highest bid to the second highest bid is sufficiently large. For fat-tailed match-value distributions, this new mechanism captures most of the gains from good matching and improves match values substantially compared to the common practice of setting aside impressions in advance."
+  }
+]

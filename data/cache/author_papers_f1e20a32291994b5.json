@@ -1,0 +1,535 @@
+[
+  {
+    "paper_id": "1238720064c8b4c9ef7e0584a05265c5c3f1bbc5",
+    "title": "Comparisons of Signals",
+    "year": 2024,
+    "author_ids": [
+      "2281765125",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 8,
+    "abstract": "A signal is a description of an information source that specifies both its correlation with the state and its correlation with other signals. Extending Blackwell (1953), we characterize when one signal is more valuable than another regardless of preferences and regardless of access to other signals. This comparison is equivalent to reveal-or-refine: every realization of the more valuable signal reveals the state or refines the realization of the less valuable signal. We also study other comparisons of signals, including sufficiency, martingale dominance, and Lehmann. Reveal-or-refine is also equivalent to making any of these comparisons robust to access to other signals. (JEL C90, D82, D83)"
+  },
+  {
+    "paper_id": "56b1cc266ca61e38fbc22261e48111adbeb255cc",
+    "title": "Representing type spaces as signal allocations",
+    "year": 2024,
+    "author_ids": [
+      "2330319682",
+      "2281768123",
+      "2968902"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "aeb882d71e32f56b2c1f885a708cee66c035b5ad",
+    "title": "Commitment and Randomization in Communication",
+    "year": 2024,
+    "author_ids": [
+      "2968902",
+      "2327730500"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": "When does Sender, in a Sender-Receiver game, strictly value commitment? In a setting with finitely many actions and states, we establish that, generically, commitment has no value if and only if a partitional experiment is optimal. Moreover, if Sender's preferred cheap-talk equilibrium necessarily involves randomization, then Sender values commitment. Our results imply that if a school values commitment to a grading policy, then the school necessarily prefers to grade unfairly. We also ask: for what share of preference profiles does commitment have no value? For any state space, if there are $\\left|A\\right|$ actions, the share is at least $\\frac{1}{\\left|A\\right|^{\\left|A\\right|}}$. As the number of states grows large, the share converges precisely to $\\frac{1}{\\left|A\\right|^{\\left|A\\right|}}$."
+  },
+  {
+    "paper_id": "bbb7056cfe0ae22885f3ef9320603f9db67dfdfb",
+    "title": "What is Newsworthy? Theory and Evidence",
+    "year": 2024,
+    "author_ids": [
+      "2304658851",
+      "8731644",
+      "2968902",
+      "122795272"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study newsworthiness in theory and practice. We focus on situations in which a news outlet observes the realization of a state of the world and must decide whether to report the realization to a consumer who pays an opportunity cost to consume the report. The consumer-optimal reporting probability is monotone in a proper scoring rule, a statistical measure of the amount of \u201cnews\u201d in the realization relative to the consumer\u2019s prior. We show that a particular scoring rule drawn from the statistics literature parsimoniously captures key patterns in reporting probabilities across several domains of US television news. We argue that the scoring rule can serve as a useful control variable in settings where a researcher wishes to test for bias in news reporting. Controlling for the score greatly lessens the appearance of bias in our applications"
+  },
+  {
+    "paper_id": "e7f73f417c85ac54264ba487204471bcb4950b24",
+    "title": "Bayesian Persuasion",
+    "year": 2024,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": "World Scientific Series in Economic Theory",
+    "citation_count": 1400,
+    "abstract": "2590 Suppose one person, call him Sender, wishes to persuade another, call her Receiver, to change her action. If Receiver is a rational Bayesian, can Sender persuade her to take an action he would prefer over the action she was originally going to take? If Receiver understands that Sender chose what information to convey with the intent of manipulating her action for his own benefit, can Sender still gain from persuasion? If so, what is the optimal way to persuade? These questions are of substantial economic importance. As Donald McCloskey and Arjo Klamer (1995) emphasize, attempts at persuasion command a sizable share of our resources. Persuasion, as we will define it below, plays an important role in advertising, courts, lobbying, financial disclosure, and political campaigns, among many other economic activities. Consider the example of a prosecutor trying to convince a judge that a defendant is guilty. When the defendant is indeed guilty, revealing the facts of the case will tend to help the prosecutor\u2019s case. When the defendant is innocent, revealing facts will tend to hurt the prosecutor\u2019s case. Can the prosecutor structure his arguments, selection of evidence, etc. so as to increase the probability of conviction by a rational judge on average? Perhaps surprisingly, the answer to this question is yes. Bayes\u2019s Law restricts the expectation of posterior beliefs but puts no other constraints on Bayesian Persuasion"
+  },
+  {
+    "paper_id": "4b3b7587ef1695122e7917f48a2ea6f943483ebf",
+    "title": "Relational incentives theory.",
+    "year": 2021,
+    "author_ids": [
+      "3325860",
+      "52574772",
+      "2968902",
+      "26569010"
+    ],
+    "venue": "Psychology Review",
+    "citation_count": 26,
+    "abstract": "Our life is built around coordinating efforts with others. This usually involves incentivizing others to do things and sustaining our relationship with them. Using the wrong incentives backfires: it lowers effort and tarnishes our relationships. But what constitutes a \"wrong\" incentive? And can incentives be used to shape relationships in a desired manner? To address these and other questions, we introduce relational incentives theory, which distinguishes between two aspects of incentives: schemes (how the incentive is used) and means (what is used as an incentive). Prior research has focused on means (e.g., monetary vs. nonmonetary incentives). Our theory highlights the importance of schemes, with a focus on how they interact with social relationships. It posits that the efficacy of incentives depends largely on whether the scheme fits the relational structure of the persons involved in the activity: participation incentive schemes for communal sharing relations, hierarchy for authority ranking relations, balancing for equality matching relations, and proportional incentive schemes for market pricing relations. We show that these four schemes encompass some of the most prevalent variants of incentives. We then discuss the antecedents and consequences of the use of congruent and incongruent incentive schemes. We argue that congruent incentives can reinforce the relationship. Incongruent incentives disrupt relational motives, which undermines the coordinating relationship and reduces effort. But, importantly, incongruent incentives can also be used intentionally to shift to a new relational model. The theory thus contributes to research on relational models by showing how people constitute and modulate relationships. It adds to the incentives and contracting literatures by offering a framework for analyzing the structural congruence between incentives and relationships, yielding predictions about the effects of incentives across different organizational and individual-level contexts. (PsycInfo Database Record (c) 2021 APA, all rights reserved)."
+  },
+  {
+    "paper_id": "4f88cddf849a39924b48078427ec01073556e7d7",
+    "title": "Bayesian persuasion and information design: perspectives and open issues",
+    "year": 2021,
+    "author_ids": [
+      "2968902",
+      "2110017838",
+      "1720611"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "1d2de6b9bb0bb7f32bffa12fce3b7fadabbc431f",
+    "title": "THE UNIVERSITY OF CHICAGO DO AUDITORS HELP PREVENT DATA BREACHES? A DISSERTATION SUBMITTED TO THE FACULTY OF THE UNIVERSITY OF CHICAGO BOOTH SCHOOL OF BUSINESS IN CANDIDACY FOR THE DEGREE OF DOCTOR OF PHILOSOPHY BY LISA",
+    "year": 2020,
+    "author_ids": [
+      "2108924192",
+      "120095685",
+      "145115724",
+      "2135654750",
+      "116236783",
+      "118684217",
+      "119247327",
+      "2379089500",
+      "2135657767",
+      "113576222",
+      "145467193",
+      "39361877",
+      "38877925",
+      "52044761",
+      "66181313",
+      "121833620",
+      "97613825",
+      "88390738",
+      "145101730",
+      "41171519",
+      "122800907",
+      "1453518113",
+      "2968902",
+      "1741395093",
+      "102451160",
+      "39981806",
+      "2730193",
+      "32671558",
+      "79317111",
+      "118997567",
+      "120900719",
+      "2007215662",
+      "33805699"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3af30c096c89b1adbdd4479360755aedb5a79f45",
+    "title": "The Effect of Information and Subsidies on Chlorine Usage in Zambia",
+    "year": 2020,
+    "author_ids": [
+      "2562406",
+      "144602990",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "2fcb53fd19c8449b6e7675c0b0097d314faf4b6b",
+    "title": "Bayesian Persuasion and Information Design",
+    "year": 2019,
+    "author_ids": [
+      "2968902"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 382,
+    "abstract": "A school may improve its students\u2019 job outcomes if it issues only coarse grades. Google can reduce congestion on roads by giving drivers noisy information about the state of traffic. A social planner might raise everyone's welfare by providing only partial information about solvency of banks. All of this can happen even when everyone is fully rational and understands the data-generating process. Each of these examples raises questions of what is the (socially or privately) optimal information that should be revealed. In this article, I review the literature that answers such questions."
+  },
+  {
+    "paper_id": "3c4bfc0d3d53f9e99e3a8c7263f2a0f84adc4249",
+    "title": "Replication data for: Peer Effects in Legislative Voting",
+    "year": 2019,
+    "author_ids": [
+      "98673581",
+      "49016717",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "46eac2b80e48e2a344b5e78962798bc7a0d72396",
+    "title": "Information Hierarchies",
+    "year": 2019,
+    "author_ids": [
+      "2330319682",
+      "2064078697",
+      "2968902"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 20,
+    "abstract": "If experiment \n A is Blackwell more informative than experiment \n B, it is always possible that \n A and \n B are induced by signals A\u2032 and B\u2032 such that A\u2032 is a refinement of B\u2032, that is, A\u2032 entails observing B\u2032 plus some additional information. We first show that this result does not extend beyond pairs of experiments: There exist collections of experiments that cannot be induced by a collection of signals so that whenever two experiments are Blackwell ordered, the associated signals are refinement ordered. In other words, sometimes it is impossible for more informed agents to know everything that less informed agents know. More broadly, define an \n information hierarchy to be a partially ordered set that ranks experiments in terms of informativeness. Is it the case that for any choice of experiments indexed on the hierarchy such that higher experiments are Blackwell more informative, there are signals that induce these experiments with higher signals being refinements of lower signals? We show that the answer is affirmative if and only if the undirected graph of the information hierarchy is a forest.\n"
+  },
+  {
+    "paper_id": "b0fad6cec5aa273f6561d287b2680b54e9d669b3",
+    "title": "Annual Review of Economics Bayesian Persuasion and Information Design",
+    "year": 2019,
+    "author_ids": [
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b90c3977e3b2fda6b75186c296589fe25f21060a",
+    "title": "Quantifying Information and Uncertainty",
+    "year": 2019,
+    "author_ids": [
+      "144047191",
+      "2968902"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 77,
+    "abstract": "We examine ways to measure the amount of information generated by a piece of news and the amount of uncertainty implicit in a given belief. Say a measure of information is valid if it corresponds to the value of news in some decision problem. Say a measure of uncertainty is valid if it corresponds to expected utility loss from not knowing the state in some decision problem. We axiomatically characterize all valid measures of information and uncertainty. We show that if measures of information and uncertainty arise from the same decision problem, then they are coupled in that the expected reduction in uncertainty always equals the expected amount of information generated. We provide explicit formulas for the measure of information that is coupled with any given measure of uncertainty and vice versa. Finally, we show that valid measures of information are the only payment schemes that never provide incentives to delay information revelation. (JEL D81, D83)"
+  },
+  {
+    "paper_id": "ceb6168ddf1222e2a8b7fea3b1a25d3bdbfe2141",
+    "title": "Knowledge Hierarchies",
+    "year": 2019,
+    "author_ids": [
+      "32074566",
+      "144047191",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ebc9ff5a855ccec18b803f2d7d2fbf171b3ce63f",
+    "title": "Peer Effects in Legislative Voting",
+    "year": 2019,
+    "author_ids": [
+      "98673581",
+      "49016717",
+      "2968902"
+    ],
+    "venue": "American Economic Journal: Applied Economics",
+    "citation_count": 43,
+    "abstract": "We exploit seating rules in the European Parliament to identify peer effects in legislative voting. Sitting adjacently leads to a 7 percent reduction in the overall likelihood that two members of the European Parliament (MEPs) from the same party differ in their vote. Peer effects are markedly stronger among pairs of women, MEP pairs from the same country, and in close votes. Using variation in seating across the parliament's two venues (Brussels and Strasbourg), we show that peer effects are persistent: MEPs who have sat together in the past disagree less even when they are not seated adjacently. (JEL D72, Z13)"
+  },
+  {
+    "paper_id": "42e26ce08dd360d7e2feef00955803134b8a8d8e",
+    "title": "Coming Apart? Cultural Distances in the United States over Time",
+    "year": 2018,
+    "author_ids": [
+      "2411566099",
+      "2411566099",
+      "2411566099",
+      "2968902"
+    ],
+    "venue": "American Economic Journal: Applied Economics",
+    "citation_count": 96,
+    "abstract": "We analyze trends in cultural distances between groups in the United States defined by income, education, gender, race, and political ideology. We measure cultural distance as the ability to infer an individual's group based on media diet, consumer behavior, time use, social attitudes, or newborn's name. Gender difference in time-use decreased between 1965 and 1995 and has remained constant since. Differences in social attitudes by political ideology, and somewhat by income, have increased over the last four decades. Whites and non-Whites have diverged in consumer behavior. For all other demographic divisions and cultural dimensions, cultural distance has been broadly constant over time. (JEL D12, D91, J15, J16, L82, Z13)"
+  },
+  {
+    "paper_id": "16f7aceba632c91b3a4a1ad86be3e95c239ca1d4",
+    "title": "Disclosure of endogenous information",
+    "year": 2017,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 49,
+    "abstract": null
+  },
+  {
+    "paper_id": "4b929708894fe49551eb8e2bd761b0556dd7cd29",
+    "title": "NBER WORKING PAPER SERIES WHEN HARRY FIRED SALLY: THE DOUBLE STANDARD IN PUNISHING MISCONDUCT",
+    "year": 2017,
+    "author_ids": [
+      "144127838",
+      "3379167",
+      "97885709",
+      "2411581293",
+      "2411481791",
+      "2259105343",
+      "2412385470",
+      "2246799151",
+      "122196275",
+      "8731644",
+      "2340155172",
+      "2361105246",
+      "2968902",
+      "2329753442",
+      "2288858186",
+      "2243488965",
+      "2253742235",
+      "51367757",
+      "2244343670",
+      "2411593876",
+      "2261145739",
+      "2411708728",
+      "145003173",
+      "145279878",
+      "2347339031",
+      "2185648"
+    ],
+    "venue": null,
+    "citation_count": 189,
+    "abstract": null
+  },
+  {
+    "paper_id": "7368d37a4ac65a23bf13dd6dd442ada6d7d7a747",
+    "title": "The Past, Present, and Future of Economics: A Celebration of the 125-Year Anniversary of the JPE and of Chicago Economics",
+    "year": 2017,
+    "author_ids": [
+      "12094237",
+      "2238473098",
+      "2256542646",
+      "35401172",
+      "46211779",
+      "65999231",
+      "97697844",
+      "2237167862",
+      "2244282121",
+      "2244281760",
+      "2240590694",
+      "2097768",
+      "2968902",
+      "2244283070",
+      "2244278318",
+      "37180493",
+      "2240781246",
+      "2238477112",
+      "3148953",
+      "34713651",
+      "2244283104",
+      "145439402",
+      "31478032",
+      "2919718",
+      "51898435",
+      "2810604",
+      "2239352301",
+      "1936091",
+      "2237489378",
+      "4240111",
+      "4988184",
+      "6248047"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "97e578eaa9021a72947c12c28d92ee6819f591b7",
+    "title": "Reducing congestion through information design",
+    "year": 2017,
+    "author_ids": [
+      "40583483",
+      "2968902",
+      "2243971456"
+    ],
+    "venue": "Allerton Conference on Communication, Control, and Computing",
+    "citation_count": 90,
+    "abstract": null
+  },
+  {
+    "paper_id": "ec5124aadd0f07d82f986a0c5a23f82f3b048496",
+    "title": "Bayesian persuasion with multiple senders and rich signal spaces",
+    "year": 2017,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 141,
+    "abstract": null
+  },
+  {
+    "paper_id": "8177e3809403a5aa72e1c83d5cd3f7392a24a229",
+    "title": "A Rothschild-Stiglitz Approach to Bayesian Persuasion",
+    "year": 2016,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 256,
+    "abstract": null
+  },
+  {
+    "paper_id": "96c10c30cc1d23ce1add5ae15d5023859d0594e5",
+    "title": "Disclosure of endogenous information",
+    "year": 2016,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "bc1632f5244e6ae6f37e5c6a860abfcc987fbb24",
+    "title": "Essays on Information and Political Economy",
+    "year": 2016,
+    "author_ids": [
+      "2242806588",
+      "2246387332",
+      "2242735786",
+      "2968902",
+      "108673982",
+      "2242800472",
+      "2243425585",
+      "2246393179",
+      "118714234",
+      "2272714280",
+      "144352109",
+      "103546396",
+      "119573624",
+      "10432220",
+      "90860540",
+      "103550092"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "50baf7fd510f891120aecc748c5860ead26241a3",
+    "title": "Representations of information structures",
+    "year": 2015,
+    "author_ids": [
+      "40583483",
+      "2968902"
+    ],
+    "venue": "Allerton Conference on Communication, Control, and Computing",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "59cb6819b1b5ce0841dce329a3ed1c535b73b286",
+    "title": "NBER WORKING PAPER SERIES BEHAVIORAL ECONOMICS AND PUBLIC POLICY: A PRAGMATIC PERSPECTIVE",
+    "year": 2015,
+    "author_ids": [
+      "2262728570",
+      "37564159",
+      "2412527341",
+      "3311594",
+      "3920191",
+      "2968902",
+      "2248471682",
+      "3467819",
+      "2317399116",
+      "2253742235",
+      "2367466385",
+      "4404221",
+      "2255104568",
+      "2276541797",
+      "145279878",
+      "2315144893",
+      "2412039502",
+      "2270578880",
+      "11479134",
+      "1394063310",
+      "2412303572",
+      "2412394886",
+      "2068833088",
+      "5170526",
+      "2373091471",
+      "145938877",
+      "74985355",
+      "47661393"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "706373f8f0f93e4f16a037b5d921b56154c864e4",
+    "title": "Evidence Based Mechanisms \u2217",
+    "year": 2015,
+    "author_ids": [
+      "1405139922",
+      "2227429079",
+      "75093967",
+      "2227407198",
+      "2272353690",
+      "2968902",
+      "3024016",
+      "2381845807",
+      "1738634",
+      "2919718",
+      "2075890912"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "996a8da7f30fe02884c924b351a2714b0d0eb759",
+    "title": "Suspense and Surprise",
+    "year": 2015,
+    "author_ids": [
+      "2281491",
+      "144047191",
+      "2968902"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 310,
+    "abstract": null
+  },
+  {
+    "paper_id": "a24e78c22d039ff3ef43377ab7c568e7b4e5ec1d",
+    "title": "LABOR SUPPLY OF POLITICIANS",
+    "year": 2015,
+    "author_ids": [
+      "49016717",
+      "98673581",
+      "2968902",
+      "77473062"
+    ],
+    "venue": null,
+    "citation_count": 100,
+    "abstract": null
+  },
+  {
+    "paper_id": "a8d1db55d059bd3941dd43e780753b1bc83f61fa",
+    "title": "Perils of Giving Gifts Instead of Charging Prices",
+    "year": 2015,
+    "author_ids": [
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c22a513802bf229abefeecc61153afcfaf308810",
+    "title": "Information environments and the impact of competition on information provision",
+    "year": 2015,
+    "author_ids": [
+      "8731644",
+      "2968902"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "paper_id": "4c6997c780672d6f1ed95e9a7b29531cbb2ebeb1",
+    "title": "From Best Responses to Learning: Investment Efficiency in Dynamic Environment",
+    "year": 2025,
+    "author_ids": [
+      "2324990917",
+      "2320819519",
+      "48499717"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We study the welfare of a mechanism in a dynamic environment where a learning investor can make a costly investment to change her value. In many real-world problems, the common assumption that the investor always makes the best responses, i.e., choosing her utility-maximizing investment option, is unrealistic due to incomplete information in a dynamically evolving environment. To address this, we consider an investor who uses a no-regret online learning algorithm to adaptively select investments through repeated interactions with the environment. We analyze how the welfare guarantees of approximation allocation algorithms extend from static to dynamic settings when the investor learns rather than best-responds, by studying the approximation ratio for optimal welfare as a measurement of an algorithm's performance against different benchmarks in the dynamic learning environment. First, we show that the approximation ratio in the static environment remains unchanged in the dynamic environment against the best-in-hindsight benchmark. Second, we provide tight characterizations of the approximation upper and lower bounds relative to a stronger time-varying benchmark. Bridging mechanism design with online learning theory, our work shows how robust welfare guarantees can be maintained even when an agent cannot make best responses but learns their investment strategies in complex, uncertain environments."
+  },
+  {
+    "paper_id": "4a161eecd951955b25d4383e59a766bc527f2d6e",
+    "title": "Multi-Dimensional Screening with Endogenous Information Disclosure",
+    "year": 2025,
+    "author_ids": [
+      "2258335110",
+      "2716214",
+      "2110389738"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study multi-product monopoly pricing where the seller jointly designs the selling mechanism and the information structure for the buyer to learn his values. Unlike the case with exogenous information, we show that when the seller controls information, even uniform pricing guarantees at least half of the optimal revenue. Moreover, for negatively affiliated or exchangeable value distributions, deterministic pricing is revenue-optimal. Our results highlight the power of information design in making pricing mechanisms approximately optimal in multi-dimensional settings."
+  },
+  {
+    "paper_id": "9cef0408c51c3257f040f5ed16a27827491f6671",
+    "title": "CAMBRIDGE WORKING PAPERS IN ECONOMICS CAMBRIDGE-INET WORKING PAPERS Bargaining foundations for price taking in matching markets",
+    "year": 2021,
+    "author_ids": [
+      "2340605093",
+      "51027016"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  }
+]

@@ -1,0 +1,1477 @@
+[
+  {
+    "paper_id": "5752ea13cced7fa8b66b1f74bc3588287d9da75b",
+    "title": "Best Contract Guarantees",
+    "year": 2025,
+    "author_ids": [
+      "2231150314"
+    ],
+    "venue": "The Economist",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ce049973b16a56df1bb4beee405e8a508911ba45",
+    "title": "AGV mechanism balances the budget with minimum total transfer variance",
+    "year": 2025,
+    "author_ids": [
+      "2328844389"
+    ],
+    "venue": "Journal of Mathematical Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c053ff9c3824dbe67312be6454cb032e4b5b8668",
+    "title": "The effect of repeated games on demand information transparency and manufacturer's sales decisions",
+    "year": 2025,
+    "author_ids": [
+      "2374435421",
+      "2374140798",
+      "1746687141"
+    ],
+    "venue": "International Journal of Production Research",
+    "citation_count": 1,
+    "abstract": "This study explores the strategic interaction between a platform and a manufacturer within a supply chain, where the manufacturer initially produces a product for the platform's private label and subsequently considers launching a follower product. We focus on the manufacturer's decision regarding the sales channel of the the follow-on product and develop a dynamic contractual mechanism aimed at improving demand information accuracy. Analytical results demonstrate that dynamic contracts effectively reduce information asymmetry, enhance supply chain coordination, and improve the overall profitability of the supply chain. We also find that the manufacturer's choice of sales channel for the follow-on product depends on the platform's commission rate, and that win-win channel selection outcomes can be achieved under both static and dynamic contracts. Furthermore, our analysis shows that dynamic contracts can transform the win-lose outcomes arising from channel choices under static contracts into win-win scenarios, thereby achieving a Pareto improvement."
+  },
+  {
+    "paper_id": "59abc68148ae8c4b51c59b031d0c3ff7771916e6",
+    "title": "Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments",
+    "year": 2025,
+    "author_ids": [
+      "2055178085",
+      "1866951"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We consider the problem of online dynamic mechanism design for sequential auctions in unknown environments, where the underlying market and, thus, the bidders'values vary over time as interactions between the seller and the bidders progress. We model the sequential auctions as an infinite-horizon average-reward Markov decision process (MDP). In each round, the seller determines an allocation and sets a payment for each bidder, while each bidder receives a private reward and submits a sealed bid to the seller. The state, which represents the underlying market, evolves according to an unknown transition kernel and the seller's allocation policy without episodic resets. We first extend the Vickrey-Clarke-Groves (VCG) mechanism to sequential auctions, thereby obtaining a dynamic counterpart that preserves the desired properties: efficiency, truthfulness, and individual rationality. We then focus on the online setting and develop a reinforcement learning algorithm for the seller to learn the underlying MDP and implement a mechanism that closely resembles the dynamic VCG mechanism. We show that the learned mechanism approximately satisfies efficiency, truthfulness, and individual rationality and achieves guaranteed performance in terms of various notions of regret."
+  },
+  {
+    "paper_id": "ede508d0d1419563812434c7403d3522371711f4",
+    "title": "Learning Recommender Mechanisms for Bayesian Stochastic Games",
+    "year": 2025,
+    "author_ids": [
+      "2142445414",
+      "2284132058",
+      "1699600"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "An important challenge in non-cooperative game theory is coordinating on a single (approximate) equilibrium from many possibilities - a challenge that becomes even more complex when players hold private information. Recommender mechanisms tackle this problem by recommending strategies to players based on their reported type profiles. A key consideration in such mechanisms is to ensure that players are incentivized to participate, report their private information truthfully, and follow the recommendations. While previous work has focused on designing recommender mechanisms for one-shot and extensive-form games, these approaches cannot be effectively applied to stochastic games, particularly if we constrain recommendations to be Markov stationary policies. To bridge this gap, we introduce a novel bi-level reinforcement learning approach for automatically designing recommender mechanisms in Bayesian stochastic games. Our method produces a mechanism represented by a parametric function (such as a neural network), and is therefore highly efficient at execution time. Experimental results on two repeated and two stochastic games demonstrate that our approach achieves social welfare levels competitive with cooperative multi-agent reinforcement learning baselines, while also providing significantly improved incentive properties."
+  },
+  {
+    "paper_id": "22701b951f49243acfa345c095a6958dc4c878b8",
+    "title": "Optimal Long\u2010Term Contract for Fertilizer Supply Under Farmer's Dynamic Private Information",
+    "year": 2025,
+    "author_ids": [
+      "2359790176",
+      "2359684671",
+      "2386879959"
+    ],
+    "venue": "Naval Research Logistics",
+    "citation_count": 0,
+    "abstract": "An agribusiness corporation designs an optimal long\u2010term contract for chemical fertilizer supply to a farmer who holds private information on the quantity of organic fertilizer. This important private information, which affects the farmer's incentive to purchase the chemical fertilizer, is dynamically changing over time. We derive the optimal long\u2010term contract and provide practical guidance on the contract implementation for fertilizer supply. We find that the optimal payment endogenously has a linear payment scheme from the second period onward. Such a contract is desirable because of its convenience of execution in practice. Specifically, the agribusiness corporation offers a menu of contracts and each contract consists of a membership fee and a sequence of wholesale prices. The wholesale prices increase as the complementary effect of the two fertilizers intensifies. We further analyze how the farmer's dynamic private information affects the optimal contract and its performance. Efficiency distortions and marginal payment increase as the private information becomes more correlated across periods. However, the correlation degree of the private information has a nonmonotonic impact on the farmer's expected payoff. Finally, we consider two model extensions to study the impact of the delayed effect of chemical fertilizer and endogenous organic fertilizer quantity on the optimal contract implementation. We prove the optimality of linear contracts under the two model extensions, more generalized crop yield functions, and substitute organic and chemical fertilizers, which provides a theoretical foundation for the prevalent linear contracts."
+  },
+  {
+    "paper_id": "9f5a2574c9334f1dac256ae304fd072b050b2ab9",
+    "title": "Teaching Coordination to Selfish Learning Agents in Resource-Constrained Partially Observable Markov Games",
+    "year": 2025,
+    "author_ids": [
+      "2226993"
+    ],
+    "venue": "IEEE Transactions on Automatic Control",
+    "citation_count": 1,
+    "abstract": "Of increasing relevance to engineering systems are problems that include online resource allocation to agents that feature adaptation and learning capabilities. This article considers the case where a coordinator gets to design a resource allocation mechanism (i.e., a bidding-allocation-rewards protocol) to efficiently allocate a resource to selfish agents that try to gain access by learning to communicate strategically. Toward aligning the agents' incentives with the social objective, a critical-value-based mechanism is proposed. Analytic results are presented for a simple, stylized setting, whereas simulation results for a use case with reinforcement learning agents controlling flexible loads in the smart grid demonstrate the mechanism's ability to teach coordinated behavior to the distributed learners."
+  },
+  {
+    "paper_id": "4a02d45950de10b0efa7d5877d13e34b239b7531",
+    "title": "Optimal Pricing of Public Franchises With Imperfectly Correlated Demand Shocks",
+    "year": 2025,
+    "author_ids": [
+      "50411545",
+      "2798706",
+      "2256242218"
+    ],
+    "venue": "Journal of Economics &amp; Management Strategy",
+    "citation_count": 0,
+    "abstract": "In a dynamic adverse selection setting with private information about stochastic consumer preferences, we study the pricing of franchise rights when the awarding government body has to balance between revenue collection and consumer welfare. In this environment, we show that optimal pricing requires an appropriate combination of fixed and time\u2010variable transfers between the parties. Notably, our findings suggest that it might be optimal to occasionally subsidize rather than charge the franchisee when consumers' willingness to pay increases well beyond initial expectations."
+  },
+  {
+    "paper_id": "4fdc3536f70a76a095088d99a7cf427df22856d6",
+    "title": "An implementation of the general optimal mechanism in Es\u00f6 and Szentes (2007)",
+    "year": 2025,
+    "author_ids": [
+      "47417704",
+      "2115404203"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "651656d477f4ccddf070de624cfd854be41f8f00",
+    "title": "Deep Reinforcement Learning-Based Bidding Strategies for Prosumers Trading in Double Auction-Based Transactive Energy Market",
+    "year": 2025,
+    "author_ids": [
+      "2107975673",
+      "2110480595",
+      "2477535",
+      "2239125529",
+      "2315612515",
+      "2299918395",
+      "2344619725"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 3,
+    "abstract": "With the large number of prosumers deploying distributed energy resources (DERs), integrating these prosumers into a transactive energy market (TEM) is a trend for the future smart grid. A community-based double auction market is considered a promising TEM that can encourage prosumers to participate and maximize social welfare. However, the traditional TEM is challenging to model explicitly due to the random bidding behavior of prosumers and uncertainties caused by the energy operation of DERs. Furthermore, although reinforcement learning algorithms provide a model-free solution to optimize prosumers' bidding strategies, their use in TEM is still challenging due to their scalability, stability, and privacy protection limitations. To address the above challenges, in this study, we design a double auction-based TEM with multiple DERs-equipped prosumers to transparently and efficiently manage energy transactions. We also propose a deep reinforcement learning (DRL) model with distributed learning and execution to ensure the scalability and privacy of the market environment. Additionally, the design of two bidding actions (i.e., bidding price and quantity) optimizes the bidding strategies for prosumers. Simulation results show that (1) the designed TEM and DRL model are robust; (2) the proposed DRL model effectively balances the energy payment and comfort satisfaction for prosumers and outperforms the state-of-the-art methods in optimizing the bidding strategies."
+  },
+  {
+    "paper_id": "3edc57ba13a5fbc26fd0b5027d9f5b20d3d1046d",
+    "title": "Dynamic Incentive Allocation for City-Scale Deep Decarbonization",
+    "year": 2025,
+    "author_ids": [
+      "2120398439",
+      "2135139454",
+      "2872746",
+      "2345092011",
+      "2284772322",
+      "2244620101"
+    ],
+    "venue": "ACM J. Comput. Sustain. Soc.",
+    "citation_count": 0,
+    "abstract": "Greenhouse gas emissions from the residential sector represent a large fraction of global emissions and must be significantly curtailed to achieve ambitious climate goals. To stimulate the adoption of relevant technologies such as rooftop PV and heat pumps, governments and utilities have designed incentives that encourage adoption of decarbonization technologies. However, studies have shown that many of these incentives are inefficient since a substantial fraction of spending does not actually promote adoption. Further, these incentives are not equitably distributed across socioeconomic groups. In this article, we present a novel data-driven approach that adopts a holistic, emissions-based, and city-scale perspective on decarbonization. We propose an optimization model that dynamically allocates a total incentive budget to households to directly maximize the resultant carbon emissions reduction \u2013 this is in contrast to prior work, which focuses on metrics such as the number of new installations. We leverage techniques from the multi-armed bandits problem to estimate human factors, such as a household\u2019s willingness to adopt new technologies given a certain incentive. We apply our proposed dynamic incentive framework to a city in the Northeast U.S., using real household energy data, grid carbon intensity data, and future price scenarios. We compare our learning-based technique to two baselines, one \u201cstatus-quo\u201d baseline using incentives offered by a state and utility, and one simple heuristic baseline. With these baselines, we show that our learning-based technique significantly outperforms both the status-quo baseline and the heuristic baseline, achieving up to 37.88% higher carbon reductions than the status-quo baseline and up to 28.76% higher carbon reductions compared to the heuristic baseline. Additionally, our incentive allocation approach is able to achieve significant carbon reduction even in a broad set of environments, with varying values for electricity and gas prices, and for carbon intensity of the grid. Finally, we show that our framework can accommodate equity-aware constraints to preserve an equitable allocation of incentives across socioeconomic groups while achieving 83.34% of the carbon reductions of the optimal solution on average."
+  },
+  {
+    "paper_id": "1fcdb142df30e250a8764f7c5b76a500fd36d55f",
+    "title": "Optimal Pricing of Cloud Services: Committed Spend under Demand Uncertainty",
+    "year": 2025,
+    "author_ids": [
+      "2258718770",
+      "2280370065"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We consider a seller who offers services to a buyer with multi-unit demand. Prior to the realization of demand, the buyer receives a noisy signal of their future demand, and the seller can design contracts based on the reported value of this signal. Thus, the buyer can contract with the service provider for an unknown level of future consumption, such as in the market for cloud computing resources or software services. We characterize the optimal dynamic contract, extending the classic sequential screening framework to a nonlinear and multi-unit setting. The optimal mechanism gives discounts to buyers who report higher signals, but in exchange they must provide larger fixed payments. We then describe how the optimal mechanism can be implemented by two common forms of contracts observed in practice, the two-part tariff and the committed spend contract. Finally, we use extensions of our base model to shed light on policy-focused questions, such as analyzing how the optimal contract changes when the buyer faces commitment costs, or when there are liquid spot markets."
+  },
+  {
+    "paper_id": "ce611f550faa654ac43d5470177f8d45aca47156",
+    "title": "Optimal Payment for Dynamic Treatment Regimes",
+    "year": 2024,
+    "author_ids": [
+      "2399390367",
+      "2256596381",
+      "2368316130",
+      "2334894114"
+    ],
+    "venue": "Production and operations management",
+    "citation_count": 1,
+    "abstract": "Dynamic treatment regimes improve health outcomes by tailoring each treatment to a patient\u2019s evolving condition, but they also allow providers to learn and game the system over time. How should insurers pay? We study this new class of reimbursement problems, where the provider can privately learn and manipulate the progression of the patient\u2019s condition. (i) We characterize the optimal payment policy: it internalizes two intertemporal effects of each treatment, and rewards provider honesty with incentive pay; moreover, it admits a simple implementation of risk-adjusted cost-sharing policy. (ii) We show that, ignoring dynamic learning and gaming, the existing payment models may have overestimated the harm of information asymmetry. Using the optimal policy, insurers only need to pay for initial private information; they can exploit provider uncertainty and elicit future private information at no cost. (iii) Our study informs U.S. healthcare payment reform with new insights; using two sets of real data, our study also quantifies when and why the optimal policy outperforms the existing ones. By highlighting the critical role of dynamic learning and gaming, this study advances our understanding of healthcare payment theory and practice."
+  },
+  {
+    "paper_id": "b31b31a558f1870f79b77189e32041ecd5373f1a",
+    "title": "Incentives for Early Arrival in Cost Sharing",
+    "year": 2024,
+    "author_ids": [
+      "2155332424",
+      "2118389171",
+      "2300048390",
+      "2299747868",
+      "2299687645",
+      "15855105",
+      "2299923146"
+    ],
+    "venue": "Adaptive Agents and Multi-Agent Systems",
+    "citation_count": 3,
+    "abstract": "In cooperative games, we study how values created or costs incurred by a coalition are shared among the members within it, and the players may join the coalition in a online manner such as investors invest a startup. Recently, Ge et al. [10] proposed a new property called incentives for early arrival (I4EA) in such games, which says that the online allocation of values or costs should incentivize agents to join early in order to prevent mutual strategic waiting. Ideally, the allocation should also be fair, so that agents arriving in an order uniformly at random should expect to get/pay their Shapley values. Ge et al. [10] showed that not all monotone value functions admit such mechanisms in online value sharing games. In this work, we show a sharp contrast in online cost sharing games. We construct a mechanism with all the properties mentioned above, for every monotone cost function. To achieve this, we first solve 0-1 valued cost sharing games with a novel mechanism called Shapley-fair shuffle cost sharing mechanism (SFS-CS), and then extend SFS-CS to a family called generalized Shapley-fair shuffle cost sharing mechanisms (GSFS-CS). The critical technique we invented here is a mapping from one arrival order to another order so that we can directly apply marginal cost allocation on the shuffled orders to satisfy the properties. Finally, we solve general valued cost functions, by decomposing them into 0-1 valued functions in an online fashion."
+  },
+  {
+    "paper_id": "3b79bed23e064199e82d233e7242383e21438679",
+    "title": "Reputation, commitment, and financial market regulation",
+    "year": 2024,
+    "author_ids": [
+      "2303029117",
+      "2256451751",
+      "2303065364",
+      "2410959872"
+    ],
+    "venue": "International Review of Financial Analysis",
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "424f10e77ce02efff105359c5ccc8b10084006c5",
+    "title": "A novel iterative double auction design and simulation platform for packetized energy trading of prosumers in a residential microgrid",
+    "year": 2024,
+    "author_ids": [
+      "2265169506",
+      "2110480595",
+      "2299918395",
+      "2144422734",
+      "2315423899",
+      "2156024990",
+      "2315612515"
+    ],
+    "venue": "Energy Conversion and Economics",
+    "citation_count": 4,
+    "abstract": "Packetized energy encapsulates energy into modulated, routable, and trackable energy packets, enhancing the flexibility of managing distributed energy resources and expediting prosumers\u2019 participation in transactive energy markets. In the context of packetized energy trading (PET), energy prosumers are naturally deemed as self\u2010interested agents seeking to obtain their own benefits. To align with prosumers\u2019 demand, supply, quality of service (QoS), and system\u2010level social welfare, it is necessary to explore the design of prosumers\u2019 bidding strategies and the market clearing methods, considering prosumers\u2019 utility and the best demand response to markets. This study addresses challenges arising from prosumers\u2019 selfishness and asymmetric preferences by proposing a PET\u2010oriented iterative double auction (IDA\u2010PET) design, where prosumers are allowed to iteratively change the bids before the auctioneer clears the market. Moreover, IDA\u2010PET accommodates system capacity constraints, energy balance, and economic constraints, providing cooperative strategies for both prosumers and the auctioneer. To validate the effectiveness of IDA\u2010PET, a novel and dedicated co\u2010simulation platform based on the hierarchical engine for large\u2010scale infrastructure co\u2010simulation platform is developed and case studies are conducted within a residential microgrid. The simulation results demonstrate that IDA\u2010PET can efficiently enhance the revenue of the auction market while meeting prosumers\u2019 QoS requirements."
+  },
+  {
+    "paper_id": "af926b405f3765b27be8ee7fd87d91e628667ac8",
+    "title": "Nash Incentive-compatible Online Mechanism Learning via Weakly Differentially Private Online Learning",
+    "year": 2024,
+    "author_ids": [
+      "2065423740",
+      "2286363493"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "citation_count": 2,
+    "abstract": "We study a multi-round mechanism design problem, where we interact with a set of agents over a sequence of rounds. We wish to design an incentive-compatible (IC) online learning scheme to maximize an application-specific objective within a given class of mechanisms, without prior knowledge of the agents' type distributions. Even if each mechanism in this class is IC in a single round, if an algorithm naively chooses from this class on each round, the entire learning process may not be IC against non-myopic buyers who appear over multiple rounds. On each round, our method randomly chooses between the recommendation of a weakly differentially private online learning algorithm (e.g., Hedge), and a commitment mechanism which penalizes non-truthful behavior. Our method is IC and achieves $O(T^{\\frac{1+h}{2}})$ regret for the application-specific objective in an adversarial setting, where $h$ quantifies the long-sightedness of the agents. When compared to prior work, our approach is conceptually simpler,it applies to general mechanism design problems (beyond auctions), and its regret scales gracefully with the size of the mechanism class."
+  },
+  {
+    "paper_id": "499fc42c13ef76aa2a5e45b0d0a7ac10412abad1",
+    "title": "Enhancing the utilization of renewable generation on the highway with mobile energy storage vehicles and electric vehicles",
+    "year": 2024,
+    "author_ids": [
+      "2219689138",
+      "2241851628",
+      "2258487349",
+      "2291968660",
+      "1500426628"
+    ],
+    "venue": "Electric power systems research",
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "0e350ab908627deb054d568448b93e452af05b1c",
+    "title": "Strategic Linear Contextual Bandits",
+    "year": 2024,
+    "author_ids": [
+      "2090817723",
+      "2892691",
+      "2268064492",
+      "2268061335"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 3,
+    "abstract": "Motivated by the phenomenon of strategic agents gaming a recommender system to maximize the number of times they are recommended to users, we study a strategic variant of the linear contextual bandit problem, where the arms can strategically misreport privately observed contexts to the learner. We treat the algorithm design problem as one of mechanism design under uncertainty and propose the Optimistic Grim Trigger Mechanism (OptGTM) that incentivizes the agents (i.e., arms) to report their contexts truthfully while simultaneously minimizing regret. We also show that failing to account for the strategic nature of the agents results in linear regret. However, a trade-off between mechanism design and regret minimization appears to be unavoidable. More broadly, this work aims to provide insight into the intersection of online learning and mechanism design."
+  },
+  {
+    "paper_id": "0ab7bcd9e51e302028042818041db5d0ac0c45d0",
+    "title": "Fair Allocation in Dynamic Mechanism Design",
+    "year": 2024,
+    "author_ids": [
+      "113441545",
+      "2265490040",
+      "2304486663"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 4,
+    "abstract": "We consider a dynamic mechanism design problem where an auctioneer sells an indivisible good to groups of buyers in every round, for a total of $T$ rounds. The auctioneer aims to maximize their discounted overall revenue while adhering to a fairness constraint that guarantees a minimum average allocation for each group. We begin by studying the static case ($T=1$) and establish that the optimal mechanism involves two types of subsidization: one that increases the overall probability of allocation to all buyers, and another that favors the groups which otherwise have a lower probability of winning the item. We then extend our results to the dynamic case by characterizing a set of recursive functions that determine the optimal allocation and payments in each round. Notably, our results establish that in the dynamic case, the seller, on the one hand, commits to a participation bonus to incentivize truth-telling, and on the other hand, charges an entry fee for every round. Moreover, the optimal allocation once more involves subsidization, which its extent depends on the difference in future utilities for both the seller and buyers when allocating the item to one group versus the others. Finally, we present an approximation scheme to solve the recursive equations and determine an approximately optimal and fair allocation efficiently."
+  },
+  {
+    "paper_id": "57ac4a601f6e144a206388bfc93dffd27314ae0a",
+    "title": "STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making",
+    "year": 2024,
+    "author_ids": [
+      "2303427689",
+      "2320337315",
+      "1878853371",
+      "2303404000",
+      "2376031914",
+      "2349375899",
+      "2303429458"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 20,
+    "abstract": "Large Language Models (LLMs) like GPT-4 have revolutionized natural language processing, showing remarkable linguistic proficiency and reasoning capabilities. However, their application in strategic multi-agent decision-making environments is hampered by significant limitations including poor mathematical reasoning, difficulty in following instructions, and a tendency to generate incorrect information. These deficiencies hinder their performance in strategic and interactive tasks that demand adherence to nuanced game rules, long-term planning, exploration in unknown environments, and anticipation of opponents' moves. To overcome these obstacles, this paper presents a novel LLM agent framework equipped with memory and specialized tools to enhance their strategic decision-making capabilities. We deploy the tools in a number of economically important environments, in particular bilateral bargaining and multi-agent and dynamic mechanism design. We employ quantitative metrics to assess the framework's performance in various strategic decision-making problems. Our findings establish that our enhanced framework significantly improves the strategic decision-making capability of LLMs. While we highlight the inherent limitations of current LLM models, we demonstrate the improvements through targeted enhancements, suggesting a promising direction for future developments in LLM applications for interactive environments."
+  },
+  {
+    "paper_id": "705c8cdf87ed3c157d912796e82133c31ee8b847",
+    "title": "Incentives for Early Arrival in Cooperative Games",
+    "year": 2024,
+    "author_ids": [
+      "2300048390",
+      "2118389171",
+      "2299747868",
+      "15855105",
+      "2299687645",
+      "2299923146"
+    ],
+    "venue": "Adaptive Agents and Multi-Agent Systems",
+    "citation_count": 5,
+    "abstract": "We study cooperative games where players join sequentially, and the value generated by those who have joined at any point must be irrevocably divided among these players. We introduce two desiderata for the value division mechanism: that the players should have incentives to join as early as possible, and that the division should be considered fair. For the latter, we require that each player's expected share in the mechanism should equal her Shapley value if the players' arrival order is uniformly at random. \n\n\n\nWhen the value generation function is submodular, allocating the marginal value to the player satisfies these properties. This is no longer true for more general functions. Our main technical contribution is a complete characterization of 0-1 value games for which desired mechanisms exist. We show that a natural mechanism, Rewarding First Critical Player (RFC), is complete, in that a 0-1 value function admits a mechanism with the properties above if and only if RFC satisfies them; we analytically characterize all such value functions. Moreover, we give an algorithm that decomposes, in an online fashion, any value function into 0-1 value functions, on each of which RFC can be run. In this way, we design an extension of RFC for general monotone games, and the properties are proved to be maintained."
+  },
+  {
+    "paper_id": "fe335c72d81c960e443da0f90a340a91b488cbd9",
+    "title": "Information Compression in Dynamic Information Disclosure Games",
+    "year": 2024,
+    "author_ids": [
+      "3422433",
+      "2292196381"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 0,
+    "abstract": "We consider a two-player dynamic information design problem for a game played between a principal and a receiver on top of a Markovian system controlled by the receiver\u2019s actions. The principal strategically obtains and shares some information about the underlying system with the receiver in order to influence their actions, and agents\u2019 instantaneous rewards depend only on the system state and receiver actions. In our game, both players have long-term objectives, and the principal sequentially commits to their strategies instead of at the beginning-at every turn the principal can choose randomized experiments to observe the system partially. The principal can share details about the experiments to the receiver. In our analysis the truthful disclosure rule is assumed-the principal is required to truthfully announce each experiment detail and result to the receiver immediately after the result is revealed. Based on the received information, when its their turn the receiver takes an action which influences the state of the underlying system. Using a constructive backward inductive procedure, we show that there exists a Perfect Bayesian Equilibrium in this game where both agents play Canonical Belief Based (CBB) strategies using a compressed version of their information, rather than their full information, to choose experiments (for the principal) or actions (for the receiver)."
+  },
+  {
+    "paper_id": "f4f3d785126008a98c025212da0ec22385cbeab7",
+    "title": "Optimal Mechanism in a Dynamic Stochastic Knapsack Environment",
+    "year": 2024,
+    "author_ids": [
+      "2190583936",
+      "2269120675",
+      "2190574688",
+      "2269064650"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 1,
+    "abstract": "This study introduces an optimal mechanism in a dynamic stochastic knapsack environment. The model features a single seller who has a fixed quantity of a perfectly divisible item. Impatient buyers with a piece-wise linear utility function arrive randomly and they report the two-dimensional private information: marginal value and demanded quantity. We derive a revenue-maximizing dynamic mechanism in a finite discrete time framework that satisfies incentive compatibility, individual rationality, and feasibility conditions. This is achieved by characterizing buyers' utility and utilizing the Bellman equation. Moreover, we establish the essential penalty scheme for incentive compatibility, as well as the allocation and payment policies. Lastly, we propose algorithms to approximate the optimal policy, based on the Monte Carlo simulation-based regression method and reinforcement learning."
+  },
+  {
+    "paper_id": "46f06bb7cf9d62a0b096ae78dc0f7d42fa0f7d21",
+    "title": "Automated Design of Affine Maximizer Mechanisms in Dynamic Settings",
+    "year": 2024,
+    "author_ids": [
+      "2275351258",
+      "2273088518",
+      "2269855428",
+      "2258957756",
+      "2211504",
+      "145714168",
+      "2275135419",
+      "2275353472"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 13,
+    "abstract": "Dynamic mechanism design is a challenging extension to ordinary mechanism design in which the mechanism designer must make a sequence of decisions over time in the face of possibly untruthful reports of participating agents.\nOptimizing dynamic mechanisms for welfare is relatively well understood. However, there has been less work on optimizing for other goals (e.g., revenue), and without restrictive assumptions on valuations, it is remarkably challenging to characterize good mechanisms. Instead, we turn to automated mechanism design to find mechanisms with good performance in specific problem instances.\nWe extend the class of affine maximizer mechanisms to MDPs where agents may untruthfully report their rewards. This extension results in a challenging bilevel optimization problem in which the upper problem involves choosing optimal mechanism parameters, and the lower problem involves solving the resulting MDP. \nOur approach can find truthful dynamic mechanisms that achieve strong performance on goals other than welfare, and can be applied to essentially any problem setting---without restrictions on valuations---for which RL can learn optimal policies."
+  },
+  {
+    "paper_id": "b4dce1aed0a7ca7fdd15072db8a54f79e27437ab",
+    "title": "Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation",
+    "year": 2023,
+    "author_ids": [
+      "2090817723",
+      "2892691",
+      "2268064492",
+      "2268061335"
+    ],
+    "venue": "International Conference on Learning Representations",
+    "citation_count": 7,
+    "abstract": "We study a strategic variant of the multi-armed bandit problem, which we coin the strategic click-bandit. This model is motivated by applications in online recommendation where the choice of recommended items depends on both the click-through rates and the post-click rewards. Like in classical bandits, rewards follow a fixed unknown distribution. However, we assume that the click-rate of each arm is chosen strategically by the arm (e.g., a host on Airbnb) in order to maximize the number of times it gets clicked. The algorithm designer does not know the post-click rewards nor the arms' actions (i.e., strategically chosen click-rates) in advance, and must learn both values over time. To solve this problem, we design an incentive-aware learning algorithm, UCB-S, which achieves two goals simultaneously: (a) incentivizing desirable arm behavior under uncertainty; (b) minimizing regret by learning unknown parameters. We characterize all approximate Nash equilibria among arms under UCB-S and show a $\\tilde{\\mathcal{O}} (\\sqrt{KT})$ regret bound uniformly in every equilibrium. We also show that incentive-unaware algorithms generally fail to achieve low regret in the strategic click-bandit. Finally, we support our theoretical results by simulations of strategic arm behavior which confirm the effectiveness and robustness of our proposed incentive design."
+  },
+  {
+    "paper_id": "572e03e9d1417b528a77761a7b73c90e2c2db530",
+    "title": "Modeling Recommender Ecosystems: Research Challenges at the Intersection of Mechanism Design, Reinforcement Learning and Generative Models",
+    "year": 2023,
+    "author_ids": [
+      "145646162",
+      "2538104",
+      "29978064"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 12,
+    "abstract": "Modern recommender systems lie at the heart of complex ecosystems that couple the behavior of users, content providers, advertisers, and other actors. Despite this, the focus of the majority of recommender research -- and most practical recommenders of any import -- is on the local, myopic optimization of the recommendations made to individual users. This comes at a significant cost to the long-term utility that recommenders could generate for its users. We argue that explicitly modeling the incentives and behaviors of all actors in the system -- and the interactions among them induced by the recommender's policy -- is strictly necessary if one is to maximize the value the system brings to these actors and improve overall ecosystem\"health\". Doing so requires: optimization over long horizons using techniques such as reinforcement learning; making inevitable tradeoffs in the utility that can be generated for different actors using the methods of social choice; reducing information asymmetry, while accounting for incentives and strategic behavior, using the tools of mechanism design; better modeling of both user and item-provider behaviors by incorporating notions from behavioral economics and psychology; and exploiting recent advances in generative and foundation models to make these mechanisms interpretable and actionable. We propose a conceptual framework that encompasses these elements, and articulate a number of research challenges that emerge at the intersection of these different disciplines."
+  },
+  {
+    "paper_id": "fe5070156c802dcb615decb3e72c48f123186082",
+    "title": "Content Prompting: Modeling Content Provider Dynamics to Improve User Welfare in Recommender Ecosystems",
+    "year": 2023,
+    "author_ids": [
+      "2237807144",
+      "2538104",
+      "145646162"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 13,
+    "abstract": "Users derive value from a recommender system (RS) only to the extent that it is able to surface content (or items) that meet their needs/preferences. While RSs often have a comprehensive view of user preferences across the entire user base, content providers, by contrast, generally have only a local view of the preferences of users that have interacted with their content. This limits a provider's ability to offer new content to best serve the broader population. In this work, we tackle this information asymmetry with content prompting policies. A content prompt is a hint or suggestion to a provider to make available novel content for which the RS predicts unmet user demand. A prompting policy is a sequence of such prompts that is responsive to the dynamics of a provider's beliefs, skills and incentives. We aim to determine a joint prompting policy that induces a set of providers to make content available that optimizes user social welfare in equilibrium, while respecting the incentives of the providers themselves. Our contributions include: (i) an abstract model of the RS ecosystem, including content provider behaviors, that supports such prompting; (ii) the design and theoretical analysis of sequential prompting policies for individual providers; (iii) a mixed integer programming formulation for optimal joint prompting using path planning in content space; and (iv) simple, proof-of-concept experiments illustrating how such policies improve ecosystem health and user welfare."
+  },
+  {
+    "paper_id": "2b5d5751a24eddd8506249db441ba91cf0de3475",
+    "title": "Efficient Consolidation of Incentives for Education and Retirement Savings",
+    "year": 2023,
+    "author_ids": [
+      "119622225",
+      "2302574084"
+    ],
+    "venue": "American Economic Journal: Macroeconomics",
+    "citation_count": 1,
+    "abstract": "We study optimal tax policies with human capital investment and retirement savings for present-biased agents. Agents are heterogeneous in their innate ability and make risky education investments, which determines their labor productivity. We demonstrate that the optimal distortions vary with education status. In particular, the optimal policy encourages human capital investment with savings incentives. Our implementation uses income-contingent student loans and existing retirement policies, augmented by a new tax instrument that subsidizes retirement savings for college graduates. The instrument mimics the latest policy proposals by allowing employers to offer 401(k) matching contributions proportional to student loans repayment. (JEL G51, H21, H24, I26, J24, J26)"
+  },
+  {
+    "paper_id": "ded444dbf392f8f59141d4156a90efc42021fa5e",
+    "title": "Recurring Auctions with Costly Entry: Theory and Evidence",
+    "year": 2023,
+    "author_ids": [
+      "120593319",
+      "2359598448"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Recurring auctions are ubiquitous for selling durable assets like artworks and homes, with follow-up auctions held for unsold items. We investigate such auctions theoretically and empirically. Theoretical analysis demonstrates that recurring auctions outperform single-round auctions when buyers face entry costs, enhancing efficiency and revenue due to sorted entry of potential buyers. Optimal reserve price sequences are characterized. Empirical findings from home foreclosure auctions in China reveal significant annual gains in efficiency (3.40 billion USD, 16.60%) and revenue (2.97 billion USD, 15.92%) using recurring auctions compared to single-round auctions. Implementing optimal reserve prices can further improve efficiency (3.35%) and revenue (3.06%)."
+  },
+  {
+    "paper_id": "98320bb8894a284561eeebde0283fd2f624fc84f",
+    "title": "Breaking the traditional: a survey of algorithmic mechanism design applied to economic and complex environments",
+    "year": 2023,
+    "author_ids": [
+      "2146378634",
+      "39849136",
+      "1836620",
+      "2107944845",
+      "1500379589",
+      "2087101246",
+      "71955407"
+    ],
+    "venue": "Neural computing & applications (Print)",
+    "citation_count": 6,
+    "abstract": "The mechanism design theory can be applied not only in the economy but also in many fields, such as politics and military affairs, which has important practical and strategic significance for countries in the period of system innovation and transformation. As Nobel Laureate Paul said, the complexity of the real economy makes it difficult for \u201cUnorganized Markets\u201d to ensure supply-demand balance and the efficient allocation of resources. When traditional economic theory cannot explain and calculate the complex scenes of reality, we require a high-performance computing solution based on traditional theory to evaluate the mechanisms, meanwhile, get better social welfare. The mechanism design theory is undoubtedly the best option. Different from other existing works, which are based on the theoretical exploration of optimal solutions or single perspective analysis of scenarios, this paper focuses on the more real and complex markets. It explores to discover the common difficulties and feasible solutions for the applications. Firstly, we review the history of traditional mechanism design and algorithm mechanism design. Subsequently, we present the main challenges in designing the actual data-driven market mechanisms, including the inherent challenges in the mechanism design theory, the challenges brought by new markets and the common challenges faced by both. In addition, we also comb and discuss theoretical support and computer-aided methods in detail. This paper guides cross-disciplinary researchers who wish to explore the resource allocation problem in real markets for the first time and offers a different perspective for researchers struggling to solve complex social problems. Finally, we discuss and propose new ideas and look to the future."
+  },
+  {
+    "paper_id": "44122542d665238cfc8b0fc4d31fd2ba2a98b287",
+    "title": "Technical Note - Dynamic Mechanism Design with Capacity Constraint",
+    "year": 2023,
+    "author_ids": [
+      "2153233134"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 2,
+    "abstract": "When the number of tasks is large, how should a firm design reward and penalty schemes to incentivize its employees? In \u201cDynamic Mechanism Design with Capacity Constraint,\u201d He studies the role of capacity constraint in a project assignment problem, where a principal needs to assign multiple tasks to an agent. The author fully characterizes the optimal mechanism via a sequence of deadlines. This characterization is used to show that the presence of the capacity constraint reduces the principal\u2019s payoff and delays the completion of projects. It further illustrates that the widely adopted no-capacity constraint framework may provide inaccurate results in various dynamic problems."
+  },
+  {
+    "paper_id": "cec60c3f25be06a98949d3d1d10593a78ef6ee79",
+    "title": "Optimal Dynamic Mediation",
+    "year": 2023,
+    "author_ids": [
+      "39040466"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 2,
+    "abstract": "How should mediators communicate with bargainers? When can they improve outcomes? Can arbitrators that impose outcomes do better? I provide answers in wars of attrition with flexible and commitment types, consistent with reputational bargaining. I characterize the unique mediated equilibrium, which maximizes flexible types\u2019 payoffs. The mediator immediately elicits private information but waits to suggest agreements. She front-loads agreements between flexible types, while initially delaying any involving commitment types. This improves on unmediated outcomes only if commitment probabilities are less than agents\u2019 payoff share in their preferred agreement. Arbitrators do strictly better but sometimes impose disagreement, which may be hard to enforce."
+  },
+  {
+    "paper_id": "185799e085782ec533470ded53fc4f8b9a4adb16",
+    "title": "User Response in Ad Auctions: An MDP Formulation of Long-term Revenue Optimization",
+    "year": 2023,
+    "author_ids": [
+      "144220862",
+      "2113906856",
+      "3382597",
+      "1921830"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 1,
+    "abstract": "We propose a new Markov Decision Process (MDP) model for ad auctions to capture the user response to the quality of ads, with the objective of maximizing the long-term discounted revenue. By incorporating user response, our model takes into consideration all three parties involved in the auction (advertiser, auctioneer, and user). The state of the user is modeled as a user-specific click-through rate (CTR) with the CTR changing in the next round according to the set of ads shown to the user in the current round. We characterize the optimal mechanism for this MDP as a Myerson's auction with a notion of modified virtual value, which relies on the value distribution of the advertiser, the current user state, and the future impact of showing the ad to the user. Leveraging this characterization, we design a sample-efficient and computationally-efficient algorithm which outputs an approximately optimal policy that requires only sample access to the true MDP and the value distributions of the bidders. Finally, we propose a simple mechanism built upon second price auctions with personalized reserve prices and show it can achieve a constant-factor approximation to the optimal long term discounted revenue."
+  },
+  {
+    "paper_id": "350bf46defbf28f700189fe8e93e4646e5a2c5bd",
+    "title": "Dynamic incentives for sustainable contract farming",
+    "year": 2023,
+    "author_ids": [
+      "2155467525",
+      "2399390367",
+      "72368299",
+      "101433268",
+      "2306467196"
+    ],
+    "venue": "Production and operations management",
+    "citation_count": 25,
+    "abstract": "The rise of contract farming has transformed millions of farmers' lives. We study a new class of contract farming problems, where the farmer holds superior information and can invest effort to improve productivity over time. Despite their prevalence, the literature offers little guidance on how to manage such farmers with dynamic incentives. We build a game\u2010theoretic model that captures the dynamic incentives of learning and gaming, with hidden action and information. We characterize the optimal contract: it internalizes both the vertical and intertemporal externalities, with performance pay and deferred payment; the performance pay is to motivate the farmer to invest and improve the relationship\u2010specific productivity; the deferred payment is to ensure that the farmer is willing to share information and behave honestly over time. Even with random yield, the optimal contract can still have a simple implementation of a yield\u2010adjusted revenue\u2010sharing policy. Using real data, we show that the learning effect is significant. We then quantify when and how contract farming can improve smallholder farmers' productivity and income, creating shared value. We find when buyers have a long\u2010term perspective and can internalize the benefit of farmer improvement, they will pay higher prices to ensure farmers' long\u2010term viability. Our results inform the policy debate on contract farming: traditional procompetitive policies (based on spot transactions) can be counterproductive for modern agrifood value chains, hurting both buyers and farmers."
+  },
+  {
+    "paper_id": "ea3f66649450ed358d9d5075d5a346900c4a7674",
+    "title": "Implications of Unequal Discounting in Dynamic Contracting",
+    "year": 2023,
+    "author_ids": [
+      "145727038",
+      "72487641",
+      "103809114"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 9,
+    "abstract": "This paper studies a canonical dynamic screening problem where the agent has Markovian private information and limited commitment and the principal and the agent have different discount factors. Unequal discounting captures unequal access to capital markets. In comparison to standard models of dynamic mechanism design, the principal no longer finds it optimal to maximally back-load the agent\u2019s information rents: a new force of inter-temporal cost of incentive provision pushes toward front-loading agents\u2019 payoffs. The optimal contract settles into a cycle with infinite memory. The introduction of unequal discounting renders the standard relaxed-problem approach invalid for certain parameters. A simple and approximately optimal contract is then provided. (JEL D21, D61, D82, D86, L14)"
+  },
+  {
+    "paper_id": "8d341ce5b0704f469028a55553b103ed089128b5",
+    "title": "Truthful Matching with Online Items and Offline Agents",
+    "year": 2022,
+    "author_ids": [
+      "3017615",
+      "1616150925",
+      "144954554",
+      "2289611803",
+      "1807484657"
+    ],
+    "venue": "Algorithmica",
+    "citation_count": 2,
+    "abstract": "We study truthful mechanisms for welfare maximization in online bipartite matching. In our (multi-parameter) setting, every buyer is associated with a (possibly private) desired set of items, and has a private value for being assigned an item in her desired set. Unlike most online matching settings, where agents arrive online, in our setting the items arrive one by one in an adversarial order while the buyers are present for the entire duration of the process. This poses a significant challenge to the design of truthful mechanisms, due to the ability of buyers to strategize over future rounds. We provide an almost full picture of the competitive ratios in different scenarios, including myopic vs. non-myopic agents, tardy vs. prompt payments, and private vs. public desired sets. Among other results, we identify the frontier up to which the celebrated e/(e-1)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$e/(e-1)$$\\end{document} competitive ratio for the vertex-weighted online matching of Karp, Vazirani and Vazirani extends to truthful agents and online items."
+  },
+  {
+    "paper_id": "799ec1775581e0acb8a90b7a2157277eb93f241b",
+    "title": "Influencing factors of environmental efficiency of strategic emerging industries and their power cooperation mechanism design",
+    "year": 2022,
+    "author_ids": [
+      "2149230449",
+      "2277604490"
+    ],
+    "venue": "Environmental science and pollution research international",
+    "citation_count": 22,
+    "abstract": "We investigate the influencing factors of environmental efficiency of strategic emerging industries (SEIs) and cooperative game mechanism design amongst diversified actors by using China\u2019s provincial panel data from 2004 to 2019. Firstly, we find that the following factors improve the environmental efficiency of SEIs: rationalisation of the industrial structure, proportion of the tertiary industry, government\u2019s ability to intervene in the economy and fairness and integrity of environmental law enforcement. Conversely, factors, such as intensity of ecological construction and environmental regulation, hamper the environmental efficiency of SEIs. Secondly, evolutionary game analysis indicates that the behavioural strategies of game decision-making subjects depend on the behavioural decisions of the relative actors, social supervision and government regulation, which work together in influencing the environmental efficiency of SEIs. {innovation, supervision} is the optimal equilibrium state of the game. Thirdly, simulation results show that in the absence of government regulation, foreign direct investment (FDI) slows down the speed of firms tending to the equilibrium state of green innovation. The potential gain and loss of social supervision on corporate behaviour is an important factor affecting government behaviour decision making. Governments prefer punishment tools in environmental regulation, therefore influencing noninnovative firms in SEIs. We contribute to prior works by unifying various policy tools into the same econometric model framework based on an evolutionary game model."
+  },
+  {
+    "paper_id": "6e0021f0c9ddd732d724f6f6511283b745176d06",
+    "title": "Learning by Consuming: Optimal Pricing with Endogenous Information Provision",
+    "year": 2022,
+    "author_ids": [
+      "94005425",
+      "2153475583",
+      "2156045830"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study the revenue-maximizing mechanism when a buyer's value evolves endogenously because of learning-by-consuming. A seller sells one unit of a divisible good, while the buyer relies on his private, rough valuation to choose his first-stage consumption level. Consuming more leads to a more precise valuation estimate, after which the buyer determines the second-stage consumption level. The optimum is a menu of try-and-decide contracts, consisting of a first-stage price-quantity pair and a second-stage per-unit price for the remaining quantity. In equilibrium, a higher first-stage valuation buyer pays more for higher first-stage consumption and enjoys a lower second-stage per-unit price. Methodologically, we deal with the difficulty that due to the failure of single-crossing condition, monotonicity in allocation plus the envelope condition is insufficient for incentive compatibility. Our results help to understand contracts about sequential consumption with the learning feature; e.g., leasing contracts for experience goods and trial sessions for certain courses."
+  },
+  {
+    "paper_id": "4a2b87426c3c41c4a714374187b5b9f9dfb12d2d",
+    "title": "Planning with Participation Constraints",
+    "year": 2022,
+    "author_ids": [
+      "49723751",
+      "145172314",
+      "1749906"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 4,
+    "abstract": "We pose and study the problem of planning in Markov decision processes (MDPs), subject to participation constraints as studied in mechanism design. In this problem, a planner must work with a self-interested agent on a given MDP. Each action in the MDP provides an immediate reward to the planner and a (possibly different) reward to the agent. The agent has no control in choosing the actions, but has the option to end the entire process at any time. The goal of the planner is to find a policy that maximizes her cumulative reward, taking into consideration the agent's ability to terminate.\n \nWe give a fully polynomial-time approximation scheme for this problem. En route, we present polynomial-time algorithms for computing (exact) optimal policies for important special cases of this problem, including when the time horizon is constant, or when the MDP exhibits a \"definitive decisions\" property. We illustrate our algorithms with two different game-theoretic applications: the problem of assigning rides in ride-sharing and the problem of designing screening policies. Our results imply efficient algorithms for computing (approximately) optimal policies in both applications."
+  },
+  {
+    "paper_id": "3402538a4bf53505ee2fd92a068d32438cea4f97",
+    "title": "Optimal risk sharing with ex post private information: Rules versus discretion",
+    "year": 2022,
+    "author_ids": [
+      "13792160"
+    ],
+    "venue": "Southern Economic Journal",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "70ee596a93be4a46ca12c03ee8334d88d505baba",
+    "title": "Efficient Algorithms for Planning with Participation Constraints",
+    "year": 2022,
+    "author_ids": [
+      "49723751",
+      "145172314"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 5,
+    "abstract": "We consider the problem of planning with participation constraints introduced in[24]. In this problem, a principal chooses actions in a Markov decision process, resulting in separate utilities for the principal and the agent. However, the agent can and will choose to end the process whenever his expected onward utility becomes negative. The principal seeks to compute and commit to a policy that maximizes her expected utility, under the constraint that the agent should always want to continue participating. We provide the first polynomial-time exact algorithm for this problem for finite-horizon settings, where previously only an additive \u03b5-approximation algorithm was known. Our approach can also be extended to the (discounted) infinite-horizon case, for which we give an algorithm that runs in time polynomial in the size of the input and log(1/\u03b5), and returns a policy that is optimal up to an additive error of \u03b5."
+  },
+  {
+    "paper_id": "8dbbbd080587cce8e9d62636fbd627fafac1bf60",
+    "title": "Pessimism meets VCG: Learning Dynamic Mechanism Design via Offline Reinforcement Learning",
+    "year": 2022,
+    "author_ids": [
+      "1453936249",
+      "50218397",
+      "1682383",
+      "150358650"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "citation_count": 9,
+    "abstract": "Dynamic mechanism design has garnered significant attention from both computer scientists and economists in recent years. By allowing agents to interact with the seller over multiple rounds, where agents' reward functions may change with time and are state-dependent, the framework is able to model a rich class of real-world problems. In these works, the interaction between agents and sellers is often assumed to follow a Markov Decision Process (MDP). We focus on the setting where the reward and transition functions of such an MDP are not known a priori, and we are attempting to recover the optimal mechanism using an a priori collected data set. In the setting where the function approximation is employed to handle large state spaces, with only mild assumptions on the expressiveness of the function class, we are able to design a dynamic mechanism using offline reinforcement learning algorithms. Moreover, learned mechanisms approximately have three key desiderata: efficiency, individual rationality, and truthfulness. Our algorithm is based on the pessimism principle and only requires a mild assumption on the coverage of the offline data set. To the best of our knowledge, our work provides the first offline RL algorithm for dynamic mechanism design without assuming uniform coverage."
+  },
+  {
+    "paper_id": "120914da7b3948010ec10e9131f09d63bfd7b824",
+    "title": "An Incentive Mechanism for Private Parking-Sharing Programs in an Imperfect Information Setting",
+    "year": 2022,
+    "author_ids": [
+      "2587069",
+      "1710229",
+      "152651908",
+      "3038553",
+      "2110328130"
+    ],
+    "venue": "Service science",
+    "citation_count": 13,
+    "abstract": "This paper proposes a matching-and-pricing mechanism for a drivers\u2019 demand-reporting problem in parking-sharing programs in which owners share their private parking slots with drivers. We generate a driver-slot matching solution by a centralized assignment procedure according to the demand and supply information reported by drivers and owners, respectively, and determine truth-telling pricing by the Vickrey-Clark-Grove mechanism. We show that under the assumption that drivers do not know with certainty whether other drivers will show up to compete for the parking slots, the mechanism proposed in this paper induces drivers to truthfully report their private information of the travel plans and guarantees three other desirable properties: participation of drivers and slot owners, optimal system efficiency, and balance of the system\u2019s budget. We further extend these results to two dynamic situations. Finally, the results of the numerical experiments based on real-world data demonstrate the performance of the mechanism."
+  },
+  {
+    "paper_id": "85e97ba3bb0db932458f26749ef7795fde55eb6b",
+    "title": "Selling Consumer Data for Profit: Optimal Market-Segmentation Design and its Consequences",
+    "year": 2022,
+    "author_ids": [
+      "40190320"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 65,
+    "abstract": "A data broker sells market segmentations to a producer with private cost who sells a product to a unit mass of consumers. This paper characterizes the revenue-maximizing mechanisms for the data broker. Every optimal mechanism induces quasi-perfect price discrimination. All the consumers with values above a cost-dependent cutoff buy by paying their values while the rest of consumers do not buy. The characterization implies that market outcomes remain unchanged even if the data broker becomes more powerful\u2014either by gaining the ability to sell access to consumers or by becoming a retailer who purchases the product and sells to the consumers exclusively. (JEL D42, D82, D83, L81, M31)"
+  },
+  {
+    "paper_id": "3e3496324e0a0adb11197650dbf7b2a572f2c800",
+    "title": "Incentive Compatibility in Two-Stage Repeated Stochastic Games",
+    "year": 2022,
+    "author_ids": [
+      "2699256",
+      "1729606"
+    ],
+    "venue": "IEEE Transactions on Control of Network Systems",
+    "citation_count": 4,
+    "abstract": "In this article, we address mechanism design for two-stage repeated stochastic games\u2014a setting using which many emerging problems in electricity markets can be readily modeled. We introduce the notion of dominant strategy nonbankrupting equilibrium (DNBE) which requires players to make very few assumptions about the behaviors of other players in order to employ their equilibrium strategy. Consequently, a mechanism that renders truth-telling a DNBE could be quite effective in molding real-world behavior along truthful lines. We present a mechanism for two-stage repeated stochastic games that renders truth-telling a DNBE."
+  },
+  {
+    "paper_id": "93022f2ecb0c64dd2b27a095d1d10c5a1f0ff143",
+    "title": "On the complexity of dynamic mechanism design",
+    "year": 2022,
+    "author_ids": [
+      "144102674",
+      "1678362",
+      "32128914",
+      "38651679"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "4af78abf23cd8f69276c76a1d11f643933c5e897",
+    "title": "Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach",
+    "year": 2022,
+    "author_ids": [
+      "1453936249",
+      "2112723349",
+      "143654948",
+      "50218397",
+      "150358650",
+      "1694621"
+    ],
+    "venue": "Journal of machine learning research",
+    "citation_count": 9,
+    "abstract": "Dynamic mechanism design studies how mechanism designers should allocate resources among agents in a time-varying environment. We consider the problem where the agents interact with the mechanism designer according to an unknown Markov Decision Process (MDP), where agent rewards and the mechanism designer's state evolve according to an episodic MDP with unknown reward functions and transition kernels. We focus on the online setting with linear function approximation and propose novel learning algorithms to recover the dynamic Vickrey-Clarke-Grove (VCG) mechanism over multiple rounds of interaction. A key contribution of our approach is incorporating reward-free online Reinforcement Learning (RL) to aid exploration over a rich policy space to estimate prices in the dynamic VCG mechanism. We show that the regret of our proposed method is upper bounded by $\\tilde{\\mathcal{O}}(T^{2/3})$ and further devise a lower bound to show that our algorithm is efficient, incurring the same $\\Omega(T^{2 / 3})$ regret as the lower bound, where $T$ is the total number of rounds. Our work establishes the regret guarantee for online RL in solving dynamic mechanism design problems without prior knowledge of the underlying model."
+  },
+  {
+    "paper_id": "6b759a6e25a02e6f990a96def6b57119b41eb313",
+    "title": "Matching auctions",
+    "year": 2022,
+    "author_ids": [
+      "122179361",
+      "39835022"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 20,
+    "abstract": "This paper is about (platform) mediated matching in markets in which valuations evolve over time. We introduce and then study a class of dynamic matching auctions where, in each period, agents from two sides of a market submit multiple bids, one for each possible partner. Each match receives a \u201cscore\u201d that is a weighted average of the involved agents\u2019 reciprocal bids, net of the platform\u2019s match-specific costs. The weights are determined by the agents\u2019 membership statuses and vary with the platform\u2019s objectives. In each period, the matches that maximize the sum of the bilateral scores subject to individual and aggregate capacity constraints are implemented. We show that, under appropriate conditions, this class includes both welfareand profit-maximizing mechanisms. When match values are positive and none of the capacity constraints binds, profit maximization results in fewer interactions than welfare maximization, in each period. This conclusion need not extend to markets in which individual and/or aggregate capacity constraints bind and/or agents dislike certain interactions. Finally, we discuss how similar auctions but with forward-looking \u201cindex scores\u201d can be used in markets where match values depend on past interactions, for example due to experimentation, a preference for variety, or habit formation. JEL Classification Numbers: D82, C73, L1."
+  },
+  {
+    "paper_id": "8d14c85aa9521eb87eeb6ae09e765d9a30235509",
+    "title": "Market Design for Drone Traffic Management",
+    "year": 2021,
+    "author_ids": [
+      "1884044",
+      "40961651"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 19,
+    "abstract": "The rapid development of drone technology is leading to more and more use cases being proposed. In response, regulators are drawing up drone traffic management frameworks. However, to design solutions that are efficient, fair, simple, non-manipulable, and scalable, we need market design and AI expertise. To this end, we introduce the drone traffic management problem as a new research challenge to the market design and AI communities. We present five design desiderata that we have derived from our interviews with stakeholders from the regulatory side as well as from public and private enterprises. Finally, we provide an overview of the solution space to point out possible directions for future research."
+  },
+  {
+    "paper_id": "84470eb238fe01948aff5cb2220f5bf00307312e",
+    "title": "Dynamic allocation and pricing for capacitated stochastic container leasing systems with dynamic arrivals",
+    "year": 2021,
+    "author_ids": [
+      "122649097"
+    ],
+    "venue": "Journal of the Operational Research Society",
+    "citation_count": 1,
+    "abstract": "Abstract Container leasing is a flourishing industry characterised by multiple-unit demand, monopolistic supply, and long-standing customer relationships. The constraints imposed by a finite capacity and dynamic customer arrivals mean that leasing companies must address allocation and pricing issues. In this study, we investigate the dynamic rationing and nonlinear pricing problem for a leasing company with high-type and low-type customers (differentiated by per-time valuation for the leasing service) who first arrive randomly at the company and have specific hire duration preferences. We derive the closed-form optimal rationing and pricing policy, and also discuss the effect of capacity constraints and customer dynamic arrivals on the optimal allocation policy. In the setting with the same hire duration preference, the capacity constraint has a greater effect over time for customers with the same entry date and dynamic customer arrivals accelerate the increasing effect of capacity constraints compared with the case of simultaneous entries. In the setting with different hire duration preferences, the effect of the capacity constraint increases for the low-type customers and decreases for the high-type customers. Dynamic arrivals only exacerbate the increasing effect of the capacity constraint for consistent low-type customers."
+  },
+  {
+    "paper_id": "5fb6c2fcc0a634c2e23c8ec5735318cac63b1d11",
+    "title": "Sequential Blocked Matching",
+    "year": 2021,
+    "author_ids": [
+      "2104728893",
+      "143695668",
+      "2970095",
+      "1404639619"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 4,
+    "abstract": "We consider a sequential blocked matching (SBM) model where strategic agents repeatedly report ordinal preferences over a set of services to a central planner. The planner's goal is to elicit agents' true preferences and design a policy that matches services to agents in order to maximize the expected social welfare with the added constraint that each matched service can be blocked or unavailable for a number of time periods. Naturally, SBM models the repeated allocation of reusable services to a set of agents where each allocated service becomes unavailable for a fixed duration. \n\nWe first consider the offline SBM setting, where the strategic agents are aware of their true preferences. We measure the performance of any policy by distortion, the worst-case multiplicative approximation guaranteed by any policy. For the setting with s services, we establish lower bounds of \u03a9(s) and \u03a9(\u221as) on the distortions of any deterministic and randomised mechanisms, respectively. We complement these results by providing approximately truthful, measured by incentive ratio, deterministic and randomised policies based on random serial dictatorship which match our lower bounds. Our results show that there is a significant improvement if one considers the class of randomised policies. Finally, we consider the online SBM setting with bandit feedback where each agent is initially unaware of her true preferences, and the planner must facilitate each agent in the learning of their preferences through the matching of services over time. We design an approximately truthful mechanism based on the explore-then-commit paradigm, which achieves logarithmic dynamic approximate regret."
+  },
+  {
+    "paper_id": "1027bf4d2c7400e5aba09778952dedb2901e10f5",
+    "title": "Non-Clairvoyant Dynamic Mechanism Design with Budget Constraints and Beyond",
+    "year": 2021,
+    "author_ids": [
+      "66357890",
+      "1728881",
+      "2078106"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 12,
+    "abstract": "We provide a general design framework for dynamic mechanisms under complex environments, coined Lossless History Compression mechanisms. Lossless history compression mechanisms compress the history into a state carrying the least historical information without losing any generality in terms of either revenue or welfare. In particular, the characterization works for almost arbitrary constraints on the outcomes, and any objective function defined on the historical reports, allocations, and the cumulative payments. We then apply our framework to design a non-clairvoyant dynamic mechanism under budget and ex-post individual rationality constraints that is dynamic incentive-compatible and achieves non-trivial revenue performance, even without any knowledge about the future. In particular, our dynamic mechanism obtains a constant approximation to the optimal dynamic mechanism having access to all information in advance. To the best of our knowledge, this is the first dynamic mechanism that achieves a constant approximation and strictly respects dynamic incentive-compatibility and budget constraints without relying on any forecasts of the future."
+  },
+  {
+    "paper_id": "6da496518e9590fb710c99f5f0cb5c3d6694c03b",
+    "title": "Do Exit Options Increase the Value-For-Money of Public-Private Partnerships?",
+    "year": 2021,
+    "author_ids": [
+      "50411545",
+      "2798706",
+      "2352623"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 17,
+    "abstract": "We study the effects of granting an exit option that enables the private party to early terminate a PPP project if it turns out to be financially loss-making. In a continuous-time setting with hidden information about operating profits, we show that an exit option, acting as a risk-sharing device, can soften agency problems and, in so doing, accelerate investment and increase the government's expected payoff, even while taking into account the costs that the public sector will have to meet in the future to take direct responsibility on service provision."
+  },
+  {
+    "paper_id": "b6f3f0b69299f2088004c38b89c83b6f87891109",
+    "title": "Dynamic mechanism design: An elementary introduction",
+    "year": 2021,
+    "author_ids": [
+      "2382014795"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "This paper introduces dynamic mechanism design in an elementary fashion. We first examine optimal dynamic mechanisms: We find necessary and sufficient conditions for perfect Bayesian incentive compatibility and formulate the optimal dynamic mechanism problem. We next examine efficient dynamic mechanisms: We establish the uniqueness of Groves mechanism and investigate budget balance of the dynamic pivot mechanism in some detail for a bilateral trading environment. This introduction reveals that many results and techniques of static mechanism design can be straightforwardly extended and adapted to the analysis of dynamic settings."
+  },
+  {
+    "paper_id": "7ceb22d248f65761cd7eeed3ff84ab56c7a4e465",
+    "title": "When to sell an indivisible object: Optimal timing with Markovian buyers",
+    "year": 2021,
+    "author_ids": [
+      "2896004"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "We study the problem of when to sell an indivisible object. There is a monopolistic seller who owns an indivisible object and plans to sell it over a given span of time to the set of potential buyers whose valuations for the object evolve over time. We formulate the seller's problem as a dynamic mechanism design problem. We provide a procedure for finding the optimal solution and show how to check incentive compatibility. We also discuss the threshold rule from the perspective of optimal stopping."
+  },
+  {
+    "paper_id": "1280cc7857265bbda8278b70598ca293bced0747",
+    "title": "Automated Dynamic Mechanism Design",
+    "year": 2021,
+    "author_ids": [
+      "2119077075",
+      "1749906"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 18,
+    "abstract": "We study Bayesian automated mechanism design in unstructured dynamic environments, where a principal repeatedly interacts with an agent, and takes actions based on the strategic agent's report of the current state of the world. Both the principal and the agent can have arbitrary and potentially different valuations for the actions taken, possibly also depending on the actual state of the world. Moreover, at any time, the state of the world may evolve arbitrarily depending on the action taken by the principal. The goal is to compute an optimal mechanism which maximizes the principal's utility in the face of the self-interested strategic agent. We give an efficient algorithm for computing optimal mechanisms, with or without payments, under different individual-rationality constraints, when the time horizon is constant. Our algorithm is based on a sophisticated linear program formulation, which can be customized in various ways to accommodate richer constraints. For environments with large time horizons, we show that the principal's optimal utility is hard to approximate within a certain constant factor, complementing our algorithmic result. We further consider a special case of the problem where the agent is myopic, and give a refined efficient algorithm whose time complexity scales linearly in the time horizon. Moreover, we show that memoryless mechanisms do not provide a good solution for our problem, in terms of both optimality and computational tractability. These results paint a relatively complete picture for automated dynamic mechanism design in unstructured environments. Finally, we present experimental results where our algorithms are applied to synthetic dynamic environments with different characteristics, which not only serve as a proof of concept for our algorithms, but also exhibit intriguing phenomena in dynamic mechanism design."
+  },
+  {
+    "paper_id": "0b9f201b6c543a61e654db19603c49be1125c4c2",
+    "title": "Purchase History and Product Personalization",
+    "year": 2021,
+    "author_ids": [
+      "13471527",
+      "2300449"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 11,
+    "abstract": "The trade-off between product personalization and price discrimination is at the center of the debate about the use of consumer data. Whereas firms use consumer data for product personalization, allowing the firm to better meet consumers' needs, consumer data in the form of purchase histories is also used for personalized pricing. Policy makers note that rich product lines may compensate for the costs of personalized pricing. Absent from this debate is that consumer data in the form of purchase histories is endogenously determined. On the one hand, the data is selected as it reflects the consumer's trade-off between a better product match and the costs of price discrimination. On the other hand, the firm designs which products the consumer can choose from, thereby controlling how informative purchase histories may be about the consumer's preferences."
+  },
+  {
+    "paper_id": "be1678810728be883e1ef3183b38fe2c97d28696",
+    "title": "Optimal Dynamic Mechanism Under Customer Search",
+    "year": 2021,
+    "author_ids": [
+      "1740544665",
+      "2116643873"
+    ],
+    "venue": "Operational Research",
+    "citation_count": 4,
+    "abstract": "How to Sell to a Customer Who Searches for Alternative Products Customer searching behavior has been ubiquitous in modern marketplaces. Dynamic pricing, such as giving promotional prices to customers who purchase earlier, has been commonly adopted in practice to discourage customers from searching. In the paper \u201cOptimal Dynamic Mechanism Under Customer Search,\u201d Z. Hu and Y. Xiao characterize that, in the optimal selling mechanism, the seller should offer a menu of American option contracts. Under such a mechanism, the customer is given all the freedom in conducting the search but must pay an up-front deposit from the chosen option contract in order to enjoy the right to purchase the seller\u2019s product anytime during the search at a prespecified strike price. Through deposits, the seller is able to extract the customer\u2019s additional surplus from searching regardless of whether the customer makes the final purchase or not. As a result, the seller can often obtain a much higher profit than dynamic pricing mechanisms that aim to deter searching."
+  },
+  {
+    "paper_id": "4c6eacde465a96445192651d2ea30afc969a0901",
+    "title": "Optimal sequential contract with a risk\u2010averse supplier",
+    "year": 2021,
+    "author_ids": [
+      "13792160"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9b2be9626702e078dbc55da9df0d8815f18cbd89",
+    "title": "Prior-free Dynamic Mechanism Design With Limited Liability",
+    "year": 2021,
+    "author_ids": [
+      "143803467",
+      "29575657",
+      "144436943"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 1,
+    "abstract": "We study the problem of repeatedly auctioning off an item to one of k bidders where: a) bidders have a per-round individual rationality constraint, b) bidders may leave the mechanism at any point, and c) the bidders' valuations are adversarially chosen (the prior-free setting). Without these constraints, the auctioneer can run a second-price auction to \"sell the business\" and receive the second highest total value for the entire stream of items. We show that under these constraints, the auctioneer can attain a constant fraction of the \"sell the business\" benchmark, but no more than $2/e$ of this benchmark. In the course of doing so, we design mechanisms for a single bidder problem of independent interest: how should you repeatedly sell an item to a (per-round IR) buyer with adversarial valuations if you know their total value over all rounds is V but not how their value changes over time? We demonstrate a mechanism that achieves revenue $V/e$ and show that this is tight."
+  },
+  {
+    "paper_id": "12004b5f7507c28eba1fbabb14875e143875f5b1",
+    "title": "Dynamic Pricing with Limited Commitment",
+    "year": 2021,
+    "author_ids": [
+      "14084445",
+      "2128116362"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "A monopolist wants to sell one item per period to a consumer with evolving and persistent private information. The seller sets a price each period depending on the history so far, but cannot commit to future prices. We show that, regardless of the degree of persistence, any equilibrium under a D1-style refinement gives the seller revenue no higher than what she would get from posting all prices in advance."
+  },
+  {
+    "paper_id": "92fe2002b8191f4f4f6629a51cf573fcfa314619",
+    "title": "Analytical Method for Mechanism Design in Partially Observable Markov Games",
+    "year": 2021,
+    "author_ids": [
+      "1804803",
+      "1808227"
+    ],
+    "venue": "Mathematics",
+    "citation_count": 9,
+    "abstract": "A theme that become common knowledge of the literature is the difficulty of developing a mechanism that is compatible with individual incentives that simultaneously result in efficient decisions that maximize the total reward. In this paper, we suggest an analytical method for computing a mechanism design. This problem is explored in the context of a framework, in which the players follow an average utility in a non-cooperative Markov game with incomplete state information. All of the Nash equilibria are approximated in a sequential process. We describe a method for the derivative of the player\u2019s equilibrium that instruments the design of the mechanism. In addition, it showed the convergence and rate of convergence of the proposed method. For computing the mechanism, we consider an extension of the Markov model for which it is introduced a new variable that represents the product of the mechanism design and the joint strategy. We derive formulas to recover the variables of interest: mechanisms, strategy, and distribution vector. The mechanism design and equilibrium strategies computation differ from those in previous literature. A numerical example presents the usefulness and effectiveness of the proposed method."
+  },
+  {
+    "paper_id": "929e9a1562adc88acd841f9d07ff1278668f3b9a",
+    "title": "Looking the Other Way: The Screening Role of (Weak) Internal Monitoring",
+    "year": 2021,
+    "author_ids": [
+      "2411472188",
+      "49337096",
+      "2108737364"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Internal monitoring is a cardinal responsibility of the board of directors, many of which have been subject to relentless criticism of conceding too much power to the managers and allowing them too much latitude. We analyze the role of internal monitoring in a dynamic adverse selection model, in which managers have unobservable ability and must be given rents through a compensation contract in exchange for revealing their private information. Monitoring has two effects: an ex-post disciplining effect, whereby more intense monitoring limits the information advantage and the rents for managers with higher ability; and an ex-ante screening effect, whereby weaker monitoring allows firms to attract better managers. We show an optimal level of monitoring intensity that balances the disciplining effect and the screening effect exists, even when monitoring is intrinsically costless and can be made arbitrarily strong. We empirically test these predictions and find that less monitoring by the board is indeed associated with on average more capable managers, and the relationship between monitoring intensity and firm value is hump-shaped in the data. Although the lack of monitoring is often viewed as a failure of internal governance, our analysis suggests it is a plausible tactic for attracting and retaining talented managers."
+  },
+  {
+    "paper_id": "86cab4c0edfd9708d8596b3f938127e4909f4d37",
+    "title": "Taxation under Learning by Doing",
+    "year": 2021,
+    "author_ids": [
+      "49405545",
+      "39835022"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 21,
+    "abstract": "We study optimal income taxation when workers\u2019 productivity is stochastic and evolves endogenously because of learning by doing. Learning by doing calls for higher wedges and alters the relation between wedges and tax rates. In a calibrated model, we find that reforming the US tax code brings significant welfare gains and that a simple tax code invariant to past incomes is approximately optimal. We isolate the role of learning by doing by comparing the aforementioned tax code to its counterpart in an economy that is identical to the calibrated one except for the exogeneity of the productivity process. Ignoring learning by doing calls for fundamentally different proposals."
+  },
+  {
+    "paper_id": "b55124626caf482746a341646011ee4cc3865460",
+    "title": "A nucleus for Bayesian Partially Observable Markov Games: Joint observer and mechanism design",
+    "year": 2020,
+    "author_ids": [
+      "1804803",
+      "1808227"
+    ],
+    "venue": "Engineering applications of artificial intelligence",
+    "citation_count": 10,
+    "abstract": "Abstract An intelligent agent suggests an autonomous entity, which manages and learns actions to be taken towards achieving goals. The problem, reported as common knowledge in the literature in Artificial Intelligence (AI), is that it is a challenge to develop an approach able to compute efficient decisions that maximize the total reward of interacting agents upon an environment with unknown, incomplete, and uncertain information. To address these shortcomings, this paper provides a step forward: a nucleus for Bayesian Partially Observable Markov Games (BPOMGs) supported by an AI approach. Three fundamental topics conform the structure of the nucleus: game theory, learning and inference. First, we present a novel general Bayesian approach which is conceptualized for games that considered both, the incomplete information of the Bayesian model and the incomplete information over the states of the Markov system. In this new model, execution uncertainty is handled by using a Partially Observable Markov Game (POMG). Second, we extend the design theory, which now involves the mechanism design and the joint observer design (both unknown). The mechanism design results from the fact that agents act in their own individuals\u2019 self-interest, and to induce agents to not reveal their private information and create a particular outcome. The joint observer design goal is related to represent the fact that agents may not be interested to provide accurate information of their states. In addition, agents follow a model that employs a Reinforcement Learning (RL) approach for estimating the transition matrices (also unknown) at each time step. Hence, as our final contribution, is an extended model of POMGs by introducing a new variable and proposing an analytical solution to compute both the observer design and the mechanism design (the two unknown). The proposed extension makes the game theory problem computationally tractable. We derive relations to recover analytically the variables of interest for each agent, i.e. observation kernels, joint observers, mechanism, strategies, and distribution vectors. The usefulness and effectiveness of the proposed nucleus is validated in simulation on a game-theoretic analysis of the patrolling problem designing the mechanism, computing the observers, and employing an RL approach."
+  },
+  {
+    "paper_id": "3e480ddc3251b6d8305868c561ae86352aea747e",
+    "title": "On Dynamic Pricing",
+    "year": 2020,
+    "author_ids": [
+      "145727038",
+      "72487641"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "This paper builds a theory of dynamic pricing for the sale of timed goods. The main friction is private and evolving valuation of the buyer prior to the date of consumption, which follows a Poisson process. A combination of membership fees and continuously increasing prices induces a threshold response from the buyer, endogenously segmenting the market along timing of purchase. This pricing mechanism achieves the deterministic global optimum. The tools developed here are shown to be useful in thinking about global incentives in dynamic mechanisms, and mapping dynamic pricing to the classic taxonomy of consumer-producer surplus and deadweight loss. (JEL D21, D82, D86)"
+  },
+  {
+    "paper_id": "0dec4213d771cd3267103a83670711ff3474c9ab",
+    "title": "Shifting supports in Es\u00f6 and Szentes (2007)",
+    "year": 2020,
+    "author_ids": [
+      "1490732891",
+      "31043122",
+      "34979384"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": "Abstract The common-support assumption of future type distributions is well adopted in the dynamic mechanism design literature. This assumption can become restrictive when the support is bounded. In this paper, we extend Eso and Szentes (2007) by allowing shifting supports and formally show that both their analytical methodology and key insights are robust to this generalization."
+  },
+  {
+    "paper_id": "70c6e0df3f6a3d51153d42977c95caebae15e1b4",
+    "title": "Robust Pricing in Dynamic Mechanism Design",
+    "year": 2020,
+    "author_ids": [
+      "66357890",
+      "51909421",
+      "1728881"
+    ],
+    "venue": "International Conference on Machine Learning",
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "a6f550aab2d6142d22de4f8c0ee15cb446b922aa",
+    "title": "Optimal Dynamic Mechanism Design With Stochastic Supply and Flexible Consumers",
+    "year": 2020,
+    "author_ids": [
+      "2751579",
+      "1990526"
+    ],
+    "venue": "IEEE Transactions on Automatic Control",
+    "citation_count": 2,
+    "abstract": "In this article, we consider the problem of designing an expected-revenue-maximizing mechanism for allocating multiple nonperishable goods of $k$ varieties to flexible consumers over $T$ time steps. In our model, a random number of goods of each variety may become available to the seller at each time, and a random number of consumers may enter the market at each time. Each consumer is present in the market for one time step and wants to consume one good of one of its desired varieties. Each consumer is associated with a flexibility level that indicates the varieties of goods it is equally interested in. A consumer\u2019s flexibility level and the utility it gets from consuming a good of its desired varieties are its private information. We characterize the allocation rule for a Bayesian-incentive-compatible, individually rational, and expected-revenue-maximizing mechanism in terms of the solution to a dynamic program. The corresponding payment function is also specified in terms of the optimal allocation function. We leverage the structure of the consumers\u2019 flexibility model to simplify the dynamic program. Our simplified dynamic program allows us to provide an explicit allocation procedure and a simple payment rule in terms of the solution of the dynamic program."
+  },
+  {
+    "paper_id": "a0c361bd029e8822fe86aca8423d291e71b5bff2",
+    "title": "A Dynamic Mechanism for Security Management in Multi-Agent Networked Systems",
+    "year": 2020,
+    "author_ids": [
+      "2751579",
+      "1990526"
+    ],
+    "venue": "IEEE Conference on Computer Communications",
+    "citation_count": 1,
+    "abstract": "We study the problem of designing a dynamic mechanism for security management in an interconnected multi-agent system with N strategic agents and one coordinator. The system is modeled as a network of N vertices. Each agent resides in one of the vertices of the network and has a privately known security state that describes its safety level at each time. The evolution of an agent\u2019s security state depends on its own state, the states of its neighbors in the network and on actions taken by a network coordinator. Each agent\u2019s utility at time instant t depends on its own state, the states of its neighbors in the network and on actions taken by a network coordinator. The objective of the network coordinator is to take security actions in order to maximize the long-term expected social surplus. Since agents are strategic and their security states are private information, the coordinator needs to incentivize agents to reveal their information. This results in a dynamic mechanism design problem for the coordinator. We leverage the inter-temporal correlations between the agents\u2019 security states to identify sufficient conditions under which an incentive compatible expected social surplus maximizing mechanism can be constructed. We then identify two special cases of our formulation and describe how the desired mechanism is constructed in these cases."
+  },
+  {
+    "paper_id": "d939efa9809683f0cc968c5cfaf328d8d878d187",
+    "title": "Reinforcement Mechanism Design for Electric Vehicle Demand Response in Microgrid Charging Stations",
+    "year": 2020,
+    "author_ids": [
+      "2477535",
+      "2118868195",
+      "2112593040",
+      "2108896315",
+      "3152306"
+    ],
+    "venue": "IEEE International Joint Conference on Neural Network",
+    "citation_count": 16,
+    "abstract": "Reinforcement learning has become an important scheduling solution with many successes in markets with dynamic pricing options, e.g., electric vehicle charging in a deregulated electricity market. However, the highly-uncertain requests and partially-unknown individual preferences remain major challenges to effective demand responses in the user-centric environment. For charging stations who aim to maximize the long-term revenue in this fast-growing market, an accurate estimate of user\u2019s sensitivity, or acceptance, of the prices they offered to the potential customers is the key to the success of dynamic pricing. While most existing pricing schemes assume users will consistently follow stable patterns that are observable or inferrable by the charging service provider, it remains crucial to consider how users may be influenced by historic prices they have observed and react strategically to decide optimal charging demands that can maximize their utilities. To overcome this limitation, this paper presents a new framework based on reinforcement mechanism design to determine the optimal charging price in a mechanism design setting, which can optimize the long-term revenue of charging stations as well as the social welfare of users with private utility functions. Specifically, the strategic interaction between the station and users is modelled as a discrete finite Markov decision process, a Q-learning-based dynamic pricing mechanism is proposed to explore how price affects users\u2019 demands over a sequence of time. The experiments demonstrate that our pricing mechanism outperforms the predetermined time-of-use pricing in maximizing the long-term revenue of the charging station."
+  },
+  {
+    "paper_id": "6c9ec41e40d6cf561f6db378dc910440b2ca0467",
+    "title": "The uniqueness of dynamic Groves mechanisms on restricted domains",
+    "year": 2020,
+    "author_ids": [
+      "2896004"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": "This paper examines necessary and sufficient conditions for the uniqueness of dynamic Groves mechanisms when the domain of valuations is restricted. Our approach is to appropriately define the total valuation function, which is the expected discounted sum of each period's valuation function from the allocation and thus a dynamic counterpart of the static valuation function, and then to port the results for static Groves mechanisms to the dynamic setting."
+  },
+  {
+    "paper_id": "89959a9f86dc70d3e8efda0e87a648092677e74e",
+    "title": "Online Incentive-Compatible Mechanisms for Traffic Intersection Auctions",
+    "year": 2020,
+    "author_ids": [
+      "144779417",
+      "2156383",
+      "145821394"
+    ],
+    "venue": "European Journal of Operational Research",
+    "citation_count": 25,
+    "abstract": "We present novel online mechanisms for traffic intersection auctions in which users bid for priority service. We assume that users at the front of their lane are requested to declare their delay cost, i.e. value of time, and that users are serviced in decreasing order of declared delay cost. Since users are expected to arrive dynamically at traffic intersections, static pricing approaches may fail to estimate user expected waiting time accurately, and lead to non-strategyproof payments. To address this gap, we propose two Markov chain models to determine the expected waiting time of participants in the auction. Both models take into account the probability of future arrivals at the intersection. In a first model, we assume that the probability of future arrivals is uniform across lanes of the intersection. This queue-based model only tracks the number of lower- and higher-bidding users on access lanes, and the number of empty lanes. The uniformness assumption is relaxed in a second, lane-based model which accounts for lane-specific user arrival probabilities at the expense of an extended state space. We then design a mechanism to determine incentive-compatible payments in the dynamic sense. The resulting online mechanisms maximize social welfare in the long run. Numerical experiments on a four-lane traffic intersection are reported and compared to a static incentive-compatible mechanism. Our findings show that static incentive-compatible mechanisms may lead users to misreport their delay costs. In turn, the proposed online mechanisms are shown to be incentive-compatible in the dynamic sense and computationally efficient."
+  },
+  {
+    "paper_id": "b748a3dd901bbdc55e3b3264be26e29527bb4d3a",
+    "title": "Providing Data Samples for Free",
+    "year": 2020,
+    "author_ids": [
+      "3359381",
+      "143942794"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 10,
+    "abstract": "We consider the problem of a seller of data who sells information to a buyer regarding an unknown (to both parties) state of the world. Traditionally, the literature explores one-round strategies for selling information because of the seller\u2019s holdup problem: once a portion of the data set is released, the buyer\u2019s estimate improves, and as a result, the value of the remaining data set drops. In this paper, we show that this intuition is true when the buyer\u2019s objective is to improve the precision of the estimate. On the other hand, we establish that when the buyer\u2019s objective is to improve downstream operational decisions (e.g., better pricing decisions in a market with unknown elasticity) and when the buyer\u2019s initial estimate is misspecified, one-round strategies are outperformed by selling strategies that initially provide free samples. In particular, we provide conditions under which such free-sample strategies generate strictly higher revenues than static strategies and illustrate the benefit of providing data samples for free through a series of examples. Furthermore, we characterize the optimal dynamic pricing strategy within the class of strategies that provide samples over time (at a constant rate), charging a flow price until some time when the rest of the data set is released at a lump-sum amount. This paper was accepted by Itai Ashlagi, revenue management and market analytics."
+  },
+  {
+    "paper_id": "06e4b2d049d710764b004e91972709ea1df3e0e0",
+    "title": "A theory of dynamic contracting with financial constraints",
+    "year": 2020,
+    "author_ids": [
+      "145727038",
+      "72487641"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 18,
+    "abstract": "We study a dynamic principal-agent model where the agent has access to a persistent private technology but is strapped for cash. Financial constraints are generated by the periodic interaction between incentives (private information) and feasibility (being strapped for cash).This interaction produces dynamic distortions that are a sum of two effects: backloading of incentives and illiquidity. Bad technology shocks increase distortions and monotonically push the agent further away from efficiency. An endogenous number of good shocks is required for the agent to become liquid, and eventually for the contract to become efficient. Efficiency is an absorbing state that is reached almost surely. The optimal allocation can be implemented through a mechanism which is precisely pinned down by a dynamic information operator. The shares of principal and agent in the net present value of economic surplus are endogenous to the evolution of technology shocks. Surplus itself is increasing in the share of the agent, and in his type contingent utility spread. By comparing the agent\u2019s utility with and without financial constraints, the model provides a foundation for the usefulness of limited liability in dynamic contracts"
+  },
+  {
+    "paper_id": "0cb7fac2558b24a3cd1dc0dea2bed7f17701a8df",
+    "title": "Dynamic slot allocations with different patience levels",
+    "year": 2020,
+    "author_ids": [
+      "2249721"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 0,
+    "abstract": "This study considers a mechanism design problem in which service slots are allocated over time to buyers arriving at different periods. Some buyers can accept delayed service, whereas others cannot. Buyers have a multidimensional type representing their valuation and patience level. The seller fully commits to a mechanism with or without complete contingent contracts. We show that a deterministic mechanism is periodic ex-post incentive compatible if and only if the allocation rule is monotone in valuation and the \"price equivalence\" holds. In cases both with and without contingent contracts, the dynamic pivot mechanism with a reserve price maximizes the seller's expected revenue under a regularity condition, which is characterized by the linearity of the virtual valuation function. When the regularity holds, the fully optimal mechanism with contingent contracts is multi-contracting-proof, whereas the constrained optimal mechanism without contingent contracts is not."
+  },
+  {
+    "paper_id": "1bf9a1f3de7cfc20388e0e8c4bf71d7eab466f4a",
+    "title": "Efficiency With(out) Intermediation in Repeated Bilateral Trade",
+    "year": 2019,
+    "author_ids": [
+      "72487641"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "This paper analyzes repeated version of the bilateral trade model where the independent payoff relevant private information of the buyer and the seller is correlated across time. Using this setup it makes the following five contributions. First, it derives necessary and sufficient conditions on the primitives of the model as to when efficiency can be attained under ex post budget balance and participation constraints. Second, in doing so, it introduces an intermediate notion of budget balance called interim budget balance that allows for the extension of liquidity but with participation constraints for the issuing authority, interpreted here as an intermediary). Third, it pins down the class of all possible mechanisms that can implement the efficient allocation with and without an intermediary. Fourth, it provides a foundation for the role of an intermediary in a dynamic mechanism design model under informational constraints. And, fifth, it argues for a careful interpretation of the \"folk proposition\" that less information is better for efficiency in dynamic mechanisms under ex post budget balance and observability of transfers."
+  },
+  {
+    "paper_id": "fdbb3a927c52366c9439c3f35b054d5871ef27c2",
+    "title": "Social Resource Allocation in a Mobility System with Connected and Automated Vehicles: A Mechanism Design Problem",
+    "year": 2019,
+    "author_ids": [
+      "1388038411",
+      "2302798"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 14,
+    "abstract": "In this paper, we investigate the social resource allocation in an emerging mobility system consisting of connected and automated vehicles (CAVs) using mechanism design. CAVs provide the most intriguing opportunity for enabling travelers to monitor mobility system conditions efficiently and make better decisions. However, this new reality will influence travelers' tendency-of-travel and might give rise to rebound effects, e.g., increased-vehicle-miles traveled. To tackle this phenomenon, we propose a mechanism design formulation that provides an efficient social resource allocation of travel time for all travelers. Our focus is on the socio-technical aspect of the problem, i.e., by designing appropriate socio-economic incentives, we seek to prevent potential rebound effects. In particular, we propose an economically inspired mechanism to influence the impact of the travelers' decision-making on the well-being of an emerging mobility system."
+  },
+  {
+    "paper_id": "8cfbd83f85a914cbe53f68864ce7872d41580448",
+    "title": "Dynamic Mechanism Design for Human-in-the-Loop Control of Building Energy Consumption",
+    "year": 2019,
+    "author_ids": [
+      "153872434",
+      "2430809",
+      "1780765",
+      "1681053"
+    ],
+    "venue": "American Control Conference",
+    "citation_count": 2,
+    "abstract": "Integrating the preferences of building occupants for efficient building energy management has the potential for significant energy savings. In this paper, we present a new dynamic mechanism that achieves ex-post incentive compatibility, i.e., the occupants reveal their privately-held preferences truthfully in every time period. These preferences are then incorporated in a receding horizon control scheme to jointly minimize the cost of energy purchase and the discomfort experienced by the occupants. We evaluate the performance of our scheme with a baseline heating policy based on standardized thermal comfort bounds, and the classical dynamic pivot mechanism via extensive numerical simulations of a sample building. We illustrate that due to the integration of individual preferences, both occupant discomfort and energy consumption can be greatly reduced compared to the baseline heating policy. Furthermore, while the dynamic pivot mechanism requires occupants to pay for their comfort, our payment scheme rewards the occupants whose participation leads to energy savings, making their participation in the scheme more palatable."
+  },
+  {
+    "paper_id": "de1e06b86622251d45d91fb99de9db757a305695",
+    "title": "Optimal Taxation with Risky Human Capital and Retirement Savings",
+    "year": 2019,
+    "author_ids": [
+      "119622225",
+      "2302574084"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We study optimal tax policies with human capital investment and retirement savings for present-biased agents. Agents are heterogeneous in their innate ability and make risky education investments which determines their labor productivity. We demonstrate that the optimal distortions vary with education status. In particular, the optimal policy encourages human capital investment with savings incentives. Our implementation uses income-contingent student loans and existing retirement policies, augmented by a new tax instrument that subsidizes retirement savings for college graduates. The instrument mimics the latest policy proposals by allowing employers to offer 401(k) matching contributions proportional to student loans repayment."
+  },
+  {
+    "paper_id": "3a3a5ed1d2210881e5f899519223669003551aca",
+    "title": "Constrained Dynamic Mechanism Design with Public Correlation",
+    "year": 2019,
+    "author_ids": [
+      "66357890",
+      "1728881",
+      "2308469057"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We design a non-clairvoyant dynamic mechanism under budget and ex-post individual rationality constraints that is dynamic incentive-compatible and achieves non-trivial revenue performance, even without any knowledge about the future. In particular, our dynamic mechanism obtains a constant approximation to the optimal dynamic mechanism having access to all information in advance. To the best of our knowledge, this is the first dynamic mechanism that achieves a constant approximation and strictly respects dynamic incentive-compatibility and budget constraints without relying on any forecasts of the future. \n \nOur dynamic mechanism is enabled by a general design framework for dynamic mechanisms under complex environments, coined Lossless History Compression (LHC) mechanisms. LHC mechanisms compress the history into a state carrying the least historical information without losing any generality in terms of either revenue or welfare. In particular, the characterization works for i) almost arbitrary constraints on the outcomes, ii) private type distributions that are publicly correlated, and iii) any objective function defined on the historical reports, allocations, and the cumulative payments. We further prove that a non-clairvoyant dynamic mechanism is dynamic incentive-compatible if and only if it is equivalent to a stage-wise incentive compatible and state-utility independent mechanism, in which the latter means that the buyer's expected utility at each stage is independent of the state."
+  },
+  {
+    "paper_id": "7f9e7acda4aaf2baa346deb11e295b10aeee97b8",
+    "title": "Shifting Supports in Dynamic Mechanism Design",
+    "year": 2019,
+    "author_ids": [
+      "47655553",
+      "31043122",
+      "34979384"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "The common-support assumption of future type distributions is standard in the dynamic mechanism design literature (e.g., Baron and Besanko, 1984, Courty and Li, 2000, Es\u0151 and Szentes, 2007, Krahmer and Strausz, 2011, and Pavan, Segal, and Toikka, 2014). It is widely perceived that the assumption is innocuous, and yet no formal analysis of shifting supports has been provided in the literature. In this paper, we fill this gap in the setting of Es\u0151 and Szentes (2007) and formally show that both analytical methodology and key insights can be extended. Our findings contribute to building up a firm foundation for enlarging the scope of technically tractable dynamic models."
+  },
+  {
+    "paper_id": "96635d64f430c86183cf0b60570c66517b8fa87d",
+    "title": "Incentive Compatibility in Stochastic Dynamic Systems",
+    "year": 2019,
+    "author_ids": [
+      "2881417",
+      "2108176947"
+    ],
+    "venue": "IEEE Transactions on Automatic Control",
+    "citation_count": 17,
+    "abstract": "The classic Vickrey\u2013Clarke\u2013Groves (VCG) mechanism ensures incentive compatibility, i.e., truth-telling is a dominant strategy for all agents, for a static one-shot game. However, it does not appear to be feasible to construct mechanisms that ensure dominance of dynamic truth-telling for agents comprised of general stochastic dynamic systems. The agents\u2019 intertemporal net utilities depend on future controls and payments, and a direct extension of the VCG mechanism does not guarantee incentive compatibility. This article shows that such a stochastic dynamic extension does exist for the special case of linear-quadratic-Gaussian (LQG) agents. In fact, it achieves subgame perfect dominance of truth-telling. This is accomplished through a construction of a sequence of layered payments over time that decouples the intertemporal effect of current bids on future net utilities if system parameters are known and agents are rational. An important motivating example arises in power systems where an independent system operator has to ensure balance of generation and consumption at all times, while ensuring social efficiency, i.e., maximization of the sum of the utilities of all agents. It is also necessary to satisfy budget balance and individual rationality. However, in general, even for static one-shot games, there is no mechanism that simultaneous satisfies these requirements while being incentive compatible and socially efficient. For a power market of LQG agents, we show that there is a modified \u201cScaled\u201d VCG (SVCG) mechanism that does satisfy incentive compatibility, social efficiency, budget balance, and individual rationality under a certain \u201cmarket power balance\u201d condition where no agent is too negligible or too dominant. We further show that the SVCG payments converge to the Lagrange payments, defined as the payments that correspond to the true price in the absence of strategic considerations, as the number of agents in the market increases. For LQ but non-Gaussian agents, optimal social welfare over the class of linear control laws is achieved."
+  },
+  {
+    "paper_id": "22b8bc0b91fe8d6b15617cfa35ee6f790bd6a8ad",
+    "title": "Optimal Dynamic Auctions are Virtual Welfare Maximizers",
+    "year": 2018,
+    "author_ids": [
+      "1728881",
+      "1689637",
+      "34198278",
+      "2078106"
+    ],
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "citation_count": 9,
+    "abstract": "We are interested in the setting where a seller sells sequentially arriving items, one per period, via a dynamic auction. At the beginning of each period, each buyer draws a private valuation for the item to be sold in that period and this valuation is independent across buyers and periods. The auction can be dynamic in the sense that the auction at period t can be conditional on the bids in that period and all previous periods, subject to certain appropriately defined incentive compatible and individually rational conditions. Perhaps not surprisingly, the revenue optimal dynamic auctions are computationally hard to find and existing literatures that aim to approximate the optimal auctions are all based on solving complex dynamic programs. It remains largely open on the structural interpretability of the optimal dynamic auctions. \nIn this paper, we show that any optimal dynamic auction is a virtual welfare maximizer subject to some monotone allocation constraints. In particular, the explicit definition of the virtual value function above arises naturally from the primal-dual analysis by relaxing the monotone constraints. We further develop an ironing technique that gets rid of the monotone allocation constraints. Quite different from Myerson\u2019s ironing approach, our technique is more technically involved due to the interdependence of the virtual value functions across buyers. We nevertheless show that ironing can be done approximately and efficiently, which in turn leads to a Fully Polynomial Time Approximation Scheme of the optimal dynamic auction."
+  },
+  {
+    "paper_id": "e58e14796df553417a04c13bf3350b17734dd272",
+    "title": "Dynamic Mechanism Design without Transfers",
+    "year": 2018,
+    "author_ids": [
+      "121961571"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1e7b614605e9aac1dfe096afe995e7c971d9c4ae",
+    "title": "Termination Fees and Contract Design in Public-Private Partnerships",
+    "year": 2018,
+    "author_ids": [
+      "50411545",
+      "2798706",
+      "2352623"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "We study the effects of granting an exit option that enables the private party to early terminate a PPP project if it turns out to be loss-making. In a continuous time setting with hidden information about stochastic operating profits, we show that a revenue-maximizing government can optimally trade-off direct subsidies for capital investment against the right of opting out the PPP. In particular, the exit option, acting as a risk-sharing device, can soften agency problems and increase the value-for-money of public spending, even while taking into account the budgetary resources needed to resume the project in the event of early termination by the contractor."
+  },
+  {
+    "paper_id": "094c45213c73cb802b99bc917e3fc5a898eebb03",
+    "title": "Insurance and Inequality With Persistent Private Information",
+    "year": 2018,
+    "author_ids": [
+      "5808979",
+      "2240477939",
+      "113775114"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 4,
+    "abstract": "We study the implications of optimal insurance provision for long\u2010run welfare and inequality in economies with persistent private information. A principal insures an agent whose private type follows an ergodic, finite\u2010state Markov chain. The optimal contract always induces \n immiseration: the agent's consumption and utility decrease without bound. Under positive serial correlation, it also \n backloads high\u2010powered incentives: the sensitivity of the agent's utility with respect to his reports increases without bound. These results extend\u2014and help elucidate the limits of\u2014the hallmark immiseration results for economies with i.i.d. private information. Numerically, we find that persistence yields faster immiseration, higher inequality, and novel short\u2010run distortions. Our analysis uses recursive methods for contracting with persistent types and allows for binding global incentive constraints.\n"
+  },
+  {
+    "paper_id": "0b84d8ac1174ab107c053d99e347510f97fc59ad",
+    "title": "Ex-post IR Dynamic Auctions with Cost-per-Action Payments",
+    "year": 2018,
+    "author_ids": [
+      "2668042",
+      "2117422599",
+      "2078106"
+    ],
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "citation_count": 6,
+    "abstract": "Motivated by online ad auctions, we consider a repeated auction between one seller and many buyers, where each buyer only has an estimation of her value in each period until she actually receives the item in that period. The seller is allowed to conduct a dynamic auction but must guarantee ex-post individual rationality.\n\nIn this paper, we use a structure that we call credit accounts to enable a general reduction from any incentive compatible and ex-ante individual rational dynamic auction to an approximate incentive compatible and ex-post individually rational dynamic auction with credit accounts. Our reduction obtains stronger individual rationality guarantees at the cost of weaker incentive compatibility. Surprisingly, our reduction works without any common knowledge assumption. Finally, as a complement to our reduction, we prove that there is no non-trivial auction that is exactly incentive compatible and ex-post individually rational under this setting."
+  },
+  {
+    "paper_id": "4ca63e8e3813943874416acbc089bfa91c7df7cc",
+    "title": "Non-clairvoyant Dynamic Mechanism Design",
+    "year": 2018,
+    "author_ids": [
+      "1728881",
+      "1689637",
+      "34198278",
+      "2078106"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 48,
+    "abstract": "Despite their better revenue and welfare guarantees for repeated auctions, dynamic mechanisms have not been widely adopted in practice. This is partly due to the complexity of their implementation as well as their unrealistic use of forecasting for future periods. We address these shortcomings and present a new family of dynamic mechanisms that are simple and require no distribution knowledge of future periods. This paper introduces the concept of non-clairvoyance in dynamic mechanism design, which is a measure-theoretic restriction on the information that the seller can use. A dynamic mechanism is non-clairvoyant if the allocation and pricing rule at each period does not depend on the type distributions in future periods. We develop a framework (bank account mechanisms) for characterizing, designing, and proving lower bounds for dynamic mechanisms (clairvoyant or non-clairvoyant). This framework is used to characterize the revenue extraction power of non-clairvoyant mechanisms with respect to mechanisms that are allowed unrestricted use of distributional knowledge."
+  },
+  {
+    "paper_id": "e67dae3f340ee28abf11e5bd3ca5c86726c10b50",
+    "title": "The Strategic LQG System: A Dynamic Stochastic VCG Framework for Optimal Coordination",
+    "year": 2018,
+    "author_ids": [
+      "2881417",
+      "2108176947"
+    ],
+    "venue": "IEEE Conference on Decision and Control",
+    "citation_count": 5,
+    "abstract": "The classic Vickrey-Clarke-Groves (VCG) mechanism ensures incentive compatibility, i.e., that truth-telling of all agents is a dominant strategy, for a static one-shot game. However, in a dynamic environment that unfolds over time, the agents' intertemporal payoffs depend on the expected future controls and payments, and a direct extension of the VCG mechanism is not sufficient to guarantee incentive compatibility. In fact, it does not appear to be feasible to construct mechanisms that ensure the dominance of dynamic truth-telling for agents comprised of general stochastic dynamic systems. The contribution of this paper is to show that such a dynamic stochastic extension does exist for the special case of Linear-Quadratic-Gaussian (LQG) agents with a careful construction of a sequence of layered payments over time. We propose a layered version of a modified VCG mechanism for payments that decouples the intertemporal effect of current bids on future payoffs, and prove that truth-telling of dynamic states forms a dominant strategy if system parameters are known and agents are rational. An important example of a problem needing such optimal dynamic coordination of stochastic agents arises in power systems where an Independent System Operator (ISO) has to ensure balance of generation and consumption at all time instants, while ensuring social optimality (maximization of the sum of the utilities of all agents). Addressing strategic behavior is critical as the price-taking assumption on market participants may not hold in an electricity market. Agents, can lie or otherwise game the bidding system. The challenge is to determine a bidding scheme between all agents and the ISO that maximizes social welfare, while taking into account the stochastic dynamic models of agents, since renewable energy resources such as solar/wind are stochastic and dynamic in nature, as are consumptions by loads which are influenced by factors such as local temperatures and thermal inertias of facilities."
+  },
+  {
+    "paper_id": "71c1d0a90e7812e2a368cafde5e81dc3ac8b71e7",
+    "title": "Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Sequential Auctions under Unknown Environments",
+    "year": 2025,
+    "author_ids": [
+      "2373439949",
+      "2226507600"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "9db7bd3daeb5872b68c975c9d01b4e88b07c3962",
+    "title": "Implementation in Stationary Markov-Perfect Equilibrium",
+    "year": 2024,
+    "author_ids": [
+      "2411048656",
+      "2284672775"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f9a20850b84d6958f943b715c0c4620817e16e26",
+    "title": "Multi-agent reinforcement mechanism design for dynamic pricing-based demand response in charging network",
+    "year": 2023,
+    "author_ids": [
+      "2477535",
+      "2110480595",
+      "2112593040",
+      "47074042",
+      "2152721486",
+      "2112555549"
+    ],
+    "venue": "International Journal of Electrical Power &amp; Energy Systems",
+    "citation_count": 19,
+    "abstract": null
+  },
+  {
+    "paper_id": "c210c42de5935d26d233195025737afb6428d954",
+    "title": "Dynamic, incentive-compatible contracting for health services",
+    "year": 2023,
+    "author_ids": [
+      "4201566",
+      "2238721566",
+      "1960212"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "2a5f75bfc0b9b3dd7203cf43e858d1b214819cb5",
+    "title": "Threshold Mechanisms for Dynamic Procurement with Abandonment",
+    "year": 2023,
+    "author_ids": [
+      "37492518",
+      "9258975",
+      "3068772",
+      "40227065"
+    ],
+    "venue": "Algorithmic Game Theory",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "6331717f07d3119d5a281b00da0d4b822fdd907e",
+    "title": "Incentive Pay Prior to CEO Turnover When Effort Choices Have Lasting Effects",
+    "year": 2022,
+    "author_ids": [
+      "1678999",
+      "8467098"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "We present a modified principal-agent model to identify a link between the anticipated likelihood of future CEO turnover and the optimal sensitivity of incentive pay to firm performance. The analysis focuses on the optimal sequence of standard one-period incentive contracts when CEO effort choices have lasting effects on firm performance. In such a model, an increase in the anticipated likelihood of turnover reduces the impact of future incentive contracts on current CEO effort, and induces a compensatory increase in the optimal sensitivity of current CEO compensation to current firm performance. We find empirical evidence in support of this prediction for a sample of over 3,000 US firms. Using an executive-specific fixed effects model, we find that among CEOs who depart within two years, the sensitivity of current incentive pay to changes in current firm performance is greater when there is a higher anticipated likelihood of CEO turnover as proxied by departures that reflect a planned succession and departures by CEOs who have reached retirement age. As expected, this increase in the sensitivity of current incentive pay to changes in firm performance is not found if the subsequent turnover is classified as unplanned, and thus not anticipated by the firm. JEL Classification: G30, J33, J63, M12, M52"
+  },
+  {
+    "paper_id": "b174095cdbc18322ee68439e758d0e58d0b1dfb1",
+    "title": "A type-adjustable mechanism where the designer may obtain more payo\ufb00s by optimally controlling distributions of agents\u2019 types",
+    "year": 2022,
+    "author_ids": [
+      "2054909464",
+      "90337813",
+      "33911355"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "6998a31856d7dae54f8f8a2ed13825a1aa96302c",
+    "title": "Sequential Decision Making With Information Asymmetry",
+    "year": 2022,
+    "author_ids": [
+      "2678371",
+      "144029582",
+      "2667883",
+      "1703727"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "0c1f91a11a0bc1e1aa8212890c59a60ba2f2ea1b",
+    "title": "Delegating learning",
+    "year": 2021,
+    "author_ids": [
+      "143705788",
+      "49346688"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 7,
+    "abstract": "Learning is crucial to organizational decision making but often needs to be delegated. We examine a dynamic delegation problem where a principal decides on a project with uncertain profitability. A biased agent, who is initially as uninformed as the principal, privately learns the profitability over time and communicates to the principal. We formulate learning delegation as a dynamic mechanism design problem and characterize the optimal delegation scheme. We show that private learning gives rise to the trade\u2010off between how much information to acquire and how promptly it is reflected in the decision. We discuss implications on learning delegation for distinct organizations."
+  },
+  {
+    "paper_id": "2a9f0bcdf2f7650c5b301fd142dfae2615196f80",
+    "title": "Static Pricing in Dynamic Sales*",
+    "year": 2021,
+    "author_ids": [
+      "14084445",
+      "2128116362"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "292f10a9abefc6c6ddec65a493afa0c7cf71aa2f",
+    "title": "When to sell an indivisible object: Optimal timing with Markovian consumers",
+    "year": 2021,
+    "author_ids": [
+      "2896004"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "52ec6c319bcbb484ffd3efcd9f887baff89849f4",
+    "title": "Static Pricing*",
+    "year": 2021,
+    "author_ids": [
+      "14084445",
+      "2128116362"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4c2c996b55b1c985c2aad8e5a906a6efadd50711",
+    "title": "Correction Mechanism of the Imbalance of Rural Long Tail Public Services",
+    "year": 2021,
+    "author_ids": [
+      "2129569998"
+    ],
+    "venue": "Rural Long Tail Public Service and the Correction Mechanism",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "194bc70829de2765b04b7309fdd5d94f165111f5",
+    "title": "G T ] 3 0 Ju l 2 02 1 Sequential Blocked Matching",
+    "year": 2021,
+    "author_ids": [],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5181bd93a0d0a9fe46e4eacbe9c688adeb15e495",
+    "title": "Dynamic Mechanism Design in Complex Environments",
+    "year": 2020,
+    "author_ids": [
+      "66357890"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "42a431ad84a7265c6cfe6c78ff93bc58e46a77b2",
+    "title": "Artificial Empathy: A New Perspective for Analyzing and Designing Multi-Agent Systems",
+    "year": 2020,
+    "author_ids": [
+      "30812691",
+      "2109557576",
+      "3017542",
+      "47074232"
+    ],
+    "venue": "IEEE Access",
+    "citation_count": 7,
+    "abstract": "Learning from biological mechanisms is an essential method of devising interaction rules among agents. Inspired by neuropsychology, we introduce empathy, a vital ability of higher animals\u2019 affective systems, to assist us in analyzing and designing multi-agent systems. In this paper, we abstract the process of empathy as an optimization problem and establish a reasonable model of empathy by optimizing the corresponding free energy. Variable temperatures on the integrated utility associated with empathy provide agents with several different modes, including collectivity, equality, oligopoly, and monopoly. Therefore, we can change the agent\u2019s mode artificially according to the task requirement and examine agents\u2019 evolution from the perspective of continuous changes on temperature. Then we present a bandit algorithm called Empathy-based Interactive Learner (EIL), by which agents can enable affective utility evaluation and adaptive learning procedure in multi-agent systems. We test EIL\u2019s performance in four games, including the iterated prisoners\u2019 dilemma, the ultimatum game and its multi-player variant, and the survival game. The results showed that EIL could significantly improve cooperation, promote altruism behaviors, and stimulate the sense of fairness in the equal mode, whereas increasing the trend of self-interest gradually in the process of switching to other modes. To sum up, our model illustrates that empathy can act as a virtual drive underlying cooperation and competition. This provides novel methods and insights in regulating behaviors in multi-agent systems, as well as artificial subjects in psychology and behavioral economics experiments."
+  },
+  {
+    "paper_id": "ad232e42e16ef133d54a7355d3efff70257714d8",
+    "title": "Financing a Black Box",
+    "year": 2020,
+    "author_ids": [
+      "2411472188"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "1345e2ee9587f78230d1981e433ed2486572171a",
+    "title": "Dynamic Procurement Auction with Abandonment",
+    "year": 2020,
+    "author_ids": [
+      "97112915",
+      "9258975",
+      "3068772",
+      "40227065"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d4742b50b18f90ceb34fa0f80f7456524a8b1778",
+    "title": "Dynamic regulation revisited: Signal dampening, experimentation and the ratchet effect",
+    "year": 2019,
+    "author_ids": [
+      "3227901",
+      "2073224281"
+    ],
+    "venue": null,
+    "citation_count": 32,
+    "abstract": null
+  },
+  {
+    "paper_id": "099c3d3048ae0c26a6f28350b60a99f9e6eb8fb4",
+    "title": "Progressive Participation",
+    "year": 2019,
+    "author_ids": [
+      "2616138",
+      "2450616"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "A single seller faces a sequence of buyers with unit demand. The buyers are forward\u2010looking and long\u2010lived. Each buyer has private information about his arrival time \n and valuation where the latter evolves according to a geometric Brownian motion. Any incentive\u2010compatible mechanism has to induce truth\u2010telling about the arrival time and the evolution of the valuation.\n \n We establish that the optimal stationary allocation policy can be implemented by a simple posted price. The truth\u2010telling constraint regarding the arrival time can be represented as an optimal stopping problem that determines the first time at which the buyer participates in the mechanism. The optimal mechanism thus induces progressive participation by each buyer: he either participates immediately or at a future random time."
+  },
+  {
+    "paper_id": "9608cdcf7557ca0339fb290fd555d3b62036c129",
+    "title": "Refugee Relocation: A Mechanism Design Perspective",
+    "year": 2019,
+    "author_ids": [
+      "2059716808"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f69a7f38f8e8ed9fe0ee98a1bdfcc753ecf4f6a9",
+    "title": "Dynamic Incentives for Buy-Side Analysts",
+    "year": 2019,
+    "author_ids": [
+      "34171809",
+      "7242417",
+      "4615528"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We develop a dynamic adverse selection model where a career-concerned buy-side analyst advises a fund manager about investment decisions. The analyst's ability is privately known, as is any information she learns over time. The manager wants to elicit information to maximize fund performance while also identifying and retaining high-skill analysts. We characterize the optimal dynamic contract, show that it has several features supported by empirical evidence, and derive novel testable implications. The fund manager's optimal contract both maximizes the value of information and screens out low-skill analysts by incentivizing the analyst to always provide honest advice."
+  },
+  {
+    "paper_id": "19b35863f84271d6b3c569a51d79097c8c9e8e46",
+    "title": "Online Truthful Mechanisms for Combinatorial Auctions",
+    "year": 2019,
+    "author_ids": [
+      "2288756356"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "7e844e47fd1273b206f92af09f09d7f7ec70e0c9",
+    "title": "Working Paper Series",
+    "year": 2018,
+    "author_ids": [
+      "2237381667",
+      "2237561244"
+    ],
+    "venue": null,
+    "citation_count": 90,
+    "abstract": null
+  }
+]

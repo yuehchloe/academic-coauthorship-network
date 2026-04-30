@@ -1,0 +1,197 @@
+[
+  {
+    "paper_id": "795cc2efbb55ba4923a050ee1dbb85e4b2bdb16e",
+    "title": "Wie sollten wir unseren Bundestag w\u00e4hlen?",
+    "year": 2025,
+    "author_ids": [
+      "2323384401"
+    ],
+    "venue": "Perspektiven der Wirtschaftspolitik",
+    "citation_count": 0,
+    "abstract": "Zusammenfassung Bei der Bundestagswahl im Februar 2025 wurde erstmals das von der vormaligen Ampelmehrheit beschlossene Wahlrecht angewendet. Es hatte zum Ziel, den Bundestag zu verkleinern \u2013 was auch gelang. Doch bereits am Wahlabend sorgte das neue Wahlrecht f\u00fcr Unmut, da Kandidierende trotz relativer Mehrheit in ihren Wahlkreisen nicht in den Bundestag einzogen. Die Union, deren Kandidierende \u00fcberproportional h\u00e4ufig, obschon Wahlkreissieger, nicht in den Bundestag einzogen, m\u00f6chte das Wahlrecht neuerlich \u00e4ndern. Als \u00f6konomisch fundierte Perspektive f\u00fcr ein neues Wahlrecht schl\u00e4gt Salvatore Barbaro in diesem Beitrag die Wahl von Condorcet-Siegern in den Wahlkreisen vor."
+  },
+  {
+    "paper_id": "e6df9f6948506bed6ee1bf24283562e0b5ab4b22",
+    "title": "Binary Self\u2010Selective Voting Rules",
+    "year": 2025,
+    "author_ids": [
+      "2175538090",
+      "122118471"
+    ],
+    "venue": "Journal of Public Economic Theory",
+    "citation_count": 2,
+    "abstract": "This paper introduces a novel binary stability property for voting rules\u2014called binary self\u2010selectivity\u2014by which a society considering whether to replace its voting rule using itself in pairwise elections will choose not to do so. In Theorem 1, we show that a neutral voting rule is binary self\u2010selective if and only if it is universally self\u2010selective. We then use this equivalence to show, in Corollary 1, that under the unrestricted strict preference domain, a unanimous and neutral voting rule is binary self\u2010selective if and only if it is dictatorial. In Theorem 2 and Corollary 2, we show that whenever there is a strong Condorcet winner; a unanimous, neutral, and anonymous voting rule is binary self\u2010selective (or universally self\u2010selective) if and only if it is the Condorcet voting rule."
+  },
+  {
+    "paper_id": "0849fa9a1c289bba4e1f6b325da062087f91d08f",
+    "title": "Election methods and political polarization",
+    "year": 2025,
+    "author_ids": [
+      "2323384401"
+    ],
+    "venue": "Mathematical Social Sciences",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "dde93e5cd51c3a299f015a3ac9ae09b90a48ddbb",
+    "title": "Representative Democracy",
+    "year": 2025,
+    "author_ids": [
+      "2356143086",
+      "117884958"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "\n Despite the not-so-distant invocations of the \u201cend of history,\u201d representative democracy is, today, under siege even from corners where one once might have expected strong sympathy and support. Indeed, confidence in representative democracy has been shaken by the economic and political performance of many such regimes. The main goal of our book is to explain why the definitive institutional features of representative democracy make it attractive relative to salient alternatives (direct democracy, lottery-based systems, and meritocratic regimes). Our account turns on novel arguments that connect the distinctive institutional features of representative democracy to important epistemic and stability-based benefits. In addition to rebutting arguments for the superiority of alternative regime types, the book provides a normative account of a well-functioning system of representative democracy against which proposed reforms can be evaluated. These arguments show why representative democracy is a distinctively attractive institutional arrangement, rather than\u2014as it is often perceived to be\u2014a pale and unattractive stand-in for more robust and genuine forms of democratic government."
+  },
+  {
+    "paper_id": "4aec1cf48c22575781b770acb6e7575afb2178d1",
+    "title": "Old rockers: Borda and Condorcet revisited",
+    "year": 2024,
+    "author_ids": [
+      "2247324530"
+    ],
+    "venue": "Economic Theory Bulletin",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "006c4e46b396745053b3c1d2de35b59271c83dd9",
+    "title": "Fixed-budget and Multiple-issue Quadratic Voting",
+    "year": 2024,
+    "author_ids": [
+      "34906919",
+      "2105894098",
+      "104201331",
+      "2306260577"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 4,
+    "abstract": "Quadratic Voting (QV) is a social choice mechanism that addresses the\"tyranny of the majority\"of one-person-one-vote mechanisms. Agents express not only their preference ordering but also their preference intensity by purchasing $x$ votes at a cost of $x^2$. Although this pricing rule maximizes utilitarian social welfare and is robust against strategic manipulation, it has not yet found many real-life applications. One key reason is that the original QV mechanism does not limit voter budgets. Two variations have since been proposed: a (no-budget) multiple-issue generalization and a fixed-budget version that allocates a constant number of credits to agents for use in multiple binary elections. While some analysis has been undertaken with respect to the multiple-issue variation, the fixed-budget version has not yet been rigorously studied. In this work, we formally propose a novel fixed-budget multiple-issue QV mechanism. This integrates the advantages of both the aforementioned variations, laying the theoretical foundations for practical use cases of QV, such as multi-agent resource allocation. We analyse our fixed-budget multiple-issue QV by comparing it with traditional voting systems, exploring potential collusion strategies, and showing that checking whether strategy profiles form a Nash equilibrium is tractable."
+  },
+  {
+    "paper_id": "097eb5305d75760dafbf9525ed825d7c8e8c7285",
+    "title": "Voting for insider trading regulation. An experimental study of informed and uninformed traders\u2019 preferences",
+    "year": 2024,
+    "author_ids": [
+      "2140557964",
+      "2007287",
+      "3218106"
+    ],
+    "venue": "Journal of Banking &amp; Finance",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1b37fd842c2a98116260913e940b457bc4de0d82",
+    "title": "Roadmap on Incentive Compatibility for AI Alignment and Governance in Sociotechnical Systems",
+    "year": 2024,
+    "author_ids": [
+      "2174174943",
+      "2216334065",
+      "2271663665",
+      "2340568030",
+      "2250489869",
+      "2271663147"
+    ],
+    "venue": "Artificial General Intelligence",
+    "citation_count": 8,
+    "abstract": "The burgeoning integration of artificial intelligence (AI) into human society brings forth significant implications for societal governance and safety. While considerable strides have been made in addressing AI alignment challenges, existing methodologies primarily focus on technical facets, often neglecting the intricate sociotechnical nature of AI systems, which can lead to a misalignment between the development and deployment contexts. To this end, we posit a new problem worth exploring: Incentive Compatibility Sociotechnical Alignment Problem (ICSAP). We hope this can call for more researchers to explore how to leverage the principles of Incentive Compatibility (IC) from game theory to bridge the gap between technical and societal components to maintain AI consensus with human societies in different contexts. We further discuss three classical game problems for achieving IC: mechanism design, contract theory, and Bayesian persuasion, in addressing the perspectives, potentials, and challenges of solving ICSAP, and provide preliminary implementation conceptions."
+  },
+  {
+    "paper_id": "5710db4d959b27e7c54f927a1db0fa1670d10c71",
+    "title": "On the manipulability of equitable voting rules",
+    "year": 2023,
+    "author_ids": [
+      "101699889"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "e023cf975a915d5339be42d6f65e62244aea3017",
+    "title": "Voting with interdependent values: The Condorcet winner",
+    "year": 2023,
+    "author_ids": [
+      "3010350",
+      "34732812",
+      "2488559",
+      "2693099"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 1,
+    "abstract": "We generalize the standard, private values voting model with single-peaked preferences and incomplete information by introducing interdependent preferences. Our main results show how standard mechanisms that are outcome-equivalent and implement the Con-dorcet winner under complete information or under private values yield starkly di\u2044erent outcomes if values are interdependent. We also propose a new notion of Condorcet winner under incomplete information and interdependent preferences, and discuss its implementation. The new phenomena in this paper arise because di\u2044erent voting rules (including dynamic ones) induce di\u2044erent processes of information aggregation and learning"
+  },
+  {
+    "paper_id": "7f8dd43a12f4839c4f53e77b5df595aefcc19d4a",
+    "title": "Condorcet Method, Independence of Irrelevant Alternatives, and the Size of the Bundestag",
+    "year": 2022,
+    "author_ids": [
+      "3184923",
+      "83418638"
+    ],
+    "venue": "German Politics",
+    "citation_count": 4,
+    "abstract": "ABSTRACT How should an excessively large parliament be effectively reduced in size without violating constitutional principles? This is a question that the German Bundestag has discussed since the introduction of the 2013 electoral reform measure. Facing a Bundestag consisting of 709 members and some public dissatisfaction, a reform measure to decrease the parliament\u2019s size was adopted in 2020. However, the 20 Bundestag, elected in September 2021, again increased in size to 735 members. The newly adopted electoral law still uses plurality voting to select the directly elected lawmakers. It is widely known that selection using the plurality rule is flawed because it violates the principle of majority decision. Aside from this aspect, this paper demonstrates that the plurality rule itself contributes to the excessive size of the parliament. By removing the flaws caused by the plurality rule and replacing this voting scheme with a Condorcet method (simple-majority rule), the targeted reduction of the size of the Bundestag can be achieved."
+  },
+  {
+    "paper_id": "a9d5340e5349e8c15bd43c247bb75fd63e673ca9",
+    "title": "Structured Preferences: A Literature Survey",
+    "year": 2022,
+    "author_ids": [
+      "2061086013"
+    ],
+    "venue": "Automation and remote control",
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "d757167e071d9bad1dea4c7153f153012539e276",
+    "title": "Elite Influence on General Political Preferences",
+    "year": 2021,
+    "author_ids": [
+      "21371736"
+    ],
+    "venue": "Journal of Government and Economics",
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "c9fd77443bb92ea426943a2bf093285cf4ba14a6",
+    "title": "Gutenberg School of Management and Economics Majority principle and indeterminacy in German elections",
+    "year": 2022,
+    "author_ids": [
+      "2094903562",
+      "2411286318"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "56a429303d3039b930124758bb9f9d9f2bc260e4",
+    "title": "SYMMETRIC NASH EQUILIBRIUM IN THE CONDORCET CYCLE",
+    "year": 2022,
+    "author_ids": [
+      "2135937271"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "649e2d975302d597b9ea170db9de4a31c2e23f80",
+    "title": "Implementation in vNM Stable Set",
+    "year": 2022,
+    "author_ids": [
+      "2204038",
+      "143690260",
+      "70163731"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "We fully identify the class of social choice functions that are implementable in von Neumann Morgenstern (vNM) stable set (von Neumann and Morgenstern, 1944) by a rights structure. A rights structure formalizes the idea of power distribution in a society. Following Harsanyi\u2019critique (Harsanyi, 1974), we also study implementation problems in vNM stable set that are robust to farsighted reasoning."
+  }
+]

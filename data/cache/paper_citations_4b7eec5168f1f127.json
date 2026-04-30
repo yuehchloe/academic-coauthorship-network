@@ -1,0 +1,159 @@
+[
+  {
+    "paper_id": "fa51da66f8585af03a9ac7d6e3294d12519027b8",
+    "title": "Indirect Persuasion",
+    "year": 2025,
+    "author_ids": [
+      "2358656659",
+      "2287715280",
+      "2383326145"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 2,
+    "abstract": "We provide an organizational economics foundation for commitment to information structures in persuasion. An uninformed principal faces a joint screening-and-persuasion problem: she wants to influence a receiver\u2019s beliefs about a payoff-relevant state using information elicited from a privately informed agent. The principal cannot act as an intermediary that commits to an optimal garbling of the agent\u2019s private communications; instead, the agent\u2019s messages are all publicly observed by the receiver. We show that the principal can still (indirectly) implement the optimal unconstrained intermediation scheme. Commitment only to an employment contract with the agent suffices for optimal persuasion of the receiver. We apply our result to the context of a brokerage contracting with a sell-side analyst, where private communication is constrained by conflict-of-interest regulations. We show that a public communication scheme\u2014which closely corresponds to the investment ratings schemes observed in practice\u2014can sidestep these regulations."
+  },
+  {
+    "paper_id": "0de57a6e7a70ab2e9eaa1cdad151ec2e3dd7c49b",
+    "title": "Bayesian persuasion with fact-checking: An experimental investigation",
+    "year": 2025,
+    "author_ids": [
+      "3394210",
+      "114761306"
+    ],
+    "venue": "European Economic Review",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3d01f41837a6ba2f5287b0851a949fb5d4b98489",
+    "title": "The Effects of Reference Dependence on Judicial Persuasion",
+    "year": 2025,
+    "author_ids": [
+      "2282655345"
+    ],
+    "venue": "Journal of Public Economic Theory",
+    "citation_count": 0,
+    "abstract": "I study a model of persuasion in which a loss\u2010averse judge has reference\u2010dependent preferences. When the loss from wrongful conviction looms largest, the outcome that forms the judge's reference point has significant implications for the effectiveness of persuasion. When acquitting the innocent or the guilty is the reference point, an increase in the judge's loss aversion decreases the prosecutor's gain from persuasion. On the other hand, when convicting the guilty is the reference point, this gain increases as the judge becomes more loss\u2010averse. With a reference\u2010dependent jury, the interplay between the reference point and the complementarity of the jurors' actions offers a novel theoretical explanation for the differing behavior of judges and juries."
+  },
+  {
+    "paper_id": "65a64d82bf775ff957bbe04c54f856240d3fe60b",
+    "title": "When does coordination require centralization? The roles of organizational inertia and diversity",
+    "year": 2025,
+    "author_ids": [
+      "2374268824",
+      "2248819711"
+    ],
+    "venue": "Journal of Economic Behavior &amp; Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8ecbf195d9e0504aab4fbcab3596ae4885c90448",
+    "title": "Continuous-time persuasion by filtering",
+    "year": 2024,
+    "author_ids": [
+      "2315761",
+      "147729126",
+      "39438353",
+      "2325155630"
+    ],
+    "venue": "Journal of Economic Dynamics and Control",
+    "citation_count": 5,
+    "abstract": "We frame dynamic persuasion in a partial observation stochastic control Leader-Follower game with an ergodic criterion. The Receiver controls the dynamics of a multidimensional unobserved state process. Information is provided to the Receiver through a device designed by the Sender that generates the observation process. The commitment of the Sender is enforced. We develop this approach in the case where all dynamics are linear and the preferences of the Receiver are linear-quadratic. We prove a verification theorem for the existence and uniqueness of the solution of the HJB equation satisfied by the Receiver's value function. An extension to the case of persuasion of a mean field of interacting Receivers is also provided. We illustrate this approach in two applications: the provision of information to electricity consumers with a smart meter designed by an electricity producer; the information provided by carbon footprint accounting rules to companies engaged in a best-in-class emissions reduction effort. In the first application, we link the benefits of information provision to the mispricing of electricity production. In the latter, we show that information provision is a substitute for best-in-class objective."
+  },
+  {
+    "paper_id": "2e84a65e473fd57692dfec525e4fcb8b3a50257a",
+    "title": "Signaling through Bayesian persuasion",
+    "year": 2024,
+    "author_ids": [
+      "2244434565"
+    ],
+    "venue": "Mathematical Social Sciences",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0f6f115c913cfc3f483ccf437bc3e6e2cfb5d14e",
+    "title": "Testing under information manipulation",
+    "year": 2023,
+    "author_ids": [
+      "1491257445",
+      "2081261565"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 2,
+    "abstract": "A principal makes a binary decision based on evidence that can be manipulated by a privately informed agent. The principal\u2019s objective is to minimize the expected loss associated to type I and II errors. When the principal can commit to an acceptance standard, the optimal test features ex-post inefficient standards, to internalize the agent\u2019s manipulation incentives. We provide conditions for the principal to set soft or harsh standards, that is, lower or higher standards, respectively, than the ex-post optimal standard. When misaligned manipulation (i.e., manipulation by the low type) is dominant, the principal sets soft standards when the prior probability that the candidate is low type is relatively small. In contrast, when aligned manipulation (i.e., manipulation by the high type) is dominant, the principal sets soft standards when the prior probability that the candidate is low type is relatively large. In both scenarios, these soft standards result in that the non-commitment equilibrium outcome is Pareto dominated by the equilibrium outcome under commitment. We also provide conditions for the optimal revelation mechanism to Pareto dominate commitment when the prior probability that the agent is low type is relatively large."
+  },
+  {
+    "paper_id": "52cb2ea39794dad484e878d8b1d7a858b0c917aa",
+    "title": "On the equivalence of information design by uninformed and informed principals",
+    "year": 2023,
+    "author_ids": [
+      "1720611"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 10,
+    "abstract": "We compare information design, or Bayesian persuasion, by an uninformed principal (who has no information about the state of the world when making her choice) and by an informed principal (who has private information and can condition her choice on that information). We show that, under the assumptions of monotone preferences of the principal and nondegenerate information structures, a Pareto undominated outcome is implementable by the uninformed principal if and only if it is implementable by the informed principal."
+  },
+  {
+    "paper_id": "45ee302a58c2d67426c378a9bdb307cfc99118fb",
+    "title": "Sequential Persuasion Using Limited Experiments",
+    "year": 2023,
+    "author_ids": [
+      "2151176676",
+      "2668042",
+      "34198278"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 1,
+    "abstract": "Bayesian persuasion and its derived information design problem has been one of the main research agendas in the economics and computation literature over the past decade. However, when attempting to apply its model and theory, one is often limited by the fact that the sender can only implement very restricted information structures. Moreover, in this case, the sender can possibly achieve higher expected utility by performing a sequence of feasible experiments, where the choice of each experiment depends on the outcomes of all previous experiments. Indeed, it has been well observed that real life persuasions often take place in rounds during which the sender exhibits experiments/arguments sequentially. We study the sender's expected utility maximization using finite and infinite sequences of experiments. For infinite sequences of experiments, we characterize the supremum of the sender's expected utility using a function that generalizes the concave closure definition in the standard Bayesian persuasion problem. With this characterization, we first study a special case where the sender can use feasible experiments to achieve the optimal expected utility of the standard Bayesian persuasion without feasibility constraints, which is a trivial utility upper bound, and establish structural findings about the sender's optimal sequential design in this case. Then we derive conditions under which the sender's optimal sequential design exists; when an optimal sequential design exists, there exists an optimal design that is Markovian, i.e., the choice of the next experiment only depends on the receiver's current belief."
+  },
+  {
+    "paper_id": "e599071d70e72cafbd6be698e6b7d16f8127b968",
+    "title": "The comparative statics of persuasion",
+    "year": 2022,
+    "author_ids": [
+      "153019710",
+      "88685663"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": "In the persuasion model, apart from a few special cases, comparative statics has been an open question. We answer it, delineating which shifts of the sender's interim payoff lead her optimally to choose a more informative signal. Our first theorem identifies a coarse notion of'increased convexity'that we show characterises those shifts of the sender's interim payoff that lead her optimally to choose no less informative signals. To strengthen this conclusion to'more informative'requires further assumptions: our second theorem identifies the necessary and sufficient condition on the sender's interim payoff, which strictly generalises the convex-concave ('S') shape commonly imposed in the literature. We identify conditions under which increased alignment of interests between sender and receiver leads to comparative statics, and study a number of applications."
+  },
+  {
+    "paper_id": "81b290b5a49419731f0a0cb07cba2ecdc2ead1a5",
+    "title": "Bayesian Persuasion with Lie Detection",
+    "year": 2020,
+    "author_ids": [
+      "50419703",
+      "2380891970"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 7,
+    "abstract": "We consider a model of Bayesian persuasion in which the Receiver can detect lies with positive probability. We show that the Sender lies more when the lie detection probability increases. As long as the lie detection probability is sufficiently small the Sender's and the Receiver's equilibrium payoffs are unaffected by the lie detection technology because the Sender simply compensates by lying more. When the lie detection probability is sufficiently high, the Sender's (Receiver's) equilibrium payoff decreases (increases) with the lie detection probability."
+  },
+  {
+    "paper_id": "382ebd962bfc4f4b5075b1e980bfbc67fcd53c12",
+    "title": "Slow persuasion",
+    "year": 2019,
+    "author_ids": [
+      "5763125",
+      "88685663"
+    ],
+    "venue": "Theoretical Economics",
+    "citation_count": 7,
+    "abstract": "What are the value and form of optimal persuasion when information can be generated only slowly? We study this question in a dynamic model in which a \u201csender\u201d provides public information over time subject to a graduality constraint, and a decision maker takes an action in each period. Using a novel \u201cviscosity\u201d dynamic programming principle, we characterize the sender's equilibrium value function and information provision. We show that the graduality constraint inhibits information provision relative to unconstrained persuasion. The gap can be substantial, but closes as the constraint slackens. Contrary to unconstrained persuasion, less\u2010than\u2010full information may be provided even if players have aligned preferences but different prior beliefs."
+  },
+  {
+    "paper_id": "d33d9cda8a24a7953301a5613d1aa0982ee0e6d8",
+    "title": "Image-Building Persuasion",
+    "year": 2023,
+    "author_ids": [
+      "2259005043",
+      "2259671143"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

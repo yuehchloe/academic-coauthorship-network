@@ -1,0 +1,569 @@
+[
+  {
+    "paper_id": "8d9465623c71c02dd0803f57c717b63d4a22f035",
+    "title": "Forecasting the Yield Impact of Green Sukuk Using Machine Learning: Global Evidence and Policy Insights for Bahrain",
+    "year": 2025,
+    "author_ids": [
+      "2346131793",
+      "2346136470",
+      "1961909",
+      "2427170374",
+      "2169678137"
+    ],
+    "venue": "2025 5th International Conference on Sustainable Islamic Business and Finance (SIBF)",
+    "citation_count": 0,
+    "abstract": "In line with the focus on sustainable development goals worldwide and the expanding role of the Islamic financial sector, our study explores the potential of green sukuk in Bahrain, contributing toward achieving the 2030 vision. The study aims to evaluate the capability of Machine learning (ML) models to forecast green sukuk yields using a counterfactual prediction approach. The analysis reveals that XGBoost outperformed other ML models in the prediction accuracy of sukuk yields. The results also support the presence of greenuim in relation to the green sukuk, which indicates lower yields in comparison to non-green sukuk and suggests favorable pricing benefits that would support Bahrain's efforts in strengthening its sustainability practices and framework."
+  },
+  {
+    "paper_id": "5c05b22dd222dc8a311165b3358cc6f75c559e6f",
+    "title": "Stacking ensemble machine learning and geospatial approach for sustainable development: an application to regional inequality in Ghana",
+    "year": 2025,
+    "author_ids": [
+      "108730018",
+      "2391902069"
+    ],
+    "venue": "Discover Sustainability",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0e3c2d35699373a5d9eb1e1276efe0123607581b",
+    "title": "Estimating heterogeneous impacts Of subsidised health insurance: A causal machine learning approach",
+    "year": 2025,
+    "author_ids": [
+      "2341620861",
+      "2267645436"
+    ],
+    "venue": "PLoS ONE",
+    "citation_count": 0,
+    "abstract": "The evaluation of social and health policies often necessitates understanding the variations in impacts based on recipients\u2019 observed characteristics, underscoring the value of estimating treatment effect heterogeneity. In this study, we leverage predictive and causal machine learning to assess the impact of the subsidised component of Indonesia\u2019s National Health Insurance Programme (\u201cJKN\u201d) on healthcare utilisation in 2017. We employ causal forests for estimating heterogeneous treatment effects and the super learner algorithm for prediction tasks. Our approach addresses the prevalence of zeros in the utilisation outcomes through a two-part model, which separates the outcome model into zero and non-zero counts. This allows for distinct investigation of policy impacts on the decision to seek care and the quantity of care consumed. We interpret and summarise treatment effect heterogeneity using various approaches, including data-driven subgroup analyses and linear projections, which are grounded in theory. Our results demonstrate a positive average impact on healthcare demand with evident heterogeneity; for instance, the increase in demand varies among recipients. We also find that the effect is modified by a set of theoretically motivated covariates and those identified through our data-driven approach."
+  },
+  {
+    "paper_id": "38afebc0deadf1e90bc890a1a67bfe5e9b9211aa",
+    "title": "A dynamic hydro-economic model to assess the effectiveness and economic benefits and costs of wetland restoration and creation",
+    "year": 2025,
+    "author_ids": [
+      "2360040536",
+      "2360040652"
+    ],
+    "venue": "Ecosystem Services",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a1e54ee72056131e87776b87ef9466ca91b004ef",
+    "title": "Density Forecasts of Inflation: A Quantile Regression Forest Approach",
+    "year": 2025,
+    "author_ids": [
+      "65998804",
+      "2223667559",
+      "144616533"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 25,
+    "abstract": "Density forecasts of euro area in\ufb02ation are a fundamental input for a medium-term oriented central bank, such as the European Central Bank (ECB). We show that a quantile regression forest, capturing a general non-linear relationship between euro area (headline and core) in-\ufb02ation and a large set of determinants, is competitive with state-of-the-art linear benchmarks and judgemental survey forecasts. The median forecasts of the quantile regression forest are very collinear with the ECB point in\ufb02ation forecasts, displaying similar deviations from \u201clin-earity\u201d. Given that the ECB modelling toolbox is overwhelmingly linear, this \ufb01nding suggests that the expert judgement embedded in the ECB forecast may be characterized by some mild non-linearity."
+  },
+  {
+    "paper_id": "dca082df54d5a87578f3fd2d36ae9127921b3740",
+    "title": "Enhancing Finance Education Through Computational Tools: Implementing GitHub Classroom for Industry-Ready Graduates",
+    "year": 2025,
+    "author_ids": [
+      "2136497897"
+    ],
+    "venue": "Journal of Information Systems Engineering & Management",
+    "citation_count": 0,
+    "abstract": "\n \n \n \nThis research paper discusses the integration of GitHub Classroom into finance education to foster industry-ready graduates equipped for the fast-paced digital landscape. Using GitHub as a central repository, students can upload assignments and provide feedback, while automated features in GitHub Classroom offer instant feedback and progress tracking. The shift towards a code-first approach in teaching econometrics and statistics aims to engage students, particularly those from non-technical backgrounds, by reducing the frictions associated with computational learning. This paper outlines the benefits of embedding computation into the curriculum, emphasizing the development of essential communication skills to articulate the importance of data-driven outputs. The findings suggest that by instilling reproducibility and workflow principles early in the learning process, students not only improve their technical abilities, but also prepare for an evolving industry landscape. Ultimately, the research aims to contribute to a more meaningful, transparent, and effective approach to data problem solving in business contexts. \n \n \n \n"
+  },
+  {
+    "paper_id": "67bbcd800ab88432c1491108872278a42d0ebded",
+    "title": "Actionable human\u2013water system modelling under uncertainty",
+    "year": 2024,
+    "author_ids": [
+      "1805975440",
+      "1423415338",
+      "1400865845",
+      "2293741809",
+      "2122885044",
+      "1403613036",
+      "2293743220",
+      "2240608826"
+    ],
+    "venue": "Hydrology and Earth System Sciences",
+    "citation_count": 2,
+    "abstract": "Abstract. This paper develops an actionable interdisciplinary model that quantifies and assesses uncertainties in water resource allocation under climate change. To achieve this objective, we develop an innovative socio-ecological grand ensemble that combines climate, hydrological, and microeconomic ensemble experiments with a widely used decision support system for water resource planning and management. Each system is populated with multiple models (multi-model), which we use to evaluate the impacts of multiple climate scenarios and policies (multi-scenario, multi-forcing) across systems so as to identify plausible futures where water management policies meet or miss their objectives and to explore potential tipping points. The application of the methods is exemplified by a study conducted in the Douro River basin (DRB), an agricultural basin located in central Spain. Our results show how marginal climate changes can trigger non-linear water allocation changes in the decision support systems (DSSs) and/or non-linear adaptive responses of irrigators to water shortages. For example, while some irrigators barely experience economic losses (average profit and employment fall by\u00a0<\u20090.5\u2009%) under mild water allocation reductions of 5\u2009% or lower, profit and employment fall by up to 12\u2009% (\u223c\u200924\u2009\u00d7) when water allocation is reduced by 10\u2009% or less (\u223c\u20092\u00d7). This substantiates the relevance of informing the potential natural and socio-economic impacts of adaptation strategies and related uncertainties for identifying robust decisions.\n"
+  },
+  {
+    "paper_id": "d4e5926e53bcfd5662e7442c6ab2bd3090d059e0",
+    "title": "Labor market policies in high- and low-interest rate environments: Evidence from the euro area",
+    "year": 2024,
+    "author_ids": [
+      "105070658",
+      "2326115790"
+    ],
+    "venue": "Economic Modelling",
+    "citation_count": 3,
+    "abstract": "Do labor market policies initiated in periods of loose monetary policy yield different outcomes from those introduced when monetary tightening prevails? Using data from 11 euro-area members up to 2010 -- and extending to 17 countries up to 2020 -- we analyze three labor market policies: replacement rates, spending on active labor market policies (ALMPs), and employment protection. We find that these policies deliver different macroeconomic outcomes in low- and high-interest rate environments. In particular, ALMPs reduce unemployment if implemented under a loose monetary policy but not otherwise, whereas higher employment protection delivers expansionary effects under a tight monetary policy. These findings highlight that the effectiveness of labor market policies is significantly influenced by the monetary policy environment, emphasizing the need for coordinated policy design. Methodologically, we contribute by proposing to average local projections using Mallow's $C_{p}$ criterion, allowing for inferences that are robust to mis-specification and accommodate non-linearities."
+  },
+  {
+    "paper_id": "953ff24f1c7f7f881b99a5d6ea3493a70a99c543",
+    "title": "Data-driven model selection within the matrix completion method for causal panel data models (preprint)",
+    "year": 2024,
+    "author_ids": [
+      "31816332"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "Matrix completion estimators are employed in causal panel data models to regulate the rank of the underlying factor model using nuclear norm minimization. This convex optimization problem enables concurrent regularization of a potentially high-dimensional set of covariates to shrink the model size. For valid finite sample inference, we adopt a permutation-based approach and prove its validity for any treatment assignment mechanism. Simulations illustrate the consistency of the proposed estimator in parameter estimation and variable selection. An application to public health policies in Germany demonstrates the data-driven model selection feature on empirical data and finds no effect of travel restrictions on the containment of severe Covid-19 infections."
+  },
+  {
+    "paper_id": "8eabc480f88f63256976b2357bac605b12da54c1",
+    "title": "Causal Q-Aggregation for CATE Model Selection",
+    "year": 2023,
+    "author_ids": [
+      "2261733572",
+      "3043674"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citation_count": 5,
+    "abstract": "Accurate estimation of conditional average treatment effects (CATE) is at the core of personalized decision making. While there is a plethora of models for CATE estimation, model selection is a nontrivial task, due to the fundamental problem of causal inference. Recent empirical work provides evidence in favor of proxy loss metrics with double robust properties and in favor of model ensembling. However, theoretical understanding is lacking. Direct application of prior theoretical work leads to suboptimal oracle model selection rates due to the non-convexity of the model selection problem. We provide regret rates for the major existing CATE ensembling approaches and propose a new CATE model ensembling approach based on Q-aggregation using the doubly robust loss. Our main result shows that causal Q-aggregation achieves statistically optimal oracle model selection regret rates of $\\frac{\\log(M)}{n}$ (with $M$ models and $n$ samples), with the addition of higher-order estimation error terms related to products of errors in the nuisance functions. Crucially, our regret rate does not require that any of the candidate CATE models be close to the truth. We validate our new method on many semi-synthetic datasets and also provide extensions of our work to CATE model selection with instrumental variables and unobserved confounding."
+  },
+  {
+    "paper_id": "b6053b6eb763915d376af804bc82eed87ffe1b01",
+    "title": "Employer ratings in social media and firm performance: Evidence from an explainable machine learning approach",
+    "year": 2023,
+    "author_ids": [
+      "97202315",
+      "101530219"
+    ],
+    "venue": "Accounting &amp; Finance",
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "b45c8ed8b5876c818f8a5720f1a7f1c73faea108",
+    "title": "Synthetic Regressing Control",
+    "year": 2023,
+    "author_ids": [
+      "2070268963"
+    ],
+    "venue": "Observational Studies",
+    "citation_count": 0,
+    "abstract": "Abstract:Estimating weights in the synthetic control method, typically resulting in sparse weights where only a few control units have non-zero weights, involves an optimization procedure that selects and combines control units to closely match the treated unit. However, it is not uncommon for the linear combination of pre-treatment period outcomes for the control units, using nonnegative weights with the constraint that their sum equals one, to inadequately approximate the pre-treatment outcomes for the treated unit. To address the issue, this paper proposes a simple and effective method called Synthetic Regressing Control (SRC). The SRC method begins by performing the univariate linear regression to appropriately align the pre-treatment periods of the control units with the treated unit. Subsequently, a SRC estimator is obtained by synthesizing the regressed controls. To determine the weights in the synthesis procedure, we propose an approach that utilizes a criterion of an unbiased risk estimator. Theoretically, we show that the synthesis way is asymptotically optimal in the sense of achieving the minimum loss of the infeasible best possible synthetic estimator. Extensive numerical experiments highlight the advantages of the SRC method."
+  },
+  {
+    "paper_id": "1aa8f80a95962937cda937a93705b65d0f6039f7",
+    "title": "A Data-Driven Two-Phase Multi-Split Causal Ensemble Model for Time Series",
+    "year": 2023,
+    "author_ids": [
+      "2268326196",
+      "1644556014",
+      "1659387734",
+      "1740647115",
+      "1740649500",
+      "46253301"
+    ],
+    "venue": "Symmetry",
+    "citation_count": 5,
+    "abstract": "Causal inference is a fundamental research topic for discovering the cause\u2013effect relationships in many disciplines. Inferring causality means identifying asymmetric relations between two variables. In real-world systems, e.g., finance, healthcare, and industrial processes, time series data from sensors and other data sources offer an especially good basis to infer causal relationships. Therefore, many different time series causal inference algorithms have been proposed in recent years. However, not all algorithms are equally well-suited for a given dataset. For instance, some approaches may only be able to identify linear relationships, while others are applicable for non-linearities. Algorithms further vary in their sensitivity to noise and their ability to infer causal information from coupled vs. non-coupled time series. As a consequence, different algorithms often generate different causal relationships for the same input. In order to achieve a more robust causal inference result, this publication proposes a novel data-driven two-phase multi-split causal ensemble model to combine the strengths of different causality base algorithms. In comparison to existing approaches, the proposed ensemble method reduces the influence of noise through a data partitioning scheme in a first phase. To achieve this, the data are initially divided into several partitions and the base causal inference algorithms are applied to each partition. Subsequently, Gaussian mixture models are used to identify the causal relationships derived from the different partitions that are likely to be valid. In the second phase, the identified relationships from each base algorithm are then merged based on three combination rules. The proposed ensemble approach is evaluated using multiple metrics, among them a newly developed evaluation index for causal ensemble approaches. We perform experiments using three synthetic datasets with different volumes and complexity, which have been specifically designed to test causality detection methods under different circumstances while knowing the ground truth causal relationships. In these experiments, our causality ensemble outperforms each of its base algorithms. In practical applications, the use of the proposed method could hence lead to more robust and reliable causality results."
+  },
+  {
+    "paper_id": "e0abd62b4776350fa0dd56b8baa044077282f19b",
+    "title": "Does Automatic Wage Indexation Destroy Jobs? A Machine Learning Approach",
+    "year": 2023,
+    "author_ids": [
+      "2084047006",
+      "2143346113",
+      "145189592"
+    ],
+    "venue": "The Economist",
+    "citation_count": 3,
+    "abstract": "This paper analyzes the impact of automatic wage indexation on employment. To boost competitiveness and increase employment, Belgium suspended its automatic wage indexation system in 2015. This resulted in a 2% fall in real wages for all workers. In the absence of a suitable control group, we use machine learning for the counterfactual analysis. We artificially construct the control group for a difference-in-difference analysis based on the pre-treatment evolution of treated firms. We find a positive impact on employment of 1.2%, which corresponds to a labor demand elasticity of \u2212\u20090.6. This effect is more pronounced for manufacturing firms, where the elasticity reaches \u2212\u20091. These results show that a suspension of the automatic wage indexation mechanism can be effective in preserving employment."
+  },
+  {
+    "paper_id": "23a3ef2a8e7029a4714a5f9a887a009b4707ce77",
+    "title": "A Machine Learning Approach for Selecting Directors of Chinese Listed Company",
+    "year": 2023,
+    "author_ids": [
+      "2119034095"
+    ],
+    "venue": "Highlights in Business, Economics and Management",
+    "citation_count": 0,
+    "abstract": "Contemporarily, the directors sever as a vital role in companies strategy decisions and daily operation. On this basis, it is crucial to select a suitable and appropriate directors of listed companies to fulfill the requirements and criteria of shareholders (at least most of them). In this case, this paper discusses a financial big data-based machine learning approach for board selection of Chinese listed companies. This approach achieves effective feature extraction through big data related to changes in boards of directors and successfully identifies the outstanding features of excellent boards. The empirical results show that machine learning models have a significant advantage over traditional methods, such as ordinary least squares (OLS) regression, for board selection by Chinese companies. According to the analysis, the model can extract important features of an excellent board of directors from big data related to the board\u2019s features, such as academic, research and development (R&D), and politician backgrounds. These results shed light on guiding further exploration of board selection in China."
+  },
+  {
+    "paper_id": "825bcd52c8546adc265fa8ef2676f27334e7ea83",
+    "title": "Machine Learning Methods in Finance: Recent Applications and Prospects",
+    "year": 2022,
+    "author_ids": [
+      "95208200",
+      "2099993996"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 65,
+    "abstract": "We study how researchers can apply machine learning (ML) methods in finance. We first establish that the three distinct categories of ML (supervised learning, unsupervised learning, reinforcement learning and others) address fundamentally different problems than traditional econometric approaches. Then, we review the current state of research of ML in finance and identify three archetypes of applications: i) the construction of superior and novel measures, ii) the reduction of prediction error, and iii) the extension of the standard econometric toolset. With this taxonomy, we provide an outlook on potential future directions for both researchers and practitioners. We finally apply ML to typical problems in finance. Our results suggest large benefits of ML methods compared to traditional approaches and indicate that ML holds great potential for future research in finance. This draft is preliminary. Comments welcome. Please do not circulate without permission of the authors. JEL classification: C45, G00"
+  },
+  {
+    "paper_id": "3975fcfc4322cc7e528b0f84268544d0b986d622",
+    "title": "Machine Learning in Management Accounting Research: Literature Review and Pathways for the Future",
+    "year": 2022,
+    "author_ids": [
+      "101530219",
+      "97202315",
+      "2860992"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 67,
+    "abstract": "This paper explores the possibilities of employing machine learning (ML) methods and new data sources in management accounting (MA) research. A review of current accounting and related research reveals that ML methods in MA are still in their infancy. However, a review of recently published ML research from related fields reveals several new opportunities to utilize ML in MA research. We suggest that the most promising areas to employ ML methods in MA research lie in (1) the exploitation of the rich potential of various textual data sources; (2) the quantification of qualitative and unstructured data to create new measures; (3) the creation of better estimates and predictions; and (4) the use of explainable AI to interpret ML models in detail. ML methods can play a crucial role in MA research by creating, developing, and refining theories through induction and abduction, as well as by providing tools for interventionist studies."
+  },
+  {
+    "paper_id": "9b5ecf69c5b16ce97cc0e34de1fffba117e788e4",
+    "title": "Knowledge Verification From Data",
+    "year": 2022,
+    "author_ids": [
+      "2144799330",
+      "2137416265",
+      "2139291923",
+      "1452317432",
+      "2174049321",
+      "2145303232"
+    ],
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "citation_count": 18,
+    "abstract": "Knowledge verification is an important task in the quality management of knowledge graphs (KGs). Knowledge is a summary of facts and events based on human cognition and experience. Due to the nature of knowledge, most knowledge quality (KQ) management methods are designed by human experts or the characteristics of existing knowledge, which may be limited by human cognition and the quality of existing knowledge. Numerical data contain a wealth of potential information that may be helpful in verifying knowledge, which is rarely explored. However, due to the implicit representation of numerical data to facts as well as the noise in the data, it is challenging to use data to verify the knowledge. Therefore, this article proposes a knowledge verification method, which discovers the correlation and causality from numerical data to validate knowledge and then evaluate the quality of knowledge. Moreover, to address the impact of noise, the method integrates multisource knowledge to jointly evaluate the KQ. Specifically, an iterative update method is designed to update KQ by utilizing the consistency between multisource knowledge while designing knowledge verification factors based on data causality and correlation to manage update process. The method is validated with multiple datasets, and the results demonstrate that the proposed method could evaluate KQ more accurately and has strong robustness to noise in the data."
+  },
+  {
+    "paper_id": "1c5518ae4b94b62c618749160292fc26edc93b1f",
+    "title": "Visual Experiment Results (About the 2021 Nobel Prize in Economic Sciences)",
+    "year": 2022,
+    "author_ids": [
+      "52029229"
+    ],
+    "venue": "The world of new economy",
+    "citation_count": 0,
+    "abstract": "The article is devoted to analysing the achievements of the laureates of the Nobel Prize in Economic Sciences in 2021. The author described the methods of natural experiment used by the laureates in their research. Further, the author noted the differences between different types of experiments: laboratory, field, computer and mental (thought, imaginary). The author described details of two of their studies (which have become classic) on the consequences for the labour market of the influx of immigrants and the increase in the minimum wage. The methods and results of the laureates\u2019 research on assessing the consequences of state programs and structural decisions are also analysed. In conclusion, the author considered new experimental and econometric research methods, which the laureates have significantly improved. In particular, it concerns the method of counter samples and an example from the author\u2019s research using this method."
+  },
+  {
+    "paper_id": "9954f2d891b36bf45e88fdb8d22985848ef70b68",
+    "title": "PANEL VER\u0130 VE MAK\u0130NE \u00d6\u011eRENMES\u0130 Y\u00d6NTEM\u0130YLE GEL\u0130R DA\u011eILIMI VE \u0130NSAN\u0130 GEL\u0130\u015eM\u0130\u015eL\u0130K ARASINDAK\u0130 \u0130L\u0130\u015eK\u0130 \u00dcZER\u0130NE B\u0130R ANAL\u0130Z",
+    "year": 2022,
+    "author_ids": [
+      "2163975816",
+      "2358317082",
+      "84224603"
+    ],
+    "venue": "Gaziantep University journal of social sciences",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "1eb8bf6600656c0a41f0f524f8a70113c5e22f27",
+    "title": "Ensemble Method for Estimating Individualized Treatment Effects",
+    "year": 2022,
+    "author_ids": [
+      "2149038237",
+      "51055391"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 5,
+    "abstract": "In many medical and business applications, researchers are interested in estimating individualized treatment effects using data from a randomized experiment. For example in medical applications, doctors learn the treatment effects from clinical trials and in technology companies, researchers learn them from A/B testing experiments. Although dozens of machine learning models have been proposed for this task, it is challenging to determine which model will be best for the problem at hand because ground-truth treatment effects are unobservable. In contrast to several recent papers proposing methods to select one of these competing models, we propose an algorithm for aggregating the estimates from a diverse library of models. We compare ensembling to model selection on 43 benchmark datasets, and find that ensembling wins almost every time. Theoretically, we prove that our ensemble model is (asymptotically) at least as accurate as the best model under consideration, even if the number of candidate models is allowed to grow with the sample size."
+  },
+  {
+    "paper_id": "9b1d9351c324474bdb7d71892edda080a619bffb",
+    "title": "Testing Granger Non-Causality in Panels with Cross-Sectional Dependencies",
+    "year": 2022,
+    "author_ids": [
+      "102834976",
+      "1843590",
+      "2132632",
+      "2999097",
+      "11788397",
+      "1700657"
+    ],
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "citation_count": 2,
+    "abstract": "This paper proposes a new approach for testing Granger non-causality on panel data. Instead of aggregating panel member statistics, we aggregate their corresponding p-values and show that the resulting p-value approximately bounds the type I error by the chosen significance level even if the panel members are dependent. We compare our approach against the most widely used Granger causality algorithm on panel data and show that our approach yields lower FDR at the same power for large sample sizes and panels with cross-sectional dependencies. Finally, we examine COVID-19 data about confirmed cases and deaths measured in countries/regions worldwide and show that our approach is able to discover the true causal relation between confirmed cases and deaths while state-of-the-art approaches fail."
+  },
+  {
+    "paper_id": "080123f33cb4e8115c370585bf12a515a0e205f9",
+    "title": "Local inequalities of the COVID-19 crisis",
+    "year": 2021,
+    "author_ids": [
+      "9426684",
+      "2393572384"
+    ],
+    "venue": "Regional Science and Urban Economics",
+    "citation_count": 37,
+    "abstract": "This paper assesses the pandemic's impact on Italian local economies with the newly developed machine learning control method for counterfactual building. Our results document that the economic effects of the COVID-19 shock vary dramatically across the Italian territory and are spatially uncorrelated with the epidemiological pattern of the first wave. The largest employment losses occurred in areas characterized by high exposure to social aggregation risks and pre-existing labor market fragilities. Lastly, we show that the hotspots of the COVID-19 crisis do not overlap with those of the Great Recession. These findings call for a place-based policy response to address the uneven economic geography of the pandemic."
+  },
+  {
+    "paper_id": "9a48711bf468002f68697b45025779c83fb4c036",
+    "title": "The GDP-Temperature relationship: Implications for climate change damages",
+    "year": 2021,
+    "author_ids": [
+      "49251385",
+      "102005459",
+      "37871629"
+    ],
+    "venue": "Journal of Environmental Economics and Management",
+    "citation_count": 247,
+    "abstract": "Abstract Econometric models of temperature impacts on GDP are increasingly used to inform global warming damage assessments. But theory does not prescribe estimable forms of this relationship. By estimating 800 plausible specifications of the temperature-GDP relationship, we demonstrate that a wide variety of models are statistically indistinguishable in their out-of-sample performance, including models that exclude any temperature effect. This full set of models, however, implies a wide range of climate change impacts by 2100, yielding considerable model uncertainty. The uncertainty is greatest for models that specify effects of temperature on GDP growth that accumulate over time; the 95% confidence interval that accounts for both sampling and model uncertainty across the best-performing models ranges from 84% GDP losses to 359% gains. Models of GDP levels effects yield a much narrower distribution of GDP impacts centered around 1\u20133% losses, consistent with damage functions of major integrated assessment models. Further, models that incorporate lagged temperature effects are indicative of impacts on GDP levels rather than GDP growth. We identify statistically significant marginal effects of temperature on poor country GDP and agricultural production, but not rich country GDP, non-agricultural production, or GDP growth."
+  },
+  {
+    "paper_id": "475139a481c7c9514bfe1c4ca32f4c83076b9844",
+    "title": "Has machine learning rendered simple rules obsolete?",
+    "year": 2021,
+    "author_ids": [
+      "1393615700"
+    ],
+    "venue": "European Journal of Law and Economics",
+    "citation_count": 4,
+    "abstract": "Epstein (Simple rules for a complex world, Harvard University Press, Cambridge, 1995) defended the superiority of simple legal rules over complex, human-designed regulations. Has Epstein\u2019s case for simple rules become obsolete with the arrival of artificial intelligence, and in particular machine learning (ML)? Can ML deliver better algorithmic rules than traditional simple legal rules? This paper argues that the answer to these question is \u201cno\u201d by building an argument based on three increasingly more serious barriers that ML faces to develop legal (or quasi-legal) algorithmic rules: data availability, the Lucas\u2019 critique, and incentive compatibility in eliciting information. Thus, the case for simple legal rules is still sound even in a world with ML."
+  },
+  {
+    "paper_id": "1a9b0443f85da729f1c3e6db924b05376147fbcb",
+    "title": "Quantifying causality in data science with quasi-experiments",
+    "year": 2021,
+    "author_ids": [
+      "2111148014",
+      "143857273",
+      "3282030"
+    ],
+    "venue": "Nature Computational Science",
+    "citation_count": 38,
+    "abstract": null
+  },
+  {
+    "paper_id": "5bab65dd5cfcda62c1d09b0cfcdc2351a50f9ea6",
+    "title": "Measuring the Regional Economic Cost of Brexit: Evidence Up to 2019",
+    "year": 2020,
+    "author_ids": [
+      "101790615",
+      "2154768356"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "c59c70ba169a50f4c9539df00980fca297b5fd0a",
+    "title": "Parallel ensemble methods for causal direction inference",
+    "year": 2020,
+    "author_ids": [
+      "1943632",
+      "2142914521",
+      "49375521",
+      "1873167"
+    ],
+    "venue": "J. Parallel Distributed Comput.",
+    "citation_count": 0,
+    "abstract": "Inferring the causal direction between two variables from their observation data is one of the most fundamental and challenging topics in data science. A causal direction inference algorithm maps the observation data into a binary value which represents either x causes y or y causes x. The nature of these algorithms makes the results unstable with the change of data points. Therefore the accuracy of the causal direction inference can be improved significantly by using parallel ensemble frameworks. In this paper, new causal direction inference algorithms based on several ways of parallel ensemble are proposed. Theoretical analyses on accuracy rates are given. Experiments are done on both of the artificial data sets and the real world data sets. The accuracy performances of the methods and their computational efficiencies in parallel computing environment are demonstrated."
+  },
+  {
+    "paper_id": "688015f4787b7ab3702be7e2225380bbcfb59840",
+    "title": "Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data",
+    "year": 2020,
+    "author_ids": [
+      "33496761",
+      "117485281"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 46,
+    "abstract": "We describe identification assumptions underlying synthetic control studies and offer recommendations for key---and normally ad hoc---implementation decisions, focusing on model selection; model fit; cross-validation; and decision rules for inference. We outline how to implement a Synthetic Control Using Lasso (SCUL). The method---available as an R package---allows for a high-dimensional donor pool; automates model selection; includes donors from a wide range of variable types; and permits both extrapolation and negative weights. In an application, we employ our recommendations and the SCUL strategy to estimate how recreational marijuana legalization affects sales of alcohol and over-the-counter painkillers, finding reductions in alcohol sales."
+  },
+  {
+    "paper_id": "16a8a0008dc0a0d9956467eb7e78a0bfe5889e53",
+    "title": "Comments on \u201cAn Econometrician\u2019s Perspective on Big Data\u201d by Cheng Hsiao",
+    "year": 2020,
+    "author_ids": [
+      "31620763"
+    ],
+    "venue": "Essays in Honor of Cheng Hsiao",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f4f139b43b98f6639100b858c885895835d37e6b",
+    "title": "Simple Rules for a Complex World with Arti\ufb01cial Intelligence",
+    "year": 2020,
+    "author_ids": [
+      "1393615700",
+      "1393615700"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 7,
+    "abstract": "Can articial intelligence, in particular, machine learning algorithms, replace the idea of simple rules, such as ?rst possession and voluntary exchange in free markets, as a foundation for public policy? This paper argues that the preponderance of the evidence sides with the interpretation that while arti?cial intelligence will help public policy along important aspects, simple rules will remain the fundamental guideline for the design of institutions and legal environments where markets operate. \u201cDigital socialism\u201d might be a hipster thing to talk about in Williamsburg or Shoreditch, but it is as much of a chimera as \u201canalog socialism.\u201d"
+  },
+  {
+    "paper_id": "9aa5a7df2bb52d3a32fe44658cd436a8396383c5",
+    "title": "Artificial intelligence and systemic risk",
+    "year": 2020,
+    "author_ids": [
+      "46245598",
+      "2001436731",
+      "122995304",
+      "122995304"
+    ],
+    "venue": "Journal of Banking & Finance",
+    "citation_count": 93,
+    "abstract": "Artificial intelligence (AI) is rapidly changing how the financial system is operated, taking over core functions because of cost savings and operational efficiencies. AI will assist both risk managers and microprudential authorities. It meanwhile has the potential to destabilise the financial system, creating new tail risks and amplifying existing ones due to procyclicality, endogenous complexity, optimisation against the system and the need to trust the AI engine."
+  },
+  {
+    "paper_id": "d42a8f15f2926cf3f4a1331dcdf9b3b778217450",
+    "title": "Benchmarking machine-learning software and hardware for quantitative economics",
+    "year": 2020,
+    "author_ids": [
+      "2050858545",
+      "1506101110",
+      "119112070",
+      "1382506172"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": "Abstract We investigate the performance of machine-learning software and hardware for quantitative economics. We show that the use of machine-learning software and hardware can significantly reduce computational time in compute-intensive tasks. Using a sovereign default model and the Least Squares Monte Carlo option pricing algorithm as benchmarks, we show that specialized hardware and software speed up calculations by up to four orders of magnitude when compared to programs written in popular high-level programming languages, such as MATLAB, Julia, Python/Numpy, and R, and high-performing low-level languages such as C++."
+  },
+  {
+    "paper_id": "05ec86c3076ba96ef9da2d28cde86019ceb43641",
+    "title": "Policy evaluation, high-dimension and machine learning",
+    "year": 2019,
+    "author_ids": [],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "7145eaef584422677dbfab0de233c3b3a1dd0c6a",
+    "title": "Does it Matter When Labor Market Reforms are Implemented? The Role of the Monetary Policy Environment",
+    "year": 2019,
+    "author_ids": [
+      "105070658",
+      "98587389"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Do labor market reforms initiated in periods of loose monetary policy yield different outcomes from those that were introduced in periods when monetary tightening prevailed? Since economic theory usually pays attention to the steady state change and ignores business cycle interactions of structural reforms, we connect local projection methodology with the Mallow\u2019s Cp averaging criterion to arrive at an inference that does not require knowledge of the exact functional form, is robust to mis-specification, admits non-linearities, and cross-sectional dependence and addresses uncertainty regarding interactions between labor reforms and macroeconomy. We also develop a test to check the importance of monetary policy for any horizon and the entire impulse response function, taking the multiple testing problem into account. We document that replacement rates deliver substantially different outcomes on real GDP, inflation and real effective exchange rate, whereas labor activation schemes bear different effects on unemployment in low- and high-interest rate environments. There is also evidence of monetary policy trend playing an important role as well as increasing synchronized monetary and labor market policies across European countries."
+  },
+  {
+    "paper_id": "edc341961e32bb429dc3558086b3eb2fbb47ecfe",
+    "title": "Temperature and production efficiency growth: empirical evidence",
+    "year": 2019,
+    "author_ids": [
+      "48083970",
+      "46572553"
+    ],
+    "venue": "Climatic Change",
+    "citation_count": 41,
+    "abstract": null
+  },
+  {
+    "paper_id": "fcf824fb1435a7b7affd5a7ebb3320e6b18db028",
+    "title": "Synthetic learner: model-free inference on treatments over time",
+    "year": 2019,
+    "author_ids": [
+      "71491016",
+      "2999816"
+    ],
+    "venue": "Journal of Econometrics",
+    "citation_count": 19,
+    "abstract": "Understanding of the effect of a particular treatment or a policy pertains to many areas of interest -- ranging from political economics, marketing to health-care and personalized treatment studies. In this paper, we develop a non-parametric, model-free test for detecting the effects of treatment over time that extends widely used Synthetic Control tests. The test is built on counterfactual predictions arising from many learning algorithms. In the Neyman-Rubin potential outcome framework with possible carry-over effects, we show that the proposed test is asymptotically consistent for stationary, beta mixing processes. We do not assume that class of learners captures the correct model necessarily. We also discuss estimates of the average treatment effect, and we provide regret bounds on the predictive performance. To the best of our knowledge, this is the first set of results that allow for example any Random Forest to be useful for provably valid statistical inference in the Synthetic Control setting. In experiments, we show that our Synthetic Learner is substantially more powerful than classical methods based on Synthetic Control or Difference-in-Differences, especially in the presence of non-linear outcome models."
+  },
+  {
+    "paper_id": "d75356e2bf674902a06a14bb55d18ee88af5b4bb",
+    "title": "Machine Learning Methods That Economists Should Know About",
+    "year": 2019,
+    "author_ids": [
+      "2631417",
+      "47166531"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 842,
+    "abstract": "We discuss the relevance of the recent machine learning (ML) literature for economics and econometrics. First we discuss the differences in goals, methods, and settings between the ML literature and the traditional econometrics and statistics literatures. Then we discuss some specific methods from the ML literature that we view as important for empirical researchers in economics. These include supervised learning methods for regression and classification, unsupervised learning methods, and matrix completion methods. Finally, we highlight newly developed methods at the intersection of ML and econometrics that typically perform better than either off-the-shelf ML or more traditional econometric methods when applied to particular classes of problems, including causal inference for average treatment effects, optimal policy estimation, and estimation of the counterfactual effect of price changes in consumer choice models."
+  },
+  {
+    "paper_id": "931279d19b5317f1e932d3726bdb738d146f206a",
+    "title": "Economic Predictions With Big Data: The Illusion of Sparsity",
+    "year": 2018,
+    "author_ids": [
+      "152367840",
+      "65998804",
+      "66188243"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 195,
+    "abstract": "We compare sparse and dense representations of predictive models in macroeconomics, microeconomics, and finance. To deal with a large number of possible predictors, we specify a prior that allows for both variable selection and shrinkage. The posterior distribution does not typically concentrate on a single sparse model, but on a wide set of models that often include many predictors."
+  },
+  {
+    "paper_id": "9879e5502e1b277553abcc00919862c60cd587c4",
+    "title": "Impacts of COVID-19 on Public Universities in Brazil: A Machine Learning Counterfactual Analysis",
+    "year": 2024,
+    "author_ids": [
+      "2402519784"
+    ],
+    "venue": "Journal of Data Science",
+    "citation_count": 0,
+    "abstract": "This study delves into the impact of the COVID-19 pandemic on the enrollment rates of on-site undergraduate programs within Brazilian public universities. Employing the Machine Learning Control Method, a counterfactual scenario was constructed in which the pandemic did not occur. By contrasting this hypothetical scenario with real-world data on new entrants, a variable was defined to characterize the impact of the COVID-19 pandemic on on-site undergraduate programs at Brazilian public universities. This variable reveals that the impact factor varies significantly when considering the geographical locations of the institutions offering these courses. Courses offered by institutions located in smaller population cities experienced a more pronounced impact compared to those situated in larger urban centers."
+  },
+  {
+    "paper_id": "575c80a6dc06dcc5820088187739f26bf3c2780b",
+    "title": "The Varying Effects of Dollar Stores on Food Access: A Machine Learning Analysis",
+    "year": 2024,
+    "author_ids": [
+      "2133152494",
+      "81249436",
+      "2302051601",
+      "145485185",
+      "2302055386"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "d9c6460c17852761561c13edba864891ba0c1945",
+    "title": "Employee-Friendly Corporate Culture and Firm Performance: Evidence from a Machine Learning Approach",
+    "year": 2021,
+    "author_ids": [
+      "97202315",
+      "101530219"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "621e799f172a40352fff20ce94dcdee691cf6617",
+    "title": "Local economies amidst the COVID-19 crisis in Italy: a tale of diverging trajectories",
+    "year": 2020,
+    "author_ids": [
+      "9426684",
+      "2393572384"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "fb0d5855e8ce92c9651f0577dbbfe3e389dca5a2",
+    "title": "Heterogeneities in the House Price Elasticity of Consumption",
+    "year": 2019,
+    "author_ids": [
+      "1741628453"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "I provide new evidence on the house price elasticity of consumption by exploiting micro-level consumption data from the Nielsen consumer panel for 2004 to 2016. I estimate the elasticity as a non-parametric function of household characteristics using a newly developed causal machine learning model called Generalized Random Forest (GRF). I find substantial county and household level heterogeneities in the elasticity. At the county level, it ranges from 0.04 to 0.16 with some neighboring counties being up to eight standard deviations apart. On the household level, elasticity ranges from 0.01 to 0.21 in which household structure plays an important role in defining the heterogeneity. Among all characteristics, having a child, size of the household, and age of the heads of the household create substantial disparities. Therefore, basing policies on an average estimate and avoiding local and household level heterogeneities may result in unintended policy consequences. I find that locations with volatile housing markets are less elastic; thus, not accounting for local heterogeneities overestimates total consumption responses in booms and underestimates them in busts. This is the first paper that studies the heterogeneities in the house price elasticity of consumption at the household level and highlights the importance of regional and time variations in this elasticity. \u2217Department of Economics, University of Illinois at Urbana-Champaign, 214 David Kinley Hall, 1407 West Gregory Drive, Urbana, IL 61801, USA. Email:khazra2@illinois.edu. I am extremely greatful to Prof. Dan Bernhardt, Prof. David Albouy, and Prof. Dan McMillen for their guidance and advice during this research and to Prof. Alex Bartik and Prof. Greg Howard for their endless support and supervision. I am also thankful to Prof. Mark Borgschulte, Prof. Ben Marx, Prof. Andrew Garin, and Prof. Elizabeth Forsyth for their valuable comments and discussions. 1) Researcher(s) own analyses calculated (or derived) based in part on data from The Nielsen Company (US), LLC and marketing databases provided through the Nielsen Datasets at the Kilts Center for Marketing Data Center at The University of Chicago Booth School of Business. 2) The conclusions drawn from the Nielsen data are those of the researcher(s) and do not reflect the views of Nielsen. Nielsen is not responsible for, had no role in, and was not involved in analyzing and preparing the results reported herein."
+  },
+  {
+    "paper_id": "0b7fc8a051d0405eb2586c74abb2896063919b38",
+    "title": "NBER WORKING PAPER SERIES COMBINING MATCHING AND SYNTHETIC CONTROLS TO TRADE OFF BIASES FROM EXTRAPOLATION AND INTERPOLATION",
+    "year": 2019,
+    "author_ids": [
+      "12035255",
+      "3148953",
+      "51123157",
+      "65890570"
+    ],
+    "venue": null,
+    "citation_count": 61,
+    "abstract": null
+  }
+]

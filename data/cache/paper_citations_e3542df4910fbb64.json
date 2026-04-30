@@ -1,0 +1,110 @@
+[
+  {
+    "paper_id": "9d8eee2670b90e8a5eba78feffba0cab907ca504",
+    "title": "Learning Underspecified Models",
+    "year": 2022,
+    "author_ids": [
+      "1814518",
+      "2411318169"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 3,
+    "abstract": "This paper examines whether one can learn to play an optimal action while only knowing part of true specification of the environment. We choose the optimal pricing problem as our laboratory, where the monopolist is endowed with an underspecified model of the market demand, but can observe market outcomes. In contrast to conventional learning models where the model specification is complete and exogenously fixed, the monopolist has to learn the specification and the parameters of the demand curve from the data. We formulate the learning dynamics as an algorithm that forecast the optimal price based on the data, following the machine learning literature (Shalev-Shwartz and Ben-David (2014)). Inspired by PAC learnability, we develop a new notion of learnability by requiring that the algorithm must produce an accurate forecast with a reasonable amount of data uniformly over the class of models consistent with the part of the true specification. In addition, we assume that the monopolist has a lexicographic preference over the payoff and the complexity cost of the algorithm, seeking an algorithm with a minimum number of parameters subject to PAC-guaranteeing the optimal solution (Rubinstein (1986)). We show that for the set of demand curves with strictly decreasing uniformly Lipschitz continuous marginal revenue curve, the optimal algorithm recursively estimates the slope and the intercept of the linear demand curve, even if the actual demand curve is not linear. The monopolist chooses a misspecified model to save computational cost, while learning the true optimal decision uniformly over the set of underspecified demand curves."
+  },
+  {
+    "paper_id": "f56e195eaa6d67d03639622f64ca81f55b45be0d",
+    "title": "Belief Convergence under Misspecified Learning: A Martingale Approach",
+    "year": 2022,
+    "author_ids": [
+      "35995744",
+      "2923803",
+      "33412912"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 31,
+    "abstract": "\n We present an approach to analyze learning outcomes in a broad class of misspecified environments, spanning both single-agent and social learning. We introduce a novel \u201cprediction accuracy\u201d order over subjective models, and observe that this makes it possible to partially restore standard martingale convergence arguments that apply under correctly specified learning. Based on this, we derive general conditions to determine when beliefs in a given environment converge to some long-run belief either locally or globally (i.e., from some or all initial beliefs). We show that these conditions can be applied, first, to unify and generalize various convergence results in previously studied settings. Second, they enable us to analyze environments where learning is \u201cslow\u201d, such as costly information acquisition and sequential social learning. In such environments, we illustrate that even if agents learn the truth when they are correctly specified, vanishingly small amounts of misspecification can generate extreme failures of learning."
+  },
+  {
+    "paper_id": "e492e73b26de4f7497c3c255c97b368accb51a25",
+    "title": "Observability, dominance, and induction in learning models",
+    "year": 2022,
+    "author_ids": [
+      "143892282",
+      "2783939",
+      "145993397"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 3,
+    "abstract": "Learning models do not in general imply that weakly dominated strategies are irrelevant or justify the related concept of\"forward induction,\"because rational agents may use dominated strategies as experiments to learn how opponents play, and may not have enough data to rule out a strategy that opponents never use. Learning models also do not support the idea that the selected equilibria should only depend on a game's normal form, even though two games with the same normal form present players with the same decision problems given fixed beliefs about how others play. However, playing the extensive form of a game is equivalent to playing the normal form augmented with the appropriate terminal node partitions so that two games are information equivalent, i.e., the players receive the same feedback about others' strategies."
+  },
+  {
+    "paper_id": "2fdcfd29b7df821a995cf76adad721f737c0b16d",
+    "title": "Limit Points of Endogenous Misspecified Learning",
+    "year": 2020,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 50,
+    "abstract": "We study how an agent learns from endogenous data when their prior belief is misspecified. We show that only \n uniform Berk\u2013Nash equilibria can be long\u2010run outcomes, and that all \n uniformly strict Berk\u2013Nash equilibria have an arbitrarily high probability of being the long\u2010run outcome for some initial beliefs. When the agent believes the outcome distribution is exogenous, every uniformly strict Berk\u2013Nash equilibrium has positive probability of being the long\u2010run outcome for any initial belief. We generalize these results to settings where the agent observes a signal before acting.\n"
+  },
+  {
+    "paper_id": "01316fd66f450b9fab38c739907f336962c017ac",
+    "title": "Long-Run Implications of Selective Memory\u2217",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3510c4389771419861f81d06675bb676bd4e3d22",
+    "title": "Selective Memory Equilibrium \u2217",
+    "year": 2022,
+    "author_ids": [
+      "2783939",
+      "104124540",
+      "2450616"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "38c953edc463da9fa84ed4e3d108e2a6887e30e8",
+    "title": "Dynamic Concern for Misspecification\u2217",
+    "year": 2022,
+    "author_ids": [
+      "104124540",
+      "2485090",
+      "1727045",
+      "1403780496",
+      "2080370989",
+      "2242773076",
+      "2238014099",
+      "39247599"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "d8340dfaf39222715756940434dcc7129f131ea3",
+    "title": "LIMIT POINTS OF ENDOGENOUS MISSPECIFIED LEARNING DREW FUDENBERG Department of Economics, MIT",
+    "year": 2021,
+    "author_ids": [
+      "104124540",
+      "2450616",
+      "2783939"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  }
+]

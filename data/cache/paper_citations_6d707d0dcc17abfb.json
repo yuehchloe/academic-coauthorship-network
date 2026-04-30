@@ -1,0 +1,322 @@
+[
+  {
+    "paper_id": "34e7c8e47e5c47de6965d11bc452dfcedd43611b",
+    "title": "Auctioning Off Budgets in Procurement",
+    "year": 2025,
+    "author_ids": [
+      "2393592062"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 0,
+    "abstract": "\n This article investigates a multi\u2010unit pay\u2010as\u2010bid procurement auction where the auctioneer fixes total spending and maximizes the quantity procured with their predetermined, secret budget. Previous literature has analyzed fixed\u2010quantity auctions, where the traded quantity is fixed but unknown to the bidders. Compared to such auctions, budget auctions lower the auctioneer's costs by introducing an additional interaction between a bidder's bids; bidders not only weigh a higher profit margin on a unit against a lower probability of supplying that unit; a higher margin on some unit also reduces the probability that the budget suffices to procure more units from the\u00a0bidder."
+  },
+  {
+    "paper_id": "80a6ba6d7fe59cd360eb2d6831e083ed4ab6172a",
+    "title": "Mimic martingales in sequential auctions",
+    "year": 2025,
+    "author_ids": [
+      "147624071",
+      "2624468"
+    ],
+    "venue": "Economic Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "19a75e54fa38305463af6b6046d653fa21daf7d3",
+    "title": "Online Judicial Auction, Loan Availability, and Corporate Investment in China",
+    "year": 2024,
+    "author_ids": [
+      "2149273851",
+      "2258144028",
+      "2116260068",
+      "2281077823",
+      "2241100917"
+    ],
+    "venue": "The British Accounting Review",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "de16d53910258ee6a83fca432d4536cbcdd593db",
+    "title": "Mediated Collusion",
+    "year": 2023,
+    "author_ids": [
+      "1741110473",
+      "1836323",
+      "1818256"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 5,
+    "abstract": "Cartels and bidding rings are often facilitated by intermediaries, who recommend prices/bids to firms and can impose penalties (such as reverting to competitive behavior in future interactions) if these recommendations are not followed. Motivated by such cases, we study correlated equilibria in first-price procurement auctions with complete information, where bidders who disobey their recommendations are penalized. Cartel-optimal profit is greater when more information about submitted bids is disclosed at auction and when the maximum penalty is larger. When only the winner\u2019s identity is disclosed (or the winner\u2019s identity and bid), cartels do not benefit from mediation. Our main result characterizes the cartel-optimal equilibrium with two symmetric bidders when both bids are disclosed. The optimal equilibrium involves extensive randomization and displays tied bids and high winning bids with positive probability, even when the maximum penalty is very small. The stationary mediation schemes we consider are always more profitable for the cartel than bid rotation."
+  },
+  {
+    "paper_id": "2a4a18830cb63f85167a5ee0ad93137df77dcbc8",
+    "title": "The Role of Transparency in Repeated First-Price Auctions with Unknown Valuations",
+    "year": 2023,
+    "author_ids": [
+      "2286276505",
+      "1419461112",
+      "1799418813",
+      "1616150925",
+      "144954554"
+    ],
+    "venue": "Symposium on the Theory of Computing",
+    "citation_count": 17,
+    "abstract": "We study the problem of regret minimization for a single bidder in a sequence of first-price auctions where the bidder discovers the item\u2019s value only if the auction is won. Our main contribution is a complete characterization, up to logarithmic factors, of the minimax regret in terms of the auction\u2019s transparency, which controls the amount of information on competing bids disclosed by the auctioneer at the end of each auction. Our results hold under different assumptions (stochastic, adversarial, and their smoothed variants) on the environment generating the bidder\u2019s valuations and competing bids. These minimax rates reveal how the interplay between transparency and the nature of the environment affects how fast one can learn to bid optimally in first-price auctions."
+  },
+  {
+    "paper_id": "e269f11a72cc889f6b5d075305b67efbae4ab82e",
+    "title": "Two-Stage Contests with Private Information",
+    "year": 2023,
+    "author_ids": [
+      "122527036"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 8,
+    "abstract": "In perfectly discriminating contests with private information, low-ability contestants prefer to appear strong, while high-ability contestants prefer to appear weak. In a two-stage contest, this leads to a unique symmetric equilibrium with partial pooling in the first stage. A higher output in the first contest leads to a weakly higher belief about the contestant\u2019s ability entering the second contest. We characterize this unique equilibrium when cost of effort is linear and show how the prize allocation and type distribution impact contestants\u2019 expected output, payoffs, and the probability of surprise victories. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "1cfdbf95ab1741c0cb844fd5737fc2a7b92d1c39",
+    "title": "Entry and exit decisions under public and private information: an experiment",
+    "year": 2022,
+    "author_ids": [
+      "120718634",
+      "119328824",
+      "35049292",
+      "118020476",
+      "116518334"
+    ],
+    "venue": "Experimental Economics",
+    "citation_count": 1,
+    "abstract": "We design an experiment to study how reversible entry decisions are affected by public and private payoff disclosure policies. In our environment, subjects choose between a risky payoff, which evolves according to an autoregressive process, and a constant payoff. The treatments vary the information disclosure rule on the risky payoff, such that in the public information treatment the risky payoff is always observable, while in the private information treatment, the risky payoff is observable only to the participants who enter the market. We find that under private information, market entry is higher, which suggests that subjects engage in exploration and place value on information."
+  },
+  {
+    "paper_id": "e11930d9cf97b75872a853d8fe2ca74c3c1477e8",
+    "title": "Learning to Bid in Contextual First Price Auctions\u2731",
+    "year": 2021,
+    "author_ids": [
+      "1797240",
+      "2113906856",
+      "1947314"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 23,
+    "abstract": "In this work, we investigate the problem of how to bid in repeated contextual first price auctions for a single learner (the bidder). Concretely, at each time t, the learner receives a context and decides the bid based on historical information and xt. We assume that the maximum bid of all the others follows a linear model, i.e., mt = \u27e8\u03b10, xt\u27e9 + zt, where is unknown to the learner and zt is randomly sampled from a noise distribution with log-concave density. In this work, we consider both binary feedback (the learner can only observe whether she wins or not) and full information feedback (the learner can observe mt) models of the learner. For binary feedback, when the noise distribution is (partially) known, we propose a bidding algorithm that achieves at most regret, where \u0394 is a constant reserve in first price auctions.1 For the full information feedback with unknown noise distribution, we provide an algorithm that achieves regret at most . Our approach combines an estimator for log-concave density functions and the Maximum Likelihood Estimation (MLE) method to learn the noise distribution and linear weight \u03b10 simultaneously. We complement our results with a lower bound result such that any bidding policy in a broad class must achieve regret at least , even when the learner receives the full information feedback and is known."
+  },
+  {
+    "paper_id": "ca2d9dd2d4afbac5dbe2ee426586da854b2349c8",
+    "title": "Equivalence and revenue comparison among identical-item auctions",
+    "year": 2021,
+    "author_ids": [
+      "2149230516",
+      "2151269631",
+      "40653187"
+    ],
+    "venue": "JOURNAL OF ECONOMICS",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "894802c56da242d2a03a2f4f8a30d362a017348d",
+    "title": "Privacy, Patience, and Protection",
+    "year": 2021,
+    "author_ids": [
+      "1906341",
+      "2417693"
+    ],
+    "venue": "Dynamic Games and Applications",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "186890b528cf763385e385f38b96e2661784b502",
+    "title": "Auctions with signaling concerns",
+    "year": 2020,
+    "author_ids": [
+      "20805396",
+      "30037923"
+    ],
+    "venue": "Journal of Economics and Management Strategy",
+    "citation_count": 9,
+    "abstract": "We study a symmetric private value auction with signaling, in which the auction outcome is used by an outside observer to infer the bidders' types. We elicit conditions under which an essentially unique D1 equilibrium bidding function exists in four auction formats: first-price, second-price, all-pay and the English auction. We obtain a strict ranking in terms of expected revenues: the first-price and all-pay auctions dominate the English auction but are dominated by the second-price auction."
+  },
+  {
+    "paper_id": "c36c4ebd87781b4074beb2683d8f1859a0a0d59e",
+    "title": "Information disclosure by a seller in sequential first-price auctions",
+    "year": 2020,
+    "author_ids": [
+      "3202598"
+    ],
+    "venue": "International Journal of Game Theory",
+    "citation_count": 3,
+    "abstract": "I study sequential first-price auctions where two items are sold to two bidders with private binary valuations. A seller, prior to the second auction, can publicly disclose some information about the outcome of the first auction. I characterize equilibrium strategies for various disclosure rules when the valuations of bidders are either perfectly positively or perfectly negatively correlated across items. I establish outcome equivalence between different disclosure rules. I find that it is optimal for the seller to disclose some information when the valuations are negatively correlated, whereas it is optimal not to disclose any information when the valuations are positively correlated. For most of the parameter values, the seller\u2019s expected revenue is higher if the losing bid is disclosed. When only the winner\u2019s identity is disclosed, the equilibrium is efficient whether the valuations are positively or negatively correlated."
+  },
+  {
+    "paper_id": "67f7f7e734dd8b6716fe8b0de57f4d9557542d13",
+    "title": "Auctions with different rates of patience: Evidence from the resale shoe market",
+    "year": 2019,
+    "author_ids": [
+      "145731020"
+    ],
+    "venue": "Managerial and Decision Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "db7c8d345f91ad163eedb9273109a7b89443c2eb",
+    "title": "Pricing Patterns in Wholesale Electricity Markets: Unilateral Market Power or Coordinated Behavior?*",
+    "year": 2019,
+    "author_ids": [
+      "2157891554",
+      "145457350"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 14,
+    "abstract": "We examine allegations that firms in Alberta's electricity industry manipulated public information to coordinate in the wholesale market. We investigate whether bids by firms who employed unique pricing patterns were consistent with unilateral expected profit maximization. Our results suggest that these firms could have increased expected profits through unilateral deviations. For one firm, the potential to increase profits is greater on days when certain offer patterns are observed, providing support for the claim that such patterns may have assisted coordination on high-priced outcomes. These results suggest that regulators should exercise caution when designing information disclosure policies in concentrated electricity markets."
+  },
+  {
+    "paper_id": "a8a2b58bbcbf48cc3269cd3363ab66c6beef5294",
+    "title": "Equilibrium Effects of Pay Transparency",
+    "year": 2017,
+    "author_ids": [
+      "2273809009",
+      "1414112402"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 59,
+    "abstract": "The discourse around pay transparency has focused on partial equilibrium effects: how workers rectify pay inequities through informed renegotiation. We investigate how employers respond in equilibrium. We study a model of bargaining under two\u2010sided incomplete information. Our model predicts that transparency reduces the individual bargaining power of workers, leading to lower average wages. A key insight is that employers credibly refuse to pay high wages to any one worker to avoid costly renegotiations with others. When workers have low individual bargaining power, pay transparency has a muted effect. We test our model with an event\u2010study analysis of U.S. state\u2010level laws protecting the right of private sector workers to communicate salary information with their coworkers. Consistent with our theoretical predictions, transparency laws empirically lead wages to decline by approximately 2%, and wage declines are smallest in magnitude when workers have low individual bargaining power."
+  },
+  {
+    "paper_id": "37115c52f0bc33027606de41d8d330a8d5519629",
+    "title": "What type of transparency in OTC markets?\u2217",
+    "year": 2023,
+    "author_ids": [
+      "50301996",
+      "3435272"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "75eef55b380de5f780efd5e12c0ba4179c32eef6",
+    "title": "NBER WORKING PAPER SERIES EQUILIBRIUM EFFECTS OF PAY TRANSPARENCY",
+    "year": 2021,
+    "author_ids": [
+      "2273809009",
+      "1414112402",
+      "1741215386",
+      "2261156334",
+      "2117346885",
+      "104356423",
+      "145861452",
+      "66446045",
+      "52436046",
+      "3222806",
+      "3435272",
+      "39040466",
+      "118685270",
+      "32867808",
+      "2467114",
+      "1793292",
+      "46880738",
+      "3278308",
+      "117871022",
+      "120533130",
+      "2201823401",
+      "48548583",
+      "2853085",
+      "1414413396",
+      "3098101",
+      "11384921",
+      "143649975",
+      "2061221814",
+      "144839327",
+      "88299747",
+      "1836323",
+      "1937314"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b2792b96176323df8b7eb95d9b4abb72aeb63e60",
+    "title": "Strategic Leaks in First-Price Auctions and Tacit Collusion: The Case of Spying and Counter-Spying",
+    "year": 2021,
+    "author_ids": [
+      "2203300",
+      "2387398",
+      "1764743"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We analyze strategic leaks due to spying out a rival\u2019s bid in a first-price auction. Such leaks induce sequential bidding, complicated by the fact that the spy may be a counterspy who serves the interests of the spied at bidder and reports strategically distorted information. This ambiguity about the type of spy gives rise to a non-standard signaling problem where both sender and receiver of messages have private information and the sender has a chance to make an unobserved move. Whereas spying without counterspy exclusively benefits the spying bidder, the potential presence of a counterspy yields a collusive outcome, even if the likelihood that the spy is a counterspy is arbitrarily small. That collusive impact shows up in all equilibria and is strongest in the unique pooling equilibrium which is also the payoff dominant equilibrium."
+  },
+  {
+    "paper_id": "6afbd0774bea678177e0f57ad489868429e3bf2c",
+    "title": "Working Paper No. E2017/2 Information Disclosure by a Seller in Sequential First-Price Auctions",
+    "year": 2019,
+    "author_ids": [
+      "3202598",
+      "3202598"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "7fc66a99ab0fc34a0fbd261ad3ea1d8c52ac43f1",
+    "title": "THE ROLE OF INFORMATION IN PRIVATE VALUE AUCTIONS",
+    "year": 2019,
+    "author_ids": [
+      "73090596"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "012e1f03ff5d32a616dc0074024cbaf92c4939c6",
+    "title": "The Future of Global Health Procurement: Issues around Pricing Transparency",
+    "year": 2019,
+    "author_ids": [
+      "12136396",
+      "2119830",
+      "84158262",
+      "121571790",
+      "2281752951",
+      "121575116",
+      "81406840"
+    ],
+    "venue": null,
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "d36a1cb70695cd1c0ba07f81bccd505980256e4c",
+    "title": "Sequential second-price auctions with private budgets",
+    "year": 2019,
+    "author_ids": [
+      "37373542",
+      "153803809"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "4d0a229ca07c9f4806d76e6681c24f99da462181",
+    "title": "Sequential Procurement with Limited Commitment",
+    "year": 2019,
+    "author_ids": [
+      "3364831",
+      "118989316",
+      "96471571"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "We analyze the problem of a buyer who chooses a supplier for a long-term relationship via an auction. The buyer lacks commitment to not renegotiate the terms of the contract in the long run. Thus, suppliers are cautious about the information revealed during the auction. We show theoretically and experimentally that first-price auctions perform poorly in terms of efficiency and buyer surplus. Suppliers may pool on a high bid to conceal information. Second-price auctions retain their efficient equilibrium and generate substantial surplus for the buyer. We demonstrate that optimal mechanisms require concealing the winning bid with a strictly positive probability."
+  }
+]

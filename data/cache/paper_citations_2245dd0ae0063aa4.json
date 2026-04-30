@@ -1,0 +1,2187 @@
+[
+  {
+    "paper_id": "06c9c2800fe0af510edbb50bd4d74f6991596868",
+    "title": "Standard-Setting and the Incentives to Innovate: Evidence from the IEEE Patent Policy Update",
+    "year": 2025,
+    "author_ids": [
+      "2166895108"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "3bb867adba4d607426a9eb9d0e92f850a3804702",
+    "title": "Digital marketing of standard essential patent licensing programs",
+    "year": 2025,
+    "author_ids": [
+      "2377081141",
+      "2412758366",
+      "50010132",
+      "2242708087"
+    ],
+    "venue": "World Patent Information",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "e2f3bf03e672a4f82de3b114648eaf891b6a6361",
+    "title": "From collaboration to green transformation: How strategic alliances drive green total factor productivity through dynamic capabilities?",
+    "year": 2025,
+    "author_ids": [
+      "2377956487",
+      "2377996664",
+      "41156231"
+    ],
+    "venue": "Journal of Innovation &amp; Knowledge",
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "ade68650105401583e89d995143dfce50a0a080c",
+    "title": "Learning When to Quit: An Empirical Model of Experimentation in Standards Development",
+    "year": 2025,
+    "author_ids": [
+      "70563393",
+      "65899317",
+      "35721164"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 0,
+    "abstract": "Using data from the Internet Engineering Task Force (IETF), a voluntary organization that develops protocols for managing internet infrastructure, we estimate a dynamic discrete choice model of the decision to continue or abandon a line of research. The model's key parameters measure the speed at which authors learn whether their project will become a technology standard. We use the model to simulate two innovation policies: an R&D subsidy and a publication prize. While subsidies have a larger impact on research output, the optimal policy depends on the level of R&D spillovers. (JEL D83, L86, O31, O38)"
+  },
+  {
+    "paper_id": "c7ba1816d3bda6454a0311b1416c927d735bc725",
+    "title": "Essentiality Checks for Standard Essential Patents",
+    "year": 2025,
+    "author_ids": [
+      "2278952187",
+      "2092141417"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 1,
+    "abstract": "There is widespread concern about the lack of transparency regarding standard essential patents (SEPs). This paper examines the proposal to introduce essentiality checks, a certification scheme for declared SEPs. We develop a framework that allows us to evaluate how essentiality checks would impact licensing, litigation, and incentives to innovate. In our model, an upstream innovator invests in R&D and privately learns about the likely essentiality of its patents for a standard. The innovator then licenses the patents to a downstream implementer who can contest the essentiality of the patents in court. We show that, although essentiality checks can reduce litigation, they also raise incentives for R&D investment. Because the latter can be excessive if FRAND requirements are ineffective and spillovers are small, the overall welfare impact of essentiality checks is ambiguous. This paper was accepted by Joshua Gans, business strategy. Funding: C. Wipusanawan gratefully acknowledges funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) \u2013 project number 443732464."
+  },
+  {
+    "paper_id": "0e78cc5289734e987f9f194c3c77cd743e623e09",
+    "title": "The puzzle of biologics manufacturing platform patents",
+    "year": 2025,
+    "author_ids": [
+      "79846493",
+      "2255101800",
+      "2347721199",
+      "6718534",
+      "50673594"
+    ],
+    "venue": "Nature Biotechnology",
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "86f15b925049978006ea2d27c72979e348eafaa1",
+    "title": "Standardization catch-up strategy of latecomer enterprises: a longitudinal case of Huawei",
+    "year": 2025,
+    "author_ids": [
+      "2243649984",
+      "2243640530"
+    ],
+    "venue": "Humanities and Social Sciences Communications",
+    "citation_count": 4,
+    "abstract": "The existing theoretical framework fails to explain the behavioral mechanisms employed by latecomer enterprises in their pursuit of standardization catch-up. In order to address this gap, we conducted a comprehensive and structured case study on Huawei\u2019s standardization strategy. Using both deductive and inductive approaches, the findings from our research reveal Huawei\u2019s \u2018pyramid standardization strategy\u2019 consisting of four distinct stages: following (1987\u20132002), defense (2003\u20132008), breakthrough (2009\u20132015), and sharing (2016\u2013present). Drawing from the theoretical framework of academic literature on \u2018catch-up in standardization\u2019, we propose a \u2018standardization catch-up model\u2019 that incorporates three crucial elements: a top-down behavioral foundation, middle-up essential supporting components, and bottom-up culture and values. Furthermore, we identified five key propositions from the Huawei case, which emphasize the importance of R&D investment, low-cost engineers, professional teams, relations with international standards organizations, and open innovation as driving factors. By shedding light on the role of internal capabilities, patent-based innovation, and organizational culture, our research significantly contributes to the understanding of catch-up through standardization strategy."
+  },
+  {
+    "paper_id": "3a6dad3142327b1878e8625834c6197019906184",
+    "title": "FRAND Licensing of Standard-Essential Patents: Comparing Realistic Ex-Ante and Ex-Post Contracts",
+    "year": 2025,
+    "author_ids": [
+      "89553543",
+      "2269572691",
+      "2088484830"
+    ],
+    "venue": "The B.E. Journal of Economic Analysis &amp; Policy",
+    "citation_count": 0,
+    "abstract": "Abstract The paper presents a bargaining model that compares two forms of licensing of Standard Essential Patents (SEPs) in terms of their ability to deliver Fair, Reasonable and Non-Discriminatory (FRAND) royalties. The first is a profit-based or ad valorem contract signed ex-ante, before the product market entry of the implementer. The second is a lump sum contract signed ex-post, after implementers\u2019 profits have been realized. Both contracts are realistic, i.e. compatible with the typical timing of standardization activities. We find that the ex-ante contract dominates the ex-post one in many but not all situations. It does when the imbalance in bargaining power between the parties is not too strong, independently of how the latter is distributed. In more extreme situations of bargaining power imbalance (typical hold-up and hold-out situations), ex-ante contracts are again better when the level of litigation costs relative to profits is very high or very low. However, for intermediate levels of litigation costs relative to profits, the threat of litigation may be useful to set royalties that are closer to FRAND. This finding is relevant in light of current regulatory initiatives over-emphasizing ex-ante licensing, like the European SEP Regulation."
+  },
+  {
+    "paper_id": "942ed1fadc1a2aefb7624c37ca7bb982f76727b9",
+    "title": "The Economics of Innovation and Intellectual Property",
+    "year": 2024,
+    "author_ids": [
+      "2255933828",
+      "2264301992"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "\n This work is an upper-division and master\u2019s-level text covering the economics of innovation and the ways in which it is encouraged or discouraged by intellectual property (IP) protection. The first part of the book covers the basic features of invention, innovation, diffusion, and the various IP instruments; the contribution of these to firm profits and growth; and the policies that governments use to encourage innovative activity. Part II gives more detailed information on IP rights: patents, copyright, trademarks, and the various alternatives to formal IP. Part III covers several IP (mostly patent) topics in greater detail, looking at specific sectors such as software, including artificial intelligence, and pharmaceuticals, as well as the use of IP in developing countries. It also goes into detail on topics of strategic interest to firms: patent litigation, technology standards and patents, the sharing and exchange of patents, and the strategic use of patents in general. The book\u2019s approach is largely verbal and example-driven, but with simple mathematical models that introduce the reader to the more advanced economics literature in this area and equip them to delve further if they so wish. There is a brief mathematical appendix (Appendix A) containing material that may be unfamiliar to the reader as well as appendices containing the many abbreviations used (B) and an introduction to the data now available for studying the economics of innovation (C). The Bibliography section is large and can serve as a useful compendium of the literature in this area."
+  },
+  {
+    "paper_id": "e52693c4d2708a04383cd8f41cbfdb892a7d2c34",
+    "title": "Patent opposition, IP firm capabilities, and technology entry: empirical evidence from European patent data",
+    "year": 2024,
+    "author_ids": [
+      "2274129064",
+      "2274148620",
+      "2274403711"
+    ],
+    "venue": "Industrial and Corporate Change",
+    "citation_count": 1,
+    "abstract": "\n This paper examines the extent to which patent litigiousness relates to entry into a new technological domain (TD). Unless firms have sufficient intellectual property (IP) capabilities, patent litigiousness in the form of opposition may raise barriers to entry. We test this hypothesis using a large-scale dataset of patents applied for at the European Patent Office (EPO) between 2000 and 2015. We introduce a new measure of TD patent litigiousness based on the frequency of oppositions at the EPO. Patent litigiousness is negatively associated with technological entry for small firms, especially in high-tech and complex TDs. Unlike small firms, large firms benefit from previous experience with opposition, which favors the development of IP capabilities and reduces the uncertainty of entering highly litigious TDs."
+  },
+  {
+    "paper_id": "297eb052cd2203e927e452598ec17b20f6eab2e4",
+    "title": "\u201cTo Antipolis, my sisters!\u201d: ETSI as a forum of contestation, collaboration and orchestration",
+    "year": 2024,
+    "author_ids": [
+      "70071920",
+      "1572233540"
+    ],
+    "venue": "The Innovation",
+    "citation_count": 5,
+    "abstract": "Over the years, ETSI, the prime European standard-setter for ICT standards, has experienced significant critique about its legitimacy, including more recently by the European Commission in the 2022 Standardization Strategy, which focused on the alleged deficiencies of its global participation model. Despite potential missteps in certain instances, ETSI has overall addressed such critique with remarkable success. In this article, we argue that this occurred thanks to various strategies that ETSI used to sustain its organizational resilience over the years. In regard to its interaction with its de facto controller, the European Commission, we argue that ETSI had recourse to three key resilience strategies: one where ETSI took a hard stance resisting to the Commission's desires (contestation), one where ETSI intentionally succumbed to the Commission's desires or preferences (orchestration), and one where ETSI opted for a reconciliatory approach to achieve commonly set objectives serving the mutual interest (collaboration). Interestingly, such strategies were not only resilience-enhancing, but also legitimacy-conducive. This article contributes to two different strings of academic literature relating to organizational resilience, on the one hand, and institutional legitimacy, on the other, by combining them in a manner that, to the best of our knowledge, had not been done before in the relevant literature. In the discussion section, we draw observations that are pertinent to discussions and developments since the 2022 European Union\u2019s Standardization Strategy."
+  },
+  {
+    "paper_id": "11751f4b27d4e835b29279335ec03a3e555245b4",
+    "title": "Double marginalization in the pricing of complements: The case of US freight railroads",
+    "year": 2024,
+    "author_ids": [
+      "145454111",
+      "145661487",
+      "13722000"
+    ],
+    "venue": "Journal of Economics &amp; Management Strategy",
+    "citation_count": 2,
+    "abstract": "Monopolists selling complementary products charge a higher price in a static equilibrium than a single (multiproduct) monopolist would, reducing both the industry profits and consumer surplus. Firms could instead reach a Pareto improvement by lowering prices to the single\u2010monopolist level. We analyze pricing data of railroad coal shipping in the United States. We compare a coal producer that needs to ship from A to C, with the route passing through B, in two cases: (1) the same railroad owning AB and BC and (2) different railroads owning AB and BC. We do not find that the price in case (2) is higher than the price in case (1), suggesting that the complementary monopolist pricing inefficiency is absent in this market. Our findings are robust to propensity score blocking, causal machine learning algorithms, and difference\u2010in\u2010differences analysis. Our results have implications for vertical mergers, tragedy of the anticommons, mergers of firms selling complements, elimination of double marginalization, and royalty stacking and patent thickets."
+  },
+  {
+    "paper_id": "572d6bf79788847bc91c6f3c1c5aa4d14990a17b",
+    "title": "Standardization: Research Trends, Current Debates,\u00a0and Interdisciplinarity",
+    "year": 2024,
+    "author_ids": [
+      "122278421",
+      "122837724",
+      "2286762906",
+      "2285704031",
+      "2285027787",
+      "2073764280",
+      "49582734"
+    ],
+    "venue": "The Academy of Management Annals",
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "789f8bd2bde38cfd92fdcfd1066d879f13deb411",
+    "title": "Winning the second race of technology standardization: Strategic maneuvers in SEP follow-on innovations",
+    "year": 2024,
+    "author_ids": [
+      "2302910563",
+      "2301795235",
+      "2301836513",
+      "16717822"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "d317b9a465b1be4ef80d706a05ac3c523a888ade",
+    "title": "Understanding the Rivalry Among Telecommunication Companies in the Cross-Border Patent Infringement: An Evolutionary Social Network Analysis",
+    "year": 2024,
+    "author_ids": [
+      "2297930233",
+      "2184079743"
+    ],
+    "venue": "SAGE Open",
+    "citation_count": 0,
+    "abstract": "Understanding the rivalry in infringement-litigation dynamics is critical for firms in the telecommunication industry. While the number of cross-border patent disputes in these years has surged owing to the globalized economy, the existing literature primarily focuses on patent disputes among telecommunication companies in the national jurisdiction. Hence, to capture the rivalry in the telecommunication industry more comprehensively, we utilize the evolutionary social network to explore the patent dispute data in the International Trade Commission (ITC), which is a crucial legal battleground for enterprises with international business. Through developing a dynamic litigation network and discussing the possible role of the positions in compliance with their interacting relationship, we illustrated that companies involved in ITC investigations can be segmented into key players, frequent respondents, strategic applicants, as well as peripheral enterprises, and the litigation strategies implicated behind four groups of firms stress the strategic nature of ITC investigations. According to the findings, this study contributes to the literature on patent litigation in the telecommunication field and social network relationships. In addition, this paper suggests that telecommunication companies should develop litigation strategies based on their positions and roles in the competition network, and policymakers need to have a deeper understanding of the competition practices in the global legal context."
+  },
+  {
+    "paper_id": "2e2911fd072909addd051fd17d9b276f167272fb",
+    "title": "Innovation incentives in technical standards",
+    "year": 2024,
+    "author_ids": [
+      "2812271"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "2dd427c1681aa06ac8ea5b54529ad159931389e5",
+    "title": "Double Marginalization and Misplacement in Online Advertising*",
+    "year": 2023,
+    "author_ids": [
+      "2088455916",
+      "143809582",
+      "98372127",
+      "2968689"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 1,
+    "abstract": "Internet users often surf multiple websites as a bundle to fulfill their needs and \u2018pay\u2019 for the content by viewing ads. We study how such complementary websites choose advertising policies. Two forces distort the equilibrium away from the industry optimum and the efficient outcome. First, websites place too many ads (double marginalization). Second, given the total advertising volume at equilibrium, websites misallocate ads among themselves (misplacement). Competition in one market segment may eliminate double marginalization but exacerbate misplacement. Introducing micropayments removes misplacement, but the welfare consequences are ambiguous. Policymakers must thus be cautious when applying standard remedies to zero\u2010price markets."
+  },
+  {
+    "paper_id": "fc314605e4554ca5e717c031dceb9adc2a38b8ef",
+    "title": "A Theoretical Analysis of Collusion Involving Technology Licensing Under Diseconomies of Scale",
+    "year": 2023,
+    "author_ids": [
+      "2273702914",
+      "2161281196",
+      "39238422"
+    ],
+    "venue": "The B.E. Journal of Theoretical Economics",
+    "citation_count": 1,
+    "abstract": "Abstract This study focuses on firms with cost-efficient technology that use licensing to influence product market behaviour, market prices and outputs and the resulting welfare effects. We show how licensing fees can be constructed that lead to identical collective industry outputs as under collusion while industry output is equal to or higher than that achieved under competition and sustained in equilibrium. Hence, consumers are either indifferent to firms\u2019 collusion or better off when they do collude, whereas firms (producers) are always better off due to the improved cost efficiency of integrating the new production technology. This provides a theoretical foundation that explains why technology licensing is observed in highly concentrated industries characterised by significant diseconomies of scale relative to demand. We contribute to the literature by demonstrating how technology licensing involving collusion can reduce the dissipation effect and improve social welfare in oligopolistic industries. An important policy implication is that collusion involving technology licensing should not always be challenged by antitrust authorities, particularly when it does not transfer welfare from consumers to producers."
+  },
+  {
+    "paper_id": "5b4605cc11fbd1db16d070bcfb6365c5e4d2b849",
+    "title": "Standards and innovation: A review and introduction to the special issue",
+    "year": 2023,
+    "author_ids": [
+      "2847364",
+      "145163215",
+      "1892744",
+      "65899317"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 41,
+    "abstract": null
+  },
+  {
+    "paper_id": "7b3ad52b9d792fe399373a0432199fad7287aa1e",
+    "title": "Competition and the Industrial Challenge for the Digital Age",
+    "year": 2023,
+    "author_ids": [
+      "2243333109"
+    ],
+    "venue": "Annual Review of Economics",
+    "citation_count": 71,
+    "abstract": "Tech giants' dominance does not confront us with an unpalatable choice between laissez-faire and populist interventions. This article takes stock of available knowledge, considers desirable adaptations of regulation in the digital age, and draws some conclusions for policy reform."
+  },
+  {
+    "paper_id": "88ee42cf279593fe2d5106148b9dc68619973ab2",
+    "title": "Missed chances and unfulfilled hopes: Why do firms make errors in evaluating technological opportunities?",
+    "year": 2023,
+    "author_ids": [
+      "2123128941",
+      "1973607"
+    ],
+    "venue": "Strategic Management Journal",
+    "citation_count": 9,
+    "abstract": "This study examines commission and omission errors in the evaluation of technological opportunities. Integrating structural and cognitive perspectives, we propose that inventors with more cohesive collaboration networks within the firm or geographically closer to the corporate headquarters exert greater influence on the dominant representations shaping opportunity evaluation within the firm. Thus, their inventions are more likely to be positively assessed, even if quality considerations suggest otherwise. Conversely, even when superior in quality, inventions from individuals with less cohesive collaboration networks within the firm or located far from the corporate headquarters are less likely to be positively evaluated, leading to omission errors. The study provides evidence based on 22 interviews and archival data from the mobile phone and personal digital assistant industry between 1990 and 2010.This study examines commission and omission errors in decision\u2010making about technologies. Studying patent renewal decisions of 42 firms in the mobile phone and personal digital assistant industry between 1990 and 2010, we show that inventors with more cohesive collaboration networks within the firm or located close to the corporate headquarters have their inventions positively assessed even when of lower quality, leading to commission errors. On the other hand, inventors with less cohesive collaboration networks within the firm or located far away from the corporate headquarters have their inventions disregarded even when of higher quality, causing omission errors. These findings call for managerial vigilance in technology evaluation decisions, ensuring valuable ideas are not overlooked due to an inventor's network position or location."
+  },
+  {
+    "paper_id": "59bd94cfee57b56267076a8a52b9fa51b06bd545",
+    "title": "Patenting inventions or inventing patents? Continuation practice at the USPTO",
+    "year": 2023,
+    "author_ids": [
+      "120879283",
+      "65899317"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 8,
+    "abstract": "Continuations allow inventors to add new claims to old patents, leading to concerns about unintended infringement and holdup. We study how continuations are used in standard essential patent (SEP) prosecution. Difference in differences estimates suggest that continuation filings increase by 80%\u2013121% after a standard is published. This effect is larger for applicants with licensing\u2010based business models and for patent examiners with a higher allowance rate. Claim language is more similar for SEPs filed after standard publication, and late\u2010filing is positively correlated with litigation. These findings suggest widespread use of continuations to draft patents that are infringed by already\u2010published\u00a0standards."
+  },
+  {
+    "paper_id": "f81270aa97a9800dcb34278d16c70be47d8be869",
+    "title": "Membership, governance, and lobbying in standard-setting organizations",
+    "year": 2023,
+    "author_ids": [
+      "2106739596",
+      "119310267",
+      "2411163758"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ecce0dc4f30360faa44665e9e28975bbfb4902c4",
+    "title": "A conceptual model for FRAND royalty setting",
+    "year": 2023,
+    "author_ids": [
+      "2303309",
+      "15053523",
+      "2356672340"
+    ],
+    "venue": "Mathematical Social Sciences",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "315aae5d281c8c0ac14d71e2bd64857be456f42b",
+    "title": "Licensing standard\u2010essential patents with costly enforcement",
+    "year": 2023,
+    "author_ids": [
+      "3196845",
+      "2211280201",
+      "3198483"
+    ],
+    "venue": "Journal of Economics &amp; Management Strategy",
+    "citation_count": 3,
+    "abstract": "Standard essential patents (SEPs) face additional limitations to the enforcement of their intellectual property: they must license on FRAND terms and face constraints in obtaining injunctions in case of infringements. We model the interaction between the SEP owner and two firms for whom the patented technology is an essential input and that compete against each other. Our work shows that the SEP holder is unable to credibly commit to enforce low royalties in the face of uncertainty regarding the patent validity. This in turn leads to high royalties that incentivize firms to free ride in the litigation efforts of the other, resulting in costly litigation in equilibrium."
+  },
+  {
+    "paper_id": "0af1d78244dba95936f4f69dbd00a11c4ad8a81f",
+    "title": "Policy Orientations and Technology Choices in Standards Wars",
+    "year": 2023,
+    "author_ids": [
+      "47012393",
+      "36602106",
+      "2214211810"
+    ],
+    "venue": "International Journal of Industrial Organization",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c64fb78dd387b3ae3c6c072f368550cb78477841",
+    "title": "Effect of an open patent pool strategy on technology innovation in terms of creating shared value",
+    "year": 2023,
+    "author_ids": [
+      "79300918",
+      "2268176050",
+      "2110293622",
+      "2210599"
+    ],
+    "venue": "Technological forecasting & social change",
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "282d744a65207e8aa9ab4bb60ba96be40c5c7ef8",
+    "title": "Do Technology Standards Induce Innovation in Environmental Technologies When Coordination is Important?",
+    "year": 2023,
+    "author_ids": [
+      "2142587231",
+      "2141235069"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "0d5acb275fe5c70b83d2c6fcb536b23f899416ae",
+    "title": "A theory of socially inefficient patent holdout",
+    "year": 2022,
+    "author_ids": [
+      "3117336",
+      "145202105"
+    ],
+    "venue": "Journal of Economics &amp; Management Strategy",
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "9a1c5cae026588dc2135af3e197b10e80354f292",
+    "title": "The interplay between product innovation, publishing, patenting and developing standards",
+    "year": 2022,
+    "author_ids": [
+      "2847364",
+      "2061870143",
+      "2962238"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 46,
+    "abstract": "Firms use a variety of practices to disclose the knowledge generated by their R & D activities, including, but not limited to, publishing findings in scientific journals, patenting new technologies, and contributing to developing standards. While the individual effects of engaging in the listed practices on firm innovation are well-understood, the existing literature has not considered their interrelation. Therefore, our study examines if the three practices are complements, substitutes, or unrelated in terms of firms \u2019 performance with product innovations new to the market. Our analysis builds on a sample of innovation-active firms from the German Community Innovation Survey, which includes information on the development of standards, enhanced with information on firms \u2019 engagement in patenting and publishing. We find that 26% of innovation-active firms engage in at least one of the three practices, and 22% of engaging firms combine them. Using supermodularity tests, we show that publishing and patenting as well as patenting and developing standards are substitutes. Publishing and developing standards are not significantly linked. Based on our findings, we derive implications for innovation management and policy."
+  },
+  {
+    "paper_id": "95af64deaa777a58685a9e78bbfae48644e7aaa6",
+    "title": "LTE INNOVATION ACTIVITY \u2013 CARRIER AGGREGATION FEATURE",
+    "year": 2022,
+    "author_ids": [
+      "2181705366"
+    ],
+    "venue": "Revista Foco",
+    "citation_count": 0,
+    "abstract": "Telecommunications technology development need innovation generation. Often development relates improvements for data transmission rate and latency improvements on radio interface. When building new telecommunications standards where network and mobile station can communicate together irrespective of manufacturer, there is need for standardization where various technical features construct standard specifications. There is investigated LTE standard related features and whether innovation activity has been high for Carrier Aggregation feature. Measurement for innovation activity has kept standard declaration amount because expecting that companies want to get good amount of standard essentials to achieve commercial benefit with their essential portfolio. The results show that LTE Carrier Aggregation innovation activity has been high."
+  },
+  {
+    "paper_id": "ca97f14e737594ab3a2313c15d394b46b7d1526f",
+    "title": "Global drug diffusion and innovation with the medicines patent pool.",
+    "year": 2022,
+    "author_ids": [
+      "1739775099"
+    ],
+    "venue": "Journal of Health Economics",
+    "citation_count": 20,
+    "abstract": "This paper studies the impact of the first joint licensing platform for patented drugs, the Medicines Patent Pool, on global drug diffusion and innovation. The pool allows generic firms worldwide to license drug bundles cheaply and conveniently for sales in a set of developing countries. I construct a novel dataset from licensing contracts, public procurement, clinical trials, and drug approvals. Using difference-in-differences methods, I find that the pool leads to substantial increases in the generic supply of drugs purchased, particularly in countries with stronger patent protection. In addition, there are some positive increases in clinical trials and drug product approvals after a compound enters the pool, mostly by firms outside the pool."
+  },
+  {
+    "paper_id": "3eff3282ed325020d8b4a7e03d18af3300989e7d",
+    "title": "The effects of technology standards on complementor innovations: Evidence from the IETF",
+    "year": 2022,
+    "author_ids": [
+      "2070075503",
+      "2074079",
+      "1739666"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "11b7dee52dd3ec780bf18ff43ef3ab94cd0c6712",
+    "title": "Patenting and standardization: Similarities and differences based on firms'\u00a0strategic motives and experienced barriers",
+    "year": 2022,
+    "author_ids": [
+      "2847364",
+      "89271854",
+      "121189589"
+    ],
+    "venue": "Journal of engineering and technology management",
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "537f29092f422048252b795795dc622808fbd4a4",
+    "title": "Development of 5G \u2013 Identifying organizations active in publishing, patenting, and standardization",
+    "year": 2022,
+    "author_ids": [
+      "2156756461",
+      "2847364"
+    ],
+    "venue": "Telecommunications Policy",
+    "citation_count": 23,
+    "abstract": null
+  },
+  {
+    "paper_id": "5527a42744aa18c72da7da1f9bb3bbaf879e30ee",
+    "title": "No Double Standards: Quantifying the Impact of Standard Harmonization on Trade",
+    "year": 2022,
+    "author_ids": [
+      "2149399900",
+      "119190723"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 44,
+    "abstract": "Product standards are omnipresent in industrialized societies. Though standardization can be beneficial for domestic producers, divergent product standards have been categorized as a major obstacle to international trade. This paper quantifies the effect of standard harmonization on trade flows and characterizes the extent to which it changes the cost and demand structure of exporting."
+  },
+  {
+    "paper_id": "213de79de6cac2be47de42fe2ccf67d1aa6189dc",
+    "title": "Market entrance, patents, and preliminary injunctions: a model of pharmaceutical patent litigation",
+    "year": 2022,
+    "author_ids": [
+      "2088433934",
+      "1754236"
+    ],
+    "venue": "European Journal of Law and Economics",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "da28e563041468f9e499c12a9cc4cfaf36de56ed",
+    "title": "Market entrance, patents, and preliminary injunctions: a model of pharmaceutical patent litigation",
+    "year": 2022,
+    "author_ids": [
+      "2088433934",
+      "1754236"
+    ],
+    "venue": "European Journal of Law and Economics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "454a54c26cece486512a8b734a7278a26ce21e57",
+    "title": "Essential Patents and Knowledge Position, a Network Analysis on the Basis of Patent Citations",
+    "year": 2021,
+    "author_ids": [
+      "46400990",
+      "2153647068"
+    ],
+    "venue": "Standards",
+    "citation_count": 6,
+    "abstract": "Technology standards are considered important tools for increasing bargaining power and licensing revenues by combining the strategies of firms with the standard-setting organizations (SSOs) standardization processes. The essential patents declared by members of the SSOs play a critical role in such standardization processes. Some former researchers have found that, when using network analysis for measuring the knowledge positions in the \u201cmain-path\u201d of standards-based markets, the essential patents did not match very well with the actual knowledge positions of the firms, in most cases. In this paper, we focus on the essential patents declared by the member firms in JTC1, an SSO that provides a standards development environment related to the development of the worldwide information and communication technology (ICT) standards for business and consumer applications, and that employs social network analysis techniques to investigate the knowledge positions of the patents, not only in the \u201cmain-path\u201d discussed in the earlier literature, but also in the brokerage processes. We found that the brokerage-process approach helped us to better understand the roles of the essential patents that dominate transactions, relations, and the exchange of knowledge in the patent citation network than that of the main-path. Our findings suggest that claiming essentiality depends on the strategic behavior not only of the patents\u2019 owners, but also of the SSOs."
+  },
+  {
+    "paper_id": "17270adcef0207b4cae63fa9d51cf18b2ca9fabb",
+    "title": "Persuading to participate: Coordination on a standard",
+    "year": 2021,
+    "author_ids": [
+      "119213806",
+      "2019139866"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "10bbc33017f70129f922c4803bffce404509e4a8",
+    "title": "What do Firms Gain from Patenting? The Case of the Global ICT Industry.",
+    "year": 2021,
+    "author_ids": [
+      "1741520765",
+      "41124055",
+      "40482863"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "This study investigates the causal relationship between patent grants and firms' dynamics in the Information and Communication Technology (ICT) industry, as the latter is a peculiar sector of modern economies, often under the lens of antitrust authorities. For our purpose, we exploit matched information about financial accounts and patenting activity in 2009-2017 by 179,660 companies operating in 39 countries. Preliminarily, we show how bigger companies are less than 2% of the sample, although they concentrate about 89% of the grants obtained in the period of analyses. Thus, we test that patent grants in the ICT industry have a significant and large impact on market shares and firm size of smaller companies (31.5% and 30.7%, respectively) in the first year after the grants, while we have no evidence of an impact for bigger companies. After a novel instrumental variable strategy that exploits information at the level of patent offices, we confirm that most of the effects on smaller companies are due to the protection of property rights and not to the innovative content of inventions. Finally, we never observe a significant impact on either profitability or productivity for any firm size category. Eventually, we discuss how our findings support the idea that the ICT industry is a case of endogenous R&D sunk costs, which prevent profit margins from rising in the presence of a relatively high market concentration."
+  },
+  {
+    "paper_id": "90f52ea5247094574d96f9f303df0a1315b857e9",
+    "title": "Generative or Exclusionary? How Ecosystems Evolve with Coordination and Standardization",
+    "year": 2021,
+    "author_ids": [
+      "31454274",
+      "144179224"
+    ],
+    "venue": "Academy of Management Proceedings",
+    "citation_count": 0,
+    "abstract": "The literature typically depicts ecosystem evolution as \u201cgenerative\u201d, with coordination fueling growth in complements and complementors. We suggest that it could instead be \u201cexclusionary\u201d, where co..."
+  },
+  {
+    "paper_id": "448ab5605d2044864bd155eaae81ee72d514bf03",
+    "title": "Paving the path: drivers of standardization participation at ISO",
+    "year": 2021,
+    "author_ids": [
+      "2847364",
+      "2124313209"
+    ],
+    "venue": "Journal of Technology Transfer",
+    "citation_count": 25,
+    "abstract": "Several studies investigating the trade effects of standardization have found a positive impact of the number of international standards in a country on its trade volumes. While international standards have so far been considered as exogenous, we investigate what drives countries to take over leading roles, i.e. secretariats, in committees of the International Organization for Standardization (ISO) using a panel dataset on the ISO participation of 12 countries. Looking at this phenomenon through the perspective of agenda setting in international institutions we expect ISO participation to be a desirable tool for shaping technological trajectories and substantiating global influence via international technology transfer. We find that, while for most countries no systematic pattern can be observed, both China and the US show a close correlation between R&D and standardization work at ISO. For China, we attribute this finding to having a strategic approach toward standardization participation, for the US to the distinct features of the decentralized US standardization system. Finally, we derive implications of findings for both research and practice."
+  },
+  {
+    "paper_id": "55102a1e6be4ec22be58615496c1b3ec034c22c8",
+    "title": "Standardization and Standard Essential Patents for Public Good: Application in Automotive Industry",
+    "year": 2021,
+    "author_ids": [
+      "116875060",
+      "90380563"
+    ],
+    "venue": "SASI",
+    "citation_count": 0,
+    "abstract": "The majority of patents related to automotive safety systems are owned by a limited number of companies. Absorption and implementation of such innovations in large markets require solutions that would go beyond what is protected through exclusive means viz. patents. Taking learnings from the field of communication, wherein by implementing what is known as standard-essential patents, a horizontal deployment of a similar concept is required in other areas, most notably, automotive safety systems is necessitated. This study aims to explore the need for a practical approach to a broader technological, commercial, and social cause."
+  },
+  {
+    "paper_id": "013b15231b381db6325a9fdc625b2cb953086a25",
+    "title": "IPR policies and determinants of membership in Standard Setting Organizations: a social network analysis",
+    "year": 2021,
+    "author_ids": [
+      "46400990",
+      "2555207",
+      "2153647068"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "468a850a6780639295c3d87353e5403bf85ee70c",
+    "title": "Standard essential patents and global ICT value chains with a focus on the catching-up of China",
+    "year": 2021,
+    "author_ids": [
+      "2124313209",
+      "2847364",
+      "118928042"
+    ],
+    "venue": null,
+    "citation_count": 22,
+    "abstract": "Abstract Patents, standards and their combination, standard-essential patents (SEPs), are important in the information and communication technology (ICT) sector, in particular in mobile communication. We argue that SEPs are relevant in macroeconomic development and estimate the effect of a country's SEP portfolio on its value-added trade in global ICT value chains (GVC). We find that SEPs retain a higher share of value-adding domestically and that absorptive capacity is needed to join GVCs. China entered the SEP market late and is catching up rapidly. The trade effect of SEPs on China is different from that on matured economies because of the initially low value of its SEPs."
+  },
+  {
+    "paper_id": "e5bdbab00bd4382e277769c6ff1ff4b6b4f05111",
+    "title": "Intellectual Property Infringement by Foreign Firms: Import Protection through the ITC or Court",
+    "year": 2021,
+    "author_ids": [
+      "3421692",
+      "2479555"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 3,
+    "abstract": "This paper examines intellectual property litigation as a method of protection from patent-infringing imports. Claims against patent-infringing imports entering the United States may be filed before the International Trade Commission (ITC) or in district court. The ITC applies injunctions (import prohibitions) that would seem to provide more protection from infringing imports than the standard license fee remedy in court. Settlements prior to legal adjudication are common in both venues. Using a model with Nash bargaining and Cournot competition, we show that an ITC filing may restrict imports by less than in court. This result tends to apply if product differentiation is high and the size of the patented cost-reducing innovation is large."
+  },
+  {
+    "paper_id": "a93dd1145b9741fcaf68ee96eb9887bbd7f7f77e",
+    "title": "The Link Between Standardization and Economic Growth",
+    "year": 2021,
+    "author_ids": [
+      "1391170867",
+      "1398612613",
+      "2073817726"
+    ],
+    "venue": "International Journal of Standardization Research",
+    "citation_count": 4,
+    "abstract": "We analyze the link between standardization and economic growth by systematically reviewing leading economics journals, leading economic growth researchers\u2019 articles, and economic growth-related books. We make the following observations: 1) No article has analyzed the link between standardization and economic growth in top5 economics journals between 1996 and 2018. 2) A representative sample of the leading researchers of economic growth has allocated little attention to the link between standardization and economic growth. 3) Typically, economic growth textbooks do not contain \u201cstandards\u201d or \u201cstandardization\u201d in their word indexes. These findings suggest that the economic growth theory has neglected the role of standardization."
+  },
+  {
+    "paper_id": "787c35948a9f2b0a0c9798e96a677c585246b3c1",
+    "title": "Truly standard\u2010essential patents? A semantics\u2010based analysis",
+    "year": 2020,
+    "author_ids": [
+      "116023146",
+      "82940472",
+      "1697838"
+    ],
+    "venue": "Journal of Economics &amp; Management Strategy",
+    "citation_count": 20,
+    "abstract": "Standard-essential patents (SEPs) have become a key element of technical coordination in standard-setting organizations. Yet, in many cases, it remains unclear whether a declared SEP is truly standard-essential. To date, there is no automated procedure that allows for a scalable and objective assessment of SEP status. This paper introduces a semantics-based method for approximating the standard essentiality of patents. We provide details on the procedure that generates the measure of standard essentiality and present the results of several validation exercises. In a first empirical application we illustrate the measure's usefulness in estimating the share of true SEPs in firm patent portfolios for several mobile telecommunication standards. We find firm-level differences that are statistically significant and economically substantial. Furthermore, we observe a general decline in the average share of presumably true SEPs between successive standard generations."
+  },
+  {
+    "paper_id": "6aca3f7fbb5cd64323c6c849d256485efdb95bea",
+    "title": "Standard-essential patents and incentives for innovation",
+    "year": 2020,
+    "author_ids": [
+      "2092141417"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "Patent holders whose patents are essential to a standard are usually required to license their patents under fair, reasonable, and non-discriminatory (FRAND) terms. This requirement is often interpreted as a price cap such that royalties for the patents do not exceed their pre-standardisation incremental values. Using a theoretical model of innovators with interacting technologies, I consider the problem of choosing the incentive scheme to induce welfare-maximising research investments under the condition that it only uses the values created by the innovators, and analyse the prevalent interpretation of FRAND compared to the optimal scheme. It shows that in some cases, this incremental value rule does not lead to the efficient level of innovation investment."
+  },
+  {
+    "paper_id": "805336b482e8082f4e93f0c4c8747c3e13e49bc7",
+    "title": "IPR policies and determinants of membership in Standard Setting Organizations: a social network analysis",
+    "year": 2020,
+    "author_ids": [
+      "46400990",
+      "2555207",
+      "2153647068"
+    ],
+    "venue": "Netnomics",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "5b30e515cf8a9b09f48ce188e4ed7de4a6c4a049",
+    "title": "Red territory: forging infrastructural power",
+    "year": 2020,
+    "author_ids": [
+      "73236053"
+    ],
+    "venue": "Territory, Politics, Governance",
+    "citation_count": 29,
+    "abstract": "ABSTRACT Territorial power is enacted and contested through technical infrastructures. From financing submarine cables to constructing hyperscale data facilities and claiming 5G patents, Chinese technology firms such as Huawei have steadily assembled layers of informational architecture. The paper investigates these layers through the lens of the Tseung Kwan O Industrial Estate in Hong Kong. By tracing its construction, charting its connections and mapping its operations, the paper reveals how specific formations of technical power emerge. Such power is at once political in its shaping of subjects\u2019 lives and geopolitical in its support of sovereign visions. These \u2018technical territories\u2019 take strange forms, inhabiting particular jurisdictions while also extending far beyond them. Their technical conditions exert influence at scale, challenging conventional understandings of territory and suggesting a new site of contemporary power."
+  },
+  {
+    "paper_id": "290ce92cff96cf1af567514c0b5d971cf39ad4ab",
+    "title": "The evolution of cooperation in the face of conflict: Evidence from the innovation ecosystem for mobile telecom standards development",
+    "year": 2020,
+    "author_ids": [
+      "47283865",
+      "1892744",
+      "1733085"
+    ],
+    "venue": null,
+    "citation_count": 66,
+    "abstract": null
+  },
+  {
+    "paper_id": "964412cde2d4a978f6f3c8572aded0081fe92fdc",
+    "title": "Patenting Inventions or Inventing Patents? Strategic Use of Continuations at the USPTO",
+    "year": 2020,
+    "author_ids": [
+      "120879283",
+      "65899317"
+    ],
+    "venue": "Academy of Management Proceedings",
+    "citation_count": 6,
+    "abstract": "Continuations allow inventors to claim technology developed after the original filing date of their patent, leading to concerns about inadvertent infringement and hold-up. We use the link between patents and standards created by the disclosure of standard essential patents (SEPs) to analyze the relationship between standard publication - a key observable milestone in technology development - and continuations. More than half of the SEPs in our data are filed after standard publication. Consistent with opportunistic behavior by patentees, there is a large increase in continuations immediately after standard publication. Keywords in the claims of SEPs linked to the same standard also become more similar after that standard is published."
+  },
+  {
+    "paper_id": "8b4c3f3ae3e803dd2ee5fd2f86aa2944bbf56dfc",
+    "title": "Dear Enemy: The Dynamics of Conflict and Cooperation in Open Innovation Ecosystems",
+    "year": 2020,
+    "author_ids": [
+      "1733085",
+      "1892744",
+      "47283865"
+    ],
+    "venue": null,
+    "citation_count": 24,
+    "abstract": "Open innovation ecosystems rely on cooperation among participating firms, but conflict also arises between participants. Yet, there is limited understanding regarding how interorganizational conflict influences ecosystem dynamics. We discuss a theoretical framework that explains how disagreements that reflect unanticipated changes in the value of contested technologies alter public, club, and private benefits for ecosystem participants and, thereby, shape their incentives to cooperate. We argue that firms are likely to increase cooperation after conflict arises when they are more technologically interdependent and have fewer outside options but otherwise are apt to reduce cooperation. Further, we propose that ecosystem participants can shape the degree of openness and the boundaries of the ecosystem to manage the implications of disagreements. Our arguments align with observations of the dear enemy recognition of cooperation among territorial biological species, which we argue also operates in organizational ecosystems."
+  },
+  {
+    "paper_id": "4d54f87744710dde2b00bd711d97caa8c4a635f3",
+    "title": "Technology Choice and Coalition Formation in Standards Wars",
+    "year": 2020,
+    "author_ids": [
+      "2812271",
+      "145186574"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "93dff7d3ba84c2e312c8aac00ed5a65ec65fc2e3",
+    "title": "The Technical Standardization Ecosystem and Institutional Decision Making: The Case of Intellectual Property Rights Policies",
+    "year": 2020,
+    "author_ids": [
+      "3290503",
+      "145091506",
+      "69423203",
+      "113835405",
+      "2405776"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "In this paper, we analyze decision making on Intellectual Property Rights (IPR) policies in the standardization ecosystem. While a large literature has studied IPR policies of Standard Developing Organizations (SDOs), we contribute a more rigorous analysis of how these IPR policies are shaped by the interdependencies between SDOs and between SDOs and a variety of stakeholders. While SDO stakeholders often have opposing policy preferences, they are tied together by non-generic complementarities and a joint interest in the overall performance of the standardization system, which are constitutive characteristics of an ecosystem. The standardization ecosystem is characterized by widely shared institutional norms, which \u2013 in the field of IPR \u2013 result in the preponderance of what we call a \u201cBaseline Policy\u201d. SDOs\u2019 positions in the ecosystem contributes to explain where in the ecosystem institutional innovations going beyond the Baseline Policy are more likely to arise. We analyze different mechanisms of transmission of such novel practices, such as emulation and precedent."
+  },
+  {
+    "paper_id": "48f7241da49aa4d2d26e785bbb769baa73cebeba",
+    "title": "Connecting the Dots: A Bibliometric Analysis of the Link Between Standardization and Economic Growth",
+    "year": 2020,
+    "author_ids": [
+      "144212991",
+      "1398612613",
+      "2073817726"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "We analyze the attention that is allocated to the link between standardization and economic growth by systematically reviewing leading economics journals, leading economic growth researchers\u2019 articles and economic growth-related books. The following observations are made: No article has analyzed the link between standardization and economic growth in top5 economics journals between 1996 and 2018. A representative sample of the leading researchers of economic growth has allocated little attention to the link between standardization and economic growth. Typically, economic growth textbooks do not contain \u201cstandards\u201d or \u201cstandardization\u201d in their word indexes. To summarize, economic growth theory has, thus far, neglected the role of standardization."
+  },
+  {
+    "paper_id": "55f9f2cb39d872944c87cccca763c8d51e6c34e8",
+    "title": "Technological importance and breadth of standard essential patents: A comparison between practicing and non\u2010practicing entities for mobile telecommunication technologies",
+    "year": 2020,
+    "author_ids": [
+      "2108900836",
+      "47951690"
+    ],
+    "venue": "ETRI Journal",
+    "citation_count": 1,
+    "abstract": "Using 23 867 standard essential patents claimed for three different wireless telecommunication standards (GSM, WCDMA, and LTE), this research examined the difference in technological importance and breadth of patents between practicing and non\u2010practicing entities. We discovered that compared to manufacturers and service providers, organizations who do not appropriate innovation\u2010derived profits directly from product or service markets tended to have relatively low\u2010quality but broadly scoped technologies for the claimed standard essential patents. These relationships between the characteristics of inventions and the organizational types were consistently held across different generations of wireless standards as indicated by regressions run for each sample split by generation. Furthermore, the theory and policy implications of our results and arguments are presented herein."
+  },
+  {
+    "paper_id": "8c4e4be9ceadb98e36f953b1e33aedfef4ca5227",
+    "title": "Licensing Standard Essential Patents: Bargaining and Incentives to Invent",
+    "year": 2020,
+    "author_ids": [
+      "3305887"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": "The market for ideas makes new combinations of inventions to form complex innovations such smart phones and mobile broadband networks. I show that bargaining in the market for ideas provides efficient coordination with complementary inventions. Extending neoclassical economic tools to the market for ideas, I obtain a marginal rate of technical substitution for product and process innovations that indicates production and welfare trade-offs. I develop pass-through measures of technological change showing that prices rise with product innovations and decrease with process innovations. With risky R&D, downstream competition increases (decreases) incentives to invent following Arrow (Schumpeter) based on product market features."
+  },
+  {
+    "paper_id": "be88731c5eaffbe0348d7f7226ccda591fa08e6d",
+    "title": "Counting standard contributions to measure the value of patent portfolios - A tale of apples and oranges",
+    "year": 2020,
+    "author_ids": [
+      "3290503"
+    ],
+    "venue": "Telecommunications Policy",
+    "citation_count": 11,
+    "abstract": "Abstract Measuring the value of portfolios of Standard-Essential Patents (SEP) is a difficult and controversial exercise. It has recently been suggested to use counts of technical contributions to Standard Development Organizations (SDO) as an indicator of the share of the value of a standard created by an SEP holder. Analyzing a comprehensive database of contributions to the Third Generation Partnership Project (3GPP), I find that contributions are highly heterogeneous in type, outcome, and impact. The standardization process is not intended to screen contributions for the significance of the contribution they make to the standard. Against this background, contribution counts are not a suitable basis for apportioning the value of a standard between different SEP holders. The measure is prone to be easily manipulated. Furthermore, apportioning royalty payments by contribution counts would exacerbate commercial considerations and opportunistic strategies, which could hamper the technical work of SDO working groups."
+  },
+  {
+    "paper_id": "9214ffe7eb5ce2fb046a70f5ae007cac453d21f0",
+    "title": "The case of the missing royalty stacking in the world mobile wireless industry",
+    "year": 2020,
+    "author_ids": [
+      "12444160",
+      "47211601"
+    ],
+    "venue": "Industrial and Corporate Change",
+    "citation_count": 19,
+    "abstract": "\n We build an equilibrium royalty stacking model that links the number of standard-essential patent (SEP) holders with the equilibrium quantity, price and cumulative royalty. We show that all observable implications of the theory are inconsistent with the data from the world mobile wireless industry. In this industry, the number of SEP holders grew from 2 in 1994 to 130 in 2013. Royalty stacking theory predicts falling or stagnant output, rising selling prices, and rising or stagnant quality-adjusted prices. By contrast, between 1994 and 2013 worldwide yearly device sales grew 62-fold, at an average rate of 20.1% per year, and both selling and quality-adjusted prices fell fast over time. Controlling for technological generation, the real average selling price of a device fell between -11.4% and -24.8% per year. Similarly, under conservative parametrizations, royalty stacking theory predicts royalty yields, which are more than an order of magnitude larger than the observed average cumulative royalty yield charged by SEP holders in practice, which hovers between 3% and 3.5%. A theory based on Lerner and Tirole\u2019s (2015, J. Political Econ., 123(3), 547\u2013586) within-functionality competition yields observable implications consistent with the observed facts. If all the technologies protected by SEPs have meaningful substitutes that cap the royalty that any SEP holder can charge, then the cumulative royalty is independent of demand parameters in the downstream market and can be as low as the observed average cumulative royalty yield. Moreover, if the product market is competitive and technological progress is fast, then prices follow costs, quality-adjusted prices protractedly fall, and sales grow fast."
+  },
+  {
+    "paper_id": "e3ba0e1b2cb07bffdd0e0d6541eb3ac57a26cc09",
+    "title": "International Jurisdiction over Standard-Essential Patents",
+    "year": 2020,
+    "author_ids": [
+      "91830669"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "Standards often require the use of patented technologies. Holders of standard-essential patents (SEPs) typically commit to make their patents available on \"fair, reasonable and non-discriminatory\" (FRAND) terms. National competition authorities increasingly intervene against perceived FRAND violations. But which competition authority should regulate SEPs that affect more than one country? The paper uses a very simple economic framework to assess the impact of three main legal bases for allocating jurisdiction: territoriality, nationality, and cross-border e\u00a4ects. The findings are negative: neither base will implement a jointly efficient outcome, and the relative performance of the bases depends on the particular circumstances at hand."
+  },
+  {
+    "paper_id": "c1dda866a0da810b39dd3f63ee7c7af37f412c78",
+    "title": "Implementing IT Standards in Software: Challenges and Recommendations for Organisations Planning Software Development Covering IT Standards",
+    "year": 2019,
+    "author_ids": [
+      "2399883",
+      "1710951",
+      "145357836"
+    ],
+    "venue": "European Journal of Law and Technology",
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "cede298e5ae2654769da4ef6a5bcdccaad12340e",
+    "title": "Price Caps as Welfare-Enhancing Coopetition",
+    "year": 2019,
+    "author_ids": [
+      "51248783",
+      "3056693"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 30,
+    "abstract": "The paper analyzes the impact of price caps agreed upon by industry participants. Price caps, like mergers, allow firms to solve Cournot\u2019s multiple-marginalization problem, but unlike mergers, they do not stifle price competition in case of substitutes or facilitate foreclosure in case of complements. The paper first demonstrates this for nonrepeated interaction and general demand and cost functions. It then shows that allowing price caps has no impact on investment and entry in case of substitutes. Under more restrictive assumptions, the paper finally generalizes the insights to repeated price interaction, analyzing coordinated effects when goods are not necessarily substitutes."
+  },
+  {
+    "paper_id": "532f9001a05f44aff762d670265df9b5c5834e4c",
+    "title": "Do Government R&D Subsidies Cultivate Enterprises\u2019 Voluntary National/Industry Standard-Setting for Sustainable Development?",
+    "year": 2019,
+    "author_ids": [
+      "2155113207",
+      "2113795489",
+      "2113743564"
+    ],
+    "venue": "Sustainability",
+    "citation_count": 4,
+    "abstract": "This study investigates the effects of government subsidies for R&D on resource and environmental enterprises\u2019 voluntary national/industry standard- (N/IS-) setting, which is critical to sustainable development. Based on innovation motivation and capability theory, we propose a research framework and hypothesis, using a panel dataset on 11,556 Chinese resource and environmental enterprises from 2011 to 2013 to test our hypotheses. We find that government subsidies for R&D have a U-shaped relationship with N/IS-setting for sustainable development. Moreover, we also find that state ownership, position in industry, and patent properties are contingency factors suggesting that non-state-owned enterprises, industry-following enterprises, or enterprises with more patents come up with N/IS-settings of significantly greater value than state-owned enterprises, leading enterprises, or enterprises with fewer patents. Endogeneity issues are addressed by utilizing two-stage estimations with instrumental variables (IVs)."
+  },
+  {
+    "paper_id": "60cbaa32ef81115d7a2d77c7ce340b17a064fd7c",
+    "title": "Termination of Copyright Transfers and Technical Standards",
+    "year": 2019,
+    "author_ids": [
+      "145091506",
+      "123237926"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a90035bf5321a86686f485ad4274156091c7ecbe",
+    "title": "OSS and SDO: Symbiotic Functions in the Innovation Equation",
+    "year": 2019,
+    "author_ids": [
+      "15649304"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "53c686819892eaa9d00fca0b6b898d387decd8d2",
+    "title": "Integrating Technical Standards into Federal Regulations: Incorporation by Reference",
+    "year": 2019,
+    "author_ids": [
+      "74006103"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d65aaffc08650aad5aaef616c63989c2d7d3749d",
+    "title": "Index",
+    "year": 2019,
+    "author_ids": [],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "39465ce1c6305ae8463d52c97288cce4a4dc6000",
+    "title": "Preface",
+    "year": 2019,
+    "author_ids": [],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "00d3fc88d444d5903d1496c84123343334461e55",
+    "title": "Open Standards",
+    "year": 2019,
+    "author_ids": [
+      "2310753"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "655dc868d0030a06505b2f86397574e439a0ce9f",
+    "title": "Introduction",
+    "year": 2019,
+    "author_ids": [
+      "2055076093"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ef4585f0e8315d899b7ce241d70be47a0f5f08bb",
+    "title": "References",
+    "year": 2019,
+    "author_ids": [],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f9e772b1b2f25b261a49b596191032c5873b8b6a",
+    "title": "Standardization, Open Source and Innovation: Sketching the Effect of IPR Policies",
+    "year": 2019,
+    "author_ids": [
+      "69423203"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "21dac658e0cf5d0686e71240c899157fb443fb65",
+    "title": "The Cambridge Handbook of Technical Standardization Law",
+    "year": 2019,
+    "author_ids": [],
+    "venue": null,
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "93974bfc2cca75007924297e00ddd12148afdda0",
+    "title": "Decentralising the patent system",
+    "year": 2019,
+    "author_ids": [
+      "1394503162",
+      "8066402"
+    ],
+    "venue": "Government Information Quarterly",
+    "citation_count": 16,
+    "abstract": "This paper proposes a substantive re-think of the modern patent system. The patent system has come under intensive criticism in the past, and many scholars have proposed ways to improve it. Ideas for improvement include, e.g., prior-art bounties, contracting out examination and dynamic fee setting. However, many of these ideas have gone unheeded due to the cost of administering them and the rigidity of the patent system. We explore how distributed ledger technologies enable these major changes."
+  },
+  {
+    "paper_id": "f70210e80b1eb032841cf013146c389ee3cfb542",
+    "title": "Technical Standards in Health and Safety Regulation: Risk Regimes, the New Administrative Law, and Food Safety Governance",
+    "year": 2019,
+    "author_ids": [
+      "9808204"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 6,
+    "abstract": "A growing appreciation for the interaction and interdependence of private industry and public authority in developing regulatory standards, monitoring compliance, and disciplining those who fail to conform has led scholars to question the descriptive accuracy of the traditional distinction within regulatory theory between private ordering and public regulation. In its place, scholars have developed the concept of risk regimes to denote infrastructures of private and public entities engaged in regulatory governance. This conceptual shift has laid the foundation for a new understanding of administrative law, in which the rules and procedures that shape administrative governance are no longer limited to government rules that restrain government agencies. This broader conception of administrative law encompasses a wide array of norms \u2014 including constitutional doctrines, public laws, and private standards \u2014 that govern the regulatory activities of private entities. This chapter presents a case study of food safety regulation to illustrate the concept of risk regimes and the new administrative law that governs them."
+  },
+  {
+    "paper_id": "89583a26e5a43e7dbc797e4f4e748529a3c23f94",
+    "title": "Government Use of Standards in the United States and Abroad",
+    "year": 2019,
+    "author_ids": [
+      "2064185196"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": "Worldwide, the vast majority of standards are developed by private or nongovernmental standards development organizations. These standards are used by many different people and entities across all sectors of industry, ensuring smooth functioning of the economy, facilitating technological advancement, and protecting public health and safety. Standards are also frequently used by local, state, and national governments, usually in accord with established legal and policy frameworks. These frameworks frequently contemplate some degree of governmental participation in the standards development process and also enable government agencies and officials to use the resulting standards to support both procurement and regulatory activities. In procurement, the standards allow governments to describe with specificity the materials and products they need to purchase."
+  },
+  {
+    "paper_id": "aa1cd1ba96dfa9d083033b5587f132d6764a296c",
+    "title": "Stable sharing rules and participation in pools of essential patents",
+    "year": 2019,
+    "author_ids": [
+      "15707872"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 8,
+    "abstract": "Abstract For pools of essential patents I study whether a pool's sharing rule is stable against arbitrage, so that the pool's members have no incentive to trade patents. I show that the only stable rule is the numeric proportional rule, which gives each member a share of the pool's profit equal to its share of the pool's patents. I study how the stable rule affects firms' incentives to participate, and I show that firms with few patents tend to remain outside the pool. I look at the trade off between stability and participation, and I show that as trade dilutes their shares, members prefer the stable rule. I consider individual licenses, stand-alone patents, integration, and R&D. The results suggest that pools use the stable rule to maximize their founding members' worth. They help us understand why the numeric proportional rule is so common among pools of essential patents."
+  },
+  {
+    "paper_id": "0c3d834617f5f6a87d8007399f421f3b1ddb412e",
+    "title": "International Trade Law and Technical Standardization",
+    "year": 2019,
+    "author_ids": [
+      "70071920"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 1,
+    "abstract": "Increased international standardization by the private sector results from an ever-increasing demand of consumers for better and safer products, technological advances, the expansion of global trade and the ever-increasing focus on social and sustainability issues. International standards affect our everyday life in multiple ways. Standards bring about and solidify technological evolution, innovation and diffusion of knowledge. In that respect, they have an important impact on consumer wellbeing. They play a decisive role as to whether the business and market environment will be conducive to increased innovation and trade. They form an important condition for doing business and affect access to markets, determining the profitability, growth and ultimately the survival of entrepreneurs and economic operators alike. Hence, standards have a crucial trade facilitation function ."
+  },
+  {
+    "paper_id": "16efe88fec2b59f1c84f71474adc785a075b60ff",
+    "title": "Public Law, European Constitutionalism and Copyright in Standards",
+    "year": 2019,
+    "author_ids": [
+      "38188026"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 1,
+    "abstract": "Should technical standards decided and published by official Standards Development Organizations (SDOs) and referred to in Regulations, Directives or, generally, in EU law be regarded as \u201claw\u201d that must be accessible to the public, or could these standards still be private goods, licensed for royalties and, indeed, only accessible by a few? Access to technical standards may be the next hot topic for the European Standard Setting Organisations (SSOs) and the EU Commission. Some SSOs, as a way to finance their activities to develop technical standards, may charge firms or third persons to access and make use of the technical standards produced."
+  },
+  {
+    "paper_id": "02efeabc225f5c0b6fc382d9dad794e8e744b89b",
+    "title": "Payment System Self-Regulation through Fee Caps",
+    "year": 2019,
+    "author_ids": [
+      "2412285007"
+    ],
+    "venue": "Review of Network Economics",
+    "citation_count": 1,
+    "abstract": "Abstract This paper considers the organization of a single (domestic) payment system. When card issuers that are members of a payment system set their fees individually, this gives rise to a free-riding problem, as in providing access to different customers, card issuers are complements from the perspective of each merchant. When payment systems can threaten to exclude, in particular, card issuers with a smaller customer base that do not adhere to a common cap on fees, this allows to restore the full internalization outcome, leading to lower fees but higher profits and higher welfare. When payment systems cannot threaten to exclude card issuers, the full internalization outcome arises only when card issuers are sufficiently symmetric."
+  },
+  {
+    "paper_id": "c30fa0ab16039c646a027ffe8278ff6cb61419a8",
+    "title": "BEYOND THE STARS",
+    "year": 2019,
+    "author_ids": [
+      "4416276"
+    ],
+    "venue": "Journal of economic surveys (Print)",
+    "citation_count": 9,
+    "abstract": "Economists lack a systematic method to assess the economic importance of effects in regressions. In this article, I use experimental evidence to show that for a large majority of economists, the economic importance of an explanatory variable refers to its contribution to deviations in the level of the dependent variable. Existing statistics, such as standardized beta coefficients and the partial or semi-partial r2 and r, are only imperfect measures of the economic importance of explanatory variables: these statistics do not match with economists' common understanding of economic importance and are difficult to interpret. I therefore develop a new method, which consists in rescaling standardized beta coefficients such as to obtain the percentage contribution of each explanatory variable to deviations in the dependent variable. As an illustration, the method is applied to the study of the causes of long-run economic development."
+  },
+  {
+    "paper_id": "6d5390fa60216747a5770f4d32ddc8e669339f67",
+    "title": "Approximating the Standard Essentiality of Patents - A Semantics-Based Analysis",
+    "year": 2019,
+    "author_ids": [
+      "116023146",
+      "82940472",
+      "1697838"
+    ],
+    "venue": "Academy of Management Proceedings",
+    "citation_count": 3,
+    "abstract": "Standard-essential patents (SEPs) have become a key element of technical coordination in standard-setting organizations. Yet, in many cases, it remains unclear whether a declared SEP is truly standard-essential. To date, there is no automated procedure that allows for a scalable and objective assessment of SEP status. This paper introduces a semantics-based method for approximating the standard essentiality of patents. We provide details on the procedure that generates the measure of standard essentiality and present the results of several validation exercises. In a first empirical application we illustrate the measure\u2019s usefulness in estimating the share of true SEPs in firm patent portfolios for several mobile telecommunication standards. We find firm-level differences that are statistically significant and economically substantial. Furthermore, we observe a general decline in the average share of true SEPs between successive standard generations."
+  },
+  {
+    "paper_id": "fa2385eacee999959d8c5ba07d5485fa4ebf20ac",
+    "title": "Joining Standards Organizations: The Role of R&D Expenditures, Patents, and Product-Market Position",
+    "year": 2019,
+    "author_ids": [
+      "3290503",
+      "2109547472",
+      "16680306"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "266e14089730cd6fbdaa799989af812089e57d16",
+    "title": "Price Commitments in Standard Setting Under Asymmetric Information",
+    "year": 2019,
+    "author_ids": [
+      "50431311",
+      "21672301",
+      "35721164"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 5,
+    "abstract": "Standards may create market power for the holders of standard essential patents (SEPs). To address these concerns, the literature advocates price commitments, whereby SEP holders commit to the maximum royalty they would charge were their technology included in the standard. We consider a setting in which a technology implementer holds private information about profitability. In this setting, price commitments increase efficiency not only by curbing SEP holders' market power, but also by alleviating distortions in the design of the royalty scheme. We derive conditions under which price commitments can be implemented using a simple royalty cap as used in practice."
+  },
+  {
+    "paper_id": "61d7fc6463eed462a9e97be8de8e37c875d2039f",
+    "title": "Patent pools, vertical integration, and downstream competition",
+    "year": 2019,
+    "author_ids": [
+      "2140776169",
+      "35721164"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 24,
+    "abstract": "Patent pools are commonly used to license technologies to manufacturers. Whereas previous studies focused on manufacturers active in independent markets, we analyze pools licensing to competing manufacturers, allowing for multiple licensors and nonlinear tariffs. We find that the impact of pools on welfare depends on the industry structure: whereas they are procompetitive when no manufacturer is integrated with a licensor, the presence of vertically integrated manufacturers triggers a novel trade\u2010off between horizontal and vertical price coordination. Specifically, pools are anticompetitive if the share of integrated firms is large, procompetitive otherwise. We then formulate information\u2010free policies to screen anticompetitive pools."
+  },
+  {
+    "paper_id": "5517f67562c8b635f156469b8b616e5ecd973cc5",
+    "title": "Licensing Essential Patents: The Non\u2010Discriminatory Commitment and Hold\u2010Up",
+    "year": 2019,
+    "author_ids": [
+      "2110860417",
+      "48597603"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 9,
+    "abstract": "Licensors of patents essential to a standard are often required to license on reasonable and non\u2010discriminatory (RAND) terms. Using a model with owners of essential patents and licensees who invest into standard\u2010conforming technologies, this paper demonstrates that the non\u2010discriminatory commitment alleviates the hold\u2010up problem. Moreover, it improves consumer and social welfare, and promotes upstream innovation as licensing revenue is increased. In an extended model with each licensor independently choosing whether to make the commitment, all licensors voluntarily commit in the unique equilibrium."
+  },
+  {
+    "paper_id": "b32aaf5d741eace62d74c0cc6d975adf98937cef",
+    "title": "A BIBLIOMETRIC ANALYSIS OF THE TOP FIVE ECONOMICS JOURNALS DURING 2012\u20132016",
+    "year": 2019,
+    "author_ids": [
+      "120713221"
+    ],
+    "venue": null,
+    "citation_count": 49,
+    "abstract": null
+  },
+  {
+    "paper_id": "0968afb51c3b51602fe9006ffaba113e7d69da6a",
+    "title": "Repeated interaction in standard setting",
+    "year": 2018,
+    "author_ids": [
+      "113835405",
+      "21672301"
+    ],
+    "venue": "Journal of Economics and Management Strategy",
+    "citation_count": 19,
+    "abstract": "As part of the standard-setting process, certain patents become essential. This may allow the owners of these standard-essential patents to hold up implementers of the standard, who can no longer turn to substitute technologies. However, many real-world standards evolve over time, with several generations of standards succeeding each other. Thus, standard setting is a repeated game in which participants can condition future behavior on whether or not hold-up has occurred in the past. In the presence of complementarity between the different patents included in the standard, technology contributors have an incentive to discipline each other and keep royalties low, which can be achieved by threatening to exclude contributors who have engaged in hold-up from future rounds of the process. We show that repeated standard setting can sustain FRAND royalties provided the probability that another round of standard setting will occur is sufficiently high. We also examine how the decision-making rules of standard-setting organizations affect the sustainability of FRAND royalties."
+  },
+  {
+    "paper_id": "37beb437bbd427552b05fd8076d33a18ea38f53a",
+    "title": "Tort Liability for Standards Development in the United States and European Union",
+    "year": 2018,
+    "author_ids": [
+      "49751110"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 1,
+    "abstract": "Standards development is celebrated for providing a wide range of important benefits to individuals, firms, and society at large. Sometimes, however, it may harm the interests of specific individuals and firms. Tort law may offer remedies to those who suffered a loss because they relied on incomplete, outdated or otherwise inadequate standards, or used a product that was manufactured in conformity with such bad standards. This chapter discusses different theories of tort law that govern civil liability for private standards development in the United States and the European Union. It analyzes which factors courts in those jurisdictions consider significant when assessing civil liability for harm caused by negligent standards development. The chapter concludes that the liability exposure of standards-development organizations is principally determined by (i) the legal or de facto control such organizations have to direct compliance with their standards; (ii) the intended purposes of developing standards; (iii) the public representations organizations make about their expertise in standards development; (iv) whether there is a commercial benefit for the organization in developing standards and related activities; and (v) the observance of accepted principles of good governance in the adoption and revision of standards."
+  },
+  {
+    "paper_id": "52dcac18c745ba8e3a3472ed70b4cca0dd488d7f",
+    "title": "Publishing, patenting, and standardization: Motives and barriers of scientists",
+    "year": 2018,
+    "author_ids": [
+      "2847364",
+      "89271854",
+      "2077196268"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 89,
+    "abstract": "In this paper, we analyze the motives and barriers of researchers to engage in standardization in comparison with publishing and patenting. We conduct a survey on 129 researchers at the Federal Institute for Materials Research and Testing, one of Germany\u2019s largest federal research institutes. The resultant dataset enables us to study not only the researchers\u2019 motives and barriers but also the effect of those motives and barriers on the extent to which the respective activities are undertaken. We find that publishing constitutes a baseline activity. By contrast, patenting is driven by commercialization motives, and standardization is mainly fostered by intrinsic motivation. With respect to the barriers, we find that they are mostly inherent to the activity itself or the system in which it is performed. Finally, we discuss several options to develop a more integrative incentive system to exploit the possible synergies between standardization and publishing and patenting."
+  },
+  {
+    "paper_id": "8ff9523d6e9e5e39f3778b432567c048cac1afb1",
+    "title": "THE ROLE OF PATENTS IN INFORMATION AND COMMUNICATION TECHNOLOGIES: A SURVEY OF THE LITERATURE",
+    "year": 2018,
+    "author_ids": [
+      "3252357",
+      "46536943",
+      "2405776"
+    ],
+    "venue": "Journal of economic surveys (Print)",
+    "citation_count": 28,
+    "abstract": "During the last decades, the number of ICT related patents has increased considerably. In association with a great fragmentation in IP rights, the increasing number of patents has generated a series of potentially problematic consequences. Patent thickets, royalty stacking, the emergence of patent assertion entities, increased patent litigation \u2013 in particular around standard essential patents \u2013 and the difficulties in the definition of fair, reasonable and non-discriminatory (FRAND) licensing terms are among the most debated issues in the literature that we review in this paper. We devote a specific section of our survey to patents involving software products, where the above problems are amplified by the high level of abstraction of computer algorithms. In our analysis we mix theoretical and empirical arguments with a more policy-oriented reasoning. This allows us to better position the different issues in the relevant political and economic context."
+  },
+  {
+    "paper_id": "062bd8ef833acf3488e187a02343f0b92e6d4a1e",
+    "title": "Sustainable digitalisation through different dimensions of openness: how can lock-in, interoperability, and long-term maintenance of IT systems be addressed?",
+    "year": 2018,
+    "author_ids": [
+      "2399883",
+      "1710951"
+    ],
+    "venue": "International Symposium on Open Collaboration",
+    "citation_count": 9,
+    "abstract": "Lock-in, interoperability, and long-term maintenance are three fundamental challenges that need to be addressed by any organisation involved in development, use and procurement of IT systems. This paper clarifies fundamental concepts and key dimensions of openness and provides examples of work-practices and recommendations for achieving sustainable digitalisation through addressing the fundamental challenges. Specifically, there are three main contributions. First, the concepts open standard, open source software, and open content are clarified and elaborated. Second, the associated three dimensions standard, software, and content are elaborated through examples of how different combinations along the dimensions can enable and inhibit sustainable digitalisation when IT-systems are developed and procured. Third, work-practices used by public sector organisations in specific projects for development and procurement of IT-systems are elaborated with the view to discuss how the three fundamental challenges are being addressed and provide guidance for how organisations can achieve a sustainable digitalisation."
+  },
+  {
+    "paper_id": "1432765fd189a6b8b98abafeaf516ec0f5bdb124",
+    "title": "Mapping standards to patents using declarations of standard-essential patents",
+    "year": 2018,
+    "author_ids": [
+      "3290503",
+      "34719612"
+    ],
+    "venue": "Journal of Economics and Management Strategy",
+    "citation_count": 66,
+    "abstract": "This paper describes a new database of declared standard\u2010essential patents (SEPs), discusses methods for matching declared SEPs to specific standard documents, and presents empirical evidence on technology standards subject to declared SEPs. Although there is a growing body of empirical research using data on declared SEPs, this research has so far focused on the declared patents, and neglected the implications of SEP declarations for specific standards. Furthermore, we present a new methodology for matching standards with technology classes, using the classification of declared SEPs. This method allows identifying other standard\u2010related patents, and provides information on technological relationships between standards and standard\u2010related patenting. The paper discusses opportunities for new empirical research using databases of declared SEPs and data on patenting in standard\u2010related technology classes."
+  },
+  {
+    "paper_id": "a4020ba47a395a89dd49416c22fb3e698e5bbbd0",
+    "title": "Ex-ante Agreements and FRAND Commitments in a Repeated Game of Standard-Setting Organizations",
+    "year": 2018,
+    "author_ids": [
+      "2812271"
+    ],
+    "venue": "Review of Industrial Organization",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "01727ed43ac0551684e5e209920ea13f45314e4c",
+    "title": "Ex-ante Agreements and FRAND Commitments in a Repeated Game of Standard-Setting Organizations",
+    "year": 2018,
+    "author_ids": [
+      "2812271"
+    ],
+    "venue": "Review of Industrial Organization",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "16c20c79e903db6516920bdfa7e1184dc5ed99f1",
+    "title": "Standardization, open source, and innovation: Sketching the effect of IPR policies",
+    "year": 2018,
+    "author_ids": [
+      "2411248782",
+      "2411248782"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "9c606195294c2fa56906d5b76383342a5bd158e2",
+    "title": "The Certification Paradox",
+    "year": 2018,
+    "author_ids": [
+      "2411262051"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": "It is commonly observed that certification intermediaries mitigate informational asymmetries by \u201clending\u201d reputational capital to support transacting parties\u2019 quality commitments. However, this proposition is challenged by cases in which well-established intermediaries have failed to detect fraud, misrepresentation and other misbehavior. The \u201ccertification paradox\u201d provides a more nuanced account that anticipates both the general success, and periodic failure, of certification intermediaries. Transacting parties minimize search and evaluation costs by using a small number of certification intermediaries with large stocks of reputational capital. Incumbent certifiers are substantially protected by entrants\u2019 high costs of accumulating sufficient reputational capital and users\u2019 high costs of switching to new certifiers. Incumbent certifiers have incentives to preserve reputational capital by generally maintaining investments in informational accuracy but, given the limited threats of competitive entry and user defection, to periodically save on costs by reducing certification effort. At least historically, certifiers have sought to commit against opportunistic reductions in informational accuracy by adopting non-profit, partnership and other \u201cconstrained\u201d organizational forms that cap the gains from shirking on certification effort. This organizational prophylactic against certification failure may outperform direct regulatory interventions, which are liable to overestimate the demand for informational accuracy or erode the market rents that support certifiers\u2019 incentives generally to maintain informational accuracy."
+  },
+  {
+    "paper_id": "64d07cea3ff0d3726f0f60d126299799ee0b43d6",
+    "title": "Trademarks, Certification Marks and Technical Standards",
+    "year": 2018,
+    "author_ids": [
+      "2411856174"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 0,
+    "abstract": "Complex interoperability protocols such as Wi-Fi, Bluetooth and DVD have become known throughout the developed world by simple and memorable names, many of which have been protected as trademarks, service marks and certification marks. This chapter describes different approaches that have been taken with respect to the naming and legal protection of technical standards, ranging from those that are wholly unregulated to those that are administered under strict certification and compliance regimes. It also explores the fragmented case law surrounding the nominative fair use doctrine in the context of technical standards and asks what protective framework may best promote the goals of broad product interoperability."
+  },
+  {
+    "paper_id": "e8e89f557c52076b37b82eadfb18d11ae1a8781b",
+    "title": "Effects of standardization on the evolution of information and communications technology",
+    "year": 2018,
+    "author_ids": [
+      "2148958759",
+      "2210599"
+    ],
+    "venue": "Technological forecasting & social change",
+    "citation_count": 17,
+    "abstract": "Abstract Many studies have suggested that standardization inhibits technological change via lock-in effects. However, the negative side of standardization has been overemphasized because of insufficient empirical evidence. On the basis of the standard and triadic patents registered during 1977\u20132010, this study examines the associations between standardization and technological evolution in the information and communications technology (ICT) industry. We apply the annual International Patent Classification co-occurrence network to Telecommunications, Computers & Machinery, Consumer electronics, and Other ICTs to measure technological evolution with respect to diversity, openness, and concentration. Consequently, we regressed each aspect of technological evolution against the polynomial distributed lag number of the registered ICT standards per annum. The findings suggest different degrees of associations between standardization and technological diversity, openness, and concentration across each area. We observed that technological diversity increases with technology standardization in telecommunication and consumer electronics. In addition, there is a long time-lag effect on technological diversity in Computer & Machinery. Conversely, negative associations with diversity were observed in Other ICT. No significant associations were found between technology standardization and openness or concentration. These findings support the positive side of technology standards, which can offset the claimed lock-in effects."
+  },
+  {
+    "paper_id": "e82a7a58fb18abe71cb75016d80d87c8093e7675",
+    "title": "A cost-based approach for calculating royalties for standard-essential patents (SEPs)",
+    "year": 2018,
+    "author_ids": [
+      "40263819",
+      "113428046"
+    ],
+    "venue": "Journal of World Intellectual Property",
+    "citation_count": 8,
+    "abstract": null
+  },
+  {
+    "paper_id": "cc8b60f26d3719fa0adeabad583a1a42d89de0cc",
+    "title": "Standard Setting Organisations and Standard Essential Patents: Voting and Markets",
+    "year": 2018,
+    "author_ids": [
+      "3305887"
+    ],
+    "venue": "Economic Journal",
+    "citation_count": 33,
+    "abstract": "The key finding is that Standard Setting Organizations (SSOs) choose efficient technology standards because voting power and market power have counterbalancing effects. Agents on the long side of the market have less added value in the marketplace but more voting power in cooperative organizations and conversely for the short side of the market. In a two-stage model, industry members choose technology standards by voting and then compete in the marketplace. Even when there are disagreements among vertical industry groups, SSO members vote for the efficient standard unanimously. When there are Standard Essential Patents (SEPs), technology adopters also vote for the efficient standard unanimously. Inventors that own SEPs will support the efficient standard under some voting rules. When there are disagreements within industry groups, SSO members choose efficient standards by majority rule, with or without SEPs. When the efficient standard has SEPs and the inefficient standard does not, SSO members choose the efficient standard with a drastic innovation or, when the innovation is non-drastic, with particular voting rules. The results help explain the choice of technology standards by SSOs, the design of SSO voting rules, and the selection of SSO rules governing intellectual property (IP)."
+  },
+  {
+    "paper_id": "df9b11b9d5a5178d8692e6b0fe5d4269ee12a1fa",
+    "title": "Strategic Declaration of Standard Essential Patents",
+    "year": 2018,
+    "author_ids": [
+      "119977764",
+      "52546176"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "dd11f71788dc16a3af569fa12092f10132c1c282",
+    "title": "Global Standard-Setting 2.0: How the WTO Spotlights ISO and Impacts the Transnational Standard-Setting Process",
+    "year": 2018,
+    "author_ids": [
+      "70071920"
+    ],
+    "venue": null,
+    "citation_count": 30,
+    "abstract": null
+  },
+  {
+    "paper_id": "8b6f813a1906a1b280d892a78573fba2fe5818a1",
+    "title": "Pricing of Complements in the U.S. Freight Railroads: Cournot Versus Coase",
+    "year": 2018,
+    "author_ids": [
+      "145454111",
+      "2334604414",
+      "13722000"
+    ],
+    "venue": null,
+    "citation_count": 7,
+    "abstract": null
+  },
+  {
+    "paper_id": "dcc984c1b1305848abe7fad8e43bd8caa7d9bd74",
+    "title": "Technology Standards and Standard Setting Organizations: Introduction to the Searle Center Database",
+    "year": 2018,
+    "author_ids": [
+      "3290503",
+      "3305887"
+    ],
+    "venue": "Journal of Economics and Management Strategy",
+    "citation_count": 100,
+    "abstract": "This paper describes the Searle Center Database on Technology Standards and Standard Setting Organizations (SSOs). This database combines comprehensive information on technology standards, SSO membership, and SSO characteristics in a format designed for economic research. In particular, the database includes data on quantifiable characteristics of 797,711 standard documents issued by 615 SSOs, institutional membership in a sample of 191 Standards Organizations, and the rules of 36 SSOs on standard adoption procedures, standard\u2010essential patents (SEPs), participation, and openness. Using the Internet Archives, we track both institutional membership and the SSO rules and procedures over time since the inception of the Archives in 1996. We identify 67,417 entities participating in at least one Standards Organization. The paper describes how to combine these data with other new databases on standard\u2010related patents and standardization processes at 3GPP; and sketches avenues for empirical research."
+  },
+  {
+    "paper_id": "bb7a902cdedbc5fb97b039372d0c7541c696e539",
+    "title": "Unpacking 3GPP standards",
+    "year": 2018,
+    "author_ids": [
+      "3290503",
+      "47211601"
+    ],
+    "venue": "Journal of Economics and Management Strategy",
+    "citation_count": 51,
+    "abstract": "This paper describes a new database with detailed information on standardization procedures at the 3rd Generation Partnership Project (3GPP). 3GPP is the most relevant standard\u2010setting organization (SSO) in the field of mobile telecommunications. Empirical research on technology standards and SSOs has so far been limited by the scarcity of available data. The present database contains information on membership, meeting attendance, chairmanship, work items, contributions, and votes at 3GPP. These data shed light on the technical complexity of standard development and illustrate the importance of voluntary contributions from SSO members. The data allow addressing important policy questions regarding the regulation of voluntary SSOs and the role of standard\u2010essential patents in standardization."
+  },
+  {
+    "paper_id": "a3d7bc2dd597c4b7bb3da40066f180b39586b806",
+    "title": "Over-Declaration of Standard Essential Patents and Determinants of Essentiality",
+    "year": 2017,
+    "author_ids": [
+      "122974319",
+      "115864018",
+      "2412411163",
+      "2412411163",
+      "14471519",
+      "14471519"
+    ],
+    "venue": null,
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "8caeb7b236aa02787df1c4bdf3098f680c2bb64f",
+    "title": "Discrimination against foreigners in the patent system : evidence from standard-essential patents",
+    "year": 2017,
+    "author_ids": [
+      "1394503162",
+      "69034877",
+      "38160150"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "ff07d9f4a6ee355dd48b1e0103317c6e5d50d75c",
+    "title": "Bargaining power and firm profits in asymmetric duopoly: an inverted-U relationship",
+    "year": 2017,
+    "author_ids": [
+      "88280293"
+    ],
+    "venue": "JOURNAL OF ECONOMICS",
+    "citation_count": 11,
+    "abstract": null
+  },
+  {
+    "paper_id": "d5c5ce9cfc711469d49f03727e6a5755a6d1dc97",
+    "title": "Disclosure rules and declared essential patents",
+    "year": 2017,
+    "author_ids": [
+      "38160150",
+      "2142201",
+      "3311184",
+      "120879283",
+      "65899317"
+    ],
+    "venue": "Research Policy",
+    "citation_count": 37,
+    "abstract": "Many standard setting organizations (SSOs) require participants to disclose patents that might be infringed by implementing a proposed standard, and commit to license their \u201cessential\u201d patents on terms that are at least fair, reasonable and non-discriminatory (FRAND). Data from these SSO intellectual property disclosures have been used in academic studies to provide a window into the standard setting process, and in legal proceedings to assess the relative contribution of different parties to a standard. We develop a simple model of the disclosure process to illustrate the link between SSO rules and patent-holder incentives, and examine the model's core predictions using a novel dataset constructed from the disclosure archives of thirteen major SSOs. The central message of the paper is that subtle differences in the rules used by different SSOs can influence which patents are disclosed, the terms of licensing commitments, and ultimately long-run citation and litigation rates for the underlying patents."
+  },
+  {
+    "paper_id": "0626f37685ebdf420f64a7156b44ffd6a9ba9c92",
+    "title": "Discrimination in the Patent System: Evidence from Standard-Essential Patents",
+    "year": 2017,
+    "author_ids": [
+      "1394503162",
+      "69034877",
+      "38160150"
+    ],
+    "venue": "Journal law and economy",
+    "citation_count": 2,
+    "abstract": "This paper tests for discrimination against foreigners in the patent system. It focuses on patent applications filed in China for which the owner publicly discloses that the patents are or may become essential to the implementation of a technical standard. Such standard-essential patents are of particularly high importance to the owner. We use the timing of disclosure to a leading standard-setting organization as a source of econometric identification and carry out extensive tests to ensure the exogeneity of timing. We find that foreign patent applications are significantly less likely to be granted by the Chinese patent office if their owners disclose them to be essential to a standard before the substantive examination starts. Furthermore, the patent office spends, on average, 1 more year on the examination of such patents, and the scope of the patents is more extensively reduced. Our findings contribute to the emerging discussion on technology protectionism."
+  },
+  {
+    "paper_id": "ee740873f81dbaead7bba360bfa445739099c139",
+    "title": "Essential patent portfolios to monitor technology standardization strategies: Case of LTE-A technologies",
+    "year": 2017,
+    "author_ids": [
+      "144493158",
+      "2552053",
+      "89799486",
+      "38648012"
+    ],
+    "venue": null,
+    "citation_count": 12,
+    "abstract": null
+  },
+  {
+    "paper_id": "fb0a533fee4b1ce40ed2de6f0614fec0374cdd21",
+    "title": "Anti-monopoly Regulation on the Standard Essential Patent-On Huawei v. the US IDC",
+    "year": 2017,
+    "author_ids": [
+      "2405929"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "With the arrival of the Sci-Tech era and information era, the standards-essential patent becomes increasingly important and the educational circle is more and more concerned about the study on the anti-monopoly law of standard essential patent. Since many lawsuits on the standards-essential patent occur in recent years, the educational circle of China begins to think seriously over the new legal issue. From the perspective of the anti-monopoly law, this thesis gives an introduction to the concept of standards-essential patent and takes the specific case of Huawei suing the US IDC as an example to analyze how to make use of the anti-monopoly law in China to regulate the standard essential patent ."
+  },
+  {
+    "paper_id": "309eecf45cddc94e42c1c405940377891ba1c6fb",
+    "title": "Taking technological infrastructure seriously",
+    "year": 2017,
+    "author_ids": [
+      "90678346"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "eedde101753615f6a509b5693f0224ed0bf0ac21",
+    "title": "Royalty stacking in the U.S. freight railroads: Cournot vs. Coase",
+    "year": 2017,
+    "author_ids": [
+      "145454111",
+      "145661487",
+      "13722000"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "a68ae3be6b5cb361cd22e75f6145a2147145ebed",
+    "title": "Royalty Stacking and Standard Essential Patents: Theory and Evidence from the World Mobile Wireless Industry",
+    "year": 2017,
+    "author_ids": [
+      "12444160",
+      "47211601"
+    ],
+    "venue": null,
+    "citation_count": 16,
+    "abstract": null
+  },
+  {
+    "paper_id": "b0681776bb75279cd56c902c5c6fa1bf382a6c2c",
+    "title": "The Unregulated Certification Mark(et)",
+    "year": 2017,
+    "author_ids": [
+      "144436858"
+    ],
+    "venue": "The Cambridge Handbook of Technical Standardization Law",
+    "citation_count": 22,
+    "abstract": "Certification mark law \u2014 a branch of trademark law \u2014 itself enables consequences that undermine the law\u2019s own goals through inadequate regulation or oversight. Because the law allows certification standards to be kept vague, high-level, and underdeveloped, a certifier can choose to exclude certain businesses inconsistently or arbitrarily, even when those businesses\u2019 goods or services would seem to qualify for the certification mark (particularly to consumers). Moreover, even when a certification standard is clear and complete, certifiers can wield their marks anticompetitively. They can do so through redefinition \u2014 something certification mark law currently allows without oversight \u2014 to ensure that certain businesses\u2019 goods or services will not qualify for the mark. Both of these forms of certification mark manipulation undermine the goals of certification marks: to protect consumers by providing them with succinct information on goods\u2019 or services\u2019 characteristics and to promote competition by ensuring that any businesses\u2019 goods or services sharing certain characteristics salient to consumers qualify for a mark certifying those characteristics. The law should be restructured to curb this conduct. I advocate for robust procedural regulation of certification standardmaking and decisionmaking that would detect and punish poor certification behavior. Moreover, for anticompetitive behavior that nonetheless slips through the regulatory cracks, I suggest that attentive antitrust scrutiny be arrayed to catch it."
+  },
+  {
+    "paper_id": "b08b689123cecc301d2a9166d5f3db590399cd5b",
+    "title": "CIFRA: Challenging the ICT Patent Framework for Responsible Innovation. D2.3: Report on the Ethical Implications",
+    "year": 2017,
+    "author_ids": [
+      "31622979",
+      "2847364",
+      "121505912",
+      "1516507525",
+      "104163522",
+      "122762588"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1f2f8193e9f128590457a815ddacf56fe8107443",
+    "title": "Standard-setting activities and new institutional economics",
+    "year": 2017,
+    "author_ids": [
+      "4445997"
+    ],
+    "venue": "Journal of Institutional Economics",
+    "citation_count": 18,
+    "abstract": null
+  },
+  {
+    "paper_id": "8bc56554f550daafe19eaf688f1108042379ddb0",
+    "title": "Licensing Terms of Standard Essential Patents: A Comprehensive Analysis of Cases",
+    "year": 2017,
+    "author_ids": [
+      "118576376",
+      "3290503"
+    ],
+    "venue": null,
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "a510e0e209e7a2fb1410634027bebbd51b42a126",
+    "title": "Research in economics and industrial organization",
+    "year": 2016,
+    "author_ids": [
+      "104306805"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0d8b06a26175d8d91469f0c8e6584a3ca63611cf",
+    "title": "Patent Disclosures and Standard-Setting",
+    "year": 2016,
+    "author_ids": [
+      "2262346590",
+      "2262346590",
+      "98449831",
+      "2270897830",
+      "2270897830"
+    ],
+    "venue": null,
+    "citation_count": 14,
+    "abstract": "A key role of standard setting organizations (SSOs) is to aggregate information on relevant intellectual property (IP) claims before deciding on a standard. This article explores the firms\u2019 strategies in response to IP disclosure requirements\u2014in particular, the choice between specific and generic disclosures of IP\u2014and the optimal response by SSOs, including the royalty rate setting. We show that firms with a stronger downstream presence are more likely to opt for a generic disclosure, as are those with lower quality patents. We empirically examine patent disclosures made to seven large SSOs, and find results consistent with theoretical predictions."
+  },
+  {
+    "paper_id": "e113bb60ff88d8988353b70394184e2af3da7c3d",
+    "title": "Standard-Essential Patents: Huawei Case, a Non-Solution to an Avoidable Problem",
+    "year": 2016,
+    "author_ids": [
+      "101531573"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "c1e7c3044f311485fd867c5528bed2a0a585ea54",
+    "title": "Patent licensing and bargaining with innovative complements and substitutes",
+    "year": 2016,
+    "author_ids": [
+      "2315153134"
+    ],
+    "venue": null,
+    "citation_count": 26,
+    "abstract": null
+  },
+  {
+    "paper_id": "c1c13050298d23134686d79928fc0bb17e289ca3",
+    "title": "Screening for Good Patent Pools through Price Caps on Individual Licenses",
+    "year": 2016,
+    "author_ids": [
+      "84410696"
+    ],
+    "venue": null,
+    "citation_count": 15,
+    "abstract": null
+  },
+  {
+    "paper_id": "6d2cf62dde5b3a765f216a2a905642d924167484",
+    "title": "FRAND Royalties and Injunctions for Standard Essential Patents",
+    "year": 2016,
+    "author_ids": [
+      "18649579"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 7,
+    "abstract": "Abstract I develop a stylized model of court procedures that resolve disputes concerning FRAND-encumbered standard essential patents (SEPs). I analyze the effects of injunctions and potential court-imposed FRAND rates on negotiated royalty rates. The SEP holders\u2019 ability to hold-up is constrained by the prospect of the court-imposed license terms in case of disputes, but is not completely eliminated. Possible mechanisms to address the residual hold-up power of the SEP holders are discussed."
+  },
+  {
+    "paper_id": "0dc6cfc7f57437592c152a0a21137976bce7d928",
+    "title": "Technological convergence in standards for information and communication technologies",
+    "year": 2016,
+    "author_ids": [
+      "39681899",
+      "2210599"
+    ],
+    "venue": null,
+    "citation_count": 92,
+    "abstract": null
+  },
+  {
+    "paper_id": "d2316b6596eff0ee80d7556fd30c30d0bdb6f00d",
+    "title": "Standard Setting Organizations and Standard Essential Patents: Voting Power versus Market Power",
+    "year": 2016,
+    "author_ids": [
+      "3305887"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "c484bcaed92194573cc2b810189305bc63952482",
+    "title": "Standard-Essential Patents and the Distribution of Gains from Trade for Innovation",
+    "year": 2016,
+    "author_ids": [
+      "118928042",
+      "87104332",
+      "2847364"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "288ca77f15f7b2a0c740f08c9895aa1756060472",
+    "title": "Innovation, Trade and IPRs: Implications for Trade Negotiations",
+    "year": 2016,
+    "author_ids": [
+      "2412238060",
+      "2412238060"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "d1790616ac4348edca24751097d97db7cfc7977e",
+    "title": "Patent Pools, Competition, and Innovation\u2014Evidence from 20 US Industries under the New Deal",
+    "year": 2016,
+    "author_ids": [
+      "47201521",
+      "48195288"
+    ],
+    "venue": null,
+    "citation_count": 50,
+    "abstract": null
+  },
+  {
+    "paper_id": "a9812a60f6cb439d3d93a0780d750cd262ad5d0f",
+    "title": "The Economics of FRAND",
+    "year": 2016,
+    "author_ids": [
+      "1403359015",
+      "1403359015"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "76123a044261a7c4439293dc6010aa526b98fa76",
+    "title": "Patent Assertions: Are We Any Closer to Aligning Reward to Contribution?",
+    "year": 2016,
+    "author_ids": [
+      "1741150737",
+      "145630296"
+    ],
+    "venue": "Innovation Policy and the Economy",
+    "citation_count": 36,
+    "abstract": null
+  },
+  {
+    "paper_id": "1b6093014fd04115c54fae2a2fe4c7d8b26fc5d0",
+    "title": "Just-in-time patents and the development of standards",
+    "year": 2015,
+    "author_ids": [
+      "69947537",
+      "38160150"
+    ],
+    "venue": null,
+    "citation_count": 67,
+    "abstract": null
+  },
+  {
+    "paper_id": "71545eb703d97f2f280636caf79b7df9cc65a663",
+    "title": "Intellectual Property and Innovation in Information and Communication Technology (ICT)",
+    "year": 2015,
+    "author_ids": [
+      "3252357",
+      "46536943"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "f6a5e7884972d47ff33527fe0273055edb0d8387",
+    "title": "Dimens\u00f5es da abordagem da cadeia global de valor: Upgrading, governan\u00e7a, pol\u00edticas governamentais e propriedade intelectual",
+    "year": 2015,
+    "author_ids": [
+      "49600500",
+      "101646372",
+      "118199898"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "1f4d63a467584c2c52ab58b5c383d804569a32da",
+    "title": "Analysis of early-stage proposals in standardization",
+    "year": 2015,
+    "author_ids": [
+      "2116854165",
+      "3162804"
+    ],
+    "venue": "International Conference on Standardization and Innovation in Information Technology",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "fcb6d6782cce646c923446ba98fa98e809840f48",
+    "title": "Tirole's Industrial Regulation and Organization Legacy in Economics",
+    "year": 2015,
+    "author_ids": [
+      "2783939"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "Jean Tirole was awarded the 2014 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel for his analysis of market power and regulation. This paper provides an overview of some of that work, and of his related contributions to game theory."
+  },
+  {
+    "paper_id": "bd07689b36c2f366a58d79678bb112bdc1522d51",
+    "title": "The Politics of Compromise",
+    "year": 2015,
+    "author_ids": [
+      "10689883",
+      "3388855"
+    ],
+    "venue": null,
+    "citation_count": 53,
+    "abstract": null
+  },
+  {
+    "paper_id": "84d6208139d3f4b6f4ed5d3449127cb3e31406bc",
+    "title": "Forecasting Technological Discontinuities in the ICT Industry",
+    "year": 2015,
+    "author_ids": [
+      "2670727",
+      "98836352",
+      "49998041"
+    ],
+    "venue": null,
+    "citation_count": 34,
+    "abstract": null
+  },
+  {
+    "paper_id": "0ee8b23b1dd6bbd30215875894e46c859543d6cb",
+    "title": "Research on the interest balance and pricing mechanism of standard essential patent holders considering fair preference",
+    "year": 2025,
+    "author_ids": [
+      "2374686541",
+      "2145106382"
+    ],
+    "venue": "Sustainable Futures",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "06c1258a07d56c8d47d87e959184010b042e8b99",
+    "title": "Essentiality Checks for Standard Essential Patents",
+    "year": 2024,
+    "author_ids": [
+      "2278952187",
+      "2092141417"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "1bfe92370ab566d2febb839723f5ee836b69862d",
+    "title": "Patent Pools to Facilitate Licensing of Standard-Essential Patents in the Internet of Things",
+    "year": 2024,
+    "author_ids": [
+      "2219491743"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9e9b299fa908ae35145a76a189f3b4beb28e6d63",
+    "title": "Knowledge Sources, Novelty, and Generality: Do Standard-Essential Patents Differ From Nonstandard-Essential Ones?",
+    "year": 2024,
+    "author_ids": [
+      "1406043639",
+      "2173807537",
+      "1491947087"
+    ],
+    "venue": "IEEE transactions on engineering management",
+    "citation_count": 5,
+    "abstract": "This article comprehensively investigates the differences between standard-essential patents (SEPs) and nonstandard-essential patents (N-SEPs) in terms of knowledge sources, novelty, and generality and investigates the impact of knowledge sources on novelty and generality. Specifically, we take a sample of declared SEPs related to long-term evolution standards and their corresponding N-SEPs from 2006 to 2015. To explore the differences between SEPs and N-SEPs in terms of knowledge sources, we used patent bibliometric analysis and text analysis methods to mine the technological domain, scientific literature, and standard literature involved in the backward citations of patents. Then, three indicators are established: 1) technological diversity, 2) science linkage, and 3) standard linkage. Standard linkage has rarely been discussed in the literature. We used text analysis to construct two indicators, the novelty and generality indices, which depict the differences in novelty and generality between SEPs and N-SEPs by comparing the text similarity of focal patents to prior and subsequent patents. The impact of different knowledge sources on SEPs and N-SEPs was verified through empirical analysis. This article innovatively found that SEPs are less technologically diverse and scientifically related, whereas their standard linkage is higher than that of N-SEPs. SEPs are more generic and less novel than N-SEPs. In addition, different knowledge sources have distinct effects on the novelty and generality of SEPs and N-SEPs. These findings can provide a reference for firms\u2019 knowledge acquisition, resource allocation, and selection of R&D partners in the patent creation process."
+  },
+  {
+    "paper_id": "8225b60a6cfabf11931cf8d3f86abee6c85e800a",
+    "title": "Deterring Over-Declaration of Essential Patents Through Random Assessments, Declaration Fees, and Royalty Sharing",
+    "year": 2024,
+    "author_ids": [
+      "2269514215",
+      "34203260",
+      "2302477153"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ab97979f3b3d4cf4d865d22b059613051342bdd9",
+    "title": "Competition and industrial policy in the 21st century",
+    "year": 2024,
+    "author_ids": [
+      "2289142433"
+    ],
+    "venue": "Oxford Open Economics",
+    "citation_count": 9,
+    "abstract": "\n Large fixed costs and (direct and indirect) network externalities generate barriers to entry and high markups for winners in the digital industry. The potential for high prices, low innovation and abuses of dominant position as well as the contribution to rising inequality raise the question of how countries should regulate the industry. The tech giants\u2019 dominance does not confront us with an unpalatable choice between laissez-faire and populist interventions. The commentary explains economic stakes, considers desirable adaptations of regulation in the digital age and draws some conclusions for policy reform."
+  },
+  {
+    "paper_id": "8b9b2c32aa0551e2e2a4f0bb81b831f491fa7d31",
+    "title": "\n Diverging Patenting Strategies: Evidence from the Unified Patent Court and\u00a0the European Standard-Essential Patent Regulation\n",
+    "year": 2024,
+    "author_ids": [
+      "2219491743"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "This study examines the impact of the Unified Patent Court (UPC) and the standard-essential patent (SEP) licensing regulation draft on patent owners\u2019 patenting strategies. Patent owners may choose to opt European patents (EPs) out of the UPC and keep them under national jurisdictions for a limited period. The study matches EPs published between 2014 and 2023 to opt-out and SEP declaration data. I differentiate between SEP versus non-SEP owners at the firm level and declared SEPs versus non-SEPs at the patent level. The firm-level results show that SEP owners opt out significantly more than non-SEP owners. However, the patent-level analyses reveal significantly lower opt-out probabilities for SEPs, suggesting that the higher SEP owner opt-outs may result from non-SEP instead of actual SEP opt-outs. Additionally, the SEP regulation significantly increased firm opt-outs and patent opt-out probabilities, with SEP owners reacting more strongly than their non-SEP counterparts. The results are consistent across multiple analyses and highlight the cross-institutional effects of regulatory interventions on patenting strategies. The study offers valuable insights for policymakers, patent owners, and legal advisors working within the evolving patent framework."
+  },
+  {
+    "paper_id": "3b710d601c6c5c42fb38871b212cb6cb277a33b2",
+    "title": "Devaluing SEPs: Hold-up Bias and Side Effects of the European Draft Regulation",
+    "year": 2023,
+    "author_ids": [
+      "108077581",
+      "2263873444"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "8368dc0d17127258c0234ba6b8785ece256fdadd",
+    "title": "Welfare-Optimal Rewards and Royalties for a Full Stack of Standard-Essential Patents",
+    "year": 2023,
+    "author_ids": [
+      "35399713"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "585c66fe68eafe7cb1ceff331bf5bd7faa28589b",
+    "title": "Patents that Match your Standards: Firm-level Evidence on Competition and Innovation",
+    "year": 2022,
+    "author_ids": [
+      "7996018",
+      "2149399900",
+      "120744155"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "686c98d8762c0cb314a20ba04b160d6a8bc24a20",
+    "title": "Patents that Match your Standards: Firm-level Evidence on Competition and Growth",
+    "year": 2022,
+    "author_ids": [
+      "7996018",
+      "2149399900",
+      "120744155"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "eefe5f6275ffa03219a5ff42e71ce15897da1faa",
+    "title": "Standard-Setting, IPR Policies and the Incentives to Innovate: Evidence from the IEEE Patent Policy Update",
+    "year": 2022,
+    "author_ids": [
+      "2166895108"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "In this paper, I empirically study the e\ufb00ect of IEEE\u2019s IPR policy change in 2015 on standard related innovation. I construct a novel dataset of companies that have declared at least one patent as essential for an IEEE standard (the treatment group), and I then collect a sample of \ufb01rms active in the same industries and having similar characteristics but which have not declared a patent as essential to IEEE (the control group). Using a di\ufb00erence-in-di\ufb00erences approach, I provide causal evidence that the IEEE IPR policy change led to a reduction in standard related patenting among the \ufb01rms a\ufb00ected by the change. My results show that more restrictive patent policies at the SDO level decrease the innovation e\ufb00ort of \ufb01rms in standard related technologies by 15.2%. panel dataset of 27 technology standards issued by IEEE, 945 companies active in 25 NAICS sec-tors, 16,467 company-standard pairs observed over a period of 8 years (2011-2018). For each company-standard pair, I observe the number of \ufb01led patents by the speci\ufb01c company in the set of technology classes related to a standard per year and I include a dummy variable indicating whether the company declares to own an essential patent for the standard."
+  },
+  {
+    "paper_id": "1e99271876955b974c3f2f687633144e44e711f7",
+    "title": "Collective licensing and asymmetric information: The double eff ect of the Medicine Patent Pool on generic drug markets",
+    "year": 2021,
+    "author_ids": [
+      "3311184",
+      "144491406",
+      "1517869716"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 4,
+    "abstract": "The paper studies the Medicine Patent Pool (MPP) as an e\ufb00ective coordinat-ing mechanism to allow access to essential medicines. Focusing on one of the most important disease areas (HIV), we exploit heterogeneity in the timing of entry into the pool of active pharmaceutical ingredients across countries to estimate the e\ufb00ect of the pool on the market for essential drugs. We show that the pool works on two levels. First, it improves access to drugs by increasing competition by generics producers. Second and surprisingly, it further increases access by eliminating fundamental asymmetric information about the intellectual property rights status of drugs across geographical markets."
+  },
+  {
+    "paper_id": "af77075535c45ffde91de3054d538e0cdbebdf0e",
+    "title": "Competition for Leadership Positions in Standards Development Organizations",
+    "year": 2021,
+    "author_ids": [
+      "3290503",
+      "31444872"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": null
+  },
+  {
+    "paper_id": "4689198e1e07370c1bcf815e2757230ecb92e6f6",
+    "title": "Participation in the Standards Organizations Developing the Internet of Things",
+    "year": 2020,
+    "author_ids": [
+      "3290503"
+    ],
+    "venue": "Shaping the Future Through Standardization",
+    "citation_count": 3,
+    "abstract": "This chapter explores patterns and recent trends in meeting attendance at four standard development organizations (SDO): 3GPP, IETF, IEEE 802.11, and One M2M. Average meeting attendance has slightly increased over the last two decades. It is rare for individuals to attend meetings in different SDOs. IETF has the least attendee overlap with other SDOs and the lowest attendee affiliation concentration. Nevertheless, 3GPP attendance has become more diverse and IETF attendance more concentrated. The affiliations of attendees of 3GPP and IETF have become more similar over time while OneM2M attendance has become more distinct from other SDOs. IEEE 802.11 attendance has become significantly less diverse since 2007. Until 2014, there was a significant convergence with 3GPP. Since 2014, this trend has reversed, and attendance at IEEE 802.11 has become more similar to IETF. The author explores implications of the described evidence for differences between telecommunications and internet standardization, companies' standardization strategies, and consequences of the patent policy change at IEEE."
+  },
+  {
+    "paper_id": "1547edb770e41c993a617ebdc6f8f1f583f4212c",
+    "title": "Online Technology in Knowledge Transfer",
+    "year": 2020,
+    "author_ids": [
+      "145692317"
+    ],
+    "venue": "Radical Solutions and Open Science",
+    "citation_count": 3,
+    "abstract": "\n The transfer of knowledge entails a challenge for any research activity. It drives the promise and results towards implemented and replicable facts. The transfer is frequently crystallised in contracts and patents, but not solely: scientific communication, general publication, property rights, or public R&D\u00a0+\u00a0innovation projects generated in the heat of research are also transference products and tools. This article lays out the benefits and weaknesses of these devices, underlining the participation of technology, especially online tech, when appropriate. We found that there are a variety of resources for transference, and that technology is only valid in some of them.\n"
+  },
+  {
+    "paper_id": "9c37cb2daff8497e431e9c677f4783b5bb3c5566",
+    "title": "A Theory of Patent Holdout",
+    "year": 2020,
+    "author_ids": [
+      "3117336",
+      "145202105"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9a31ce8e915501f12d765aa064080e8af3996cba",
+    "title": "The Deterioration of Appropriate Remedies in Patent Disputes",
+    "year": 2020,
+    "author_ids": [
+      "118463466",
+      "98005437",
+      "2115947171",
+      "101192835"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "The Federalist Society Review Volume 21 Property rights are an essential economic institution. As the great UCLA economist Harold Demsetz famously argued, property rights spur specialization, investment, and competition, which in turn increase productivity, innovation, and wealth throughout the economy.1 The same holds true for intellectual property rights, including patents, which are no less important than their traditional counterparts in facilitating innovation and the efficient organization of productive economic activity, particularly in the modern, high-tech economy.2 A wealth of literature indicates that much, if not most, of the value of innovation is passed on to consumers in the form of lower prices and higher quality goods and services.3 Indeed, as Nobel Laureate William Nordhaus finds, even in the presence of patents to facilitate the appropriability of the value of innovation by inventors, \u201conly a miniscule fraction of the social returns from technological advances over the 19482001 period was captured by producers, indicating that most of the benefits of technological change are passed on to consumers rather than captured by producers.\u201d4 Thus, although measurement problems plague such research, there is strong evidence that nations with greater levels of patent protection have historically achieved significantly higher innovative output than those with lower levels of patent protection.5 Nevertheless, a significant body of academic and policy work has argued\u2014with very real policy success\u2014that patent"
+  },
+  {
+    "paper_id": "56e6700104ec0fc73c87d8e4f79a624e564ab7c0",
+    "title": "N\u00e4k\u00f6kulmia standardisoinnin taloustieteeseen",
+    "year": 2020,
+    "author_ids": [
+      "2094023042",
+      "46403474",
+      "2073817732"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "a54e9a12c498a7c1a3a239336b9ab2392c221729",
+    "title": "Standard Setting Organizations, Information Flows and Business Strategies: An Empirical Investigation",
+    "year": 2019,
+    "author_ids": [
+      "97642796",
+      "38412440"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "64de296fa5f25143a54505703f4bff2c78153991",
+    "title": "Cooperation, Competition and Patents: Understanding Innovation in the Telecommunication Sector",
+    "year": 2019,
+    "author_ids": [
+      "2053230108"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "54a2594a33b89ff7402c2a38478b30b7809ff1ca",
+    "title": "The Attention Economy of Online Advertising",
+    "year": 2019,
+    "author_ids": [
+      "119193436",
+      "143809582"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "0d5d25e84f57c4d821c8ab32b5a49adb4aaad920",
+    "title": "NBER WORKING PAPER SERIES LEARNING WHEN TO QUIT: AN EMPIRICAL MODEL OF EXPERIMENTATION",
+    "year": 2019,
+    "author_ids": [
+      "70563393"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "2143f5bf8b31161c9bb9630bd6e9c951321bc996",
+    "title": "Simulating Mergers in a Vertical Supply Chain with Bargaining",
+    "year": 2018,
+    "author_ids": [
+      "145454111",
+      "145661487",
+      "13722000"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9c547245a032b959f5288954909f4dffaaa9979c",
+    "title": "On Challenges for Implementing ISO Standards in Software: Can Both Open and Closed Standards Be Implemented in Open Source Software?",
+    "year": 2018,
+    "author_ids": [
+      "2399883",
+      "1710951",
+      "145357836"
+    ],
+    "venue": null,
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "7b7d0a662da37642202f7f527d39e523e640a623",
+    "title": "Competing Value Logics in the Apportionment of SEP Damages: A Comparison of FRAND Royalty Methodologies in U.S. Courts 2013-15",
+    "year": 2018,
+    "author_ids": [
+      "94711763"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "4f997c6fc15691592ac30d1ba77c4b522fb481ad",
+    "title": "A Competition-Law-Oriented Look at the Application of Data Protection and IP Law to the Internet of Things: Towards a Wider \u2018Holistic Approach\u2019",
+    "year": 2018,
+    "author_ids": [
+      "51129145"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "7fee30e122aca33b090d797d2e95ddf9cbb52eee",
+    "title": "Standard-Essential Patents-Balancing the Interests of Intellectual Property and Competition under EU",
+    "year": 2017,
+    "author_ids": [
+      "2081947012"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "49fd78c4a0a847a8615f001fd365c194a80c9b73",
+    "title": "STANDARD-SETTING ANTITRUST DEBATE",
+    "year": 2017,
+    "author_ids": [
+      "94912347"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "fde65296d85976f3e9854b623ebc6077a49a342c",
+    "title": "THE ROLE OF PATENTS IN INFORMATION AND COMMUNICATION TECHNOLOGIES (ICTS). A SURVEY OF THE LITERATURE",
+    "year": 2017,
+    "author_ids": [
+      "3252357"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "852733f612d8e7c3f1acb8fdee0d82864b26c553",
+    "title": "Standard Setting Organizations and Standard Essential Patents: Voting and Markets",
+    "year": 2016,
+    "author_ids": [
+      "3305887"
+    ],
+    "venue": null,
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "45ee4fe57e88f7cadd92bf18e6f4524a6aad99fb",
+    "title": "On Technology Choice in Standardization : Implications for Patent Valuation",
+    "year": 2016,
+    "author_ids": [
+      "2082756560"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "f6e8272be4c5c94495c620797151352948bfac3f",
+    "title": "The Macroeconomics of Interconnected",
+    "year": 2016,
+    "author_ids": [
+      "118928042"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "cf71509c799c70f8d293e12c642d4b6d24ceb1cd",
+    "title": "Patent Disclosures and Standard-Setting The Harvard community has made this article openly available. Please share how this access benefits you. Your story matters",
+    "year": 2016,
+    "author_ids": [
+      "2356865710",
+      "98449831",
+      "2270897830"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "4dc9f58a01b01abf6ce7ae375fa4e277ad3d1781",
+    "title": "Market Failures and Public Policy",
+    "year": 2015,
+    "author_ids": [
+      "133580797",
+      "96459704"
+    ],
+    "venue": null,
+    "citation_count": 34,
+    "abstract": null
+  },
+  {
+    "paper_id": "a449123be7821b48097b7e22bf0c819dc0ef6315",
+    "title": "Analysis of a Controversial Concept Fair , Reasonable and Non-Discriminatory ( FRAND ) Licensing Terms 2015",
+    "year": 2015,
+    "author_ids": [
+      "2405776"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "477272973639d8fbc8dc382504e270a8171784d4",
+    "title": "The market for standard essential patents",
+    "year": 2015,
+    "author_ids": [
+      "3196845",
+      "3198483",
+      "34719612"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": null
+  },
+  {
+    "paper_id": "f65a14f24ab67ba48aeedd6bd29a6957818716a1",
+    "title": "Mapping Standards to Patents using Databases of Declared Standard-Essential Patents and Systems of Technological Classification",
+    "year": 2015,
+    "author_ids": [
+      "3290503",
+      "34719612"
+    ],
+    "venue": null,
+    "citation_count": 9,
+    "abstract": null
+  }
+]

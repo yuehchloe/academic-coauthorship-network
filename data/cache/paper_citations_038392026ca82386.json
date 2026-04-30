@@ -1,0 +1,974 @@
+[
+  {
+    "paper_id": "ca937175e111bfac27ce91a5357da12157c7a5fa",
+    "title": "Random allocations of multiple objects with incomplete information",
+    "year": 2025,
+    "author_ids": [
+      "2067237550",
+      "2394091414"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "28532d0a54a5f0f9576b27e36c4e80ecf4024a83",
+    "title": "Private From Whom? Minimal Information Leakage in Auctions",
+    "year": 2025,
+    "author_ids": [
+      "2401512871",
+      "2064358552"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "In many auctions, bidders may be reluctant to reveal private information to the auctioneer and other bidders. Among deterministic bilateral communication protocols, reducing what bidders learn requires increasing what the auctioneer learns. A protocol implementing a given social choice rule is on the Privacy Frontier if no alternative protocol reveals less to both bidders and the auctioneer. For first-price auctions, the descending protocol and the sealed-bid protocol are both on the Privacy Frontier. For second-price auctions, the ascending protocol and the ascending-join protocol of Haupt and Hitzig (2025) are both on the Privacy Frontier, but the sealed-bid protocol is not. We provide sufficient conditions for a protocol to be on the Privacy Frontier and devise alternative protocols on the Privacy Frontier for first-price auctions that allow the designer to flexibly trade off between privacy from bidders and the auctioneer."
+  },
+  {
+    "paper_id": "f5ed82cd8d8d0a97ba8c33af83ee0675a491a781",
+    "title": "Dividing a cake for the irrationally entitled",
+    "year": 2025,
+    "author_ids": [
+      "2266238502",
+      "2266238703"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "A perfectly divisible cake is to be divided among a group of agents. Each agent is entitled to a share between zero and one, and these entitlements are compatible in that they sum to one. The mediator does not know the preferences of the agents, but can query the agents to make cuts and appraise slices in order to learn. We prove that if one of the entitlements is irrational, then the mediator must use a protocol that involves an arbitrarily large number of queries in order to construct an allocation that respects the entitlements regardless of preferences."
+  },
+  {
+    "paper_id": "14dba5077e993728b940b0083d27a5644161a5df",
+    "title": "Efficient and effective budget-feasible mechanisms for submodular valuations",
+    "year": 2025,
+    "author_ids": [
+      "2261909111",
+      "2321228115",
+      "2047128232"
+    ],
+    "venue": "Artificial Intelligence",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "7d7d9db9fc0dcc40fadfb49b523778b466568cf4",
+    "title": "Clock Auctions: Allocation-Based Characterization, Computational Complexity, and Economic Efficiency",
+    "year": 2025,
+    "author_ids": [
+      "49723751"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "Clock auctions are a natural class of simple auction mechanisms, with numerous desirable properties including obvious strategyproofness, credibility, and unconditional winner privacy. These properties make clock auctions an ideal solution for real-world allocation problems, such as radio spectrum (re)allocation. Accordingly, significant effort has been made in understanding the performance (and in particular, economic efficiency) of clock auctions. In this paper, we make progress along this direction on multiple fronts. Computationally, we investigate two natural problems: implementation and optimization. The former asks to find a clock auction protocol that implements a particular input allocation function whenever there exists one, and declare that this is impossible otherwise; the latter asks to find a clock auction protocol that maximizes social welfare among all clock auction protocols on a particular input prior distribution. We give an efficient algorithm for the implementation problem, and show that the optimization problem is NP-complete. To our knowledge, these are the first results regarding the computational complexity of clock auctions. En route to these results, we develop a complete characterization of allocation functions that can be implemented using clock auctions, which may be of independent interest. Information-theoretically, we present a framework connecting the economic efficiency of clock auctions to a much cleaner problem that we call \"upper tail extraction\". In particular, the inexistence of constant-factor clock auctions for upper tail extraction would immediately imply a super-constant efficiency gap for clock auctions. On the other hand, the existence of constant-factor clock auctions for upper tail extraction would imply approximate efficiency in an important class of instances, strongly suggesting approximate efficiency in general. We then construct constant-factor clock auctions for upper tail extraction in the special case with iid agents, which, through our framework, implies approximate efficiency of clock auctions with independent groups of agents that are each homogeneous. This removes the immediate technical obstacle to unconditional approximate efficiency identified in prior work, and showcases the power of our framework."
+  },
+  {
+    "paper_id": "058bc6a041a99e26881cbe07b7939f97fac64fa1",
+    "title": "Equilibrium Efficiency and Learning in Budgeted Procurement Marketplaces",
+    "year": 2025,
+    "author_ids": [
+      "1895701",
+      "2347538703",
+      "2258551674",
+      "2258554198",
+      "2347691517"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 0,
+    "abstract": "We envision a marketplace where diverse entities offer specialized \"modules\" through APIs, allowing users to compose the outputs of these modules for complex tasks within a given budget. This paper studies the market design problem in such an ecosystem, where module owners strategically set prices for their APIs (to maximize their profit) and a central platform orchestrates the aggregation of module outputs at query-time. One can also think about this as a first-price procurement auction with budgets. The first observation is that if the platform's algorithm is to find the optimal set of modules then this could result in a poor outcome, in the sense that there are price equilibria which provide arbitrarily low value for the user. We show that under a suitable version of the \"bang-per-buck\" algorithm for the knapsack problem, an \u03b5-approximate equilibrium always exists, for any arbitrary \u03b5 > 0. Further, our first main result shows that with this algorithm any such equilibrium provides a constant approximation to the optimal value that the buyer could get under various constraints including (i) a budget constraint and (ii) a budget and a matroid constraint. This can also be interpreted as a price of anarchy result for budget-constrained first-price procurement auctions. Finally, we demonstrate that these approximately efficient equilibria can be learned through decentralized price adjustments by module owners using no-regret learning algorithms."
+  },
+  {
+    "paper_id": "5c4368297d6af5fc95a0aa3dffc99b76a725090a",
+    "title": "An Ascending Polynomial Running Time Vickrey Auction for Selling Bases of an Integer Polymatroid",
+    "year": 2025,
+    "author_ids": [
+      "103876353",
+      "2312069517"
+    ],
+    "venue": "ACM Trans. Economics and Comput.",
+    "citation_count": 1,
+    "abstract": "Consider a single auctioneer who wants to sell multiple units of distinct indivisible items to bidders with private valuations. The set of feasible allocations is constrained to integer base points, which are the integer points of an integer base polyhedron. Each bidder\u2019s valuation is the integer restriction of a sum of nondecreasing, concave single-parameter functions. This seemingly abstract setting is of theoretical relevance and has various interesting applications. In this context, we develop an ascending auction that implements a social welfare-maximizing allocation, charges Vickrey\u2013Clarke\u2013Groves prices, relies only on a single price, is ex-post incentive-compatible, and satisfies unconditional winner privacy. The auction has a polynomial running time in the number of bidders, items, and units; in the case of linear separable valuations it runs even in strongly polynomial time, thereby improving on the literature. Moreover, by relaxing unconditional winner privacy, the auction can be made fully polynomial in the number of bidders, items, units, and integer breakpoints of bidders\u2019 valuations. If we assume that bidders are unit-demand, then our auction is dominant-strategy incentive-compatible and (weakly) group strategy-proof, much like deferred acceptance auctions."
+  },
+  {
+    "paper_id": "e94e71668a5d5730862f95fb3ef7f9edd0afdd8d",
+    "title": "Procurement Auctions with Best and Final Offers",
+    "year": 2025,
+    "author_ids": [
+      "1775687",
+      "2250481807",
+      "118283161"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 0,
+    "abstract": "We study sequential procurement auctions where the sellers are provided with a ''best and final offer'' (BAFO) strategy. This strategy allows each seller i to effectively ''freeze'' their price while remaining active in the auction, and it signals to the buyer, as well as all other sellers, that seller i would reject any price lower than that. This is in contrast to prior work, e.g., on descending auctions, where the options provided to each seller are to either accept a price reduction or reject it and drop out. As a result, the auctions that we consider induce different extensive form games and our goal is to study the subgame perfect equilibria of these games. We focus on settings involving multiple sellers who have full information regarding each other's cost (i.e., the minimum price that they can accept) and a single buyer (the auctioneer) who has no information regarding these costs. Our main result shows that the auctions enhanced with the BAFO strategy can guarantee efficiency in every subgame perfect equilibrium, even if the buyer's valuation function is an arbitrary monotone function. This is in contrast to prior work which required that the buyer's valuation satisfies restrictive properties, like gross substitutes, to achieve efficiency. We then also briefly analyze the seller's cost in the subgame perfect equilibria of these auctions and we show that even if the auctions all return the same outcome, the cost that they induce for the buyer can vary significantly."
+  },
+  {
+    "paper_id": "0d9d515929f102a56706734a55d42e5b9a0ce68c",
+    "title": "Interdisciplinary synergy and integration in auction theory and practice",
+    "year": 2025,
+    "author_ids": [
+      "2152687319"
+    ],
+    "venue": "Scientia Sinica Mathematica",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "ae68903c6ca858ccf955f1066fd739b2b36aadfe",
+    "title": "Making the most of your private parking slot: Strategy-proof double auctions-enabled staggered sharing schemes",
+    "year": 2025,
+    "author_ids": [
+      "2298409332",
+      "2108435837",
+      "2265727060",
+      "2237953669",
+      "2283395377"
+    ],
+    "venue": "Transportation Research Part B: Methodological",
+    "citation_count": 4,
+    "abstract": null
+  },
+  {
+    "paper_id": "ef17e178aba8b0135c692d3bd2e46355b68be355",
+    "title": "Dynamic cost optimization under the cost incurring from production speed",
+    "year": 2024,
+    "author_ids": [
+      "2071442314"
+    ],
+    "venue": "Decision Analytics Journal",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "11839a36a145a807fb51572cf86d737123670a4c",
+    "title": "Market Structure, Investment, and Technical Efficiencies in Mobile Telecommunications",
+    "year": 2024,
+    "author_ids": [
+      "2069515524",
+      "9523794",
+      "2045333",
+      "50275872"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 13,
+    "abstract": "We develop a model of competition in prices and infrastructure among mobile network operators. Consolidation can increase market power, but economies of scale, which we derive from physical principles, lead to more efficient data transmission. Estimating our model with French consumer and infrastructure data, we find that while prices decrease with more firms, so do download speeds. Consumer surplus is maximized at six firms, but fewer firms would improve total surplus and welfare for high-income consumers. We also use our framework to assess the impact of another aspect of market structure: the allocation of spectrum."
+  },
+  {
+    "paper_id": "d54012b299306e40bda6093e653a22b7bba818b9",
+    "title": "Besz\u00e1mol\u00f3 a 2024- es Mechanizmus- \u00e9s Int\u00e9zm\u00e9nytervez\u00e9si Konferenci\u00e1r\u00f3l",
+    "year": 2024,
+    "author_ids": [
+      "2287626086",
+      "2323830196",
+      "2102141783",
+      "95541881"
+    ],
+    "venue": "P\u00e9nz\u00fcgyi Szemle = Public Finance Quarterly",
+    "citation_count": 0,
+    "abstract": "A 2024-es Conference on Mechanism and Institution Design (CMID) konferencia 2024. j\u00falius 8\u201312. k\u00f6z\u00f6tt zajlott a Budapesti Corvinus Egyetemen. A konferencia els\u0151d[1]leges t\u00e9m\u00e1ja a mechanizmustervez\u00e9s, amely nagy vonalakban a t\u00e1rsadalmi illetve a gazdas\u00e1gi rendszereink, folyamataink hat\u00e9kony, bizonyos szempontok szerint ide\u00e1lis szab\u00e1lyrendszereit hivatott megalkotni illetve elemezni. Ez a sokr\u00e9t\u0171 c\u00e9l mag\u00e1ban foglal t\u00f6bbek k\u00f6z\u00f6tt piactervez\u00e9si, j\u00e1t\u00e9kelm\u00e9leti vagy szavaz\u00e1selm\u00e9leti kutat\u00e1sokat is, csak\u00fagy mint viselked\u00e9si k\u00f6zgazdas\u00e1gtant vagy p\u00e9ld\u00e1ul versenyszab\u00e1lyoz\u00e1st. A CMID a Society for the Promotion of Mechanism and Institution Design egyes\u00fclet k\u00e9t\u00e9vente megrendez\u00e9sre ker\u00fcl\u0151 konferenci\u00e1ja, azonban az elm\u00falt k\u00e9t alkalommal (2020 \u00e9s 2022) ellent\u00e9tben ez\u00fattal \u2013 6 \u00e9v ut\u00e1n el\u0151sz\u00f6r \u2013 \u00e9l\u0151ben, szem\u00e9lyes form\u00e1ban ker\u00fclhetett megrendez\u00e9sre, ami egy kiv\u00e1l\u00f3 lehet\u0151s\u00e9get biztos\u00edtott a szakma, a k\u00f6z\u00f6ss\u00e9g szem\u00e9lyes tal\u00e1lkoz\u00e1s\u00e1ra. \u00c9ppen ez\u00e9rt nem meglep\u0151, hogy a vil\u00e1g val\u00f3ban minden t\u00e1j\u00e1r\u00f3l \u00e9rkeztek a mintegy 300 el\u0151ad\u00e1st megtartani, meghallgatni, megvitatni: a 80 p\u00e1rhuzamos szekci\u00f3ban helyet kapott 278 el\u0151ad\u00e1s mellett 4 kiemelked\u0151 plen\u00e1ris el\u0151ad\u00f3, valamint Vincent Crawford professzor 75. sz\u00fclet\u00e9snapj\u00e1nak dedik\u00e1lt \u00fajabb 4 rendk\u00edv\u00fcli el\u0151ad\u00e1s tette k\u00fcl\u00f6nlegess\u00e9 a CMID-t."
+  },
+  {
+    "paper_id": "985b89615e88db346bd6733112f7fef68ee2fbc7",
+    "title": "Speeding up deferred acceptance",
+    "year": 2024,
+    "author_ids": [
+      "145156257",
+      "2517653",
+      "37476140",
+      "2391460819",
+      "2320725439"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "A run of the deferred acceptance (DA) algorithm may contain proposals that are sure to be rejected. We introduce the accelerated deferred acceptance algorithm that proceeds in a similar manner to DA but with sure-to-be rejected proposals ruled out. Accelerated deferred acceptance outputs the same stable matching as DA but does so more efficiently: it terminates in weakly fewer rounds, requires weakly fewer proposals, and final pairs match no later. Computational experiments show that these efficiency savings can be strict."
+  },
+  {
+    "paper_id": "00b91c21253c0c522e0a37ffe333152df693a86d",
+    "title": "Monetizing digital content with network effects: A mechanism-design approach",
+    "year": 2024,
+    "author_ids": [
+      "25156061",
+      "2317010726"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We design profit-maximizing mechanisms to sell an excludable and non-rival good with positive and/or negative network effects. Buyers have heterogeneous private values that depend on how many others also consume the good. In optimum, an endogenous number of the highest types consume the good, and we can implement this allocation in dominant strategies. We apply our insights to digital content creation, and we are able to rationalize features seen in monetization schemes in this industry such as voluntary contributions, community subsidies, and exclusivity bids."
+  },
+  {
+    "paper_id": "3a1f5fd0eec65ba57a6facd3f6cad4b04b1bcc00",
+    "title": "Clock Auctions Augmented with Unreliable Advice",
+    "year": 2024,
+    "author_ids": [
+      "1775687",
+      "1477287242",
+      "2112782309"
+    ],
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "citation_count": 14,
+    "abstract": "We provide the first analysis of (deferred acceptance) clock auctions in the learning-augmented framework. These auctions satisfy a unique list of appealing properties, including obvious strategyproofness, transparency, and unconditional winner privacy, making them particularly well-suited for real-world applications. However, early work that evaluated their performance from a worst-case analysis perspective concluded that no deterministic clock auction with $n$ bidders can achieve a $O(\\log^{1-\\epsilon} n)$ approximation of the optimal social welfare for any $\\epsilon>0$, even in very simple settings. This overly pessimistic impossibility result heavily depends on the assumption that the designer has no information regarding the bidders' values. Leveraging the learning-augmented framework, we instead consider a designer equipped with some (machine-learned) advice regarding the optimal solution; this advice can provide useful guidance if accurate, but it may be unreliable. Our main results are learning-augmented clock auctions that use this advice to achieve much stronger guarantees whenever the advice is accurate (consistency), while maintaining worst-case guarantees even if this advice is arbitrarily inaccurate (robustness). Our first clock auction achieves the best of both worlds: $(1+\\epsilon)$-consistency for any $\\epsilon>0$ and $O(\\log{n})$ robustness; we also extend this auction to achieve error tolerance. We then consider a much stronger notion of consistency, which we refer to as consistency$^\\infty$, and provide auctions that achieves a near-optimal trade-off between consistency$^\\infty$ and robustness. Finally, using our impossibility results regarding this trade-off, we prove lower bounds on the ``cost of smoothness,'' i.e., on the achievable robustness if we also require that the performance of the auction degrades smoothly as a function of the prediction error."
+  },
+  {
+    "paper_id": "f7cc4785b30dc5fce8f3036da3b792881b9b7d89",
+    "title": "On inner independence systems",
+    "year": 2024,
+    "author_ids": [
+      "2300978726",
+      "103876353",
+      "2312071512"
+    ],
+    "venue": "Naval Research Logistics",
+    "citation_count": 1,
+    "abstract": "A classic result of Korte and Hausmann [1978] and Jenkyns [1976] bounds the quality of the greedy solution to the problem of finding a maximum value basis of an independence system (E,\u2110)$$ \\left(E,\\mathcal{I}\\right) $$ in terms of the rank\u2010quotient. We extend this result in two ways. First, we apply the greedy algorithm to an inner independence system contained in \u2110$$ \\mathcal{I} $$ . Additionally, following an idea of Milgrom [2017], we incorporate exogenously given prior information about the set of likely candidates for an optimal basis in terms of a set \ud835\udcaa\u2286\u2110 . We provide a generalization of the rank\u2010quotient that yields a tight bound on the worst\u2010case performance of the greedy algorithm applied to the inner independence system relative to the optimal solution in \ud835\udcaa . Furthermore, we show that for a worst\u2010case objective, the inner independence system approximation may outperform not only the standard greedy algorithm but also the inner matroid approximation proposed by Milgrom [2017]. Second, we generalize the inner approximation framework of independence systems to inner approximations of packing instances in \u2124\u22650n$$ {\\mathbb{Z}}_{\\ge 0}^n $$ by inner polymatroids and inner packing instances. We consider the problem of maximizing a separable discrete concave function and show that our inner approximation can be better than the greedy algorithm applied to the original packing instance. Our result provides a lower bound to the generalized rank\u2010quotient of a greedy algorithm to the optimal solution in this more general setting and subsumes Malinov and Kovalyov [1980]. We apply the inner approximation approach to packing instances induced by the FCC incentive auction and by two knapsack constraints."
+  },
+  {
+    "paper_id": "5f6898ad9fc326130753584454acca776d16fe97",
+    "title": "Auctioning off a Non-Rivalrous Good with Interference",
+    "year": 2024,
+    "author_ids": [
+      "2311288188"
+    ],
+    "venue": "Games",
+    "citation_count": 0,
+    "abstract": "Auctions are a prevalent way to exchange goods and are well-studied for the exchange of rivalrous goods, but are less studied for non-rivalrous goods. I examine an auction framework where the good sold can be used simultaneously by multiple bidders if their use does not conflict with others; this simultaneous use directly affects the efficiency of the auction. A timely example includes the auctioning off of a radio spectrum by a licensed primary user to unlicensed secondary users who can use the spectrum simultaneously if they are located far enough apart to not cause interference. I examine a uniform price auction over non-conflicting groups and examine how non-rivalry impacts both efficiency and collusion. Conditions are given under which an auction over groups generates higher social welfare than an individual auction. Additional conditions are given under which collusion in a group auction results in higher prices."
+  },
+  {
+    "paper_id": "122c8fa53c759c2db7abb0c9378ec51b72c5837a",
+    "title": "Simultaneous incremental support adjustment and metagame solving: An equilibrium-finding framework for continuous-action games",
+    "year": 2024,
+    "author_ids": [
+      "2108790577",
+      "145714168"
+    ],
+    "venue": "arXiv.org",
+    "citation_count": 0,
+    "abstract": "We present a framework for computing approximate mixed-strategy Nash equilibria of continuous-action games. It is a modification of the traditional double oracle algorithm, extended to multiple players and continuous action spaces. Unlike prior methods, it maintains fixed-cardinality pure strategy sets for each player. Thus, unlike prior methods, only a constant amount of memory is necessary. Furthermore, it does not require exact metagame solving on each iteration, which can be computationally expensive for large metagames. Moreover, it does not require global best-response computation on each iteration, which can be computationally expensive or even intractable for high-dimensional action spaces and general games. Our method incrementally reduces the exploitability of the strategy profile in the finite metagame, pushing it toward Nash equilibrium. Simultaneously, it incrementally improves the pure strategies that best respond to this strategy profile in the full game. We evaluate our method on various continuous-action games, showing that it obtains approximate mixed-strategy Nash equilibria with low exploitability."
+  },
+  {
+    "paper_id": "9c37c09ef721ab4c694acc744bcdce7cf5451d03",
+    "title": "A Simplified Analysis of the Ascending Auction to Sell a Matroid Base",
+    "year": 2024,
+    "author_ids": [
+      "1980921",
+      "2215480394"
+    ],
+    "venue": "Operations Research Letters",
+    "citation_count": 1,
+    "abstract": "We give a simpler analysis of the ascending auction of Bikhchandani, de Vries, Schummer, and Vohra to sell a welfare-maximizing base of a matroid at Vickrey prices. The new proofs for economic efficiency and the charge of Vickrey prices only require a few matroid folklore theorems, therefore shortening the analysis of the design goals of the auction significantly."
+  },
+  {
+    "paper_id": "575927723d519ac73c6821cfeadf4cbe3015cb6b",
+    "title": "Market Design for Surface Water",
+    "year": 2023,
+    "author_ids": [
+      "2004316368",
+      "2259638938"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 2,
+    "abstract": ": Many proposed surface water transfers undergo a series of regulatory reviews designed to mitigate hydrological and economic externalities. While these reviews help limit externalities, they impose substantial transaction costs that also limit trade. To promote a well-functioning market for surface water in California, we describe how a new kind of water right and related regulatory practices can balance the trade-off between externalities and transaction costs, and how a Water Incentive Auction can incentivize a sufficient number of current rights holders to swap their old rights for the new ones. The Water Incentive Auction adapts lessons learned from the US government\u2019s successful Broadcast Incentive Auction."
+  },
+  {
+    "paper_id": "b7899a8889fa28775863c55f04f2c7a7eebbb935",
+    "title": "Matching Mechanisms for Refugee Resettlement",
+    "year": 2023,
+    "author_ids": [
+      "65765208",
+      "1794750",
+      "1799601"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 70,
+    "abstract": "Current refugee resettlement processes account for neither the preferences of refugees nor the priorities of hosting communities. We introduce a new framework for matching with multidimensional knapsack constraints that captures the (possibly multidimensional) sizes of refugee families and the capacities of communities. We propose four refugee resettlement mechanisms and two solution concepts that can be used in refugee resettlement matching under various institutional and informational constraints. Our theoretical results and simulations using refugee resettlement data suggest that preference-based matching mechanisms can improve match efficiency, respect priorities of communities, and incentivize refugees to report where they would prefer to settle. (JEL C78, D82, J15, J18)"
+  },
+  {
+    "paper_id": "dd1aa0716aca9b47ed04dcf7f797b072aa3f3eb0",
+    "title": "Partial Allocations in Budget-Feasible Mechanism Design: Bridging Multiple Levels of Service and Divisible Agents",
+    "year": 2023,
+    "author_ids": [
+      "2883746",
+      "2173758703",
+      "1737120",
+      "2210799399",
+      "23738571"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 3,
+    "abstract": "Budget-feasible procurement has been a major paradigm in mechanism design since its introduction by Singer [28]. An auctioneer (buyer) with a strict budget constraint is interested in buying goods or services from a group of strategic agents (sellers). In many scenarios, it makes sense to allow the auctioneer to only partially buy what an agent offers, e.g., an agent might have multiple copies of an item to sell, might offer multiple levels of a service, or may be available to perform a task for any fraction of a specified time interval. Nevertheless, the focus of the related literature has been on settings in which each agent\u2019s services are either fully acquired or not at all. A reason for this is that in settings with partial allocations, such as the ones mentioned, there are strong inapproximability results (see, e.g., Anari et al. [5], Chan and Chen [10]). Under the mild assumption of being able to afford each agent entirely, we are able to circumvent such results. We design a polynomial-time, deterministic, truthful, budget-feasible, \\((2+\\sqrt {3})\\) -approximation mechanism for the setting in which each agent offers multiple levels of service and the auctioneer has a valuation function that is separable concave, i.e., it is the sum of concave functions. We then use this result to design a deterministic, truthful, and budget-feasible O(1)-approximation mechanism for the setting in which any fraction of a service can be acquired, again for separable concave objectives. For the special case in which the objective is the sum of linear valuation functions, we improve the best known approximation ratio for the problem from \\((3+\\sqrt {5})/2\\) (by Klumper and Sch\u00e4fer [19]) to 2. This establishes a separation between this setting and its indivisible counterpart."
+  },
+  {
+    "paper_id": "767d42f586b1ccc16634d5381d17efa947520a6f",
+    "title": "Optimal cardinal contests",
+    "year": 2023,
+    "author_ids": [
+      "2092147279",
+      "143735363",
+      "2202531"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study the design of crowdsourcing contests in settings where the outputs of the contestants are quantifiable, for example, a data science challenge. This setting is in contrast to those where the output is only qualitative and cannot be objectively quantified, for example, when the goal of the contest is to design a logo. The literature on crowdsourcing contests focuses largely on ordinal contests, where contestants' outputs are ranked by the designer and awards are based on relative ranks. Such contests are ideally suited for the latter setting, where output is qualitative. For our setting (quantitative output), it is possible to design cardinal contests, where awards could be based on the actual outputs and not on their ranking alone\u2014thus, the family of cardinal contests includes the family of ordinal contests. We study the problem of designing an optimal cardinal contest. We use mechanism design theory to derive an optimal cardinal mechanism and provide a convenient implementation\u2014a decreasing reward\u2010meter mechanism\u2014of the optimal contest. We establish the practicality of our mechanism by showing that it is \u201cObviously Strategy\u2010Proof,\u201d a recently introduced formal notion of simplicity in the literature. We also compare the optimal cardinal contest with the most popular ordinal contest\u2014namely, the Winner\u2010Takes\u2010All (WTA) contest, along several metrics. In particular, the optimal cardinal mechanism delivers a superior expected best output, whereas the WTA contest yields a greater expected contestant welfare. Furthermore, under a sufficiently large budget, the contest designer's expected net\u2010benefit is higher under the optimal cardinal mechanism than that under the WTA contest, regardless of the number of contestants in the two mechanisms. Our numerical analysis suggests that, for the contest designer, the average improvement provided by the optimal cardinal mechanism over the WTA contest is about 23%. For a given number of contestants, the benefit of the optimal cardinal mechanism is especially appreciable for projects where the ratio of the designer's utility to agents' cost\u2010of\u2010effort falls within a wide practical range. For projects where this ratio is very high, the expected profit of the best WTA contest is reasonably close to that of the optimal cardinal mechanism."
+  },
+  {
+    "paper_id": "d3a25673ed74e39c7b068574b8678272d38439c9",
+    "title": "Explicit Payments for Obviously Strategyproof Mechanisms",
+    "year": 2023,
+    "author_ids": [
+      "1766012",
+      "1798664"
+    ],
+    "venue": "Adaptive Agents and Multi-Agent Systems",
+    "citation_count": 4,
+    "abstract": "The design of mechanisms where incentives are simple to understand for the agents has attracted a lot of attention recently. One particularly relevant concept in this direction has been Obvious Strategyproofness (OSP), a class of mechanisms that are so simple to be recognized as incentive compatible even by agents with a limited form of rationality. It is known that there exist payments that lead to an OSP mechanism whenever the algorithm they augment is either greedy or reverse greedy (a.k.a., deferred acceptance). However, to date, their explicit definition is unknown. In this work we provide payments for OSP mechanisms based on greedy or reverse greedy algorithms. Interestingly, our results show an asymmetry between these two classes of algorithms: while for reverse greedy the usual strategyproof payments work well also for OSP, the payments for greedy algorithms may break individual rationality or budget balancedness. Thus, the designer needs to subsidize the market in order to simultaneously guarantee these properties and simple incentives. We apply this result to analyze the amount of subsidies needed by a well-known greedy algorithm for combinatorial auctions with single-minded bidders."
+  },
+  {
+    "paper_id": "98320bb8894a284561eeebde0283fd2f624fc84f",
+    "title": "Breaking the traditional: a survey of algorithmic mechanism design applied to economic and complex environments",
+    "year": 2023,
+    "author_ids": [
+      "2146378634",
+      "39849136",
+      "1836620",
+      "2107944845",
+      "1500379589",
+      "2087101246",
+      "71955407"
+    ],
+    "venue": "Neural computing & applications (Print)",
+    "citation_count": 6,
+    "abstract": "The mechanism design theory can be applied not only in the economy but also in many fields, such as politics and military affairs, which has important practical and strategic significance for countries in the period of system innovation and transformation. As Nobel Laureate Paul said, the complexity of the real economy makes it difficult for \u201cUnorganized Markets\u201d to ensure supply-demand balance and the efficient allocation of resources. When traditional economic theory cannot explain and calculate the complex scenes of reality, we require a high-performance computing solution based on traditional theory to evaluate the mechanisms, meanwhile, get better social welfare. The mechanism design theory is undoubtedly the best option. Different from other existing works, which are based on the theoretical exploration of optimal solutions or single perspective analysis of scenarios, this paper focuses on the more real and complex markets. It explores to discover the common difficulties and feasible solutions for the applications. Firstly, we review the history of traditional mechanism design and algorithm mechanism design. Subsequently, we present the main challenges in designing the actual data-driven market mechanisms, including the inherent challenges in the mechanism design theory, the challenges brought by new markets and the common challenges faced by both. In addition, we also comb and discuss theoretical support and computer-aided methods in detail. This paper guides cross-disciplinary researchers who wish to explore the resource allocation problem in real markets for the first time and offers a different perspective for researchers struggling to solve complex social problems. Finally, we discuss and propose new ideas and look to the future."
+  },
+  {
+    "paper_id": "bd3bd0a800400dcd215a0d2fbea4bd8f8fdba95a",
+    "title": "Randomized Pricing with Deferred Acceptance for Revenue Maximization with Submodular Objectives",
+    "year": 2023,
+    "author_ids": [
+      "2115528405",
+      "2112027880",
+      "2047128232",
+      "144066821"
+    ],
+    "venue": "The Web Conference",
+    "citation_count": 11,
+    "abstract": "A lot of applications in web economics need to maximize the revenue under a budget for payments and also guarantee the truthfulness of users, so Budget-Feasible Mechanism (BFM) Design has aroused great interests during last decade. Most of the existing BFMs concentrate on maximizing a monotone submodular function subject to a knapsack constraint, which is insufficient for many applications with complex objectives or constraints. Observing this, the recent studies (e.g., [4, 5, 11]) have considered non-monotone submodular objectives or more complex constraints such as a k-system constraint. In this study, we follow this line of research and propose truthful BFMs with improved performance bounds for non-monotone submodular objectives with or without a k-system constraint. Our BFMs leverage the idea of providing random prices to users while deferring the decision on the final winning set, and are also based on a novel randomized algorithm for the canonical constrained submodular maximization problem achieving better performance bounds compared to the state-of-the-art. Finally, the effectiveness and efficiency of our approach are demonstrated by extensive experiments on several applications about social network marketing, crowdsourcing and personalized recommendation."
+  },
+  {
+    "paper_id": "b555d5c6d388b2a0304a1cc9636c22bf9d3b5f65",
+    "title": "On the Connection between Greedy Algorithms and Imperfect Rationality",
+    "year": 2023,
+    "author_ids": [
+      "1766012",
+      "1798664"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 6,
+    "abstract": "The design of algorithms or protocols that are able to align the goals of the planner with the selfish interests of the agents involved in these protocols is of paramount importance in almost every decentralized setting (such as, computer networks, markets, etc.) as shown by the rich literature in Mechanism Design. Recently, huge interest has been devoted to the design of mechanisms for imperfectly rational agents, i.e., mechanisms for which agents are able to easily grasp that there is no action different from following the protocol that would satisfy their interests better. This work has culminated in the definition of Obviously Strategyproof (OSP) Mechanisms, that have been shown to capture the incentives of agents without contingent reasoning skills. Without an understanding of the algorithmic nature of OSP mechanisms, it is hard to assess how well these mechanisms can satisfy the goals of the planner. For the case of binary allocation problems and agents whose private type is a single number, recent work has shown that a generalization of greedy completely characterizes OSP. In this work, we strengthen the connection between greedy and OSP by providing a characterization of OSP mechanisms for all optimization problems involving these single-parameter agents. Specifically, we prove that OSP mechanisms must essentially work as follows: they either greedily look for agents with \"better\" types and allocate them larger outcomes; or reverse greedily look for agents with \"worse\" types and allocate them smaller outcomes; or, finally, split the domain of agents in \"good\" and \"bad\" types, and subsequently proceed in a reverse greedy fashion for the former and greedily for the latter. We further demonstrate how to use this characterization to give bounds on the approximation guarantee of OSP mechanisms for the well known scheduling related machines problem."
+  },
+  {
+    "paper_id": "060670a5c92cfb3a32368a8d3767da4a8cb51831",
+    "title": "Finding mixed-strategy equilibria of continuous-action games without gradients using randomized policy networks",
+    "year": 2022,
+    "author_ids": [
+      "2108790577",
+      "145714168"
+    ],
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "citation_count": 11,
+    "abstract": "We study the problem of computing an approximate Nash equilibrium of continuous-action game without access to gradients. Such game access is common in reinforcement learning settings, where the environment is typically treated as a black box. To tackle this problem, we apply zeroth-order optimization techniques that combine smoothed gradient estimators with equilibrium-finding dynamics.\n\nWe model players' strategies using artificial neural networks. In particular, we use randomized policy networks to model mixed strategies. These take noise in addition to an observation as input and can flexibly represent arbitrary observation-dependent, continuous-action distributions. Being able to model such mixed strategies is crucial for tackling continuous-action games that lack pure-strategy equilibria.\n\nWe evaluate the performance of our method using an approximation of the Nash convergence metric from game theory, which measures how much players can benefit from unilaterally changing their strategy.\n\nWe apply our method to continuous Colonel Blotto games, single-item and multi-item auctions, and a visibility game.\n\nThe experiments show that our method can quickly find a high-quality approximate equilibrium.\n\nFurthermore, they show that the dimensionality of the input noise is crucial for performance.\n\nTo our knowledge, this paper is the first to solve general continuous-action games with unrestricted mixed strategies and without any gradient information."
+  },
+  {
+    "paper_id": "6ebf4152818c07f7bdcf72f4ebb8fa753622ac4f",
+    "title": "Asymptotically optimal prior-free asset market mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "66397191",
+      "2135866"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "578590a0e2558ecb9d5a606099c0613ad65a8b60",
+    "title": "Markets, market algorithms, and algorithmic bias",
+    "year": 2022,
+    "author_ids": [
+      "1897263798"
+    ],
+    "venue": "Journal of Economic Methodology",
+    "citation_count": 8,
+    "abstract": "ABSTRACT Where economists previously viewed the market as arising from a \u2018spontaneous order\u2019, antithetical to design, they now design markets to achieve specific purposes. This paper reconstructs how this change in what markets are and can do came about and considers some consequences. Two decisive developments in economic theory are identified: first, Hurwicz\u2019s view of institutions as mechanisms, which should be designed to align incentives with social goals; and second, the notion of marketplaces \u2013 consisting of infrastructure and algorithms \u2013 which should be designed to exhibit stable properties. These developments have empowered economists to create marketplaces for specific purposes, by designing appropriate algorithms. I argue that this power to create marketplaces requires a shift in ethical reasoning, from whether markets should reach into certain spheres of life, to how market algorithms should be designed. I exemplify this shift, focusing on bias, and arguing that transparency should become a goal of market design."
+  },
+  {
+    "paper_id": "11f05e672f1b0bffebec66757a35152cef0197a8",
+    "title": "Menu mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "2063998470",
+      "2110632943"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "47fdfee267c2fb04fcf4384395e36196d6f93d8f",
+    "title": "Speculation in Procurement Auctions",
+    "year": 2022,
+    "author_ids": [
+      "120593319"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 2,
+    "abstract": "In anticipation of a procurement auction, speculators have the incentive to consolidate the market by acquiring items from different sellers. By doing so, speculators gain market power and can reduce competition in the procurement auction. Consequently, a speculator's expected gain from the procurement auction may be high and more than enough to cover the acquisition costs. To study the profitability and welfare implications of such a speculation scheme, I incorporate a speculator and a pre-auction acquisition stage in an independent private value procurement auction model. The profitability of the speculation scheme hinges on the auction format. In second-price auctions, the speculator can always obtain a positive expected payoff. In contrast, speculation can be unprofitable in first-price auctions. Furthermore, the expected profit from speculation is always higher in second-price auctions than in first-price auctions. The driving force behind the comparison is the difference in strategic responses of sellers who end up participating in the auction: In first-price auctions, sellers respond to the speculator's participation by bidding more aggressively; while in second-price auctions, this strategic response is absent. The presence of a speculator has non-trivial welfare implications. Since the speculator acquires multiple items solely for the purpose of selling one (at a high price) in the auction, the private values of all but one seller who sell to the speculator are wasted. This implies that speculation activities would induce efficiency losses. Sellers benefit from the presence of the speculator as the speculator overcompensates them for their loss of private values and for skipping the auction. As a result, the speculator's profit comes at the auctioneer's expense. The full paper can be found at https://arxiv.org/pdf/2203.03044.pdf."
+  },
+  {
+    "paper_id": "d64bfb21738dfb32bc563145a26a1c977e6edf71",
+    "title": "Bayesian and Randomized Clock Auctions",
+    "year": 2022,
+    "author_ids": [
+      "3017615",
+      "1775687",
+      "1691062",
+      "1477287242"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 13,
+    "abstract": "In a single-parameter mechanism design problem, a provider is looking to sell some service to a group of potential buyers. Each buyer i has a private value vi for receiving this service, and some feasibility constraint restricts which subsets of buyers can be served simultaneously. Recent work in economics introduced (deferred-acceptance) clock auctions as a superior class of auctions for this problem, due to their transparency, simplicity, and very strong incentive guarantees. Subsequent work in computer science focused on evaluating these auctions with respect to their social welfare approximation guarantees, leading to strong impossibility results: in the absence of prior information regarding the buyers' values, no deterministic clock auction can achieve a bounded approximation, even for simple feasibility constraints with only two maximal feasible sets. We show that these negative results can be circumvented either by using access to prior information or by leveraging randomization. In particular, we provide clock auctions that give a O(log log k) approximation for general downward-closed feasibility constraints with k maximal feasible sets, for three different information models, ranging from full access to the value distributions to complete absence of information. The more information the seller has, the simpler and more practical these auctions are. Under full access, we use a particularly simple deterministic clock auction, called a single-price clock auction, which is only slightly more complex than posted price mechanisms. In this auction, each buyer is offered a single price, then a feasible set is selected among those who accept their offers. In the other extreme, where no prior information is available, this approximation guarantee is obtained using a complex randomized clock auction. In addition to our main results, we propose a parameterization that interpolates between single-price clock auctions and general clock auctions, paving the way for an exciting line of future research."
+  },
+  {
+    "paper_id": "5df405f0b8b21d26c9c85b221aa62fd5ef169639",
+    "title": "Contextually Private Mechanisms",
+    "year": 2021,
+    "author_ids": [
+      "2059769656",
+      "121435111"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 4,
+    "abstract": "Consider a mechanism design environment in which a designer sequentially queries agents' private information to determine the outcome of a choice rule. The designer's social and technological environment constrains the set of access protocols that it can use. In high-tech environments, arbitrary cryptographic protocols are admissible, and so privacy concerns do not constrain the set of available choice rules. In other environments, privacy desiderata are needed to guide design. A protocol is contextually private for a choice rule if each piece of information learned about each participant is needed to determine the outcome. We characterize choice rules that can be implemented with a contextually private protocol under different assumptions about the class of admissible protocols. Under the assumption that private information must be elicited sequentially from uniquely-identified agents, the serial dictatorship and the first-price auction have contextually private implementations. However, no other kth-price auction has a contextually private implementation, nor does any stable choice rule (in college assignment) or individually rational and efficient choice rule (in house assignment). Under a more generous assumption, which additionally allows the designer to anonymously count the number of agents whose private information has a certain property, the designer has wider scope: we describe a contextually private t\u00e2tonnement-like implementation of several choice rules that are not contextually private under the stricter assumption. The full article: https://arxiv.org/abs/2112.10812"
+  },
+  {
+    "paper_id": "c3494e29720fd5a96fe66aae09a197cd6d163b99",
+    "title": "Paul Milgrom et Robert Wilson. De la th\u00e9orie \u00e0 la pratique des ench\u00e8res",
+    "year": 2021,
+    "author_ids": [
+      "14477913"
+    ],
+    "venue": "Revue d' Economie politique",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "f07bcca0acabf52decddb6fc9308c9344006adba",
+    "title": "Orchestrating Information Acquisition",
+    "year": 2021,
+    "author_ids": [
+      "34979384",
+      "40340232",
+      "2112638993"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 9,
+    "abstract": "We study how to orchestrate information acquisition in an environment where bidders endowed with original estimates (\u201ctypes\u201d) about their private values can acquire further information by incurring a cost. We consider both single-round and fully sequential short-listing rules. The optimal single-round shortlisting rule admits the set of most efficient bidders that maximizes expected virtual surplus adjusted by the second-stage signal and information acquisition cost. When shortlisting is fully sequential, at each round, the most efficient remaining bidder is admitted provided that her conditional expected contribution to the virtual surplus is positive. (JEL D44, D82, D83)"
+  },
+  {
+    "paper_id": "9d681be1b7e6d164b9b647b255d3b1de82b0bd8f",
+    "title": "Market Design",
+    "year": 2021,
+    "author_ids": [
+      "2263793843",
+      "122710531",
+      "2076363937"
+    ],
+    "venue": "Complex Social and Behavioral Systems",
+    "citation_count": 24,
+    "abstract": null
+  },
+  {
+    "paper_id": "a58d233bff9379096baf8b43012ae2dba6718f78",
+    "title": "Deterministic Budget-Feasible Clock Auctions",
+    "year": 2021,
+    "author_ids": [
+      "1837833",
+      "1955925521",
+      "1775687",
+      "1477287242",
+      "2112782309"
+    ],
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "citation_count": 19,
+    "abstract": "In the budget-feasible mechanism design problem, an auctioneer with a strict budget constraint is looking to acquire services from a set of self-interested providers. The auctioneer aims to design a polynomial-time strategy-proof mechanism that maximizes the value of the services she acquires, subject to the sum of payments to providers falling within her budget. This problem has attracted a great deal of attention due to its combination of practical relevance and theoretical depth. In \u201cDeterministic Budget-Feasible Clock Auctions,\u201d Balkanski, Garimidi, Gkatzelis, Schoepflin, and Tan provide the first such deterministic mechanism that achieves a constant-factor approximation for instances where the auctioneer\u2019s valuation function is submodular. Moreover, this mechanism achieves an improved approximation even compared with previously known randomized mechanisms, and it takes the form of a clock auction, implying a suite of important properties that make this auction much more practical."
+  },
+  {
+    "paper_id": "31379e76e02f112ef84e75b761c779f16e9e1727",
+    "title": "Discovering Auctions: Contributions of Paul Milgrom and Robert Wilson*",
+    "year": 2021,
+    "author_ids": [
+      "1799601",
+      "3278308",
+      "1794750",
+      "153280673",
+      "3435272"
+    ],
+    "venue": "The Scandinavian Journal of Economics",
+    "citation_count": 13,
+    "abstract": "The 2020 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel was awarded to Paul R. Milgrom and Robert B. Wilson for \u201cimprovements to auction theory and inventions of new auction formats\u201d. In this survey article, we review the contributions of the laureates, emphasizing the subtle interplay between deep theoretical questions and practical design challenges that resulted in one of the most successful fields of economics."
+  },
+  {
+    "paper_id": "51aa7b1129bfe824f9c6eea8b7e0899371cf0eb4",
+    "title": "Incentive Compatibility and Strategy-Proofness of Mechanisms of Organizational Behavior Control: Retrospective, State of the Art, and Prospects of Theoretical Research",
+    "year": 2021,
+    "author_ids": [
+      "31179917",
+      "50814785",
+      "50816521"
+    ],
+    "venue": "Automation and remote control",
+    "citation_count": 9,
+    "abstract": null
+  },
+  {
+    "paper_id": "a401df3898bb20813e7b9dc473f6f683315cd31b",
+    "title": "Can Market Participants Report Their Preferences Accurately (Enough)?",
+    "year": 2021,
+    "author_ids": [
+      "3309574",
+      "35355428"
+    ],
+    "venue": "Management Sciences",
+    "citation_count": 25,
+    "abstract": "In mechanism design theory it is common to assume that agents can perfectly report their preferences, even in complex settings in which this assumption strains reality. We experimentally test whether real market participants can report their real preferences for course schedules \u201caccurately enough\u201d for a novel course allocation mechanism, approximate competitive equilibrium from equal incomes (A-CEEI), to realize its theoretical benefits. To use market participants\u2019 real preferences (i.e., rather than artificial \u201cinduced preferences\u201d as is typical in market design experiments), we develop a new experimental method. Our method, the \u201celicited preferences\u201d approach, generates preference data from subjects through a series of binary choices. These binary choices reveal that subjects prefer their schedules constructed under A-CEEI to their schedules constructed under the incumbent mechanism, a bidding points auction, and that A-CEEI reduces envy, suggesting subjects are able to report their preferences accurately enough to realize the efficiency and fairness benefits of A-CEEI. However, preference-reporting mistakes do meaningfully harm mechanism performance. One identifiable pattern of mistakes was that subjects had relatively more difficulty reporting cardinal as opposed to ordinal preference information. The experiment helped to persuade the Wharton School to adopt the new mechanism and helped guide aspects of its practical implementation, especially around preference reporting. This paper was accepted by Yan Chen, decision analysis."
+  },
+  {
+    "paper_id": "3a1fd39afd07d25cce88065dd875bb7bdd649fdd",
+    "title": "Mechanism Design meets Priority Design: Redesigning the US Army's Branching Process",
+    "year": 2021,
+    "author_ids": [
+      "67066300",
+      "46259490",
+      "1657647840"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": "Army cadets obtain occupations through a centralized process. Three objectives -- increasing retention, aligning talent, and enhancing trust -- have guided reforms to this process since 2006. West Point's mechanism for the Class of 2020 exacerbated challenges implementing Army policy aims. We formulate these desiderata as axioms and study their implications theoretically and with administrative data. We show that the Army's objectives not only determine an allocation mechanism, but also a specific priority policy, a uniqueness result that integrates mechanism and priority design. These results led to a re-design of the mechanism, now adopted at both West Point and ROTC."
+  },
+  {
+    "paper_id": "55ae0ab48ae8857e63d584223a7c3d9b274729fd",
+    "title": "Smart Matching Platforms and Heterogeneous Beliefs in Centralized School Choice",
+    "year": 2021,
+    "author_ids": [
+      "73422077",
+      "118217751",
+      "2833001",
+      "39104315"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 23,
+    "abstract": "Many school districts with centralized school choice adopt strategyproof assignment mechanisms to relieve applicants of the need to strategize on the basis of beliefs about their own admissions chances. This paper shows that beliefs about admissions chances shape choice outcomes even when the assignment mechanism is strategyproof by influencing the way applicants search for schools, and that \u201csmart matching platforms\u201d that provide live feedback on admissions chances help applicants search more effectively. Motivated by a model in which applicants engage in costly search for schools and over-optimism can lead to under-search, we use data from a large-scale survey of choice participants in Chile to show that learning about schools is hard, that beliefs about admissions chances guide the decision to stop searching, and that applicants systematically underestimate non-placement risk. We then use RCT and RD research designs to evaluate live feedback policies in the Chilean and New Haven choice systems. 22% of applicants submitting applications where risks of non-placement are high respond to warnings by adding schools to their lists, reducing non-placement risk by 58%. These results replicate across settings and over time. Reducing the strategic burden of school choice requires not just strategyproofness inside the centralized system, but also choice supports for the strategic decisions that inevitably remain outside of it."
+  },
+  {
+    "paper_id": "b3b93f52a04850dcbc710738e76e59118eb9773e",
+    "title": "Auction Research Evolving: Theorems and Market Designs",
+    "year": 2021,
+    "author_ids": [
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 29,
+    "abstract": null
+  },
+  {
+    "paper_id": "2e5ee7b0d180a25bd5632488eb692dee216afd14",
+    "title": "Dynamic communication mechanism design",
+    "year": 2021,
+    "author_ids": [
+      "2249721"
+    ],
+    "venue": "Social Choice and Welfare",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "55ce8d94bdf0c9c48de288d556118e2df9804807",
+    "title": "Asymmetric effects of sectoral shifts under low and high uncertainty",
+    "year": 2021,
+    "author_ids": [
+      "71335558",
+      "32528502"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "d92c51c8e8ad271851d975368e63100fa0d4653a",
+    "title": "Nobelpreis f\u00fcr Robert Wilson und Paul Milgrom: Zwei \u00d6konomen, die echte M\u00e4rkte schufen",
+    "year": 2020,
+    "author_ids": [
+      "2391644"
+    ],
+    "venue": "Wirtschaftsdienst",
+    "citation_count": 1,
+    "abstract": "Robert Wilson und Paul Milgrom erhielten am 10. Dezember 2020 den Preis der Schwedischen Nationalbank f\u00fcr Wirtschaftswissenschaften zu Ehren von Alfred Nobel. Die \u00d6konomen erhielten den Preis f\u00fcr ihre Beitr\u00e4ge zur Auktionstheorie und f\u00fcr die Entwicklung neuer Auktionsformate."
+  },
+  {
+    "paper_id": "0eaa81d04a2c6fb8abab8fe7549e335e28673c9b",
+    "title": "Crowd-Sourcing for Data Science and Quantifiable Challenges: Optimal Contest Design",
+    "year": 2020,
+    "author_ids": [
+      "143735363",
+      "2202531",
+      "2092147279"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": "We study the optimal design of a crowd-sourcing contest in settings where the output (from the contestants) is quantifiable -- for example, a data science challenge. This setting is in contrast to settings where the output is only qualitative and cannot be quantified in an objective manner -- for example, when the goal of the contest is to design a logo. The rapidly growing literature on the design of crowd-sourcing contests focuses largely on ordinal contests -- these are contests where contestants' outputs are ranked by the organizer and awards are based on the relative ranks. Such contests are ideally suited for the latter setting, where output is qualitative. For our setting (quantitative output), it is possible to design contests where awards are based on the actual outputs and not on their ranking alone -- thus, our space of contest designs includes ordinal contests but is significantly larger. We derive an easy-to-implement contest design for this setting and establish its optimality."
+  },
+  {
+    "paper_id": "04e4cde4a7fd77594410e5500c0f93f13a1c17eb",
+    "title": "Pareto efficient combinatorial auctions: dichotomous preferences without quasilinearity",
+    "year": 2020,
+    "author_ids": [
+      "2074264008",
+      "3241518"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 14,
+    "abstract": "We consider a combinatorial auction model where preferences of agents over bundles of objects and payments need not be quasilinear. However, we restrict the preferences of agents to be dichotomous. An agent with dichotomous preference partitions the set of bundles of objects as acceptable} and unacceptable, and at the same payment level, she is indifferent between bundles in each class but strictly prefers acceptable to unacceptable bundles. We show that there is no Pareto efficient, dominant strategy incentive compatible (DSIC), individually rational (IR) mechanism satisfying no subsidy if the domain of preferences includes all dichotomous preferences. However, a generalization of the VCG mechanism is Pareto efficient, DSIC, IR and satisfies no subsidy if the domain of preferences contains only positive income effect dichotomous preferences. We show the tightness of this result: adding any non-dichotomous preference (satisfying some natural properties) to the domain of quasilinear dichotomous preferences brings back the impossibility result."
+  },
+  {
+    "paper_id": "3cc9f22d0995ca299619fdaa4cb93a0a63cb7547",
+    "title": "Strategyproof auction mechanisms for network procurement",
+    "year": 2020,
+    "author_ids": [
+      "1724595",
+      "97942561",
+      "1659149698",
+      "2215457"
+    ],
+    "venue": "OR spectrum",
+    "citation_count": 7,
+    "abstract": "Deferred-acceptance auctions can be seen as heuristic algorithms to solve NP\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${{\\mathcal {N}}}{{\\mathcal {P}}}$$\\end{document}-hard allocation problems. Such auctions have been used in the context of the Incentive Auction by the US Federal Communications Commission in 2017, and they have remarkable incentive properties. Besides being strategyproof, they also prevent collusion among participants. Unfortunately, the worst-case approximation ratio of these algorithms is very low in general, but it was observed that they lead to near-optimal solutions in experiments on the specific allocation problem of the Incentive Auction. In this work, which is inspired by the telecommunications industry, we focus on a strategic version of the minimum Steiner tree problem, where the edges are owned by bidders with private costs. We design several deferred-acceptance auctions (DAAs) and compare their performance to the Vickrey\u2013Clarke\u2013Groves (VCG) mechanism as well as several other approximation mechanisms. We observe that, even for medium-sized inputs, the VCG mechanisms experiences impractical runtimes and that the DAAs match the approximation ratios of even the best strategy-proof mechanisms in the average case. We thus provide another example of an important practical mechanism design problem, where empirics suggest that carefully designed deferred-acceptance auctions with their superior incentive properties need not come at a cost in terms of allocative efficiency. Our experiments provide insights into the trade-off between solution quality and runtime and into the additional premium to be paid in DAAs to gain weak group-strategyproofness rather than just strategyproofness."
+  },
+  {
+    "paper_id": "f84a8d918f37c7722b8c336868eb0b0e60002a0f",
+    "title": "Two-way Greedy: Algorithms for Imperfect Rationality",
+    "year": 2020,
+    "author_ids": [
+      "1766012",
+      "143686590",
+      "1798664"
+    ],
+    "venue": "Workshop on Internet and Network Economics",
+    "citation_count": 17,
+    "abstract": "The realization that selfish interests need to be accounted for in the design of algorithms has produced many interesting and valuable contributions in computer science under the general umbrella of algorithmic mechanism design. Our work stems from the observation that selfishness is different from rationality; agents will attempt to strategize whenever they perceive it to be convenient. Recent work in economics has focused on a particular notion of imperfect rationality, namely absence of contingent reasoning skills, and defined obvious strategyproofness (OSP) as a way to deal with the selfishness of these agents. However, it is not clear to date what algorithmic approaches ought to be used for OSP. In this article, we rather surprisingly show that, for binary allocation problems, OSP is fully captured by a natural combination of two well-known and extensively studied algorithmic techniques: forward and reverse greedy. We call two-way greedy this underdeveloped algorithmic design paradigm. We are then able to import a host of known approximation bounds obtained through greedy algorithms to OSP and strengthen the strategic properties of this family of algorithms. Finally, we begin exploring the full power of two-way greedy (and, in turns, OSP) in the context of set systems."
+  },
+  {
+    "paper_id": "82fafc83cd7cd46dd58a34a73f849db6145acde5",
+    "title": "Incentive Auction Design Alternatives: A Simulation Study",
+    "year": 2020,
+    "author_ids": [
+      "32024946",
+      "1388404060",
+      "48548583",
+      "11384921"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 6,
+    "abstract": "Over 13 months in 2016-17 the US Federal Communications Commission (FCC) conducted an \"incentive auction\" to repurpose radio spectrum from broadcast television to wireless internet. The result of the auction was to remove 14 UHF-TV channels from broadcast use, sell 70 MHz of wireless internet licenses for $19.8 billion, and create 14 MHz of spectrum for unlicensed uses. With fewer UHF channels remaining for TV broadcast, the TV spectrum was also reorganized. Each station was either \"repacked\" in the leftover channels or voluntarily sold its broadcast rights, either going off the air or switching to a different band. The volunteers received a total of $10.05 billion to yield or exchange their rights and make repacking possible. This paper uses a computational lens to revisit part of the incentive auction design: the descending clock \"reverse\" auction used to procure broadcast rights. We investigated the quantitative significance of various aspects of the design by running extensive simulations, leveraging a reverse auction simulator and realistic models of bidder values. Because the incentive auction design was both novel and extremely complex [1], it was not possible to thoroughly consider every potential design variation before the auction was run. Our goal is to understand how well the auction design performed after the fact, particularly asking which elements of the design were most important and which variations of the design might have led to even better outcomes."
+  },
+  {
+    "paper_id": "ad2a11a36ae3162e0b189afadc7baf74aa72caa3",
+    "title": "Asymptotically optimal prior-free clock auctions",
+    "year": 2020,
+    "author_ids": [
+      "66397191",
+      "2135866"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 22,
+    "abstract": "Clock auctions have a number of properties that make them attractive for practical purposes. They are weakly group strategy-proof, make bidding truthfully an obviously dominant strategy, and preserve trading agents' privacy. However, optimal reserve prices and stopping rules depend on the details of underlying distributions, and so clock auctions have proved challenging to implement in a prior-free, asymptotically optimal way. In this paper, we develop a prior-free clock auction that is asymptotically optimal by exploiting a relationship between hazard rates and the spacings between order statistics. Extensions permit price discrimination among heterogeneous groups, minimum revenue thresholds, and quantity caps."
+  },
+  {
+    "paper_id": "74ba8c96aea62e6074e2dbecd918ed312b85f351",
+    "title": "Incentive-Compatible Auction Mechanisms for Network Procurement",
+    "year": 2020,
+    "author_ids": [
+      "1724595",
+      "2215457",
+      "1659149698"
+    ],
+    "venue": "Wirtschaftsinformatik",
+    "citation_count": 0,
+    "abstract": ". The allocation of scarce resources is an important task in information systems. We focus on network procurement where a telecommunications provider aims to connect specific nodes in a network. To establish connection between nodes, the provider needs to buy the respective edge. In this strategic version of the Steiner Minimum Tree problem the edges are owned by bidders with private costs. Thus, in order to find an efficient solution, a mechanism that incentivizes participants to state their costs truthfully and runs in polynomial time is required. Recently, deferred-acceptance auctions have been proposed to solve NP-hard allocation problems. We implement several approximation mechanisms and provide an extensive experimental analysis comparing the average-case solution quality of deferred-acceptance algorithms with that of traditional approximation algorithms. We find that deferred-acceptance algorithms are comparable or even outperform the best approximation algorithms on instances from the SteinLib test data collection."
+  },
+  {
+    "paper_id": "e8f65e6c06d681adf250145fb2e1a035a6b4a39d",
+    "title": "A dominant-strategy asset market mechanism",
+    "year": 2020,
+    "author_ids": [
+      "66397191",
+      "2135866"
+    ],
+    "venue": "Games Econ. Behav.",
+    "citation_count": 9,
+    "abstract": "Asset markets\u2014institutions that reallocate goods among agents with heterogeneous endowments, demands, and valuations\u2014abound in the real world but have received little attention in mechanism and market design. Assuming constant marginal, private values and known endowments and maximum demands, we provide a detail-free, dominant-strategy asset market mechanism that allocates efficiently or close to efficiently, respects traders' individual rationality constraints ex post, and never runs a deficit. If it does not allocate efficiently, it sacrifices the trades that under efficiency would involve the lowest-value trader who efficiently would be allocated a positive amount. The mechanism always allocates the quantity traded efficiently and permits clock implementation. As the market becomes large, the mechanism's efficiency loss converges to zero under natural conditions."
+  },
+  {
+    "paper_id": "b2211e93d702096bf1955871c662fa1fb9b51e63",
+    "title": "Investment Incentives in Near-Optimal Mechanisms",
+    "year": 2020,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 8,
+    "abstract": "In many real-world resource allocation problems, optimization is computationally intractable, so any practical allocation mechanism must be based on an approximation algorithm. We study investment incentives in strategy-proof mechanisms that use such approximations. In sharp contrast with the Vickrey-Clark-Groves mechanism, for which individual returns on investments are aligned with social welfare, we find that some algorithms that approximate efficient allocation arbitrarily well can nevertheless create misaligned investment incentives that lead to arbitrarily bad overall outcomes. However, if a near-efficient algorithm \"excludes bossy negative externalities,\" then its outcomes remain near-efficient even after accounting for investments. A weakening of this \"XBONE\" condition is necessary and sufficient for the result."
+  },
+  {
+    "paper_id": "1d592300cfd2b7cfcc58d644872c04234c577dcf",
+    "title": "Complexity Theory, Game Theory, and Economics: The Barbados Lectures",
+    "year": 2020,
+    "author_ids": [
+      "1712542"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": "This document collects the lecture notes from my mini-course \"Complexity Theory, Game Theory, and Economics,\" taught at the Bellairs Research Institute of McGill University, Holetown, Barbados, February 19--23, 2017, as the 29th McGill Invitational Workshop on Computational Complexity. The goal of this mini-course is twofold: (i) to explain how complexity theory has helped illuminate several barriers in economics and game theory; and (ii) to illustrate how game-theoretic questions have led to new and interesting complexity theory, including recent several breakthroughs. It consists of two five-lecture sequences: the Solar Lectures, focusing on the communication and computational complexity of computing equilibria; and the Lunar Lectures, focusing on applications of complexity theory in game theory and economics. No background in game theory is assumed."
+  },
+  {
+    "paper_id": "3f0908a507f09ed28d3532cc6e0509f88645e20e",
+    "title": "A dominant strategy double clock auction with estimation\u2010based t\u00e2tonnement",
+    "year": 2020,
+    "author_ids": [
+      "66397191",
+      "1902918"
+    ],
+    "venue": null,
+    "citation_count": 13,
+    "abstract": "The price mechanism is fundamental to economics but di\ufb03cult to reconcile with incentive compatibility and individual rationality. We introduce a double clock auction for a homogeneous good market with multi-dimensional private information and multi-unit traders that is de\ufb01cit-free, ex post individually rational, constrained e\ufb03cient, and makes sincere bidding a dominant strategy equilibrium. Under a weak dependence and an identi\ufb01ability condition, our double clock auction is also asymptotically e\ufb03cient. Asymptotic e\ufb03ciency is achieved by estimating demand and supply using information from the bids of traders that have dropped out and following a tatonnement process that adjusts the clock prices based on the estimates."
+  },
+  {
+    "paper_id": "74fe351f964a30198ba5573ef10282d0dcb99ebc",
+    "title": "Stability in Matching Markets with Complex Constraints",
+    "year": 2019,
+    "author_ids": [
+      "144299590",
+      "2110523580",
+      "1799601"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 33,
+    "abstract": "We consider a new model of many-to-one matching markets in which agents with multi-unit demand aim to maximize a cardinal linear objective subject to multidimensional knapsack constraints. The choice functions of agents with multi-unit demand are therefore not substitutable. As a result, pairwise stable matchings may not exist and, even when they do, may be highly inefficient. We provide an algorithm that finds a group-stable matching that approximately satisfies all the multidimensional knapsack constraints. The degree of the constraint violation is proportional to the sparsity of the constraint matrix. The algorithm therefore provides practical error bounds for applications in several contexts, such as refugee resettlement, matching of children to daycare centers, and meeting diversity requirements in colleges. A novel ingredient in our algorithm is a combination of matching with contracts and Scarf's Lemma."
+  },
+  {
+    "paper_id": "eb06b03293beddda3d88a3d42a4992a4edb6edf8",
+    "title": "A Theory of Stock Exchange Competition and Innovation: Will the Market Fix the Market?",
+    "year": 2019,
+    "author_ids": [
+      "3309574",
+      "2237417103",
+      "2306064134"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 23,
+    "abstract": "Will stock exchanges innovate to address latency arbitrage and the arms race for speed? This paper models how exchanges compete in the modern electronic era and how this shapes incentives for market-design innovation. In the status quo, exchange trading fees are competitive, but exchanges earn economic rents from selling speed. These rents create a wedge between private and social incentives to innovate and support the persistence of an inefficient market design in equilibrium of a market-design adoption game. We discuss implications for policy and insights for the literatures on market design, innovation, and platforms."
+  },
+  {
+    "paper_id": "4e31f149bc9558cbde06a0497c4d9524b31692bc",
+    "title": "Will the Market Fix the Market? A Theory of Stock Exchange Competition and Innovation",
+    "year": 2019,
+    "author_ids": [
+      "3309574",
+      "2237417103",
+      "2306064134"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 28,
+    "abstract": "Will the market adopt new market designs that address the negative aspects of high-frequency trading? This paper builds a theoretical model of stock exchange competition, shaped by institutional and regulatory details of the U.S. equities market. We show that under the status quo market design: (i) trading behavior across the many distinct exchanges is as if there is just a single \u201csynthesized\u201d exchange; (ii) as a result, trading fees are perfectly competitive; but (iii) exchanges capture and maintain significant economic rents from the sale of \u201cspeed technology\u201d (i.e., proprietary data feeds and co-location)\u2014arms for the high-frequency trading arms race. Using a variety of data, we document seven stylized empirical facts that suggest that the model captures the essential economics of how U.S. stock exchanges compete and make money in the modern era. We then use the model to examine the private and social incentives for market design innovation. We find that while the social returns to market design innovation are large, the private returns are much smaller and may be negative, especially for incumbents that derive rents in the status quo from selling speed technology."
+  },
+  {
+    "paper_id": "ce7f2e88a4890a41d0233737db859aa6ec6042a9",
+    "title": "Interdistrict school choice: A theory of student assignment",
+    "year": 2018,
+    "author_ids": [
+      "1856823",
+      "49962196",
+      "2080659150",
+      "2043421",
+      "48303462",
+      "1756305",
+      "2096842824",
+      "2325182942",
+      "123908228",
+      "2417774191"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 27,
+    "abstract": "Interdistrict school choice programs\u2014where a student can be assigned to a school outside of her district\u2014are widespread in the US, yet the market-design literature has not considered such programs. We introduce a model of interdistrict school choice and present two mechanisms that produce stable or efficient assignments. We consider three cate- gories of policy goals on assignments and identify when the mechanisms can achieve them. By introducing a novel framework of interdistrict school choice, we provide a new avenue of research in market design."
+  },
+  {
+    "paper_id": "f514e68271886bd9e06a6e26c0c26006a9cec329",
+    "title": "Complexity Theory, Game Theory, and Economics",
+    "year": 2018,
+    "author_ids": [
+      "1712542"
+    ],
+    "venue": "Electron. Colloquium Comput. Complex.",
+    "citation_count": 6,
+    "abstract": "This document collects the lecture notes from my mini-course \"Complexity Theory, Game Theory, and Economics,\" taught at the Bellairs Research Institute of McGill University, Holetown, Barbados, February 19--23, 2017, as the 29th McGill Invitational Workshop on Computational Complexity. \nThe goal of this mini-course is twofold: (i) to explain how complexity theory has helped illuminate several barriers in economics and game theory; and (ii) to illustrate how game-theoretic questions have led to new and interesting complexity theory, including recent several breakthroughs. It consists of two five-lecture sequences: the Solar Lectures, focusing on the communication and computational complexity of computing equilibria; and the Lunar Lectures, focusing on applications of complexity theory in game theory and economics. No background in game theory is assumed."
+  },
+  {
+    "paper_id": "542a2a9b9a69cc381390afbb9738b219aa436cf8",
+    "title": "Ownership Concentration and Strategic Supply Reduction",
+    "year": 2016,
+    "author_ids": [
+      "2237502",
+      "1703133",
+      "15793844",
+      "152702658"
+    ],
+    "venue": "The American Economic Review",
+    "citation_count": 10,
+    "abstract": "We explore the implications of ownership concentration for the recently concluded incentive auction that repurposed spectrum from broadcast TV to mobile broadband usage in the United States. We document significant multilicense ownership of TV stations. We show that in the reverse auction, in which TV stations bid to relinquish their licenses, multilicense owners have an incentive to withhold some TV stations to drive up prices for their remaining TV stations. Using a large-scale valuation and simulation exercise, we find that this strategic supply reduction increases payouts to TV stations by between 13.5 percent and 42.4 percent. (D44, D47, H82, L13, L82, L88)"
+  },
+  {
+    "paper_id": "970e099c7716b18dd72833a49dab9d59661e8cfd",
+    "title": "Triple Eagle: Simple, Fast and Practical Budget-Feasible Mechanisms",
+    "year": 2023,
+    "author_ids": [
+      "2289780607",
+      "2405004872",
+      "2115528405",
+      "2047128232"
+    ],
+    "venue": "Neural Information Processing Systems",
+    "citation_count": 5,
+    "abstract": "We revisit the classical problem of designing Budget-Feasible Mechanisms (BFMs) for submodular valuation functions, which has been extensively studied since the seminal paper of Singer [FOCS\u201910] due to its wide applications in crowdsourcing and social marketing. We propose TripleEagle , a novel algorithmic framework for designing BFMs, based on which we present several simple yet effective BFMs that achieve better approximation ratios than the state-of-the-art work for both monotone and non-monotone submodular valuation functions. Moreover, our BFMs are the first in the literature to achieve linear complexities while ensuring obvious strategyproofness, making them more practical than the previous BFMs. We conduct extensive experiments to evaluate the empirical performance of our BFMs, and the experimental results strongly demonstrate the efficiency and effectiveness of our approach."
+  },
+  {
+    "paper_id": "832b85b0d44d1e92a0790d81b58d20333bde5ea7",
+    "title": "Algorithmic Mechanism Design With Investment",
+    "year": 2023,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 3,
+    "abstract": "We study the investment incentives created by truthful mechanisms that allocate resources using approximation algorithms. Some approximation algorithms guarantee nearly 100% of the optimal welfare in the allocation problem but guarantee nothing when accounting for investment incentives. An algorithm's allocative and investment guarantees coincide if and only if its \n confirming negative externalities are sufficiently small. We introduce fast approximation algorithms for the knapsack problem that have no confirming negative externalities and guarantees close to 100% for both allocation and investment.\n"
+  },
+  {
+    "paper_id": "55eb0fe8334022b88c2167dd5950b4e1cc2776f0",
+    "title": "Mechanism Design: (Ir)Rationality and Obvious Strategyproofness",
+    "year": 2023,
+    "author_ids": [
+      "1766012",
+      "1798664"
+    ],
+    "venue": "DP@AI*IA",
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "b0be91b0f156b23969c0df0701789b9fabb859c8",
+    "title": "Optimal Deterministic Clock Auctions and Beyond",
+    "year": 2022,
+    "author_ids": [
+      "2058768953",
+      "1775687",
+      "1477287242"
+    ],
+    "venue": "Information Technology Convergence and Services",
+    "citation_count": 10,
+    "abstract": null
+  },
+  {
+    "paper_id": "2051205cedac3a13dc95689b7432c93dd05c15fe",
+    "title": "Contextually Private Implementation",
+    "year": 2022,
+    "author_ids": [
+      "2059769656"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "8fee187102ccded768062b55cc4ec84a53e4c3e3",
+    "title": "Investment Incentives in Truthful Approximation Mechanisms",
+    "year": 2022,
+    "author_ids": [
+      "153280673",
+      "1794750",
+      "49243436",
+      "3278308",
+      "48548583"
+    ],
+    "venue": null,
+    "citation_count": 3,
+    "abstract": null
+  },
+  {
+    "paper_id": "df344becfa0cc9be0c1293288e3d8a401208aa63",
+    "title": "Do environmental markets improve allocative efficiency? Evidence from U.S. air pollution",
+    "year": 2022,
+    "author_ids": [
+      "144791117",
+      "122301511"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "aa4a4eaeff1f96c3860c3cccff1b17563db19041",
+    "title": "TRADE-RESTRICTED COMPETITIVE EQUILIBRIUM",
+    "year": 2021,
+    "author_ids": [
+      "11578728"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": null
+  },
+  {
+    "paper_id": "42d056f3fbcbcb7370b2bea619fbe2c6ed07161c",
+    "title": "Privacy Desiderata in Mechanism Design \u2217",
+    "year": 2021,
+    "author_ids": [
+      "2059769656"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "b7a2d3967481461e15d5ea5832d188cd7f41670f",
+    "title": "Double Marginalization and Vertical Integration",
+    "year": 2021,
+    "author_ids": [
+      "2114506",
+      "2355341",
+      "70093775"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 6,
+    "abstract": "Asymmetric information in procurement entails double marginalization. The phenomenon is most severe when the buyer has all the bargaining power at the production stage, while it vanishes when the buyer and suppliers\u2019 weights are balanced. Vertical integration eliminates double marginalization and reduces the likelihood that the buyer purchases from independent suppliers. Conditional on market foreclosure, the probability that final consumers are harmed is positive only if the buyer has more bargaining power when selecting suppliers than when negotiating over quantities and intermediate prices. The buyer\u2019s and consumers\u2019 interests are otherwise aligned. JEL-Codes: L100, L400, D400, D800."
+  },
+  {
+    "paper_id": "770a44041990854985d3b1293c6f6c53833d861d",
+    "title": "10 CHAPTER Market design \u2729",
+    "year": 2021,
+    "author_ids": [
+      "2112548219",
+      "3309574"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  }
+]

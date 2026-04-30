@@ -1,0 +1,297 @@
+[
+  {
+    "paper_id": "5f5660a70f1be56c274a63d6e864849f9056ee01",
+    "title": "Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure",
+    "year": 2025,
+    "author_ids": [
+      "2131591971",
+      "2269762011",
+      "2269823515",
+      "2386879959"
+    ],
+    "venue": "Manufacturing &amp; Service Operations Management",
+    "citation_count": 0,
+    "abstract": "Problem Definition: This study examines a seller\u2019s joint information disclosure and pricing decisions when launching a new product with an easy-to-communicate objective attribute and a hard-to-describe subjective attribute. We analyze how consumer search cost, inventory level, and channel structure shape the seller\u2019s optimal information strategy. Results: For brick-and-mortar retailing, the seller should conceal (disclose) attribute information when the search cost is low (high). Interestingly, when the inventory level is high, the seller conceals information to retain the \u201cdiamond-in-the-rough\u201d consumers, aiming to match the abundant inventory with high demand. Conversely, when inventory is low, the seller discloses information to dissuade some consumers with low objective valuations from searching, thereby reducing demand and alleviating consumers\u2019 concerns about product availability. Thus, the seller strategically uses attribute information to balance search and stock. This result remains robust under extensions such as partial disclosure, atomic consumers, and efficient allocation. Moreover, intensified demand-side competition (e.g., a larger consumer base) can unexpectedly reduce the seller\u2019s revenue because of price markdown pressures to ease consumers\u2019 concerns about competition. In an omnichannel setting, where an online channel supplements physical retail, a high inventory level may reverse the optimal information policy. Managerial Implications: Our findings offer insights into how demand-side factors (e.g., search cost) and supply-side factors (e.g., inventory level and channel structure) shape optimal disclosure. We also reveal risks associated with demand-side competition.\n Funding: X. Fu acknowledges financial support from the University of New South Wales [UNSW Business School Dean\u2019s Research Fellowship]. P. Gao\u2019s research is supported by the National Natural Science Foundation of China [Grants 72522026, 72201234, 72192805], the Collaborative Research Funding Hong Kong [Grant C6032-21G], the Guangdong Provincial Key Laboratory of Mathematical Foundations for Artificial Intelligence [Grant 2023B1212010001], and industry collaborators including Meituan and Fengyi Technology. Y.-J. Chen acknowledges financial support from the Hong Kong Research Grants Council [Grants 16501722, 16212821, and C6020-21GF].\n Supplemental Material: The online appendix is available at https://doi.org/10.1287/msom.2023.0288 ."
+  },
+  {
+    "paper_id": "fea2e6140586051b984d7212dd9a1ca80ec4fde8",
+    "title": "Competitive price discrimination, imperfect information, and consumer search",
+    "year": 2025,
+    "author_ids": [
+      "2106731417"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": "I analyse a homogeneous goods framework where firms receive binary and noisy signals about consumer valuations and consumers engage in sequential search. Firms have no information about consumers\u2019 search histories in the baseline model. Different search costs give rise to structurally different equilibria. In the unique symmetric purestrategy equilibrium with search on the equilibrium path, prices and firm profits are higher than in any other symmetric pure-strategy equilibrium. The equilibrium with on-path search can only be sustained when search costs are at an intermediate level. At low search costs, an equilibrium is played in which there is no on-path search, but consumers use the threat of searching to ensure low prices. Search cost reductions have non-monotonic effects on consumer welfare. When firms have access to consumers\u2019 search histories, no symmetric pure-strategy equilibrium with on-path search exists. Firms benefit from having search history information only when search costs are low."
+  },
+  {
+    "paper_id": "297778f87ce66c6ac652fc89744c68aed9f02ab7",
+    "title": "On the Alignment of Consumer Surplus and Total Surplus under Competitive Price Discrimination",
+    "year": 2025,
+    "author_ids": [
+      "2281363439",
+      "32074566",
+      "2238495821"
+    ],
+    "venue": "American Economic Journal: Microeconomics",
+    "citation_count": 1,
+    "abstract": "We study the role of information in Bertrand competition with differentiated goods and heterogeneous production costs. When producers know their costs and consumers know their values, consumer surplus and total surplus are aligned, in the sense that the information and equilibrium that maximize consumer surplus also maximize total surplus. Alignment may fail if consumers do not know their values: Partial information about values makes purchases less efficient but intensifies price competition. We illustrate this within a Hotelling duopoly framework. (JEL D11, D43, D82, D83)"
+  },
+  {
+    "paper_id": "ef7c81b932b01fa1bd19183faf713c5d8beb4f85",
+    "title": "The Limits of Search Algorithms",
+    "year": 2025,
+    "author_ids": [
+      "2109385364",
+      "2348672944",
+      "2177338578"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": "A platform commits to a search algorithm that maps prices to search order. Given this algorithm, sellers set prices, and consumers engage in sequential search. This framework generalizes the ordered search literature. We introduce a special class of search algorithms, termed ''contracts,'' show that they implement all possible equilibrium prices and then characterize the set of implementable prices. Within this set, we identify the seller-optimal contract, whose first-best outcome remains an open problem for a multiproduct seller. Our findings highlight the conditions under which the platform favors price dispersion or price symmetry. Furthermore, we characterize the consumer-optimal and socially optimal contracts, which exert opposing forces to the seller-optimal contract: while the seller-optimal contract promotes higher prices, the consumer-optimal and socially optimal contracts favor lower prices."
+  },
+  {
+    "paper_id": "07673f83591db44161212b0efa0ee3e461cd61f8",
+    "title": "Heterogeneous Price Technologies",
+    "year": 2025,
+    "author_ids": [
+      "70108459"
+    ],
+    "venue": "Journal of Industrial Economics",
+    "citation_count": 0,
+    "abstract": "We present a unified theory of dynamic oligopoly pricing with heterogeneous information technologies on each side of the market. Trackers (on the firm\u2010side) and shoppers (on the consumer\u2010side) can follow market prices costlessly, whereas non\u2010trackers and non\u2010shoppers cannot. We describe both non\u2010collusive and collusive equilibria. While the effects of tracking may be non\u2010monotone, the presence of trackers generally harms consumers. The price pattern that arises with trackers and non\u2010trackers reconciles a multitude of cross\u2010sectional price patterns, such as persistent price differences and adherence to or avoidance of certain prices. We find that non\u2010trackers can counter tracker collusion by applying a limit\u2010price strategy."
+  },
+  {
+    "paper_id": "dea1bf64bdf079c7fc3a399e7b125996f5acee2d",
+    "title": "When is competition price\u2010increasing? The impact of expected competition on prices",
+    "year": 2024,
+    "author_ids": [
+      "153087050"
+    ],
+    "venue": "The Rand Journal of Economics",
+    "citation_count": 0,
+    "abstract": "We examine the effect of expected competition on markups in a random utility model where the number of competing firms may differ across consumers. Firms observe consumers' utility shocks and set prices using personalized pricing. We derive a precise condition under which the expected markup across consumers can be represented by a simple expression involving consumers' expected utility and the expected demand. This delivers a general condition under which greater expected competition is price\u2010increasing. Whether this condition holds depends on the distribution of utility shocks, consumers' outside option, the expected number of competing firms, and the distribution of the number of firms competing for each\u00a0consumer."
+  },
+  {
+    "paper_id": "e46de3c801481e230df42c6532d89b8d658bad1c",
+    "title": "Search and Price Discrimination Online",
+    "year": 2024,
+    "author_ids": [
+      "101616169"
+    ],
+    "venue": "Journal of Political Economy Microeconomics",
+    "citation_count": 8,
+    "abstract": "I study limited price discrimination based on search costs. \"Shoppers\" have a zero and \"nonshoppers\" a positive search cost. A consumer faces a nondiscriminatory \"common\" price with some probability, or a discriminatory price. In equilibrium, firms mix over the common and the shoppers' discriminatory prices, but set a singleton nonshoppers' discriminatory price. Less likely price discrimination mostly benefits consumers. An individual firm's profit can increase in the number of firms. These results have important implications for regulations that limit price discrimination via reduced tracking (e.g., EU's GDPR, California's CCPA) and for evaluating competition online based on the number of firms."
+  },
+  {
+    "paper_id": "4b1b555a48c4d646fd6d8a66e7cff4acb8c80ffe",
+    "title": "Strategic limitation of market accessibility: Search platform design and welfare",
+    "year": 2024,
+    "author_ids": [
+      "2221732925",
+      "2282349145",
+      "1796540384"
+    ],
+    "venue": "Journal of Economics Theory",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "de16d53910258ee6a83fca432d4536cbcdd593db",
+    "title": "Mediated Collusion",
+    "year": 2023,
+    "author_ids": [
+      "1741110473",
+      "1836323",
+      "1818256"
+    ],
+    "venue": "Journal of Political Economy",
+    "citation_count": 5,
+    "abstract": "Cartels and bidding rings are often facilitated by intermediaries, who recommend prices/bids to firms and can impose penalties (such as reverting to competitive behavior in future interactions) if these recommendations are not followed. Motivated by such cases, we study correlated equilibria in first-price procurement auctions with complete information, where bidders who disobey their recommendations are penalized. Cartel-optimal profit is greater when more information about submitted bids is disclosed at auction and when the maximum penalty is larger. When only the winner\u2019s identity is disclosed (or the winner\u2019s identity and bid), cartels do not benefit from mediation. Our main result characterizes the cartel-optimal equilibrium with two symmetric bidders when both bids are disclosed. The optimal equilibrium involves extensive randomization and displays tied bids and high winning bids with positive probability, even when the maximum penalty is very small. The stationary mediation schemes we consider are always more profitable for the cartel than bid rotation."
+  },
+  {
+    "paper_id": "4254e09065691626aaa112ed5c98f10fee7f2953",
+    "title": "Information Design of Online Platforms",
+    "year": 2023,
+    "author_ids": [
+      "2284007348",
+      "2110495183",
+      "2149494304"
+    ],
+    "venue": "ACM Conference on Economics and Computation",
+    "citation_count": 16,
+    "abstract": "We consider the strategic use of information by an online platform to both guide consumers' search through product recommendations and influence sellers' targeted advertising decision. Drawing on Bayesian persuasion, we posit that the platform can design a public signal that influences the beliefs of both consumers and sellers. Upon observing the signal, a consumer can conduct a sequential search with perfect recall among the sellers. After visiting a seller, the consumer observes the product price and whether the product is a match or not. Sellers set prices and decide how much to bid in an ad auction for each consumer, where the winner is granted a prominent position. The consumer can obtain the price and match information of the seller in the prominent position at no cost, but incur search cost to visit additional sellers."
+  },
+  {
+    "paper_id": "9a279c3c29aa72ee5bc47711091d209db01ea09c",
+    "title": "Data, Competition, and Digital Platforms",
+    "year": 2023,
+    "author_ids": [
+      "2616138",
+      "10689883"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 62,
+    "abstract": "A monopolist platform uses data to match heterogeneous consumers with multiproduct sellers. The consumers can purchase the products on the platform or search off the platform. The platform sells targeted ads to sellers that recommend their products to consumers and reveals information to consumers about their match values. The revenue-optimal mechanism is a managed advertising campaign that matches products and preferences efficiently. In equilibrium, sellers offer higher qualities at lower unit prices on than off platform. The platform exploits its information advantage to increase its bargaining power vis-\u00e0-vis the sellers. Finally, privacy-respecting data-governance rules can lead to welfare gains for consumers. (JEL D11, D42, D44, D82, D83, M37)"
+  },
+  {
+    "paper_id": "1fe03eeb0c1d7ab60896be7845d0c68f27b42138",
+    "title": "Comparison Shopping: Learning Before Buying From Duopolists",
+    "year": 2023,
+    "author_ids": [
+      "145208778",
+      "19246218"
+    ],
+    "venue": null,
+    "citation_count": 2,
+    "abstract": "We explore a model of duopolistic competition in which consumers learn about the fit of each competitor's product. In equilibrium, consumers comparison shop: they learn only about the relative values of the products. When information is cheap, increasing the cost of information decreases consumer welfare; but when information is expensive, this relationship flips. As information frictions vanish, there is a limiting equilibrium that is ex post efficient."
+  },
+  {
+    "paper_id": "898e61833a16df585f55985c6813327bf2ef4a05",
+    "title": "Information, Bertrand\u2013Edgeworth competition and the law of one price",
+    "year": 2022,
+    "author_ids": [
+      "49075534",
+      "115753346"
+    ],
+    "venue": "Journal of Mathematical Economics",
+    "citation_count": 4,
+    "abstract": "It is a widespread empirical observation that homogeneous goods often trade at different prices within the same market. This work proposes a theoretical foundation for this phenomenon in the context of a capacity-constrained price game. The sellers have asymmetric information about the state of the market modelled by a partition of the state space, and evaluate uncertain profits in a way consistent with ex ante ambiguity aversion. It is demonstrated that if the market demand is uniformly elastic in each state then a pure strategy price equilibrium exists. In the equilibrium sellers may post different prices in the market violating the law of one price. Moreover, the market demand may be rationed between the sellers, resulting in positive trade taking place at different prices. \u2217UoL Management School, UoL, Chatham Street, Liverpool, L69 7ZH, United Kingdom. Email: Rob.Edwards@liverpool.ac.uk \u2020UoL Management School, UoL, Chatham Street, Liverpool, L69 7ZH, United Kingdom. Email: R.R.Routledge@liverpool.ac.uk The authors would like to thank the attendees of the Liverpool economic research seminar, and their colleagues at the University of Liverpool, especially Christian Bach, Dominique Demougin, Olga Gorelkina, Yiquan Gu, Erin Hengel, Sanna Laksa, Eunyoung Moon, Harvey Upton and Yunchou Wu for their encouragement and comments during the writing of this paper."
+  },
+  {
+    "paper_id": "9c51c3cc1a5b4a5325d204b597076a8e5c4062f9",
+    "title": "Competition for imperfect consumers",
+    "year": 2021,
+    "author_ids": [
+      "145928190"
+    ],
+    "venue": null,
+    "citation_count": 6,
+    "abstract": "Abstract This lecture provides a selective discussion of some issues in the economics of competition for imperfect consumers. Limited consumer awareness \u2013 about what deals are on offer, or about the consequences of purchasing decisions \u2013 is a central feature of many markets. Consumer imperfection can give rise to market power, but can also co-exist with strong rivalry between firms, and then is more for \u2018consumer policy\u2019 than competition policy. Two recent court cases illustrate some of the issues involved. The lecture then reviews a line of theoretical work on competition for imperfect consumers. The analysis highlights some policy tradeoffs, and a key theme is how patterns of consumer awareness matter for patterns of competition among firms."
+  },
+  {
+    "paper_id": "f019c5c7763d085feefa624af75f2359dcf87d62",
+    "title": "Patterns of Competitive Interaction",
+    "year": 2019,
+    "author_ids": [
+      "144048925",
+      "145928190"
+    ],
+    "venue": "Econometrica",
+    "citation_count": 23,
+    "abstract": "We explore patterns of price competition in an oligopoly where consumers vary in the set of firms they consider for their purchase and buy from the lowest\u2010priced firm they consider. We study a pattern of consideration, termed \u201csymmetric interactions,\u201d that generalizes models used in existing work (duopoly, symmetric firms, and firms with independent reach). Within this class, equilibrium profits are proportional to a firm's reach, firms with a larger reach set higher average prices, and a reduction in the number of firms (either by exit or by merger) harms consumers. However, increased competition (either by entry or by increased consumer awareness) does not always benefit consumers. We go on to study patterns of consideration with asymmetric interactions. In situations with disjoint reach and with nested reach, we find equilibria in which price competition is \u201cduopolistic\u201d: only two firms compete within each price range. We characterize the contrasting equilibrium patterns of price competition for all patterns of consideration in the three\u2010firm case."
+  },
+  {
+    "paper_id": "f95138042123c0a13da78e3c008b4e08d2d0e050",
+    "title": "Search, Privacy and Price Dispersion",
+    "year": 2024,
+    "author_ids": [
+      "12011736"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "44fc1d4326272432fc9be1777215a78a68584e49",
+    "title": "Strategic Limitation of Market Accessibility: Search Platform Design and Welfare",
+    "year": 2023,
+    "author_ids": [
+      "2221732925",
+      "15541932",
+      "1796540384"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "3a180c034cd0eb641fd9391615ed972dee9ebe06",
+    "title": "I NFORMATION D ESIGN OF O NLINE P LATFORMS *",
+    "year": 2023,
+    "author_ids": [
+      "2110495183",
+      "2223081707",
+      "1758999",
+      "2387376",
+      "2067433436",
+      "19246218",
+      "2481188",
+      "2412730785"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "29fb9f3fb445ad97d62bcf6caa2e8afd4560e0a8",
+    "title": "Market-Minded Informational Intermediary and Unintended Welfare Loss",
+    "year": 2022,
+    "author_ids": [
+      "7978306",
+      "40190320"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "This paper examines the welfare effects of informational intermediation. A (shortlived) seller sets the price of a product that is sold through a (long-lived) informational intermediary. The intermediary can disclose information about the product to consumers, earns a fixed percentage of the sales revenue in each period, and has concerns about its prominence\u2014the market size it faces in the future, which in turn is increasing in past consumer surplus. We characterize the Markov perfect equilibria and the set of subgame perfect equilibrium payoffs of this game and show that when the market feedback (i.e., how much past consumer surplus affects future market sizes) increases, welfare may decrease in the Pareto sense."
+  },
+  {
+    "paper_id": "88d11df8a84065ee33bd62cfb83e38e308cc6680",
+    "title": "Gerrymandering and the Limits of Representative Democracy",
+    "year": 2022,
+    "author_ids": [
+      "40190320",
+      "121388097"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We assess the capacity of gerrymandering to undermine the will of the people in a representative democracy. Citizens have political positions represented on a spectrum, and electoral maps separate people into districts. We show that unrestrained gerrymandering can severely distort the composition of a legislature, potentially leading half the population to lose all representation of their views. This means that, under majority rule in the congress, gerrymandering enables politicians to enact any legislation of their choice if it falls within the interquartile range of the political spectrum. Just as worrisome, gerrymandering can rig any legislation to pass instead of the median policy, which would otherwise prevail in a referendum against any other choice."
+  },
+  {
+    "paper_id": "1868cf58177082f0889306d6129d8f5c2af73658",
+    "title": "Costly participation and default allocations in all-pay contests",
+    "year": 2022,
+    "author_ids": [
+      "98538088",
+      "32083166"
+    ],
+    "venue": null,
+    "citation_count": 0,
+    "abstract": null
+  },
+  {
+    "paper_id": "9d9514308579eaab90dfef597afe880bac6fefda",
+    "title": "Informational Intermediation, Market Feedback, and Welfare Losses\u2217",
+    "year": 2022,
+    "author_ids": [
+      "40190320"
+    ],
+    "venue": null,
+    "citation_count": 1,
+    "abstract": null
+  },
+  {
+    "paper_id": "2785c2143889bfb3b03594a713b2fbb628677080",
+    "title": "Welfare of Price Discrimination and Market Segmentation in Duopoly *",
+    "year": 2020,
+    "author_ids": [
+      "47540257"
+    ],
+    "venue": null,
+    "citation_count": 5,
+    "abstract": null
+  },
+  {
+    "paper_id": "e7bcea8f8358539877cee04fd8083b26ee0ad5bc",
+    "title": "Competition and Public Information: A Note",
+    "year": 2020,
+    "author_ids": [
+      "2616138",
+      "32074566",
+      "48218339"
+    ],
+    "venue": "Social Science Research Network",
+    "citation_count": 1,
+    "abstract": "We study price discrimination in a market in which two firms engage in Bertrand competition. Some consumers are contested by both firms, and other consumers are \"captive\" to one of the firms. The market can be divided into segments, which have different relative shares of captive and contested consumers. It is shown that the revenue-maximizing segmentation involves dividing the market into \"nested\" markets, where exactly one firm may have captive consumers."
+  }
+]

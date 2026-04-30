@@ -35,7 +35,8 @@ st.set_page_config(
 # Global styles
 # -------------------------------------------------------------------
 
-st.markdown("""
+st.markdown(
+    """
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:wght@300;400;500&display=swap');
 
@@ -246,12 +247,15 @@ hr {
     border-radius: 2px;
 }
 </style>
-""", unsafe_allow_html=True)
+""",
+    unsafe_allow_html=True,
+)
 
 
 # -------------------------------------------------------------------
 # Corpus loading (cached so it only runs once per session)
 # -------------------------------------------------------------------
+
 
 @st.cache_resource(show_spinner="Loading corpus…")
 def load_engine() -> QueryEngine | None:
@@ -292,7 +296,8 @@ def load_engine() -> QueryEngine | None:
 # -------------------------------------------------------------------
 
 with st.sidebar:
-    st.markdown("""
+    st.markdown(
+        """
     <div style="padding: 8px 0 24px 0">
         <div style="font-family: 'Playfair Display', serif; font-size: 1.4rem;
                     color: #e8e2d8; line-height: 1.2;">
@@ -303,7 +308,9 @@ with st.sidebar:
             CO-AUTHORSHIP ANALYSIS · 2015–2025
         </div>
     </div>
-    """, unsafe_allow_html=True)
+    """,
+        unsafe_allow_html=True,
+    )
 
     page = st.radio(
         "Navigation",
@@ -311,7 +318,8 @@ with st.sidebar:
         label_visibility="collapsed",
     )
     st.markdown("<hr>", unsafe_allow_html=True)
-    st.markdown("""
+    st.markdown(
+        """
     <div style="font-family: 'IBM Plex Mono', monospace; font-size: 0.65rem;
                 color: #3d3d45; line-height: 1.8;">
         MODE 1 · Search & Query<br>
@@ -319,7 +327,9 @@ with st.sidebar:
         MODE 3 · Year Filter<br>
         MODE 4 · Rankings
     </div>
-    """, unsafe_allow_html=True)
+    """,
+        unsafe_allow_html=True,
+    )
 
 
 # -------------------------------------------------------------------
@@ -342,23 +352,27 @@ summary = engine.corpus_summary()
 # Helpers
 # -------------------------------------------------------------------
 
+
 def fmt_int(n: int) -> str:
     return f"{n:,}"
 
+
 def fmt_score(f: float) -> str:
     return f"{f:.4f}"
+
 
 def researcher_badge(r: Researcher, in_main: bool) -> str:
     cls = "badge-green" if in_main else "badge-gray"
     label = "core network" if in_main else "peripheral"
     return f'<span class="badge {cls}">{label}</span>'
 
+
 def bar_html(score: float, max_score: float) -> str:
     pct = int(100 * score / max_score) if max_score > 0 else 0
     return (
         f'<div class="rank-bar-bg">'
         f'<div class="rank-bar-fill" style="width:{pct}%"></div>'
-        f'</div>'
+        f"</div>"
     )
 
 
@@ -386,7 +400,7 @@ if page == "Overview":
         unsafe_allow_html=True,
     )
     st.markdown(f"""
-The corpus covers **{summary['publications']:,} papers** published in
+The corpus covers **{summary["publications"]:,} papers** published in
 top-tier economics journals between 2015 and 2025, anchored by 22 seed
 authors from the information-economics canon (Akerlof, Spence, Stiglitz,
 Holmström, Myerson, and others) and expanded via citation links.
@@ -395,10 +409,10 @@ Nodes are individual researchers. Edges connect any two researchers who
 co-authored at least one paper in the corpus, weighted by the number of
 shared papers.
 
-The graph has **{summary['connected_components']:,} connected components**.
+The graph has **{summary["connected_components"]:,} connected components**.
 The largest — referred to as the **core network** — contains
-**{summary['main_component_size']:,} researchers**
-({summary['main_component_pct']:.1f}% of the total).
+**{summary["main_component_size"]:,} researchers**
+({summary["main_component_pct"]:.1f}% of the total).
 Pathfinding operates within the core network.
     """)
 
@@ -416,11 +430,11 @@ Pathfinding operates within the core network.
             f'<div class="rank-row">'
             f'<span class="rank-num">{i:02d}</span>'
             f'<span class="rank-name">{r.name}</span>'
-            f'<span style="font-family:\'IBM Plex Mono\',monospace;font-size:0.72rem;'
+            f"<span style=\"font-family:'IBM Plex Mono',monospace;font-size:0.72rem;"
             f'color:#7a7672;flex:1">{affil}</span>'
-            f'{bar_html(score, max_score)}'
+            f"{bar_html(score, max_score)}"
             f'<span class="rank-score">{fmt_score(score)}</span>'
-            f'</div>',
+            f"</div>",
             unsafe_allow_html=True,
         )
 
@@ -435,7 +449,11 @@ elif page == "Search & Query":
         "<div class='section-label'>Mode 1 — Look up a researcher</div>",
         unsafe_allow_html=True,
     )
-
+    st.caption(
+        "Note: Semantic Scholar occasionally splits a single researcher "
+        "across multiple author records. Records with similar names may "
+        "represent the same person."
+    )
     query = st.text_input("Name", placeholder="e.g. Bergemann, Kamenica, Strack…")
 
     if query:
@@ -447,21 +465,23 @@ elif page == "Search & Query":
                 f"<div class='section-label'>{len(results)} result(s)</div>",
                 unsafe_allow_html=True,
             )
-            # Show results as selectable list — disambiguate duplicate display names
-            name_counts = Counter(r.name for r in results[:20])
-            seen: dict[str, int] = {}
+            # Sort by papers in corpus (most prolific first) so the canonical
+            # researcher is the default dropdown selection.
+            ranked = sorted(results[:20], key=lambda r: -r.paper_count_in_corpus)
+
+            # Disambiguate when multiple researchers share a display name.
+            name_counts = Counter(r.name for r in ranked)
             options: dict[str, str] = {}
-            for r in results[:20]:
+            for r in ranked:
                 label = r.name
                 if name_counts[r.name] > 1:
-                    suffix = r.affiliation or r.author_id
+                    n = r.paper_count_in_corpus
+                    suffix = r.affiliation or f"{n} paper{'s' if n != 1 else ''}"
                     label = f"{r.name} ({suffix})"
-                if label in seen:
-                    seen[label] += 1
-                    label = f"{label} [{seen[label]}]"
-                else:
-                    seen[label] = 0
-                options[label] = r.author_id
+                # If labels still collide (same name + same affiliation/count),
+                # leave duplicates in the dropdown rather than fabricating an index.
+                if label not in options:
+                    options[label] = r.author_id
             selected_name = st.selectbox(
                 "Select researcher",
                 list(options.keys()),
@@ -479,12 +499,12 @@ elif page == "Search & Query":
                     f'<div class="researcher-card">'
                     f'<div class="researcher-name">{r.name}</div>'
                     f'<div class="researcher-affil">'
-                    f'{r.affiliation or "Affiliation unknown"}'
-                    f'</div>'
+                    f"{r.affiliation or 'Affiliation unknown'}"
+                    f"</div>"
                     f'<div style="margin-top:8px">'
-                    f'{researcher_badge(r, in_main)}'
-                    f'</div>'
-                    f'</div>',
+                    f"{researcher_badge(r, in_main)}"
+                    f"</div>"
+                    f"</div>",
                     unsafe_allow_html=True,
                 )
 
@@ -524,10 +544,10 @@ elif page == "Search & Query":
                         st.markdown(
                             f'<div class="rank-row">'
                             f'<span class="rank-name">{collab.name}</span>'
-                            f'<span style="font-family:\'IBM Plex Mono\',monospace;'
+                            f"<span style=\"font-family:'IBM Plex Mono',monospace;"
                             f'font-size:0.75rem;color:#c9b97a">'
-                            f'{weight} shared {papers_word}</span>'
-                            f'</div>',
+                            f"{weight} shared {papers_word}</span>"
+                            f"</div>",
                             unsafe_allow_html=True,
                         )
 
@@ -543,13 +563,13 @@ elif page == "Search & Query":
                         st.markdown(
                             f'<div style="padding: 8px 0; border-bottom: '
                             f'1px solid #1e1f25;">'
-                            f'<div style="font-family:\'IBM Plex Sans\',sans-serif;'
+                            f"<div style=\"font-family:'IBM Plex Sans',sans-serif;"
                             f'font-size:0.88rem;color:#d4cfc7;">{pub.title}</div>'
-                            f'<div style="font-family:\'IBM Plex Mono\',monospace;'
+                            f"<div style=\"font-family:'IBM Plex Mono',monospace;"
                             f'font-size:0.7rem;color:#7a7672;margin-top:3px;">'
-                            f'{pub.year} · {venue_str} · '
-                            f'{pub.citation_count:,} citations</div>'
-                            f'</div>',
+                            f"{pub.year} · {venue_str} · "
+                            f"{pub.citation_count:,} citations</div>"
+                            f"</div>",
                             unsafe_allow_html=True,
                         )
 
@@ -616,8 +636,9 @@ elif page == "Pathfinding":
             "<div class='section-label'>Source researcher</div>",
             unsafe_allow_html=True,
         )
-        source_name = st.selectbox("Source", names, key="src",
-                                   label_visibility="collapsed")
+        source_name = st.selectbox(
+            "Source", names, key="src", label_visibility="collapsed"
+        )
     with col_b:
         st.markdown(
             "<div class='section-label'>Target researcher</div>",
@@ -625,8 +646,9 @@ elif page == "Pathfinding":
         )
         # Default to a different researcher
         default_idx = min(1, len(names) - 1)
-        target_name = st.selectbox("Target", names, index=default_idx,
-                                   key="tgt", label_visibility="collapsed")
+        target_name = st.selectbox(
+            "Target", names, index=default_idx, key="tgt", label_visibility="collapsed"
+        )
 
     find_clicked = st.button("Find path →")
 
@@ -653,9 +675,9 @@ elif page == "Pathfinding":
                 st.markdown("<br>", unsafe_allow_html=True)
                 dist_word = "hop" if result.distance == 1 else "hops"
                 st.markdown(
-                    f'<div style="font-family:\'IBM Plex Mono\',monospace;'
+                    f"<div style=\"font-family:'IBM Plex Mono',monospace;"
                     f'font-size:0.8rem;color:#c9b97a;margin-bottom:16px;">'
-                    f'DISTANCE · {result.distance} {dist_word}</div>',
+                    f"DISTANCE · {result.distance} {dist_word}</div>",
                     unsafe_allow_html=True,
                 )
 
@@ -667,7 +689,7 @@ elif page == "Pathfinding":
                         f'<div class="path-node">'
                         f'<div class="path-node-name">{researcher.name}</div>'
                         f'<div class="path-node-detail">{affil}</div>'
-                        f'</div>'
+                        f"</div>"
                     )
                     if i < len(result.researchers) - 1:
                         edge_pubs = result.bridging_papers[i]
@@ -680,7 +702,7 @@ elif page == "Pathfinding":
                             f'align-items:center;">'
                             f'<span class="path-arrow">——▶</span>'
                             f'<span class="path-edge-label">{paper_label}</span>'
-                            f'</div>'
+                            f"</div>"
                         )
 
                 st.markdown(
@@ -698,9 +720,9 @@ elif page == "Pathfinding":
                     a = result.researchers[i].name
                     b = result.researchers[i + 1].name
                     st.markdown(
-                        f'<div style="font-family:\'IBM Plex Mono\',monospace;'
+                        f"<div style=\"font-family:'IBM Plex Mono',monospace;"
                         f'font-size:0.72rem;color:#7a7672;margin:12px 0 6px 0;">'
-                        f'{a} → {b}</div>',
+                        f"{a} → {b}</div>",
                         unsafe_allow_html=True,
                     )
                     for pub in edge_pubs[:3]:
@@ -709,11 +731,11 @@ elif page == "Pathfinding":
                             f'<div style="padding:6px 0 6px 12px;'
                             f'border-left:2px solid #2a2b32;">'
                             f'<div style="font-size:0.85rem;color:#d4cfc7;">'
-                            f'{pub.title}</div>'
-                            f'<div style="font-family:\'IBM Plex Mono\',monospace;'
+                            f"{pub.title}</div>"
+                            f"<div style=\"font-family:'IBM Plex Mono',monospace;"
                             f'font-size:0.68rem;color:#7a7672;margin-top:2px;">'
-                            f'{pub.year} · {venue_str}</div>'
-                            f'</div>',
+                            f"{pub.year} · {venue_str}</div>"
+                            f"</div>",
                             unsafe_allow_html=True,
                         )
 
@@ -754,8 +776,7 @@ Centrality measures capture different kinds of structural importance.
             max_score = researchers[0].centrality.get(measure, 1.0) or 1.0
 
             st.markdown(
-                f"<div class='section-label'>"
-                f"Top {k} by {measure} centrality</div>",
+                f"<div class='section-label'>Top {k} by {measure} centrality</div>",
                 unsafe_allow_html=True,
             )
             for i, r in enumerate(researchers, 1):
@@ -764,20 +785,20 @@ Centrality measures capture different kinds of structural importance.
                 in_main = engine.in_main_component(r.author_id)
                 badge = (
                     '<span class="badge badge-gold">core</span>'
-                    if in_main else
-                    '<span class="badge badge-gray">peripheral</span>'
+                    if in_main
+                    else '<span class="badge badge-gray">peripheral</span>'
                 )
                 st.markdown(
                     f'<div class="rank-row">'
                     f'<span class="rank-num">{i:02d}</span>'
                     f'<div style="flex:1">'
                     f'<div class="rank-name">{r.name} {badge}</div>'
-                    f'<div style="font-family:\'IBM Plex Mono\',monospace;'
+                    f"<div style=\"font-family:'IBM Plex Mono',monospace;"
                     f'font-size:0.68rem;color:#7a7672">{affil}</div>'
-                    f'</div>'
-                    f'{bar_html(score, max_score)}'
+                    f"</div>"
+                    f"{bar_html(score, max_score)}"
                     f'<span class="rank-score">{fmt_score(score)}</span>'
-                    f'</div>',
+                    f"</div>",
                     unsafe_allow_html=True,
                 )
 

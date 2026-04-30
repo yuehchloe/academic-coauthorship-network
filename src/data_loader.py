@@ -71,7 +71,7 @@ class DataLoader:
     # The shared anonymous rate limit on S2 is 5000 req/5min globally, so
     # we want generous delays and long backoffs. With an API key, callers
     # can override these.
-    DEFAULT_REQUEST_DELAY = 1.5  # seconds between requests
+    DEFAULT_REQUEST_DELAY = 3  # seconds between requests
     MAX_RETRIES = 5
     INITIAL_BACKOFF = 30.0  # seconds — first retry waits this long
 

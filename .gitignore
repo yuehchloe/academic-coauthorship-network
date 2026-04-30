@@ -1,8 +1,6 @@
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
 .Python
 *.egg-info/
 dist/
@@ -35,7 +33,3 @@ data/
 .claude/
 .idea/
 *.iml
-
-data/cache/
-data/corpus.json
-.env

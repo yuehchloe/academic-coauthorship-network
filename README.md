@@ -57,10 +57,10 @@ The repository ships with a pre-built corpus at `data/corpus.json` and
 cached Semantic Scholar API responses at `data/cache/`. To run the app
 without rebuilding anything:
 
-\```bash
+```bash
 pip install -r requirements.txt
 streamlit run app.py
-\```
+```
 
 The corpus contains 3,264 papers and 6,686 researchers spanning 2015 to
 2025, built via the pipeline described in METHODOLOGY.md. The cache is
